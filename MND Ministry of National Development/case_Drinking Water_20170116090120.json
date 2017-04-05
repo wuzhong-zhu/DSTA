@@ -1,0 +1,96 @@
+{
+    "ReturnCode": "0",
+    "Cases": [
+        {
+            "IncidentPostalCode": "822612",
+            "MobileCaseID": "M170115-087618",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 42976.6211,
+            "IncidentStreetName": "PUNGGOL DRIVE",
+            "IncidentXCoordinate": 36328.5078,
+            "IncidentBlockNo": "612B",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Pressure",
+            "Subject": "Drinking Water - Water Pressure",
+            "CreatedDateTime": "2017-01-15T11:53:50"
+        },
+        {
+            "IncidentPostalCode": "739483",
+            "MobileCaseID": "M170115-087557",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 46079.6569,
+            "IncidentStreetName": "KRANJI ROAD",
+            "IncidentXCoordinate": 19310.288,
+            "IncidentBlockNo": "207",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-15T06:46:31"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170114-087474",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 37309.4961,
+            "IncidentStreetName": "TAMPINES STREET 82",
+            "IncidentXCoordinate": 39588.75,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-14T15:31:40"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170113-087311",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 36727.1575,
+            "IncidentStreetName": null,
+            "IncidentXCoordinate": 39276.9655,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-13T22:58:19"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170113-087203",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 37134.668,
+            "IncidentStreetName": "SHUNFU ROAD",
+            "IncidentXCoordinate": 28443.9531,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Quality",
+            "Subject": "Drinking Water - Water Quality",
+            "CreatedDateTime": "2017-01-13T10:05:40"
+        },
+        {
+            "IncidentPostalCode": "570301",
+            "MobileCaseID": "M170112-087116",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 36832.1875,
+            "IncidentStreetName": "SHUNFU ROAD",
+            "IncidentXCoordinate": 28582.4707,
+            "IncidentBlockNo": "301",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Quality",
+            "Subject": "Drinking Water - Water Quality",
+            "CreatedDateTime": "2017-01-12T21:00:35"
+        },
+        {
+            "IncidentPostalCode": "560523",
+            "MobileCaseID": "M170111-086753",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 39430.4445,
+            "IncidentStreetName": "ANG MO KIO AVENUE 5",
+            "IncidentXCoordinate": 30205.3961,
+            "IncidentBlockNo": "523",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-11T08:44:05"
+        }
+    ]
+}

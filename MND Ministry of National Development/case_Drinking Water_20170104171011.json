@@ -1,0 +1,57 @@
+{
+    "ReturnCode": "0",
+    "Cases": [
+        {
+            "IncidentPostalCode": "520916",
+            "MobileCaseID": "M170104-085269",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 36750.5496,
+            "IncidentStreetName": "TAMPINES STREET 91",
+            "IncidentXCoordinate": 39904.7801,
+            "IncidentBlockNo": "916",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-04T15:30:27"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170104-085255",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 40389.8438,
+            "IncidentStreetName": null,
+            "IncidentXCoordinate": 34969.3516,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Quality",
+            "Subject": "Drinking Water - Water Quality",
+            "CreatedDateTime": "2017-01-04T14:25:08"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170101-084457",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 31598.1484,
+            "IncidentStreetName": "EAST COAST PARK SERVICE ROAD",
+            "IncidentXCoordinate": 37402.2617,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "No Water",
+            "Subject": "Drinking Water - No Water",
+            "CreatedDateTime": "2017-01-01T08:52:27"
+        },
+        {
+            "IncidentPostalCode": "318992",
+            "MobileCaseID": "M161229-083913",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 36098.4235,
+            "IncidentStreetName": "TOA PAYOH NORTH",
+            "IncidentXCoordinate": 30015.9981,
+            "IncidentBlockNo": "970",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2016-12-29T22:01:25"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "ReturnCode": "0",
+    "Cases": [
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170126-090119",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 36488.7773,
+            "IncidentStreetName": null,
+            "IncidentXCoordinate": 39728.6875,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-26T06:29:23"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170126-090118",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 36490.0313,
+            "IncidentStreetName": "TAMPINES STREET 91",
+            "IncidentXCoordinate": 39715.3047,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-26T06:21:42"
+        },
+        {
+            "IncidentPostalCode": "520320",
+            "MobileCaseID": "M170125-090099",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 36979.6094,
+            "IncidentStreetName": "TAMPINES STREET 33",
+            "IncidentXCoordinate": 41770.1367,
+            "IncidentBlockNo": "320",
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-25T22:53:09"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170125-090067",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 36262.7852,
+            "IncidentStreetName": "BOON LAY WAY",
+            "IncidentXCoordinate": 16352.6045,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-25T20:27:20"
+        },
+        {
+            "IncidentPostalCode": "258147",
+            "MobileCaseID": "M170125-089990",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 33538.9496,
+            "IncidentStreetName": "ROBIN WALK",
+            "IncidentXCoordinate": 27243.3716,
+            "IncidentBlockNo": "1",
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-25T15:42:30"
+        },
+        {
+            "IncidentPostalCode": "349277",
+            "MobileCaseID": "M170125-089902",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 34145.8281,
+            "IncidentStreetName": "KALLANG SECTOR",
+            "IncidentXCoordinate": 32370.3203,
+            "IncidentBlockNo": "2",
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-25T08:43:04"
+        },
+        {
+            "IncidentPostalCode": "530203",
+            "MobileCaseID": "M170124-089750",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 37848.7927,
+            "IncidentStreetName": "HOUGANG STREET 21",
+            "IncidentXCoordinate": 33679.0209,
+            "IncidentBlockNo": "203",
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-24T16:19:23"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170124-089622",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 32840.8633,
+            "IncidentStreetName": null,
+            "IncidentXCoordinate": 40073.6016,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-24T03:47:09"
+        }
+    ]
+}

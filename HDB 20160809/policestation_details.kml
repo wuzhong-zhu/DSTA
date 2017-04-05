@@ -1,0 +1,2349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>SG - HDB Themes - policestation (98)</name>
+    <Style id="carparkIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBcarpark.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="flatIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBflat.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="marketIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBmarket.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="shopIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBshop.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="industrialIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBindustrial.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="foodcentreIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBfoodcentre.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="childcareIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBchildcare.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="communityclubsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBcommunityclubs.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="kindergartensIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBkindergartens.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="libraryIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBlibrary.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="mrtIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBmrt.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="parksIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBparks.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="heritageSitesIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBheritageSites.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="placeinterestIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBplaceinterest.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="worshipIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBworship.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="policestationIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBpolicestation.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="residentcentreIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBresidentcentre.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="schoolsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBschools.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="sportsclubsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBsportsclubs.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="towncouncilIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBtowncouncil.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Pasir Panjang Neighbourhood Police Post</name>
+      <description>[109A Pasir Panjang Road # Singapore 118815],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.793351556114,1.27546242648413, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>109A Pasir Panjang Road # Singapore 118815</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Pasir Panjang Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>118815</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Radin Mas Neighbourhood Police Post</name>
+      <description>[15 Telok Blangah Crescent #01-250 Singapore 090015],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.820762594396,1.27707600823652, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>15 Telok Blangah Crescent #01-250 Singapore 090015</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Radin Mas Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>090015</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Telok Blangah Neighbourhood Police Post</name>
+      <description>[51 Telok Blangah Drive #01-116/ 11 Singapore 100055],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.812146221903,1.27395162632713, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>51 Telok Blangah Drive #01-116/ 11 Singapore 100055</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Telok Blangah Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>100055</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tanjong Pagar Neighbourhood Police Post</name>
+      <description>[144 Jalan Bukit Merah #01-1114 Singapore 160144],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.829957860845,1.27728879786151, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>144 Jalan Bukit Merah #01-1114 Singapore 160144</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tanjong Pagar Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>160144</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Central Police Divisional HQ Bukit Merah East Neighbourhood Police Centre</name>
+      <description>[391 New Bridge Road #03-113 Singapore 088762],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.839651362013,1.27891736533717, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>391 New Bridge Road #03-113 Singapore 088762</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Central Police Divisional HQ Bukit Merah East Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>088762</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Queenstown Neighbourhood Police Centre</name>
+      <description>[3 Queensway #01-03 Singapore 149073],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.802829527538,1.28842657948146, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>3 Queensway #01-03 Singapore 149073</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Queenstown Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>149073</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Merah West Neighbourhood Police Centre</name>
+      <description>[500 Bukit Merah View #01-01 Singapore 159682],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.823290185156,1.28576657002737, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>500 Bukit Merah View #01-01 Singapore 159682</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Merah West Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>159682</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kim Seng Neighbourhood Police Post</name>
+      <description>[5 Beo Crescent # Singapore 169981],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.828177472355,1.28881300403938, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>5 Beo Crescent # Singapore 169981</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kim Seng Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>169981</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tiong Bahru Neighbourhood Police Post</name>
+      <description>[128 Kim Tian Road #01-123/125 Singapore 160128],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.829058402955,1.28152922315308, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>128 Kim Tian Road #01-123/125 Singapore 160128</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tiong Bahru Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>160128</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kreta Ayer Neighbourhood Police Post</name>
+      <description>[32 North Canal Road # Singapore 059282],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.847114863382,1.2865459237404, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>32 North Canal Road # Singapore 059282</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kreta Ayer Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>059282</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dover Neighbourhood Police Post</name>
+      <description>[3 Dover Road #01-368 Singapore 130003],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.782444887987,1.30373840986973, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>3 Dover Road #01-368 Singapore 130003</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Dover Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>130003</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Alexandra Neighbourhood Police Post</name>
+      <description>[46-2 Commonwealth Drive #01-382A Singapore 140462],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.798227584247,1.29996200092321, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>46-2 Commonwealth Drive #01-382A Singapore 140462</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Alexandra Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>140462</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>River Valley Neighbourhood Police Post</name>
+      <description>[4 Delta Avenue #01-02 Singapore 161004],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.826547079886,1.29182021243049, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>4 Delta Avenue #01-02 Singapore 161004</value>
+        </Data>
+        <Data name="fieldName">
+          <value>River Valley Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>161004</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Orchard Neighbourhood Police Centre</name>
+      <description>[51 Killiney Road # Singapore 239572],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.839786730017,1.29899241042268, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>51 Killiney Road # Singapore 239572</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Orchard Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>239572</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Marine Parade Neighbourhood Police Post</name>
+      <description>[74 Marine Drive #01-35 Singapore 440074],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.907215428124,1.30370070989747, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>74 Marine Drive #01-35 Singapore 440074</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Marine Parade Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>440074</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Clementi Neighbourhood Police Post</name>
+      <description>[427 Clementi Avenue 3 #01-456 Singapore 120427],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.763800153016,1.31196725600792, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>427 Clementi Avenue 3 #01-456 Singapore 120427</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Clementi Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>120427</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>West Coast Neighbourhood Police Post</name>
+      <description>[728 Clementi West Street 2 #01-418 Singapore 120728],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.763600856299,1.305610907565, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>728 Clementi West Street 2 #01-418 Singapore 120728</value>
+        </Data>
+        <Data name="fieldName">
+          <value>West Coast Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>120728</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Buona Vista Neighbourhood Police Post</name>
+      <description>[13 Holland Drive #01-38/40 Singapore 271013],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.793355071653,1.30934047369997, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>13 Holland Drive #01-38/40 Singapore 271013</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Buona Vista Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>271013</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ulu Pandan Neighbourhood Police Post</name>
+      <description>[9 Ghim Moh Road #01-110 Singapore 270009],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.789477818979,1.3110704402834, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>9 Ghim Moh Road #01-110 Singapore 270009</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ulu Pandan Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>270009</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Commonwealth Neighbourhood Police Post</name>
+      <description>[111  Commonwealth Crescent (Annex) #01-288A Singapore 140111],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.798463818805,1.30635552110991, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>111  Commonwealth Crescent (Annex) #01-288A Singapore 140111</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Commonwealth Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>140111</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tanglin Police Divisional HQ Kampong Java Neighbourhood Police Centre</name>
+      <description>[21 Kampong Java Road # Singapore 228892],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.846442987752,1.31154367005096, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>21 Kampong Java Road # Singapore 228892</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tanglin Police Divisional HQ Kampong Java Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>228892</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Cairnhill Neighbourhood Police Post</name>
+      <description>[9 Gloucester Road #01-03 Singapore 210009],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.851705562966,1.31358898713652, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>9 Gloucester Road #01-03 Singapore 210009</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Cairnhill Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>210009</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kampong Glam Neighbourhood Police Post</name>
+      <description>[17A Beach Road # Singapore 199596],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.863434440249,1.30395793440782, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>17A Beach Road # Singapore 199596</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kampong Glam Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>199596</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Rochor Neighbourhood Police Centre</name>
+      <description>[11 Kampong Kapor Road # Singapore 208678],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.854253602623,1.307661318275, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>11 Kampong Kapor Road # Singapore 208678</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Rochor Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>208678</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Mountbatten Neighbourhood Police Post</name>
+      <description>[60 Dakota Crescent #01-213/ 21 Singapore 390060],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.888503922629,1.30725950354637, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>60 Dakota Crescent #01-213/ 21 Singapore 390060</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Mountbatten Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>390060</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Joo Chiat Neighbourhood Police Post</name>
+      <description>[267 Onan Road # Singapore 424773],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.901502003234,1.30990960129294, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>267 Onan Road # Singapore 424773</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Joo Chiat Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>424773</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Marine Parade Neighbourhood Police Centre</name>
+      <description>[300 Marine Parade Road # Singapore 449296],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.914491232097,1.30614556682089, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>300 Marine Parade Road # Singapore 449296</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Marine Parade Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>449296</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Siglap Neighbourhood Police Post</name>
+      <description>[125 Upper East Coast Road # Singapore 455246],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.929850080585,1.31386517923231, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>125 Upper East Coast Road # Singapore 455246</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Siglap Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>455246</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ayer Rajah Neighbourhood Police Post</name>
+      <description>[43 Teban Gardens Road #01-388 Singapore 600043],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.741671677054,1.321099716761, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>43 Teban Gardens Road #01-388 Singapore 600043</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ayer Rajah Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>600043</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Clementi Police Divisional HQ Clementi Neighbourhood Police Centre</name>
+      <description>[20 Clementi Avenue 5 # Singapore 129858],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.766333634634,1.31715360488672, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>20 Clementi Avenue 5 # Singapore 129858</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Clementi Police Divisional HQ Clementi Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>129858</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Timah Neighbourhood Police Post</name>
+      <description>[1 Toh Yi Drive #01-139 Singapore 590001],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.773270047245,1.31854216955493, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1 Toh Yi Drive #01-139 Singapore 590001</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Timah Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>590001</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Timah Neighbourhood Police Centre</name>
+      <description>[1 Duke Road # Singapore 268914],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.812277465079,1.3225667504452, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1 Duke Road # Singapore 268914</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Timah Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>268914</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Whitley Neighbourhood Police Post</name>
+      <description>[247 Whitley Road # Singapore 297830],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.826513200659,1.32290961159766, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>247 Whitley Road # Singapore 297830</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Whitley Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>297830</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kallang Neighbourhood Police Post</name>
+      <description>[105 Towner Road #01-400 Singapore 321105],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.861038510518,1.32042212367099, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>105 Towner Road #01-400 Singapore 321105</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kallang Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>321105</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Whampoa Neighbourhood Police Post</name>
+      <description>[29 Jalan Bahagia #01-368 Singapore 320029],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.858941919836,1.32518940617965, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>29 Jalan Bahagia #01-368 Singapore 320029</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Whampoa Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>320029</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Geylang West Neighbourhood Police Post</name>
+      <description>[59 Sim&amp;apos;S Drive #01-1205 Singapore 380059],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.88011701505,1.31883351400631, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>59 Sim&amp;apos;S Drive #01-1205 Singapore 380059</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Geylang West Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>380059</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kolam Ayer Neighbourhood Police Post</name>
+      <description>[72 Geylang Bahru #01-3038 Singapore 330072],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.871420969703,1.32161634823451, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>72 Geylang Bahru #01-3038 Singapore 330072</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kolam Ayer Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>330072</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Geylang Neighbourhood Police Centre</name>
+      <description>[132 Paya Lebar Road # Singapore 409014],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.890996703782,1.3263218278746, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>132 Paya Lebar Road # Singapore 409014</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Geylang Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>409014</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Geylang Serai Neighbourhood Police Post</name>
+      <description>[111 Aljunied Crescent #01-102 Singapore 380111],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.884244402422,1.32038523025743, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>111 Aljunied Crescent #01-102 Singapore 380111</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Geylang Serai Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>380111</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>MacPherson Neighbourhood Police Post</name>
+      <description>[54 Pipit Road #01-82/84 Singapore 370054],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.887588393841,1.32386951399309, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>54 Pipit Road #01-82/84 Singapore 370054</value>
+        </Data>
+        <Data name="fieldName">
+          <value>MacPherson Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>370054</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kampong Ubi Neighbourhood Police Post</name>
+      <description>[9 Eunos Crescent #01-2687 Singapore 400009],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.902776438263,1.32180657381257, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>9 Eunos Crescent #01-2687 Singapore 400009</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kampong Ubi Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>400009</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kampong Kembangan Neighbourhood Police Post</name>
+      <description>[112 Lengkong Tiga #01-215 Singapore 410112],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.91140780236,1.32348905057063, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>112 Lengkong Tiga #01-215 Singapore 410112</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kampong Kembangan Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>410112</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bedok South Neighbourhood Police Centre</name>
+      <description>[20 Chai Chee Drive # Singapore 469045],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.919815720099,1.32370925084554, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>20 Chai Chee Drive # Singapore 469045</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bedok South Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>469045</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bedok Neighbourhood Police Post</name>
+      <description>[15 Bedok South Road #01-117 Singapore 460015],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.935546244938,1.3209145637413, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>15 Bedok South Road #01-117 Singapore 460015</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bedok Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>460015</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chai Chee Neighbourhood Police Post</name>
+      <description>[35 Chai Chee Avenue #01-256/258 Singapore 461035],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.92626555383,1.32481565909928, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>35 Chai Chee Avenue #01-256/258 Singapore 461035</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Chai Chee Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>461035</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bedok North Neighbourhood Police Centre</name>
+      <description>[30 Bedok North Road # Singapore 469677],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.939626423388,1.32826667136749, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>30 Bedok North Road # Singapore 469677</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bedok North Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>469677</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tanah Merah Neighbourhood Police Post</name>
+      <description>[51 New Upper Changi Road #01-1514 Singapore 461051],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.942265302209,1.32343585461557, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>51 New Upper Changi Road #01-1514 Singapore 461051</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tanah Merah Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>461051</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jurong Neighbourhood Police Post</name>
+      <description>[158 Yung Loh Road #01-58 Singapore 610158],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.722255481972,1.32896189952304, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>158 Yung Loh Road #01-58 Singapore 610158</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jurong Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>610158</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jurong East Neighbourhood Police Centre</name>
+      <description>[92 Boon Lay Way # Singapore 609962],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.737230755516,1.34013271672592, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>92 Boon Lay Way # Singapore 609962</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jurong East Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>609962</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Moulmein Neighbourhood Police Post</name>
+      <description>[101 Jalan Rajah #01-01 Singapore 321101],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.850772362487,1.32880513006512, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>101 Jalan Rajah #01-01 Singapore 321101</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Moulmein Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>321101</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Toa Payoh Neighbourhood Police Centre</name>
+      <description>[93 Toa Payoh Central Toa Payoh Community Building #01-02 Singapore 319194],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.850467030457,1.33462578879392, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>93 Toa Payoh Central Toa Payoh Community Building #01-02 Singapore 319194</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Toa Payoh Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>319194</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kim Keat Neighbourhood Police Post</name>
+      <description>[231 Lorong 8 Toa Payoh #01-186 Singapore 310231],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.859482341046,1.33736194396422, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>231 Lorong 8 Toa Payoh #01-186 Singapore 310231</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kim Keat Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>310231</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Aljunied Neighbourhood Police Post</name>
+      <description>[13 Joo Seng Road #01-69 Singapore 360013],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.879328119616,1.33576922921448, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>13 Joo Seng Road #01-69 Singapore 360013</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Aljunied Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>360013</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Potong Pasir Neighbourhood Police Post</name>
+      <description>[142 Potong Pasir Avenue 3 #01-240 Singapore 350142],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.867173671647,1.33339403182771, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>142 Potong Pasir Avenue 3 #01-240 Singapore 350142</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Potong Pasir Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>350142</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Eunos Neighbourhood Police Post</name>
+      <description>[629 Bedok Reservoir Road #01-1620 Singapore 470629],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.914687665322,1.33420809006803, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>629 Bedok Reservoir Road #01-1620 Singapore 470629</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Eunos Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>470629</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kaki Bukit Neighbourhood Police Post</name>
+      <description>[526 Bedok North Street 3 #01-448 Singapore 460526],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.929124444118,1.33422067227984, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>526 Bedok North Street 3 #01-448 Singapore 460526</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kaki Bukit Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>460526</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bedok Police Divisional HQ</name>
+      <description>[30 Bedok North Road # Singapore 469676],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.937313699262,1.33238350062321, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>30 Bedok North Road # Singapore 469676</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bedok Police Divisional HQ</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>469676</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Nanyang Extended Police Post</name>
+      <description>[60 Jurong West Street 91 # Singapore 649040],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.69240781661,1.3424228071914, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>60 Jurong West Street 91 # Singapore 649040</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Nanyang Extended Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>649040</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jurong Police Divisional HQ Nanyang Neighbourhood Police Centre</name>
+      <description>[2 Jurong West Avenue 5 # Singapore 649482],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.701720182843,1.35066766036637, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>2 Jurong West Avenue 5 # Singapore 649482</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jurong Police Divisional HQ Nanyang Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>649482</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Boon Lay Neighbourhood Police Post</name>
+      <description>[210 Boon Lay Place #01-00 Singapore 640210],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.712933184144,1.34764592875194, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>210 Boon Lay Place #01-00 Singapore 640210</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Boon Lay Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>640210</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hong Kah South Neighbourhood Police Post</name>
+      <description>[510 Jurong West Street 52 #01-90 Singapore 640510],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.719452918673,1.34836309288142, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>510 Jurong West Street 52 #01-90 Singapore 640510</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Hong Kah South Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>640510</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jurong West Neighbourhood Police Centre</name>
+      <description>[700 Corporation Road # Singapore 649818],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.714673125172,1.34942513251235, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>700 Corporation Road # Singapore 649818</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jurong West Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>649818</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Batok Neighbourhood Police Post</name>
+      <description>[103 Bukit Batok Central #01-00 Singapore 650103],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.747894442607,1.34806687678256, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>103 Bukit Batok Central #01-00 Singapore 650103</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Batok Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>650103</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Batok Neighbourhood Police Centre</name>
+      <description>[21 Bukit Batok East Ave 4 # Singapore 659840],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.758524060492,1.34911458050519, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>21 Bukit Batok East Ave 4 # Singapore 659840</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Batok Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>659840</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Boon Teck Neighbourhood Police Post</name>
+      <description>[207 Toa Payoh North #01-1231 Singapore 310207],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.845238969025,1.34238201913474, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>207 Toa Payoh North #01-1231 Singapore 310207</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Boon Teck Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>310207</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bishan Neighbourhood Police Post</name>
+      <description>[196 Bishan Street 13 #01-565 Singapore 570196],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.850726150088,1.34805311704081, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>196 Bishan Street 13 #01-565 Singapore 570196</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bishan Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>570196</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Serangoon Neighbourhood Police Centre</name>
+      <description>[50 Serangoon Ave 2 #01-02 Singapore 556129],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.870404677754,1.35162695251531, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>50 Serangoon Ave 2 #01-02 Singapore 556129</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Serangoon Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>556129</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Paya Lebar Neighbourhood Police Post</name>
+      <description>[114 Hougang Avenue 1 #01-1270 Singapore 530114],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.88877756523,1.35287549014363, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>114 Hougang Avenue 1 #01-1270 Singapore 530114</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Paya Lebar Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>530114</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Changkat Neighbourhood Police Post</name>
+      <description>[109 Tampines Street 11 #01-261 Singapore 521109],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.948789864292,1.3473920064006, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>109 Tampines Street 11 #01-261 Singapore 521109</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Changkat Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>521109</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tampines Neighbourhood Police Centre</name>
+      <description>[6 Tampines Ave 4 # Singapore 529682],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.938687184472,1.34625678852199, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>6 Tampines Ave 4 # Singapore 529682</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tampines Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>529682</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Changi Neighbourhood Police Centre</name>
+      <description>[9 Simei Street 2 # Singapore 529914],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.954802679169,1.34452666627312, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>9 Simei Street 2 # Singapore 529914</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Changi Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>529914</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hong Kah North Neighbourhood Police Post</name>
+      <description>[370 Bukit Batok Street 31 #01-201 Singapore 650370],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.749561205603,1.35997592676195, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>370 Bukit Batok Street 31 #01-201 Singapore 650370</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Hong Kah North Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>650370</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Thomson Neighbourhood Police Post</name>
+      <description>[25 Sin Ming Road #01-180 Singapore 570025],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.837804398443,1.3549652913183, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>25 Sin Ming Road #01-180 Singapore 570025</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Thomson Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>570025</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bishan Neighbourhood Police Centre</name>
+      <description>[20 Bishan Street 23 # Singapore 579757],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.847715258603,1.35780205423622, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>20 Bishan Street 23 # Singapore 579757</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bishan Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>579757</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Teck Ghee Neighbourhood Police Post</name>
+      <description>[321 Ang Mo Kio Street 31 # Singapore 560321],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.848395051315,1.36512846449617, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>321 Ang Mo Kio Street 31 # Singapore 560321</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Teck Ghee Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>560321</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Serangoon Gardens Neighbourhood Police Post</name>
+      <description>[51 Serangoon Garden Way # Singapore 555947],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.866421883241,1.3634321441015, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>51 Serangoon Garden Way # Singapore 555947</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Serangoon Gardens Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>555947</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tampines East Neighbourhood Police Post</name>
+      <description>[263 Tampines Street 21 #01-138 Singapore 520263],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.951147873935,1.35329704711742, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>263 Tampines Street 21 #01-138 Singapore 520263</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tampines East Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>520263</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tampines North Neighbourhood Police Post</name>
+      <description>[461 Tampines Street 44 #01-56 Singapore 520461],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.954353410619,1.3588533396134, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>461 Tampines Street 44 #01-56 Singapore 520461</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tampines North Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>520461</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Panjang South Neighbourhood Police Post</name>
+      <description>[124 Pending Road #01-00 Singapore 670124],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.771158803442,1.37690479941232, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>124 Pending Road #01-00 Singapore 670124</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Panjang South Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>670124</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kebun Baru Neighbourhood Police Post</name>
+      <description>[111 Ang Mo Kio Avenue 4 # Singapore 560111],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.837297514449,1.37084881549031, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>111 Ang Mo Kio Avenue 4 # Singapore 560111</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kebun Baru Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>560111</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ang Mo Kio South Neighbourhood Police Centre</name>
+      <description>[81 Ang Mo Kio Ave 3 # Singapore 569929],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.851828824204,1.36981162663837, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>81 Ang Mo Kio Ave 3 # Singapore 569929</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ang Mo Kio South Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>569929</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Serangoon North Neighbourhood Police Post</name>
+      <description>[108 Serangoon North Avenue 1 #01-709 Singapore 550108],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.87101490791,1.36990142064831, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>108 Serangoon North Avenue 1 #01-709 Singapore 550108</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Serangoon North Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>550108</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hougang Neighbourhood Police Centre</name>
+      <description>[60 Hougang Ave 9 # Singapore 538775],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.88497011223,1.37431841418359, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>60 Hougang Ave 9 # Singapore 538775</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Hougang Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>538775</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hougang Neighbourhood Police Post</name>
+      <description>[357 Hougang Avenue 7 #01-805 Singapore 530357],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.899460961818,1.37310410381469, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>357 Hougang Avenue 7 #01-805 Singapore 530357</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Hougang Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>530357</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Pasir Ris Neighbourhood Police Centre</name>
+      <description>[1 Pasir Ris Drive 4 #01-01 Singapore 519457],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.959204421172,1.36889677840832, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1 Pasir Ris Drive 4 #01-01 Singapore 519457</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Pasir Ris Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>519457</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Choa Chu Kang Neighbourhood Police Post</name>
+      <description>[116 Teck Whye Lane #01-740 Singapore 680116],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.751779491782,1.37898683140565, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>116 Teck Whye Lane #01-740 Singapore 680116</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Choa Chu Kang Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>680116</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Panjang Neighbourhood Police Centre</name>
+      <description>[1 Segar Road #01-05 Singapore 677738],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.771719585228,1.38688900135992, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1 Segar Road #01-05 Singapore 677738</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Panjang Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>677738</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ang Mo Kio Divisional HQ Ang Mo Kio North Neighbourhood Police Centre</name>
+      <description>[51 Ang Mo Kio Avenue 9 # Singapore 569784],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.845259235652,1.38489024985243, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>51 Ang Mo Kio Avenue 9 # Singapore 569784</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ang Mo Kio Divisional HQ Ang Mo Kio North Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>569784</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Choa Chu Kang Neighbourhood Police Centre</name>
+      <description>[20 Choa Chu Kang Street 52 #01-02 Singapore 689286],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.744984588666,1.39498045853572, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>20 Choa Chu Kang Street 52 #01-02 Singapore 689286</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Choa Chu Kang Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>689286</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sengkang Neighbourhood Police Centre</name>
+      <description>[2 Sengkang Square #01-02 Singapore 545025],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.89406393715,1.39270567720224, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>2 Sengkang Square #01-02 Singapore 545025</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sengkang Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>545025</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Nee Soon South Neighbourhood Police Post</name>
+      <description>[798 Yishun Ring Road #01-3352 Singapore 760798],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.833109770124,1.41896450205256, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>798 Yishun Ring Road #01-3352 Singapore 760798</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Nee Soon South Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>760798</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Yishun South Neighbourhood Police Centre</name>
+      <description>[32 Yishun St 81 # Singapore 768456],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.834906864604,1.41531784785247, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>32 Yishun St 81 # Singapore 768456</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Yishun South Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>768456</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Woodlands Neighbourhood Police Centre</name>
+      <description>[3 Woodlands Drive 63 # Singapore 737890],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.802356857781,1.43886463204926, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>3 Woodlands Drive 63 # Singapore 737890</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Woodlands Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>737890</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chong Pang Neighbourhood Police Post</name>
+      <description>[141 Yishun Ring Road # Singapore 760141],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.830050005067,1.43070764731761, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>141 Yishun Ring Road # Singapore 760141</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Chong Pang Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>760141</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Yishun North Neighbourhood Police Centre</name>
+      <description>[31 Yishun Central # Singapore 768827],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.840455637435,1.42910190561331, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>31 Yishun Central # Singapore 768827</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Yishun North Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>768827</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Panjang North Neighbourhood Police Post</name>
+      <description>[27 Marsiling Drive #01-237 Singapore 730027],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.774175984138,1.44227135744856, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>27 Marsiling Drive #01-237 Singapore 730027</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Panjang North Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>730027</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Marsiling Neighbourhood Police Post</name>
+      <description>[16 Marsiling Lane #01-183 Singapore 730016],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.777886294948,1.44228735530621, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>16 Marsiling Lane #01-183 Singapore 730016</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Marsiling Neighbourhood Police Post</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>730016</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sembawang Neighbourhood Police Centre</name>
+      <description>[4 Sembawang Crescent # Singapore 757633],Create DateTime=20150630110634</description>
+      <styleUrl>policestationIcon</styleUrl>
+      <Point>
+        <coordinates>103.819648433518,1.44527432452409, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>4 Sembawang Crescent # Singapore 757633</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sembawang Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>757633</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>
+

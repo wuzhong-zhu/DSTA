@@ -1,0 +1,98 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    103.724597414925,
+                    1.34023155935264
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "INFRA_DESC": "Used water from households, industries and commercial premises island-wide is collected and conveyed via an extensive sewerage reticulation system located underground for treatment at water reclamation plants (WRPs). Over time, these sewers may suffer damage from wear and tear, ground movement, tree root intrusion, etc. When this happens, used water may leak from the sewers and pollute waterways, canals and reservoirs. Therefore regular sewer rehabilitation and replacement works are needed.",
+                "OFFICER_N": "CHI Huiyan",
+                "LAST_UPD_DATE": "20/9/2016",
+                "PROJ_TYPE": "Sewerage (new sewer and sewer rehabilitation)",
+                "DEV_STATUS": "U/C",
+                "END_DATE": "3Q 2018",
+                "START_DATE": "3Q 2014",
+                "CONTRACTOR": "Pipeline services Pte Ltd",
+                "INFRA_NAME": "CCJ-Rehabilitation of Sanitary Drain-line System - Jurong Lake Catchment",
+                "OFFICER_C": "chi_huiyan@pub.gov.sg",
+                "CONTRA_C": "chi_huiyan@pub.gov.sg"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.837964614814,
+                    1.30790322287351
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "INFRA_DESC": "Sewer Rehabilitation Works",
+                "OFFICER_N": "Liu Bao Jing ",
+                "LAST_UPD_DATE": "20/9/2016",
+                "PROJ_DESC": "Sewer Rehabilitation Works",
+                "PROJ_TYPE": "Sewerage (new sewer and sewer rehabilitation)",
+                "DEV_STATUS": "U/C",
+                "END_DATE": "4Q 2017",
+                "START_DATE": "4Q 2015",
+                "CONTRACTOR": "PMPS Liner Technology (Singapore) Pte Ltd",
+                "INFRA_NAME": "Rehabilitation of Sewerage Network Phase 4 - Southern Area Contract 1",
+                "OFFICER_C": "liu_bao_jing@pub.gov.sg",
+                "CONTRA_C": "jerome@pmpsliner.com"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.736474086455,
+                    1.33544457718096
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "INFRA_DESC": "Sewer Rehabilitation Work",
+                "OFFICER_N": "Zhou Cheng Cheng",
+                "LAST_UPD_DATE": "20/9/2016",
+                "PROJ_TYPE": "Sewerage (new sewer and sewer rehabilitation)",
+                "DEV_STATUS": "U/C",
+                "END_DATE": "4Q 2017",
+                "START_DATE": "4Q 2015",
+                "CONTRACTOR": "Sam Lain Equipment Services Pte Ltd",
+                "INFRA_NAME": "Rehabilitation of Sewerage Network Phase 4 - Southern Area Contract 3",
+                "OFFICER_C": "zhou_cheng_cheng@pub.gov.sg",
+                "CONTRA_C": "a_shanmugavadivel@samlain.com.sg"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.867666401985,
+                    1.33244666448294
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "INFRA_DESC": "To Supply potable water to Bidadari Estate and to enhance water supply to eastern supply zone",
+                "OFFICER_N": "Koh Peck Hak",
+                "LAST_UPD_DATE": "20/9/2016",
+                "PROJ_TYPE": "Water Supply (NEWater, potable water)",
+                "DEV_STATUS": "U/C",
+                "END_DATE": "1Q 2017",
+                "START_DATE": "3Q 2015",
+                "CONTRACTOR": "Shingda Construction Pte Ltd",
+                "INFRA_NAME": "1200mm Dia Potable Water Pipeline along Woodleigh Lane and Proposed New Upper Aljunied Road to Joo Seng Road",
+                "OFFICER_C": "Koh_PECK_HAK@pub.gov.sg"
+            }
+        }
+    ],
+    "name": "PUB Project (P)",
+    "type": "FeatureCollection"
+}

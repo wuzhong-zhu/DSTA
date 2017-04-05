@@ -1,0 +1,2393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>SG - HDB Market (118)</name>
+    <Style id="carparkIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBcarpark.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="flatIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBflat.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="marketIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBmarket.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="shopIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBshop.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="industrialIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBindustrial.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="foodcentreIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBfoodcentre.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Telok Blangah Market</name>
+      <description>[Blk 82 Telok Blangah Drive S(100082)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.807619067293,1.27353706747766, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 82 Telok Blangah Drive S(100082)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Telok Blangah Market</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>100082</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Telok Blangah Food Centre</name>
+      <description>[Blk 79 Telok Blangah Drive S(100079)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.807619067293,1.27353706747766, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 79 Telok Blangah Drive S(100079)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Telok Blangah Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>100079</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Telok Blangah Rise Market</name>
+      <description>[Blk 36 Telok Blangah Rise S(090036)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.82228999529,1.27285940623028, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 36 Telok Blangah Rise S(090036)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Telok Blangah Rise Market</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>090036</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Telok Blangah Crescent Market And Food Centre</name>
+      <description>[Blk 11 Telok Blangah Crescent S(090011)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.818479352493,1.27704244441922, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 11 Telok Blangah Crescent S(090011)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Telok Blangah Crescent Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>090011</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tanjong Pagar Plaza Market And Food Centre</name>
+      <description>[Blk 6 Tanjong Pagar Plaza S(081006)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.843166743246,1.27661546619342, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 6 Tanjong Pagar Plaza S(081006)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tanjong Pagar Plaza Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>081006</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Abc Brickworks Market/Food Centre</name>
+      <description>[Blk 6 Jalan Bukit Merah S(150006)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.80816882533,1.28710802020248, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 6 Jalan Bukit Merah S(150006)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Abc Brickworks Market/Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>150006</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Alexandra Village Food Centre</name>
+      <description>[Blk 120 Bukit Merah Lane 1 S(150120)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.804571600912,1.28663551723508, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 120 Bukit Merah Lane 1 S(150120)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Alexandra Village Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>150120</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Blk 115 Bukit Merah View Market &amp;amp; Food Centre</name>
+      <description>[Blk 115 Bukit Merah View S(151115)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.822193662424,1.28438053880915, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 115 Bukit Merah View S(151115)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Blk 115 Bukit Merah View Market &amp;amp; Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>151115</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Redhill Market And Food Centre</name>
+      <description>[Blk 79 Redhill Lane S(150079)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.818089463546,1.28775839796618, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 79 Redhill Lane S(150079)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Redhill Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>150079</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Redhill Market And Food Centre</name>
+      <description>[Blk 85 Redhill Lane S(150085)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.818263269785,1.28707473833, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 85 Redhill Lane S(150085)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Redhill Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>150085</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tiong Bahru Market</name>
+      <description>[Blk 30 Seng Poh Road S(168898)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.832421566015,1.28468599167964, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 30 Seng Poh Road S(168898)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tiong Bahru Market</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>168898</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Beo Crescent Market And Food Centre</name>
+      <description>[Blk 38A Beo Crescent S(169982)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.827338635658,1.28882548433093, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 38A Beo Crescent S(169982)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Beo Crescent Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>169982</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jalan Bukit Merah Market And Food Centre</name>
+      <description>[Blk 112 Jalan Bukit Merah S(160112)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.825802255609,1.27986119200875, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 112 Jalan Bukit Merah S(160112)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jalan Bukit Merah Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>160112</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jalan Kukoh Market &amp;amp; Hawker Centre</name>
+      <description>[Blk 1 Jalan Kukoh S(161001)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.840070159376,1.28800952285127, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 1 Jalan Kukoh S(161001)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jalan Kukoh Market &amp;amp; Hawker Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>161001</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hong Lim Complex Food Centre And Market</name>
+      <description>[Blk 531A Upper Cross Street S(051531)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.845751442817,1.28521178533096, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 531A Upper Cross Street S(051531)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Hong Lim Complex Food Centre And Market</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>051531</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chinatown Complex Market</name>
+      <description>[Blk 335 Smith Street S(050335)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.843011156732,1.28227066059969, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 335 Smith Street S(050335)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Chinatown Complex Market</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>050335</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Blk 726 Clementi West Street 2</name>
+      <description>[Blk 726 Clementi West Street 2 S(120726)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.763967829755,1.3036692157556, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 726 Clementi West Street 2 S(120726)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Blk 726 Clementi West Street 2</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>120726</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Blk 33 Dover Road</name>
+      <description>[Blk 33 Dover Road S(130033)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.783382589532,1.29929278919374, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 33 Dover Road S(130033)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Blk 33 Dover Road</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>130033</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Commonwealth Drive Food Centre</name>
+      <description>[Blk 1 Commonwealth Drive S(140001)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.797697017601,1.29973464708064, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 1 Commonwealth Drive S(140001)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Commonwealth Drive Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>140001</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Commonwealth Drive Food Centre</name>
+      <description>[Blk 2 Commonwealth Drive S(140002)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.797699358586,1.29946679460449, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 2 Commonwealth Drive S(140002)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Commonwealth Drive Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>140002</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Commonwealth Drive Food Centre</name>
+      <description>[Blk 3 Commonwealth Drive S(140003)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.797992647676,1.29948101262256, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 3 Commonwealth Drive S(140003)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Commonwealth Drive Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>140003</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tanglin Halt Market</name>
+      <description>[Blk 48A Tanglin Halt Road S(148813)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.797646336371,1.30057932163626, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 48A Tanglin Halt Road S(148813)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tanglin Halt Market</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>148813</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Mei Chin Road Market</name>
+      <description>[Blk 159 Mei Chin Road S(140159)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.802535704695,1.29309941953514, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 159 Mei Chin Road S(140159)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Mei Chin Road Market</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>140159</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Zion Riverside Food Centre</name>
+      <description>[Blk 70 Zion Road S(247792)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.831189302665,1.29234223167598, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 70 Zion Road S(247792)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Zion Riverside Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>247792</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Golden Mile Food Centre</name>
+      <description>[Blk 505 Beach Road S(199583)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.863883266692,1.30287553881054, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 505 Beach Road S(199583)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Golden Mile Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>199583</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Albert Centre Market And Food Centre</name>
+      <description>[Blk 270 Queen Street S(180270)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.853656764382,1.30112903578325, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 270 Queen Street S(180270)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Albert Centre Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>180270</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jalan Batu Market And Food Centre</name>
+      <description>[Blk 4A Jalan Batu S(432004)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.883771951562,1.30259778153438, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 4A Jalan Batu S(432004)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jalan Batu Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>432004</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Market And Food Centre</name>
+      <description>[Blk 84 Marine Parade Central S(440084)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.906689774719,1.30233178845698, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 84 Marine Parade Central S(440084)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>440084</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ayer Rajah Market And Food Centre</name>
+      <description>[Blk 502 West Coast Drive S(120502)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.759057026872,1.31213527074206, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 502 West Coast Drive S(120502)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ayer Rajah Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>120502</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ayer Rajah Market And Food Centre</name>
+      <description>[Blk 503 West Coast Drive S(120503)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.76004891059,1.3119440145177, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 503 West Coast Drive S(120503)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ayer Rajah Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>120503</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Clementi Town Centre Market And Food Centre</name>
+      <description>[Blk 448 Clementi Avenue 3 S(120448)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.76425716049,1.31342128338616, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 448 Clementi Avenue 3 S(120448)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Clementi Town Centre Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>120448</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Clementi Ave 2 Market / Cooked Food Centre</name>
+      <description>[Blk 353 Clementi Ave 2 S(120353)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.770654358528,1.3146008406842, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 353 Clementi Ave 2 S(120353)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Clementi Ave 2 Market / Cooked Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>120353</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Holland Village Market &amp;amp; Food Centre</name>
+      <description>[Blk 1 Lorong Mambong S(277700)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.794863001147,1.31090808669149, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 1 Lorong Mambong S(277700)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Holland Village Market &amp;amp; Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>277700</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Market And Food Centre</name>
+      <description>[Blk 20 Ghim Moh Road S(270020)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.78780182044,1.31110080934357, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 20 Ghim Moh Road S(270020)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>270020</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Holland Drive Market And Food Centre</name>
+      <description>[Blk 44 Holland Road S(270044)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.792530198411,1.30791918644899, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 44 Holland Road S(270044)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Holland Drive Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>270044</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Commonwealth Crescent Market And Food Centre</name>
+      <description>[Blk 31 Commonwealth Crescent S(140000)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.800369842967,1.306907939772, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 31 Commonwealth Crescent S(140000)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Commonwealth Crescent Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>140000</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tekka Centre</name>
+      <description>[Blk 665 Buffalo Road S(210665)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.85060465609,1.30557910479716, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 665 Buffalo Road S(210665)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tekka Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>210665</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>North Bridge Road Market And Food Centre</name>
+      <description>[Blk 861 North Bridge Road S(198783)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.863907356817,1.30575804343046, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 861 North Bridge Road S(198783)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>North Bridge Road Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>198783</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Market And Food Centre</name>
+      <description>[Blk 17 Upper Boon Keng Road S(380017)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.871309835039,1.31469842857501, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 17 Upper Boon Keng Road S(380017)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>380017</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kallang Estate Fresh Market &amp;amp; Food Centre</name>
+      <description>[Blk 17 Old Airport Road S(397972)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.883800936499,1.30717007082451, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 17 Old Airport Road S(397972)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kallang Estate Fresh Market &amp;amp; Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>397972</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>51 Old Airport Road Food Centre And Shopping Mall</name>
+      <description>[Blk 51 Old Airport Road S(390051)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.886158537411,1.30828254865777, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 51 Old Airport Road S(390051)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>51 Old Airport Road Food Centre And Shopping Mall</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>390051</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Haig Road Market &amp;amp; Cooked Food Centre</name>
+      <description>[Blk 13 Haig Road S(430013)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.895796129499,1.314997052035, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 13 Haig Road S(430013)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Haig Road Market &amp;amp; Cooked Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>430013</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Haig Road Market And Cooked Food Centre</name>
+      <description>[Blk 14 Haig Road S(430014)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.895259036644,1.31527195365081, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 14 Haig Road S(430014)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Haig Road Market And Cooked Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>430014</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Market And Food Centre</name>
+      <description>[Blk 50A Marine Terrace S(441050)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.915706410906,1.30548324813216, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 50A Marine Terrace S(441050)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>441050</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Teban Gardens Market And Food Centre</name>
+      <description>[Blk 37A Teban Gardens Road S(601037)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.743033332063,1.32060203200193, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 37A Teban Gardens Road S(601037)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Teban Gardens Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>601037</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Empress Market And Food Centre</name>
+      <description>[Blk 7 Empress Road S(260007)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.805554726198,1.31641988846821, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 7 Empress Road S(260007)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Empress Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>260007</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Pek Kio Market And Food Centre</name>
+      <description>[Blk 41A Cambridge Road S(211041)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.849981795783,1.31640540987807, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 41A Cambridge Road S(211041)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Pek Kio Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>211041</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bendemeer Market And Food Centre</name>
+      <description>[Blk 29 Bendemeer Road S(330029)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.862617633775,1.31928830065808, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 29 Bendemeer Road S(330029)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bendemeer Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>330029</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Whampoa Makan Place</name>
+      <description>[Blk 90 Whampoa Drive S(320090)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.855201377007,1.32272466725546, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 90 Whampoa Drive S(320090)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Whampoa Makan Place</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>320090</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Whampoa Makan Place</name>
+      <description>[Blk 91 Whampoa Drive S(320091)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.853822944303,1.32374161659337, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 91 Whampoa Drive S(320091)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Whampoa Makan Place</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>320091</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Whampoa Makan Place</name>
+      <description>[Blk 92 Whampoa Drive S(320092)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.85396940382,1.32281742244926, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 92 Whampoa Drive S(320092)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Whampoa Makan Place</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>320092</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Geylang Bahru Market And Food Centre</name>
+      <description>[Blk 69 Geylang Bahru S(330069)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.86963117202,1.32168424833516, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 69 Geylang Bahru S(330069)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Geylang Bahru Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>330069</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sims Vista Market And Food Centre</name>
+      <description>[Blk 49 Sims Place S(380049)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.878958045064,1.31673641973318, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 49 Sims Place S(380049)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sims Vista Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>380049</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Geylang East Centre Market And Food Corner</name>
+      <description>[Blk 117 Aljunied Ave 2 S(380117)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.887130547093,1.32079766369978, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 117 Aljunied Ave 2 S(380117)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Geylang East Centre Market And Food Corner</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>380117</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>80 Circuit Road Market And Food Centre</name>
+      <description>[Blk 80 Circuit Road S(370080)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.88692852094,1.32798266043348, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 80 Circuit Road S(370080)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>80 Circuit Road Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>370080</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Market And Food Centre</name>
+      <description>[Blk 89 Circuit Road S(370089)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.885203002975,1.32375241908393, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 89 Circuit Road S(370089)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>370089</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Geylang Serai Market</name>
+      <description>[Blk 1 Geylang Serai S(402001)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.898684494354,1.31702578594792, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 1 Geylang Serai S(402001)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Geylang Serai Market</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>402001</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Market And Food Centre</name>
+      <description>[Blk 4A Eunos Crescent S(402004)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.903848297478,1.32014732789455, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 4A Eunos Crescent S(402004)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>402004</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bedok Town Centre Market And Food Centre</name>
+      <description>[Blk 207 New Upper Changi Road S(460207)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.93015406828,1.32485016730953, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 207 New Upper Changi Road S(460207)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bedok Town Centre Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>460207</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bedok Town Centre Market And Food Centre</name>
+      <description>[Blk 216 Bedok North Street 1 S(460216)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.933157947361,1.32731792496351, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 216 Bedok North Street 1 S(460216)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bedok Town Centre Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>460216</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Market And Food Centre</name>
+      <description>[Blk 16 Bedok South Road S(460016)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.935845077993,1.32082139908836, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 16 Bedok South Road S(460016)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>460016</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>The Marketplace @ 58</name>
+      <description>[Blk 58 New Upper Changi Road S(461058)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.940882825,1.32447749887486, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 58 New Upper Changi Road S(461058)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>The Marketplace @ 58</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>461058</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Taman Jurong Market &amp;amp; Food Centre</name>
+      <description>[Blk 3 Yung Sheng Road S(618499)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.721619259245,1.33468266425385, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 3 Yung Sheng Road S(618499)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Taman Jurong Market &amp;amp; Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>618499</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Timah Market</name>
+      <description>[Blk 51 Upper Bukit Timah Road S(588215)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.775795391644,1.33964309703346, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 51 Upper Bukit Timah Road S(588215)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Timah Market</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>588215</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Blk 93 Toa Payoh Lorong 4</name>
+      <description>[Blk 93 Lorong 4 Toa Payoh S(310093)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.84970296385,1.33835775220635, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 93 Lorong 4 Toa Payoh S(310093)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Blk 93 Toa Payoh Lorong 4</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>310093</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Toa Payoh West Market And Food Centre</name>
+      <description>[Blk 127 Toa Payoh Lor 1 S(310127)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.844614231561,1.33839180323017, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 127 Toa Payoh Lor 1 S(310127)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Toa Payoh West Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>310127</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Toa Payoh Vista Market And Cooked Food Centre</name>
+      <description>[Blk 74 Toa Payoh Lor 4 S(310074)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.852134214031,1.33479726489878, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 74 Toa Payoh Lor 4 S(310074)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Toa Payoh Vista Market And Cooked Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>310074</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Toa Payoh Vista Market And Cooked Food Centre</name>
+      <description>[Blk 75 Toa Payoh Lor 5 S(310075)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.852858138278,1.33624379457797, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 75 Toa Payoh Lor 5 S(310075)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Toa Payoh Vista Market And Cooked Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>310075</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kim Keat Palm Market And Food Centre</name>
+      <description>[Blk 22 Toa Payoh Lor 7 S(310022)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.856684251949,1.3351180007368, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 22 Toa Payoh Lor 7 S(310022)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kim Keat Palm Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>310022</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Market And Food Centre</name>
+      <description>[Blk 210 Toa Payoh Lor 8 S(310210)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.854706727193,1.34001437946586, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 210 Toa Payoh Lor 8 S(310210)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>310210</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Blk 630 Bedok Reservoir Road</name>
+      <description>[Blk 630 Bedok Reservoir Road S(470630)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.914504154795,1.33279540456363, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 630 Bedok Reservoir Road S(470630)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Blk 630 Bedok Reservoir Road</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>470630</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kaki Bukit 511 Market And Food Centre</name>
+      <description>[Blk 511 Bedok North Street 3 S(460511)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.93032300224,1.33293902903449, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 511 Bedok North Street 3 S(460511)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kaki Bukit 511 Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>460511</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Market And Food Centre</name>
+      <description>[Blk 538 Bedok North Street 3 S(460538)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.925127840114,1.33157054253433, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 538 Bedok North Street 3 S(460538)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>460538</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>85 Fengshan Centre</name>
+      <description>[Blk 85 Bedok North Street 4 S(460085)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.938747326006,1.33173150622618, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 85 Bedok North Street 4 S(460085)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>85 Fengshan Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>460085</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Boon Lay Place Market And Food Village</name>
+      <description>[Blk 221A Boon Lay Place S(641221)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.71282543636,1.34547887111099, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 221A Boon Lay Place S(641221)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Boon Lay Place Market And Food Village</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>641221</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Market And Food Centre</name>
+      <description>[Blk 505 Jurong West Street 52 S(640505)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.718643934489,1.3498945459127, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 505 Jurong West Street 52 S(640505)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>640505</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Boon Lay Place Market And Food Village</name>
+      <description>[Blk 221B Boon Lay Place S(642221)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.713212732344,1.34588649128002, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 221B Boon Lay Place S(642221)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Boon Lay Place Market And Food Village</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>642221</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Yuhua Market And Hawker Centre</name>
+      <description>[Blk 347 Jurong East Avenue 1 S(600347)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.731276088998,1.34519833381862, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 347 Jurong East Avenue 1 S(600347)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Yuhua Market And Hawker Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>600347</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Yuhua Village Market And Food Centre</name>
+      <description>[Blk 254 Jurong East Street 24 S(600254)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.737857402755,1.34310794051199, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 254 Jurong East Street 24 S(600254)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Yuhua Village Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>600254</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>NA</name>
+      <description>[Blk 154A Bt Batok West Ave 8 S(651154)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.743898206151,1.34746288059548, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 154A Bt Batok West Ave 8 S(651154)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>651154</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Shunfu Mart</name>
+      <description>[Blk 320 Shunfu Road S(570320)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.836674691362,1.35207982753771, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 320 Shunfu Road S(570320)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Shunfu Mart</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>570320</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chung Ling Wet Market</name>
+      <description>[Blk 151A Bishan Street 11 S(571151)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.854987597887,1.34542186547742, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 151A Bishan Street 11 S(571151)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Chung Ling Wet Market</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>571151</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Freshmart</name>
+      <description>[Blk 823A Tampines Street 81 S(521823)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.933801818742,1.34903478866994, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 823A Tampines Street 81 S(521823)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Freshmart</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>521823</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tampines Round Market And Food Centre</name>
+      <description>[Blk 137 Tampines Street 11 S(521137)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.944629275472,1.34526411921016, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 137 Tampines Street 11 S(521137)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tampines Round Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>521137</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Teck Ghee Court Market And Food Centre</name>
+      <description>[Blk 341 Ang Mo Kio Avenue 1 S(560341)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.848248815536,1.36410296344445, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 341 Ang Mo Kio Avenue 1 S(560341)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Teck Ghee Court Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>560341</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Serangoon Garden Market</name>
+      <description>[Blk 49A Serangoon Garden Way S(555945)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.866578225927,1.36299611185572, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 49A Serangoon Garden Way S(555945)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Serangoon Garden Market</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>555945</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Teck Ghee Square Market And Hawker Centre</name>
+      <description>[Blk 409 Ang Mo Kio Avenue 10 S(560409)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.855140845975,1.36288398940825, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 409 Ang Mo Kio Avenue 10 S(560409)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Teck Ghee Square Market And Hawker Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>560409</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Serangoon Avenue 3 Food Centre &amp;amp; Market</name>
+      <description>[Blk 267 Serangoon Ave 3 S(550267)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.871102301593,1.35342215138973, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 267 Serangoon Ave 3 S(550267)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Serangoon Avenue 3 Food Centre &amp;amp; Market</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>550267</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hougang 105 Hainanese Village Centre</name>
+      <description>[Blk 105 Hougang Avenue 1 S(530105)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.890116278113,1.35454683747073, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 105 Hougang Avenue 1 S(530105)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Hougang 105 Hainanese Village Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>530105</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kovan Hougang Market And Food Centre</name>
+      <description>[Blk 209 Hougang Street 21 S(530209)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.886179248421,1.35863488902788, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 209 Hougang Street 21 S(530209)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kovan Hougang Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>530209</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Mayflower Market And Food Centre</name>
+      <description>[Blk 162 Ang Mo Kio Avenue 4 S(560162)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.838835609932,1.37388887840866, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 162 Ang Mo Kio Avenue 4 S(560162)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Mayflower Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>560162</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kebun Baru Market And Food Centre</name>
+      <description>[Blk 226H Ang Mo Kio Street 22 S(568226)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.840194089099,1.36701377905533, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 226H Ang Mo Kio Street 22 S(568226)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kebun Baru Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>568226</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ang Mo Kio Town Centre Market And Food Centre</name>
+      <description>[Blk 724 Ang Mo Kio Avenue 6 S(560724)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.846431303818,1.37246249459612, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 724 Ang Mo Kio Avenue 6 S(560724)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ang Mo Kio Town Centre Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>560724</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Mayflower Market And Food Centre</name>
+      <description>[Blk 160 Ang Mo Kio Avenue 4 S(560160)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.839046909688,1.37426570637971, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 160 Ang Mo Kio Avenue 4 S(560160)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Mayflower Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>560160</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kebun Baru Market And Food Centre</name>
+      <description>[Blk 226D Ang Mo Kio Avenue 1 S(564226)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.838996219127,1.36701327293786, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 226D Ang Mo Kio Avenue 1 S(564226)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kebun Baru Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>564226</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chong Boon Market And Food Centre</name>
+      <description>[Blk 453A Ang Mo Kio Avenue 10 S(561453)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.856095907791,1.36849155792413, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 453A Ang Mo Kio Avenue 10 S(561453)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Chong Boon Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>561453</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Cheng San Market And Cooked Food Centre</name>
+      <description>[Blk 527 Ang Mo Kio Avenue 10 S(560527)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.854228359117,1.37296306516425, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 527 Ang Mo Kio Avenue 10 S(560527)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Cheng San Market And Cooked Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>560527</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Keat Hong Shopping Centre</name>
+      <description>[Blk 253 Choa Chu Kang Ave 1 S(680253)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.744110814881,1.37776608857584, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 253 Choa Chu Kang Ave 1 S(680253)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Keat Hong Shopping Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>680253</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Fajar Shopping Centre</name>
+      <description>[Blk 446 Fajar Road S(670446)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.770870450963,1.38401672185581, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 446 Fajar Road S(670446)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Fajar Shopping Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>670446</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Yio Chu Kang View Market And Food Centre</name>
+      <description>[Blk 628 Ang Mo Kio Avenue 4 S(560628)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.840141266273,1.38096402984226, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 628 Ang Mo Kio Avenue 4 S(560628)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Yio Chu Kang View Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>560628</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Rivervale Plaza</name>
+      <description>[Blk 118 Rivervale Drive S(540118)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.901282186369,1.38496069495395, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 118 Rivervale Drive S(540118)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Rivervale Plaza</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>540118</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Elias Mall</name>
+      <description>[Blk 623 Elias Road S(510623)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.942096157021,1.37780618726955, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 623 Elias Road S(510623)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Elias Mall</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>510623</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Blk 2 &amp;amp; 3 Changi Village</name>
+      <description>[Blk 2 Changi Village Road S(500002)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.987998859696,1.3892850055792, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 2 Changi Village Road S(500002)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Blk 2 &amp;amp; 3 Changi Village</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>500002</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Blk 2 &amp;amp; 3 Changi Village</name>
+      <description>[Blk 3 Changi Village Road S(500003)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.987960303542,1.38941052184358, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 3 Changi Village Road S(500003)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Blk 2 &amp;amp; 3 Changi Village</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>500003</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Yew Tee Square</name>
+      <description>[Blk 622 Choa Chu Kang St 62 S(680622)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.747072716191,1.39816943800405, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 622 Choa Chu Kang St 62 S(680622)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Yew Tee Square</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>680622</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Limbang Shopping Centre</name>
+      <description>[Blk 532 Choa Chu Kang St 51 S(680532)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.743676003769,1.39201304358671, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 532 Choa Chu Kang St 51 S(680532)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Limbang Shopping Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>680532</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kopitiam Square</name>
+      <description>[Blk 10 Sengkang Square S(544829)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.893654944772,1.39151569672387, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 10 Sengkang Square S(544829)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kopitiam Square</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>544829</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Vista Point</name>
+      <description>[Blk 548 Woodlands Drive 44 S(730548)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.793704007455,1.43048534748661, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 548 Woodlands Drive 44 S(730548)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Vista Point</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>730548</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chong Pang Market And Food Centre</name>
+      <description>[Blk 104 Yishun Ring Road S(760104)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.82833666168,1.43126561323763, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 104 Yishun Ring Road S(760104)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Chong Pang Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>760104</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chong Pang Market And Food Centre</name>
+      <description>[Blk 105 Yishun Ring Road S(760105)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.827955450179,1.43157501131676, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 105 Yishun Ring Road S(760105)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Chong Pang Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>760105</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Blk 4a Woodlands Centre Road</name>
+      <description>[Blk 4A Woodlands Centre Road S(731004)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.769987835501,1.4405820925114, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 4A Woodlands Centre Road S(731004)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Blk 4a Woodlands Centre Road</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>731004</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Blk 20/21 Marsiling Lane</name>
+      <description>[Blk 20 Marsiling Lane S(730020)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.777097463486,1.44370741920043, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 20 Marsiling Lane S(730020)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Blk 20/21 Marsiling Lane</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>730020</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Market And Food Centre</name>
+      <description>[Blk 21 Marsiling Lane S(730021)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.777169200334,1.44363506305884, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 21 Marsiling Lane S(730021)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>730021</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Woodlands North Plaza</name>
+      <description>[Blk 883 Woodlands St 82 S(730883)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.790991522613,1.44292009424352, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 883 Woodlands St 82 S(730883)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Woodlands North Plaza</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>730883</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Admiralty Place</name>
+      <description>[Blk 678A Woodlands Avenue 6 S(731678)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.801119741726,1.44002569796898, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 678A Woodlands Avenue 6 S(731678)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Admiralty Place</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>731678</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sembawang Mart</name>
+      <description>[Blk 511 Canberra Road S(750511)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.819386753135,1.4538231900599, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 511 Canberra Road S(750511)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sembawang Mart</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>750511</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jalan Batu Market And Food Centre</name>
+      <description>[Blk 4A Jalan Batu S(432004)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.883771951562,1.30259778153438, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 4A Jalan Batu S(432004)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jalan Batu Market And Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>432004</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Keat Hong Shopping Centre</name>
+      <description>[Blk 253 Choa Chu Kang Ave 1 S(680253)],Create DateTime=20150628215158</description>
+      <styleUrl>marketIcon</styleUrl>
+      <Point>
+        <coordinates>103.744110814881,1.37776608857584, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Blk 253 Choa Chu Kang Ave 1 S(680253)</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Keat Hong Shopping Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>680253</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>
+

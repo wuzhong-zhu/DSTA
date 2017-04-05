@@ -1,0 +1,3125 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MMR SERVICES PTE. LTD.", 
+		"ID": "201013134G", 
+		"ADDRESS": "8 JURONG TOWN HALL ROAD", 
+		"POSTALCODE": "609434", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115651"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.7418734543628, 1.331208741405421 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "VERSATILE TECHNOLOGIES", 
+		"ID": "49111500L", 
+		"ADDRESS": "5024 ANG MO KIO INDUSTRIAL PARK 2", 
+		"POSTALCODE": "569527", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121625"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86291210631892, 1.3708501788728336 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LIMBONGAN MAJU SDN. BHD. (SINGAPORE BRANCH)", 
+		"ID": "T14FC0164F", 
+		"ADDRESS": "12 JALAN BINGKA", 
+		"POSTALCODE": "588910", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121630"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.78023168497052, 1.3406495813027586 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "I.SUPPLIES PTE. LTD.", 
+		"ID": "200304741W", 
+		"ADDRESS": "3 KALLANG SECTOR", 
+		"POSTALCODE": "349278", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132158"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87318742992855, 1.3259964881392114 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "C&R CONSULTANTS (EHS) PTE. LTD.", 
+		"ID": "201304123M", 
+		"ADDRESS": "20 MAXWELL ROAD", 
+		"POSTALCODE": "069113", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143830"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84467968928786, 1.2789935523693645 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CUNICO & SONS PTE LTD", 
+		"ID": "198702407K", 
+		"ADDRESS": "82 JALAN DAUD", 
+		"POSTALCODE": "419592", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130018"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.910032663205, 1.3271070731567902 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CENTURY TRAINING & CONSULTANCY PTE. LTD.", 
+		"ID": "201210564C", 
+		"ADDRESS": "217 BUKIT BATOK STREET 21", 
+		"POSTALCODE": "650217", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115702"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.75472769046556, 1.346727994640535 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "INDEED CONSULTANT PTE. LTD.", 
+		"ID": "201523711M", 
+		"ADDRESS": "123A RIVERVALE DRIVE", 
+		"POSTALCODE": "541123", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121613"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.90290072633445, 1.3860353468703466 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SINGAPORE MARITIME INSTITUTE", 
+		"ID": "201100575D", 
+		"ADDRESS": "460 ALEXANDRA ROAD", 
+		"POSTALCODE": "119963", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134848"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.80126421108814, 1.2739805054163524 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "RADIANTECH ENGINEERING PTE LTD", 
+		"ID": "198601487M", 
+		"ADDRESS": "8 BURN ROAD", 
+		"POSTALCODE": "369977", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132200"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.88551040511241, 1.3357796233679642 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SINGAPORE ROPE ACCESS ASSOCIATION LIMITED", 
+		"ID": "201206677C", 
+		"ADDRESS": "4004 DEPOT LANE", 
+		"POSTALCODE": "109758", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134847"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.81206724069482, 1.282055653967435 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "WORKPLACE SAFETY & HEALTH PROFESSIONALS", 
+		"ID": "53268089L", 
+		"ADDRESS": "570C WOODLANDS AVENUE 1", 
+		"POSTALCODE": "733570", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113842"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.78998209748043, 1.4314655687785613 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "JUST SAFETY CONSULTANCY (PTE. LTD.)", 
+		"ID": "201112827R", 
+		"ADDRESS": "14 ROBINSON ROAD", 
+		"POSTALCODE": "048545", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143821"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85077898370703, 1.2821090403081306 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "S5 CONSULTANT", 
+		"ID": "53206587E", 
+		"ADDRESS": "305B ANCHORVALE LINK", 
+		"POSTALCODE": "542305", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121614"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.88859816696575, 1.3891883232469 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "PYROZONE MANUFACTURING PTE. LTD.", 
+		"ID": "199306938H", 
+		"ADDRESS": "26 KALLANG JUNCTION", 
+		"POSTALCODE": "339279", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132156"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86633129625432, 1.3134160343729735 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "BGS TECHNOLOGY PTE. LTD.", 
+		"ID": "201523745N", 
+		"ADDRESS": "1 FIFTH AVENUE", 
+		"POSTALCODE": "268802", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133447"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.79569244636673, 1.3308113363312026 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "UNIVERSAL SERVICES ENTERPRISE", 
+		"ID": "53140155C", 
+		"ADDRESS": "234 HOUGANG AVENUE 1", 
+		"POSTALCODE": "530234", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121604"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.88878345785108, 1.3581895861675353 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "INNOVATIVE, INTEGRATED SERVICES & SOLUTIONS (IS)2 LLP", 
+		"ID": "T09LL1144E", 
+		"ADDRESS": "53 UBI AVENUE 1", 
+		"POSTALCODE": "408934", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130013"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89660103441283, 1.3254018330218313 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ONE-UP SAFETY", 
+		"ID": "53251209W", 
+		"ADDRESS": "604A PUNGGOL ROAD", 
+		"POSTALCODE": "821604", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113634"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.90741304644679, 1.4043032622556304 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SING JOO ENGINEERING", 
+		"ID": "47619300A", 
+		"ADDRESS": "1 ANG MO KIO INDUSTRIAL PARK 2A", 
+		"POSTALCODE": "568049", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121624"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86785614358926, 1.377941197613131 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "NATIONAL CITY CORPORATION", 
+		"ID": "07079700E", 
+		"ADDRESS": "9008 TAMPINES STREET 93", 
+		"POSTALCODE": "528843", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121602"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.94258520465209, 1.3417039988102641 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "I SAFETY NETWORK", 
+		"ID": "53291042K", 
+		"ADDRESS": "56 BUKIT BATOK STREET 31", 
+		"POSTALCODE": "659445", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115706"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.749539947229, 1.3569678797277902 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SPEEDY ENGINEERING WORKS", 
+		"ID": "42379100A", 
+		"ADDRESS": "5 ANG MO KIO INDUSTRIAL PARK 2A", 
+		"POSTALCODE": "567760", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121624"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87042606466639, 1.3780496819134942 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "M RAMA LAW CORPORATION", 
+		"ID": "200606285D", 
+		"ADDRESS": "101 CECIL STREET", 
+		"POSTALCODE": "069533", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143830"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84943566127757, 1.2809749809368562 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "BSAFE CONSULTANCY", 
+		"ID": "53245906K", 
+		"ADDRESS": "572B WOODLANDS AVENUE 1", 
+		"POSTALCODE": "732572", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113841"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.78960828001631, 1.4315994068096165 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "JL SOLUTIONS", 
+		"ID": "53017768D", 
+		"ADDRESS": "8 DEFU LANE 10", 
+		"POSTALCODE": "539189", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121611"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89469242994919, 1.3583829754281116 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "WISLAND DEVELOPMENT PRIVATE LIMITED", 
+		"ID": "200406434K", 
+		"ADDRESS": "33 UBI AVENUE 3", 
+		"POSTALCODE": "408868", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130012"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89411492136605, 1.3329533000796605 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SAFETY & MARINE CONSULTANT SERVICES", 
+		"ID": "53237950X", 
+		"ADDRESS": "631 JURONG WEST STREET 65", 
+		"POSTALCODE": "640631", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115659"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.70024098003307, 1.343290862860723 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SIM ENGINEERING ASSOCIATES", 
+		"ID": "48732500A", 
+		"ADDRESS": "4024 ANG MO KIO INDUSTRIAL PARK 1", 
+		"POSTALCODE": "569635", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121625"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85636050705413, 1.358159367632157 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "KMG-SG PTE. LTD.", 
+		"ID": "200408915C", 
+		"ADDRESS": "756 UPPER SERANGOON ROAD", 
+		"POSTALCODE": "534626", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121608"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87882816051834, 1.353474463188956 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ABDUL MUTTALIB", 
+		"ID": "53277776W", 
+		"ADDRESS": "72 ELIAS ROAD", 
+		"POSTALCODE": "519944", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121556"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.94160197670375, 1.3774415764871433 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "INNOVATIVE, INTEGRATED SERVICES AND SOLUTIONS", 
+		"ID": "53086867M", 
+		"ADDRESS": "53 UBI AVENUE 1", 
+		"POSTALCODE": "408934", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130013"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89660103441283, 1.3254018330218313 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "JIWA STUDIO PTE. LTD.", 
+		"ID": "201003059N", 
+		"ADDRESS": "148 MEI LING STREET", 
+		"POSTALCODE": "140148", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134849"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.80446636454944, 1.2943096638797722 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AGAPE  SAFETY CONSULTANCY", 
+		"ID": "53219233L", 
+		"ADDRESS": "809 WOODLANDS STREET 81", 
+		"POSTALCODE": "730809", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113840"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.78811369322564, 1.4430684611513056 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GENEVE ENCHERES", 
+		"ID": "53287946E", 
+		"ADDRESS": "3 LORONG 28 GEYLANG", 
+		"POSTALCODE": "398408", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132204"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.88566718001464, 1.3132483955885557 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ETRONIN HOME APPLIANCES SERVICE & TRADING PTE LTD", 
+		"ID": "199404385D", 
+		"ADDRESS": "801 TAMPINES AVENUE 4", 
+		"POSTALCODE": "520801", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121559"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.93801447145039, 1.3471855179255312 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AZ SAFETY AUDITORS AND CONSULTANTS", 
+		"ID": "53287845X", 
+		"ADDRESS": "485C CHOA CHU KANG AVENUE 5", 
+		"POSTALCODE": "683485", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115715"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.7389694377362, 1.3747924002550527 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "PS-ENGAGE", 
+		"ID": "53280900M", 
+		"ADDRESS": "21 SAMPAN PLACE", 
+		"POSTALCODE": "436593", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130025"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.88193077439695, 1.300902146673448 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GOSAFETY CONSULTANT", 
+		"ID": "53232771C", 
+		"ADDRESS": "405 ADMIRALTY LINK", 
+		"POSTALCODE": "750405", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113845"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.81613819923386, 1.4532917263039942 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CAS SAFETY AUDITORS", 
+		"ID": "53217008C", 
+		"ADDRESS": "96 LORONG 3 TOA PAYOH", 
+		"POSTALCODE": "310096", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132152"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84838022257154, 1.3386180168268509 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ALPHA OMEGA SAFETY LLP", 
+		"ID": "T14LL1161E", 
+		"ADDRESS": "27 WEST COAST HIGHWAY", 
+		"POSTALCODE": "117867", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134847"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.78053390873205, 1.2830979223853967 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "OCEANIA TOURISM MANAGEMENT SERVICES", 
+		"ID": "53110525C", 
+		"ADDRESS": "109 BUKIT PURMEI ROAD", 
+		"POSTALCODE": "090109", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143835"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.82532071146673, 1.2739219102654327 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "OVERSEA'S SKILLS PROGRAM AND SERVICES", 
+		"ID": "53156888A", 
+		"ADDRESS": "304 ORCHARD ROAD", 
+		"POSTALCODE": "238863", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133441"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83396193856844, 1.3045001636524904 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "INTERNATIONAL ENTERPRISES SERVICE CENTRE", 
+		"ID": "53076991C", 
+		"ADDRESS": "30 INGGU ROAD", 
+		"POSTALCODE": "757368", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113847"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83930059317379, 1.4604063791045845 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SIA INNOVATIVE SOLUTIONS", 
+		"ID": "53268100B", 
+		"ADDRESS": "5 DELTA AVENUE", 
+		"POSTALCODE": "160005", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134849"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.827601154793, 1.2922252715556686 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "JJ SAFETY SERVICES", 
+		"ID": "53184288J", 
+		"ADDRESS": "451 FAJAR ROAD", 
+		"POSTALCODE": "670451", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115709"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.77221901169861, 1.3850751518874986 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SAFETY LINK MANAGEMENT CONSULTANTS", 
+		"ID": "52400300M", 
+		"ADDRESS": "8 JOO SENG ROAD", 
+		"POSTALCODE": "360008", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132159"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87870292272044, 1.3351955427768045 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LIGHTER THAN AIR SINGAPORE PTE. LTD.", 
+		"ID": "201322515D", 
+		"ADDRESS": "6 BATTERY ROAD", 
+		"POSTALCODE": "049909", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143825"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8517647046673, 1.2854633068280292 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TNT CONSULTANCY", 
+		"ID": "53206302C", 
+		"ADDRESS": "2 JURONG EAST STREET 21", 
+		"POSTALCODE": "609601", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115651"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.74689445256848, 1.3348688655803507 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SAFETY AND HEALTH INTERNATIONAL CONSULTANTS PTE. LTD.", 
+		"ID": "201108345G", 
+		"ADDRESS": "109 DUNLOP STREET", 
+		"POSTALCODE": "209428", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133434"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85285478638023, 1.3054379093112896 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "THE DISPUTE BOARD FEDERATION LIMITED", 
+		"ID": "200921406G", 
+		"ADDRESS": "3 ANSON ROAD", 
+		"POSTALCODE": "079909", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143833"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84624582084012, 1.275079471928415 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LMC FIRE & SAFETY CONSULTANCY", 
+		"ID": "53288791C", 
+		"ADDRESS": "141 LORONG 2 TOA PAYOH", 
+		"POSTALCODE": "311141", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132153"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84573125712481, 1.3358316978440743 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "HA SAFETY CONSULTANCY", 
+		"ID": "53175295W", 
+		"ADDRESS": "323 UBI AVENUE 1", 
+		"POSTALCODE": "400323", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130009"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.90439875623824, 1.3280269762481498 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LIAO NING DEVELOPMENT PTE. LTD.", 
+		"ID": "200517210K", 
+		"ADDRESS": "19 TANNERY LANE", 
+		"POSTALCODE": "347781", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132157"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87557404503616, 1.3292675187436842 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ST KINETICS INTEGRATED ENGINEERING PTE. LTD.", 
+		"ID": "198602839E", 
+		"ADDRESS": "249 JALAN BOON LAY", 
+		"POSTALCODE": "619523", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115653"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.71243190849901, 1.3394742044204309 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "BAE SYSTEMS AUSTRALIA (SINGAPORE) PTE. LTD.", 
+		"ID": "200005086G", 
+		"ADDRESS": "150 CECIL STREET", 
+		"POSTALCODE": "069543", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143831"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84834213597432, 1.2802551165478329 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "C K WORKPLACE SAFETY & HEALTH", 
+		"ID": "53172568E", 
+		"ADDRESS": "4B ST. GEORGE'S LANE", 
+		"POSTALCODE": "321004", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132154"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86017452894741, 1.322285170040804 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SAZ SAFETY", 
+		"ID": "53294928E", 
+		"ADDRESS": "445B FERNVALE ROAD", 
+		"POSTALCODE": "792445", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113859"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87409518163135, 1.3922408335297634 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SAFE BARRIER PRO", 
+		"ID": "53291925D", 
+		"ADDRESS": "288G BUKIT BATOK STREET 25", 
+		"POSTALCODE": "656288", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115704"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.75959704437267, 1.3450071517451412 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SAFETYWORKS PTE. LTD.", 
+		"ID": "201423263C", 
+		"ADDRESS": "183B BOON LAY AVENUE", 
+		"POSTALCODE": "642183", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115700"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.70968996591108, 1.3483195932723606 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "FIRE & HAZMAT CONTROL CONSULTANCY & SERVICES", 
+		"ID": "52835614C", 
+		"ADDRESS": "87 WEST COAST DRIVE", 
+		"POSTALCODE": "128015", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134848"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.7587191582481, 1.3148385948759516 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CABLE DETECTION SERVICES", 
+		"ID": "52877168W", 
+		"ADDRESS": "46 TELOK BLANGAH DRIVE", 
+		"POSTALCODE": "100046", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134847"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.80985243703788, 1.2716844268917216 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "FIRE PROTECTION SERVICES PTE. LTD.", 
+		"ID": "198000625E", 
+		"ADDRESS": "3018 BEDOK NORTH STREET 5", 
+		"POSTALCODE": "486132", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130039"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.94701300443195, 1.3352882768809553 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ALLIANCE DESIGN CONSULTANTS", 
+		"ID": "53118625C", 
+		"ADDRESS": "337 CLEMENTI AVENUE 2", 
+		"POSTALCODE": "120337", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134848"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.7691126507895, 1.3160498235321476 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "REGIONOMICA ASIA PTE. LTD.", 
+		"ID": "200612647E", 
+		"ADDRESS": "25 INTERNATIONAL BUSINESS PARK", 
+		"POSTALCODE": "609916", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115651"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.7463772227023, 1.3251931074333243 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "VIRTUE SAFETY SOLUTIONS", 
+		"ID": "53215903M", 
+		"ADDRESS": "31 ROCHESTER DRIVE", 
+		"POSTALCODE": "138637", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134848"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.78834720968965, 1.305345335873054 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MSRF CREW SERVICES", 
+		"ID": "53196483C", 
+		"ADDRESS": "17 GHIM MOH ROAD", 
+		"POSTALCODE": "270017", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133447"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.78743240674812, 1.309886111730245 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SAFETY GUARDIAN", 
+		"ID": "53231998B", 
+		"ADDRESS": "113 EUNOS AVENUE 3", 
+		"POSTALCODE": "409838", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130014"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89687404051595, 1.3193389978143295 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SHE AUDIT & CONSULTING PTE. LTD.", 
+		"ID": "201130505H", 
+		"ADDRESS": "194 PANDAN LOOP", 
+		"POSTALCODE": "128383", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134848"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.75199096603811, 1.3103174901327568 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "NDA GROUP PTE. LTD.", 
+		"ID": "200923907D", 
+		"ADDRESS": "100 TRAS STREET", 
+		"POSTALCODE": "079027", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143832"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84347113889255, 1.2745820860452615 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "VIETNAM BUSINESS CENTRE", 
+		"ID": "53051494W", 
+		"ADDRESS": "148 MEI LING STREET", 
+		"POSTALCODE": "140148", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134849"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.80446636454944, 1.2943096638797722 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "DNA SAFETY SYSTEM", 
+		"ID": "53246705A", 
+		"ADDRESS": "102E PASIR PANJANG ROAD", 
+		"POSTALCODE": "118529", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134847"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.79533384531548, 1.2760197572216394 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GRACE FIRE & SAFETY SERVICES", 
+		"ID": "53160239K", 
+		"ADDRESS": "604 YISHUN STREET 61", 
+		"POSTALCODE": "760604", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113852"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83554528463665, 1.4217070358239619 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "IGLOBE ADVISORS PTE. LTD.", 
+		"ID": "200719338W", 
+		"ADDRESS": "11 BIOPOLIS WAY", 
+		"POSTALCODE": "138667", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134848"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.79172216522785, 1.304473591062334 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ASIAN LOSS PREVENTION STRATEGIES", 
+		"ID": "52802387W", 
+		"ADDRESS": "10 JALAN KHAMIS", 
+		"POSTALCODE": "577856", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121628"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83777366083086, 1.3535282457376714 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "WESLEY IRRIGATION & ELECTRICAL ENGINEERING", 
+		"ID": "52853721X", 
+		"ADDRESS": "541 JURONG WEST AVENUE 1", 
+		"POSTALCODE": "640541", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115659"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.7159833528157, 1.351036598935681 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SINGAPORE DEPOSIT INSURANCE CORPORATION LIMITED", 
+		"ID": "200600593Z", 
+		"ADDRESS": "10 SHENTON WAY", 
+		"POSTALCODE": "079117", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143832"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84665195736368, 1.274715916850214 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AVIATION TRAINING ACADEMY (SINGAPORE) PTE. LTD.", 
+		"ID": "200616524W", 
+		"ADDRESS": "1 CLAYMORE DRIVE", 
+		"POSTALCODE": "229594", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133439"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.82947638922104, 1.307574986412841 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "DESIGN PLANNING CONSULTANTS INTERNATIONAL PTE LTD", 
+		"ID": "199901672K", 
+		"ADDRESS": "7500A BEACH ROAD", 
+		"POSTALCODE": "199591", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134855"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86066848862872, 1.299751217789587 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "DTI CORPORATION PTE. LTD.", 
+		"ID": "201321519K", 
+		"ADDRESS": "1 RAFFLES PLACE", 
+		"POSTALCODE": "048616", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143822"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8510728212533, 1.2843437133403435 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "PENNANT TRAINING SYSTEMS LIMITED SINGAPORE BRANCH", 
+		"ID": "T13FC0207E", 
+		"ADDRESS": "80 RAFFLES PLACE", 
+		"POSTALCODE": "048624", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143822"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8505552695193, 1.2853891577556271 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SKS CONSULTING PRIVATE LIMITED", 
+		"ID": "201325653R", 
+		"ADDRESS": "7 GAMBAS CRESCENT", 
+		"POSTALCODE": "757087", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113846"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.81283411427258, 1.4448504084623948 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ECKLAIM", 
+		"ID": "53137881X", 
+		"ADDRESS": "23 KEE CHOE AVENUE", 
+		"POSTALCODE": "348966", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132157"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87296917708788, 1.3320059645583395 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "IBASE TECHNOLOGY INTERNATIONAL PTE. LTD.", 
+		"ID": "201436415R", 
+		"ADDRESS": "460 ALEXANDRA ROAD", 
+		"POSTALCODE": "119963", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134848"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.80126421108814, 1.2739805054163524 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ROCK SAFETY CONSULTANCY (RSC)", 
+		"ID": "53230114E", 
+		"ADDRESS": "808 FRENCH ROAD", 
+		"POSTALCODE": "200808", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133430"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8613119466535, 1.3088002407943542 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GO-HI ELECTRICAL & PLUMBING CONTRACTOR", 
+		"ID": "52831721X", 
+		"ADDRESS": "590C MONTREAL LINK", 
+		"POSTALCODE": "753590", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113846"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8267210492136, 1.4499366091471309 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "PARTNERSHIP MARKETING NETWORK (ASIA) PTE. LTD.", 
+		"ID": "200903575R", 
+		"ADDRESS": "100 BEACH ROAD", 
+		"POSTALCODE": "189702", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134853"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85669778901153, 1.2964847078776303 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CHINA TIAN MA HOLDINGS PTE. LTD.", 
+		"ID": "200701211M", 
+		"ADDRESS": "10 KALLANG AVENUE", 
+		"POSTALCODE": "339510", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132156"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86431401603777, 1.310466941374037 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MACRO RANGER ENGINEERING M SERVICES", 
+		"ID": "53214509K", 
+		"ADDRESS": "503 BISHAN STREET 11", 
+		"POSTALCODE": "570503", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121626"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84804781808664, 1.3490263001965226 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "STARMARK SAFETY MANAGEMENT PTE. LTD.", 
+		"ID": "201009574R", 
+		"ADDRESS": "507A WELLINGTON CIRCLE", 
+		"POSTALCODE": "751507", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113846"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.82385180504158, 1.4525691890125654 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SIIRD", 
+		"ID": "199701945C", 
+		"ADDRESS": "250 NORTH BRIDGE ROAD", 
+		"POSTALCODE": "179101", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134851"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85333362166023, 1.2939706146477563 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TRINITY WORKPLACE SAFETY & HEALTH CONSULTANT", 
+		"ID": "53291271C", 
+		"ADDRESS": "723 JURONG WEST AVENUE 5", 
+		"POSTALCODE": "640723", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115659"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.69816434809614, 1.3444582739256223 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "FIRE & LIFE SAFETY", 
+		"ID": "53243759D", 
+		"ADDRESS": "424 CHOA CHU KANG AVENUE 4", 
+		"POSTALCODE": "680424", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115713"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.74030894777297, 1.3814765687125379 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "I AM THE BEST 2", 
+		"ID": "53270277L", 
+		"ADDRESS": "72 ELIAS ROAD", 
+		"POSTALCODE": "519944", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121556"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.94160197670375, 1.3774415764871433 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "FIRE-MECH PTE LTD", 
+		"ID": "199407061Z", 
+		"ADDRESS": "50 BUKIT BATOK STREET 23", 
+		"POSTALCODE": "659578", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115706"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.75709023767844, 1.3392951401405677 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ANCHOR SAFETY AUDITORS & TRAINING PTE. LTD.", 
+		"ID": "201313385C", 
+		"ADDRESS": "403 JALAN BESAR", 
+		"POSTALCODE": "209010", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133433"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85975481391502, 1.3136648121366024 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SCP CONSULTANTS PRIVATE LIMITED", 
+		"ID": "200505590E", 
+		"ADDRESS": "71 UBI ROAD 1", 
+		"POSTALCODE": "408732", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130011"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.88974073512608, 1.3323384401114982 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TOP SAFE CONSULTANTS PTE. LTD.", 
+		"ID": "200914120N", 
+		"ADDRESS": "850 WOODLANDS STREET 82", 
+		"POSTALCODE": "730850", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113841"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.7920873324521, 1.4409378668194117 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "EHS ENTERPRISE", 
+		"ID": "53113248W", 
+		"ADDRESS": "651B JURONG WEST STREET 61", 
+		"POSTALCODE": "642651", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115700"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.69826089905094, 1.337065155040112 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SUCCESS SAFETY CONSULTANCY", 
+		"ID": "53251413X", 
+		"ADDRESS": "32 ANG MO KIO INDUSTRIAL PARK 2", 
+		"POSTALCODE": "569510", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121624"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86465989611719, 1.3762220540353327 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "THE PROMOTER COMPANY PTE. LTD.", 
+		"ID": "200301757G", 
+		"ADDRESS": "9 AMBER GARDENS", 
+		"POSTALCODE": "439958", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130028"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89877131861984, 1.301524867724804 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "C TERESA & CO", 
+		"ID": "53131061B", 
+		"ADDRESS": "450 LORONG 6 TOA PAYOH", 
+		"POSTALCODE": "319394", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132153"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84938386772835, 1.3316698106913418 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "STEVEN TEO SAFETY CONSULTANTS", 
+		"ID": "53098506C", 
+		"ADDRESS": "117 JURONG EAST STREET 13", 
+		"POSTALCODE": "600117", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115648"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.73506753448838, 1.3378799338544873 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "DSO NATIONAL LABORATORIES", 
+		"ID": "199701777M", 
+		"ADDRESS": "20 SCIENCE PARK DRIVE", 
+		"POSTALCODE": "118230", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134847"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.78858201604523, 1.289084037983241 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MAXWELL ARBITRATION HOLDINGS LIMITED", 
+		"ID": "200804561M", 
+		"ADDRESS": "100 HIGH STREET", 
+		"POSTALCODE": "179434", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134851"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84963969217999, 1.2908569278745339 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "EOS DEFENCE SYSTEMS PTE. LTD.", 
+		"ID": "201112621C", 
+		"ADDRESS": "4 SHENTON WAY", 
+		"POSTALCODE": "068807", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143828"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84960097954286, 1.2789464989734183 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "FIRE & HAZMAT CONTROL SYSTEMS PTE LTD", 
+		"ID": "200100834Z", 
+		"ADDRESS": "21 JALAN SHAER", 
+		"POSTALCODE": "769367", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113856"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8276592151, 1.4393076753106882 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MINISTRY OF FUN", 
+		"ID": "52995580J", 
+		"ADDRESS": "54 CACTUS ROAD", 
+		"POSTALCODE": "809604", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113634"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85071864156626, 1.390011876653279 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "NORTHROP GRUMMAN ELECTRONIC SYSTEMS INTERNATIONAL, INC.", 
+		"ID": "S99FC5783K", 
+		"ADDRESS": "438 ALEXANDRA ROAD", 
+		"POSTALCODE": "119958", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134848"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.80208453450201, 1.2772751011185903 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "DES FOREIGN RESSOURCES", 
+		"ID": "53278883D", 
+		"ADDRESS": "65 UBI CRESCENT", 
+		"POSTALCODE": "408559", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130010"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89801902733734, 1.3283075040641483 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "UTILINK INTERNATIONAL", 
+		"ID": "52807020K", 
+		"ADDRESS": "38 JALAN JITONG", 
+		"POSTALCODE": "809151", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113634"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87008381258389, 1.3848396201955457 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TAKE THE LEAD SAFETY CONSULTANCY", 
+		"ID": "53169273J", 
+		"ADDRESS": "141 YISHUN RING ROAD", 
+		"POSTALCODE": "760141", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113850"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83000097079928, 1.4308899016428467 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MADEMOISELLE MEDIATION", 
+		"ID": "53270653J", 
+		"ADDRESS": "50 RAFFLES PLACE", 
+		"POSTALCODE": "048623", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143822"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85213310036809, 1.2846918845420507 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "DA CHENG AGENCY", 
+		"ID": "53069532D", 
+		"ADDRESS": "49 DORSET ROAD", 
+		"POSTALCODE": "210049", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133434"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85015829723565, 1.3129513553505356 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "FIRE ARMOUR PTE. LTD.", 
+		"ID": "198203978C", 
+		"ADDRESS": "14 FAN YOONG ROAD", 
+		"POSTALCODE": "629791", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115655"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.70403258125039, 1.332131290704 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "JTECHNOLOGY PTE. LTD.", 
+		"ID": "201309964M", 
+		"ADDRESS": "21 WOODLANDS CLOSE", 
+		"POSTALCODE": "737854", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113842"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.80476032477924, 1.435017221399866 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SINGAPORE COOPERATION ENTERPRISE", 
+		"ID": "200601485K", 
+		"ADDRESS": "1 KIM SENG PROMENADE", 
+		"POSTALCODE": "237994", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133439"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83201569234927, 1.2934344078205036 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "NEUWEB SOLUTIONS LLP", 
+		"ID": "T08LL0423J", 
+		"ADDRESS": "200 JALAN SULTAN", 
+		"POSTALCODE": "199018", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134853"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86141252651389, 1.3036182546937176 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "RONG & WENN CONSULTANCY", 
+		"ID": "53266123X", 
+		"ADDRESS": "481 PASIR PANJANG ROAD", 
+		"POSTALCODE": "117621", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134847"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.76933072669631, 1.2912278619328983 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CUBIC TECHNOLOGIES PTE. LTD.", 
+		"ID": "201131560G", 
+		"ADDRESS": "51 GOLDHILL PLAZA", 
+		"POSTALCODE": "308900", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132151"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84293577566947, 1.3181930666841415 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "VAN OORD ACZ MARINE CONTRACTORS B.V.", 
+		"ID": "S92FC4503F", 
+		"ADDRESS": "20 HARBOUR DRIVE", 
+		"POSTALCODE": "117612", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134847"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.77935143222106, 1.2830789059863696 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TOTAL MARINE PTE. LTD.", 
+		"ID": "200921568Z", 
+		"ADDRESS": "71 UBI CRESCENT", 
+		"POSTALCODE": "408571", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130010"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8983343824791, 1.3268713724590933 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SHIVAM TRAINING CENTRE", 
+		"ID": "53157944A", 
+		"ADDRESS": "290A BUKIT BATOK STREET 24", 
+		"POSTALCODE": "652290", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115704"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.75654828618326, 1.3431721119274245 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "EPSCO (ASIA PACIFIC) PTE. LTD.", 
+		"ID": "200900082N", 
+		"ADDRESS": "62 UBI ROAD 1", 
+		"POSTALCODE": "408734", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130011"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89225309537868, 1.332225335962973 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "D'SPECTRA PTE. LTD.", 
+		"ID": "201214109G", 
+		"ADDRESS": "59 UBI AVENUE 1", 
+		"POSTALCODE": "408938", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130013"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89476167915406, 1.3247462187428254 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "NORTH SOUTH SCHOOL OF TECHNOLOGY AND MANAGEMENT (PTE. LIMITED)", 
+		"ID": "200803125K", 
+		"ADDRESS": "70 PALMER ROAD", 
+		"POSTALCODE": "079427", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143832"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84815969204521, 1.2731495558479364 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "KRAV MAGA DEFENSIVE TACTICS PTE. LTD.", 
+		"ID": "200917179E", 
+		"ADDRESS": "59 UBI AVENUE 1", 
+		"POSTALCODE": "408938", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130013"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89476167915406, 1.3247462187428254 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "RIZQNIZZA", 
+		"ID": "53306316K", 
+		"ADDRESS": "617 HOUGANG AVENUE 8", 
+		"POSTALCODE": "530617", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121606"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.88361694056897, 1.3695249445253415 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "WHOOSH SINGAPORE PTE. LTD.", 
+		"ID": "200803403G", 
+		"ADDRESS": "1014 GEYLANG EAST AVENUE 3", 
+		"POSTALCODE": "389729", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132204"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89110891077172, 1.3182982209700607 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ABSOLUTE SAFETY & ENGINEERING", 
+		"ID": "53117837D", 
+		"ADDRESS": "7 ST. GEORGE'S LANE", 
+		"POSTALCODE": "320007", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132153"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85905674369613, 1.3236941752568234 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "EMPATHIE LLP", 
+		"ID": "T07LL0087K", 
+		"ADDRESS": "6 BOSCOMBE ROAD", 
+		"POSTALCODE": "439740", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130028"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89504156422568, 1.3058740294690214 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LPC COATING RESOURCES PTE. LTD.", 
+		"ID": "201115541C", 
+		"ADDRESS": "16G ENTERPRISE ROAD", 
+		"POSTALCODE": "627656", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115653"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.70294342467126, 1.3342013082665336 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ALLIANCE SAFETY & MANAGEMENT ASSOCIATES", 
+		"ID": "53174172M", 
+		"ADDRESS": "7 GAMBAS CRESCENT", 
+		"POSTALCODE": "757087", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113846"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.81283411427258, 1.4448504084623948 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AKK ACADEMY PTE. LTD.", 
+		"ID": "201411443N", 
+		"ADDRESS": "330 JURONG EAST AVENUE 1", 
+		"POSTALCODE": "600330", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115649"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.73002879184956, 1.3505488870404716 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ADVANCED FIREFIGHTING TECHNOLOGY (S) PTE. LTD.", 
+		"ID": "200210286Z", 
+		"ADDRESS": "10 SCIENCE PARK ROAD", 
+		"POSTALCODE": "117684", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134847"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.77966401609427, 1.2882310528690113 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SOPA CONSULTANCY LLP", 
+		"ID": "T15LL0740C", 
+		"ADDRESS": "62 CHESTNUT AVENUE", 
+		"POSTALCODE": "679518", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115711"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.77712020124477, 1.3697879806069508 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SAFETY LINK ASSOCIATES PTE. LTD.", 
+		"ID": "201433094Z", 
+		"ADDRESS": "60 PAYA LEBAR ROAD", 
+		"POSTALCODE": "409051", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130013"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89258074946012, 1.3188082451562273 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SEMPURNA SAFETY PTE. LTD.", 
+		"ID": "201425808Z", 
+		"ADDRESS": "1 FULLERTON ROAD", 
+		"POSTALCODE": "049213", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143823"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85398140481145, 1.2857535895039613 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SAFETY COMES 1ST PTE. LTD.", 
+		"ID": "201401409K", 
+		"ADDRESS": "297 CHOA CHU KANG AVENUE 2", 
+		"POSTALCODE": "680297", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115713"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.74191217105222, 1.3770724040293658 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ABELSEN INTERNATIONAL", 
+		"ID": "53078904C", 
+		"ADDRESS": "10 ANSON ROAD", 
+		"POSTALCODE": "079903", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143832"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84592325021447, 1.2758807371032213 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "EG ENGINEERING PTE. LTD.", 
+		"ID": "200508356Z", 
+		"ADDRESS": "1 BUKIT BATOK CRESCENT", 
+		"POSTALCODE": "658064", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115704"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.75903831968974, 1.3390446927661441 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SAFETYLINK SERVICES", 
+		"ID": "53165817A", 
+		"ADDRESS": "24 TEBAN GARDENS ROAD", 
+		"POSTALCODE": "600024", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115648"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.73788416622456, 1.3234898845812686 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "JSR SAFE SOLUTIONS AND SERVICES", 
+		"ID": "53209095X", 
+		"ADDRESS": "50 CHIN SWEE ROAD", 
+		"POSTALCODE": "169874", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134850"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84029395049295, 1.2876519169239449 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LUTHERAN WORLD MISSION LIMITED", 
+		"ID": "200616910Z", 
+		"ADDRESS": "30 DUKE'S ROAD", 
+		"POSTALCODE": "268912", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133447"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.81065348618326, 1.3215870456545238 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "URBANSCAPE DESIGN INTERNATIONAL", 
+		"ID": "53137409B", 
+		"ADDRESS": "119 AROOZOO AVENUE", 
+		"POSTALCODE": "539870", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121612"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.88654149314219, 1.356201854216039 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "KRAV MAGA GLOBAL SINGAPORE PTE. LTD.", 
+		"ID": "201321360G", 
+		"ADDRESS": "756 UPPER SERANGOON ROAD", 
+		"POSTALCODE": "534626", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121608"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87882816051834, 1.353474463188956 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ASIAN PHOTOVOLTAIC INDUSTRY ASSOCIATION LIMITED", 
+		"ID": "200901237K", 
+		"ADDRESS": "146 ROBINSON ROAD", 
+		"POSTALCODE": "068909", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143829"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84809592459756, 1.2781642361623031 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MECHANICAL AND ELECTRICAL (M&E) SAFETYENGINEERING", 
+		"ID": "53032793K", 
+		"ADDRESS": "249 CHOA CHU KANG AVENUE 2", 
+		"POSTALCODE": "680249", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115713"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.74552972855788, 1.379617406781352 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TRILLION SAFETY CONSULTANCY PTE. LTD.", 
+		"ID": "201327805R", 
+		"ADDRESS": "9003 TAMPINES STREET 93", 
+		"POSTALCODE": "528837", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121602"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.9413550017804, 1.3399595460050877 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "FOSHA-FIRE & SAFETY MANAGEMENT SERVICES", 
+		"ID": "34662400B", 
+		"ADDRESS": "100 KIM SENG ROAD", 
+		"POSTALCODE": "239427", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133442"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83358993910598, 1.2929279662260793 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TRIUSS SERVICES", 
+		"ID": "53201654L", 
+		"ADDRESS": "9 LITTLE ROAD", 
+		"POSTALCODE": "536985", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121610"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.88547630774113, 1.338045949973133 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SAFETY & PROJECT MANAGEMENT", 
+		"ID": "53270514M", 
+		"ADDRESS": "677A JURONG WEST STREET 64", 
+		"POSTALCODE": "641677", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115700"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.70503826056499, 1.3456243644999044 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ADVANCE SAFE CONSULTANTS PTE. LTD.", 
+		"ID": "201210970H", 
+		"ADDRESS": "9 TAGORE LANE", 
+		"POSTALCODE": "787472", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113857"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.82602214555506, 1.3835945919457553 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SALUS INNOVATION PRIVATE LIMITED", 
+		"ID": "201318744Z", 
+		"ADDRESS": "67 CHISELHURST GROVE", 
+		"POSTALCODE": "558650", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121621"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86579453383109, 1.3568931547071013 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "QE SAFETY CONSULTANCY PTE. LTD.", 
+		"ID": "201422488N", 
+		"ADDRESS": "10 ADMIRALTY STREET", 
+		"POSTALCODE": "757695", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113848"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.81246193298648, 1.46241668016186 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "A-PLUS SAFETY SERVICES", 
+		"ID": "53140101D", 
+		"ADDRESS": "10 ANSON ROAD", 
+		"POSTALCODE": "079903", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"CATEGORY": "PUBLIC ADMINISTRATION AND DEFENCE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143832"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84592325021447, 1.2758807371032213 ] } 
+	 }
+
+	]
+}

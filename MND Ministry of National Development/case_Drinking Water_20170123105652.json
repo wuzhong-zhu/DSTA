@@ -1,0 +1,70 @@
+{
+    "ReturnCode": "0",
+    "Cases": [
+        {
+            "IncidentPostalCode": "791441",
+            "MobileCaseID": "M170121-089045",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 41454.7711,
+            "IncidentStreetName": "FERNVALE ROAD",
+            "IncidentXCoordinate": 32655.4365,
+            "IncidentBlockNo": "441A",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-21T21:17:52"
+        },
+        {
+            "IncidentPostalCode": "793441",
+            "MobileCaseID": "M170121-089044",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 41568.026,
+            "IncidentStreetName": "FERNVALE ROAD",
+            "IncidentXCoordinate": 32613.9681,
+            "IncidentBlockNo": "441C",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-21T21:10:58"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170121-088997",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 31164.455,
+            "IncidentStreetName": "TANJONG RHU VIEW",
+            "IncidentXCoordinate": 31810.5596,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Quality",
+            "Subject": "Drinking Water - Water Quality",
+            "CreatedDateTime": "2017-01-21T17:26:47"
+        },
+        {
+            "IncidentPostalCode": "522515",
+            "MobileCaseID": "M170121-088995",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 37672.3781,
+            "IncidentStreetName": "TAMPINES CENTRAL 7",
+            "IncidentXCoordinate": 39724.1508,
+            "IncidentBlockNo": "515B",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Pressure",
+            "Subject": "Drinking Water - Water Pressure",
+            "CreatedDateTime": "2017-01-21T17:25:42"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170119-088445",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 44928.289,
+            "IncidentStreetName": "TURF CLUB AVENUE",
+            "IncidentXCoordinate": 19554.3672,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-19T10:44:48"
+        }
+    ]
+}

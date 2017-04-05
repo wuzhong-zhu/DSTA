@@ -1,0 +1,17 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet",
+    "value": [
+        {
+            "Type": "Accident",
+            "Message": "(31/1)8:51 Accident on Bukit Timah Road (towards City) after CTE. Avoid left lane.",
+            "Latitude": 1.3104955575565282,
+            "Longitude": 103.84446579503636
+        },
+        {
+            "Type": "Vehicle breakdown",
+            "Message": "(31/1)8:32 Vehicle breakdown on PIE (towards Changi Airport) before Toa Payoh Lor 1.",
+            "Latitude": 1.3294727372487212,
+            "Longitude": 103.84194048010737
+        }
+    ]
+}

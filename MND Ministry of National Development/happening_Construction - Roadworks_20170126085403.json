@@ -1,0 +1,89 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet",
+    "value": [
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(26/1)8:51 Heavy Traffic on Tuas Road (towards Tuas Avenue 3) after Jalan Ahmad Ibrahim.",
+            "Latitude": 1.3189087919482396,
+            "Longitude": 103.66001103625261
+        },
+        {
+            "Type": "Accident",
+            "Message": "(26/1)8:47 Accident on Braddell Road (towards Lornie) after Braddell U/P.",
+            "Latitude": 1.3432688243130273,
+            "Longitude": 103.85723008358823
+        },
+        {
+            "Type": "Accident",
+            "Message": "(26/1)8:36 Accident on Woodlands Avenue 10 near Sembawang Way/Woodlands Avenue 10 Junction.",
+            "Latitude": 1.4473989505122193,
+            "Longitude": 103.81204646849339
+        },
+        {
+            "Type": "Accident",
+            "Message": "(26/1)8:34 Accident on AYE (towards MCE) at Alexandra Rd Exit.",
+            "Latitude": 1.2858641296700024,
+            "Longitude": 103.79807622365986
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(26/1)8:28 Heavy Traffic on AYE (towards MCE) between Clementi Ave 2 Exit and Alexandra Rd Exit.",
+            "Latitude": 1.2861576880227716,
+            "Longitude": 103.79754202863268
+        },
+        {
+            "Type": "Obstacle",
+            "Message": "(26/1)7:51 Obstacle on Orchard Link (towards Orchard Road) after Orchard Turn. Avoid left lane.",
+            "Latitude": 1.302607793193299,
+            "Longitude": 103.83583837157755
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(26/1)7:45 Heavy Traffic on TPE (towards PIE) between Pasir Ris Dr 8 Exit and PIE Exit.",
+            "Latitude": 1.3559259762062474,
+            "Longitude": 103.96323608007044
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(26/1)7:38 Heavy Traffic on AYE (towards Tuas) at South Buona Vista Rd Exit.",
+            "Latitude": 1.2927232080133044,
+            "Longitude": 103.78720818029298
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(26/1)7:36 Heavy Traffic on CTE (towards AYE) between AMK Ave 5 Exit and PIE(Changi) Exit.",
+            "Latitude": 1.3480414195157304,
+            "Longitude": 103.85880206580782
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(26/1)7:34 Heavy Traffic on KPE (towards ECP) between Buangkok Dr Exit and Buangkok Dr Entrance.",
+            "Latitude": 1.3721557619914126,
+            "Longitude": 103.90860910351682
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(26/1)7:32 Heavy Traffic on PIE (towards Changi Airport) at Lornie Rd Exit.",
+            "Latitude": 1.3338520628720312,
+            "Longitude": 103.81419126318733
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(26/1)7:22 Heavy Traffic on TPE (towards PIE) at Upper Changi Rd North Exit.",
+            "Latitude": 1.3550289393116144,
+            "Longitude": 103.96357397265842
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(26/1)7:20 Heavy Traffic on TPE (towards SLE) at Tampines Ave 7 Exit.",
+            "Latitude": 1.3577721114360932,
+            "Longitude": 103.96244032078256
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(26/1)6:50 Heavy Traffic on PIE (towards Tuas) at AYE Exit.",
+            "Latitude": 1.3253636478523445,
+            "Longitude": 103.66537430347525
+        }
+    ]
+}

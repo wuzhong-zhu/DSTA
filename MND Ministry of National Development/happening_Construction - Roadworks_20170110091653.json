@@ -1,0 +1,65 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet",
+    "value": [
+        {
+            "Type": "Accident",
+            "Message": "(10/1)9:02 Accident on TPE (towards PIE) before KPE Exit.",
+            "Latitude": 1.3850051033539734,
+            "Longitude": 103.91509093895027
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(10/1)8:58 Heavy Traffic on PIE (towards Changi Airport) at Paya Lebar Rd Exit.",
+            "Latitude": 1.322595015041507,
+            "Longitude": 103.8883743548936
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(10/1)8:40 Heavy Traffic on CTE (towards AYE) between Yio Chu Kang Rd Exit and AMK Ave 1 Exit.",
+            "Latitude": 1.359508940576821,
+            "Longitude": 103.85787352603012
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(10/1)8:31 Heavy Traffic on SLE (towards BKE) between Lentor Ave Exit and Upper Thomson Rd Exit.",
+            "Latitude": 1.3955559711136618,
+            "Longitude": 103.815589945274
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(10/1)7:43 Heavy Traffic on Farrer Road (towards Queensway) between Dunearn Road and Farrer Flyover.",
+            "Latitude": 1.313174484212602,
+            "Longitude": 103.80425553865109
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(10/1)7:41 Heavy Traffic on CTE (towards AYE) at Ang Mo Kio Ave 1 Entrance.",
+            "Latitude": 1.352177625160644,
+            "Longitude": 103.85744781154591
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(10/1)7:39 Heavy Traffic on KPE (towards ECP) at Nicoll Highway Exit.",
+            "Latitude": 1.31012699237921,
+            "Longitude": 103.8756665242069
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(10/1)7:33 Heavy Traffic on TPE (towards PIE) before PIE Exit.",
+            "Latitude": 1.356455426000877,
+            "Longitude": 103.96306716945311
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(10/1)7:22 Heavy Traffic on PIE (towards Changi Airport) at Lornie Rd Exit.",
+            "Latitude": 1.333868529201279,
+            "Longitude": 103.81391873069434
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(10/1)7:07 Heavy Traffic on KPE (towards ECP) after Buangkok Dr Entrance.",
+            "Latitude": 1.3713022054538908,
+            "Longitude": 103.90832880383286
+        }
+    ]
+}

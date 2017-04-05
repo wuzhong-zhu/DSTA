@@ -1,0 +1,385 @@
+{
+    "features": [
+        {
+            "id": 1,
+            "properties": {
+                "Name": "Delta Sports and Recreation Centre",
+                "PostalCode": "158790",
+                "desc": "900 Tiong Bahru Road    Singapore 158790",
+                "Address": "900 Tiong Bahru Road    Singapore 158790",
+                "name": "Delta Sports and Recreation Centre",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.819797326692,
+                    1.28905814945475
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "properties": {
+                "Name": "Queenstown Sports and Recreation Centre",
+                "PostalCode": "148948",
+                "desc": "473 Stirling Road    Singapore 148948",
+                "Address": "473 Stirling Road    Singapore 148948",
+                "name": "Queenstown Sports and Recreation Centre",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.802244067609,
+                    1.29648188401423
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "properties": {
+                "Name": "Clementi Sports and Recreation Centre",
+                "PostalCode": "129907",
+                "desc": "518 Clementi Ave 3    Singapore 129907",
+                "Address": "518 Clementi Ave 3    Singapore 129907",
+                "name": "Clementi Sports and Recreation Centre",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.765015616825,
+                    1.31090387894989
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "properties": {
+                "Name": "Jalan Besar Sports and Recreation Centre",
+                "PostalCode": "207542",
+                "desc": "100 Tyrwhitt Road, #01-03    Singapore 207542",
+                "Address": "100 Tyrwhitt Road, #01-03    Singapore 207542",
+                "name": "Jalan Besar Sports and Recreation Centre",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86012080093,
+                    1.31100188392461
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "properties": {
+                "Name": "Kallang Sports and Recreation Centre",
+                "PostalCode": "397718",
+                "desc": "15 Stadium Road    Singapore 397718",
+                "Address": "15 Stadium Road    Singapore 397718",
+                "name": "Kallang Sports and Recreation Centre",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.87476308857,
+                    1.3042317339196
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "properties": {
+                "Name": "Geylang Sports and Recreation Centre",
+                "PostalCode": "389862",
+                "desc": "601 Aljunied Crescent    Singapore 389862",
+                "Address": "601 Aljunied Crescent    Singapore 389862",
+                "name": "Geylang Sports and Recreation Centre",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.888563635506,
+                    1.32073444573256
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "properties": {
+                "Name": "Bedok Sports and Recreation Centre",
+                "PostalCode": "469645",
+                "desc": "5 Bedok North Street 2    Singapore 469645",
+                "Address": "5 Bedok North Street 2    Singapore 469645",
+                "name": "Bedok Sports and Recreation Centre",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.938326341196,
+                    1.32584806880019
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "properties": {
+                "Name": "Jurong West Sports and Recreation Centre",
+                "PostalCode": "648965",
+                "desc": "20 Jurong West Street 93    Singapore 648965",
+                "Address": "20 Jurong West Street 93    Singapore 648965",
+                "name": "Jurong West Sports and Recreation Centre",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.693854311139,
+                    1.33823750100724
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "properties": {
+                "Name": "Toa Payoh Sports and Recreation Centre",
+                "PostalCode": "319392",
+                "desc": "301 Toa Payoh Lor 6    Singapore 319392",
+                "Address": "301 Toa Payoh Lor 6    Singapore 319392",
+                "name": "Toa Payoh Sports and Recreation Centre",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851566351683,
+                    1.33028646772691
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "properties": {
+                "Name": "Jurong East Sports and Recreation Centre",
+                "PostalCode": "609517",
+                "desc": "21 Jurong East Street 31    Singapore 609517",
+                "Address": "21 Jurong East Street 31    Singapore 609517",
+                "name": "Jurong East Sports and Recreation Centre",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.729175052509,
+                    1.34685582891208
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "properties": {
+                "Name": "Bt Gombak Sports and Recreation Centre",
+                "PostalCode": "659081",
+                "desc": "810 Bukit Gombak West Ave 5    Singapore 659081",
+                "Address": "810 Bukit Gombak West Ave 5    Singapore 659081",
+                "name": "Bt Gombak Sports and Recreation Centre",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.753205446534,
+                    1.35774784033119
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "properties": {
+                "Name": "Bishan Sports and Recreation Centre",
+                "PostalCode": "579783",
+                "desc": "5 Bishan Street 14    Singapore 579783",
+                "Address": "5 Bishan Street 14    Singapore 579783",
+                "name": "Bishan Sports and Recreation Centre",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851403172966,
+                    1.35530525505098
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "properties": {
+                "Name": "Serangoon Sports and Recreation Centre",
+                "PostalCode": "545552",
+                "desc": "Yio Chu Kang Road    Singapore 545552",
+                "Address": "Yio Chu Kang Road    Singapore 545552",
+                "name": "Serangoon Sports and Recreation Centre",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.874521610105,
+                    1.35773286674735
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "properties": {
+                "Name": "Tampines Sports and Recreation Centre",
+                "PostalCode": "529649",
+                "desc": "495 Tampines Ave 5    Singapore 529649",
+                "Address": "495 Tampines Ave 5    Singapore 529649",
+                "name": "Tampines Sports and Recreation Centre",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.940656637198,
+                    1.35407311754894
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "properties": {
+                "Name": "Hougang Sports and Recreation Centre",
+                "PostalCode": "538832",
+                "desc": "93 Hougang Avenue 4    Singapore 538832",
+                "Address": "93 Hougang Avenue 4    Singapore 538832",
+                "name": "Hougang Sports and Recreation Centre",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.887697933612,
+                    1.37061119863724
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "properties": {
+                "Name": "Yio Chu Kang Sports and Recreation Centre",
+                "PostalCode": "569770",
+                "desc": "200 Ang Mo Kio Ave 9    Singapore 569770",
+                "Address": "200 Ang Mo Kio Ave 9    Singapore 569770",
+                "name": "Yio Chu Kang Sports and Recreation Centre",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845866601713,
+                    1.38223815446867
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "properties": {
+                "Name": "Choa Chu Kang Sports and Recreation Centre",
+                "PostalCode": "689236",
+                "desc": "1 Choa Chu Kang Street 53    Singapore 689236",
+                "Address": "1 Choa Chu Kang Street 53    Singapore 689236",
+                "name": "Choa Chu Kang Sports and Recreation Centre",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.748632632918,
+                    1.39195790793919
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "properties": {
+                "Name": "Sengkang Sports and Recreation Centre",
+                "PostalCode": "544964",
+                "desc": "57 Anchorvale Rd    Singapore 544964",
+                "Address": "57 Anchorvale Rd    Singapore 544964",
+                "name": "Sengkang Sports and Recreation Centre",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.886398868462,
+                    1.39612615463124
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "properties": {
+                "Name": "Yishun Sports and Recreation Centre",
+                "PostalCode": "769130",
+                "desc": "101 Yishun Avenue 1    Singapore 769130",
+                "Address": "101 Yishun Avenue 1    Singapore 769130",
+                "name": "Yishun Sports and Recreation Centre",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.831394651657,
+                    1.41198061880962
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "properties": {
+                "Name": "Woodlands Sports and Recreation Centre",
+                "PostalCode": "738597",
+                "desc": "Woodlands Street 13    Singapore 738597",
+                "Address": "Woodlands Street 13    Singapore 738597",
+                "name": "Woodlands Sports and Recreation Centre",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.780306570274,
+                    1.43489538529581
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

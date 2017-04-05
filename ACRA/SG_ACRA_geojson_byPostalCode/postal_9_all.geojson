@@ -1,0 +1,25 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "RCS LOGISTICS SINGAPORE PTE. LTD.", 
+		"ID": "200000717H", 
+		"ADDRESS": "BOX 592 AIRPORT CARGO ROAD", 
+		"POSTALCODE": "918104", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "WAREHOUSING AND SUPPORT ACTIVITIES FOR TRANSPORTATION", 
+		"CATEGORY": "TRANSPORTATION AND STORAGE", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113625"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.99673722487825, 1.3752788112815284 ] } 
+	 }
+
+	]
+}

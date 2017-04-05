@@ -1,0 +1,137 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet",
+    "value": [
+        {
+            "Type": "Accident",
+            "Message": "(16/1)8:57 Accident on Toh Guan Road (towards Toh Guan Road East) after PIE.",
+            "Latitude": 1.3373055928315207,
+            "Longitude": 103.74759271720504
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(16/1)8:56 Heavy Traffic on PIE (towards Tuas) at Toh Guan Rd Exit.",
+            "Latitude": 1.3404712417930604,
+            "Longitude": 103.75037257669608
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(16/1)8:55 Heavy Traffic on Bendemeer Road (towards City) between PIE and Whampoa East.",
+            "Latitude": 1.3169436022153238,
+            "Longitude": 103.86260163747275
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(16/1)8:52 Heavy Traffic on PIE (towards Changi Airport) at Stevens Rd Exit.",
+            "Latitude": 1.326890893904096,
+            "Longitude": 103.82788474973292
+        },
+        {
+            "Type": "Vehicle breakdown",
+            "Message": "(16/1)8:51 Vehicle breakdown on KPE (towards ECP) before Nicoll Highway Exit.",
+            "Latitude": 1.3147091142033691,
+            "Longitude": 103.87480409208975
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(16/1)8:50 Heavy Traffic on Collyer Quay near Battery Road/Collyer Quay Junction.",
+            "Latitude": 1.282719116908865,
+            "Longitude": 103.85172577827798
+        },
+        {
+            "Type": "Vehicle breakdown",
+            "Message": "(16/1)8:45 Vehicle breakdown on BKE (towards Woodlands) after Bukit Panjang Rd Exit.",
+            "Latitude": 1.3801732723629998,
+            "Longitude": 103.77586986246716
+        },
+        {
+            "Type": "Vehicle breakdown",
+            "Message": "(16/1)8:37 Vehicle breakdown on AYE (towards Tuas) before Normanton Exit.",
+            "Latitude": 1.2881135082504083,
+            "Longitude": 103.79420607939421
+        },
+        {
+            "Type": "Accident",
+            "Message": "(16/1)8:33 Accident on TPE (towards SLE) after Punggol Rd Exit with congestion till Punggol Rd Exit. Avoid lane 1.",
+            "Latitude": 1.4007630901546735,
+            "Longitude": 103.89050099481727
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(16/1)8:26 Heavy Traffic on PIE (towards Tuas) at Pioneer Rd North Exit.",
+            "Latitude": 1.3471277959347732,
+            "Longitude": 103.69191130637643
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(16/1)8:24 Heavy Traffic on PIE (towards Changi Airport) between Toa Payoh Lor 1 and Kallang Way.",
+            "Latitude": 1.3285695336708938,
+            "Longitude": 103.8675025829783
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(16/1)8:15 Heavy Traffic in CTE Tunnel (towards AYE) at Havelock Road Exit.",
+            "Latitude": 1.2901686091695335,
+            "Longitude": 103.84283332557771
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(16/1)8:09 Heavy Traffic on TPE (towards PIE) between Sengkang Exit and Pasir Ris Dr 12 Exit.",
+            "Latitude": 1.3773658249172849,
+            "Longitude": 103.92806967131878
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(16/1)7:58 Heavy Traffic on TPE (towards SLE) at CTE(City) Exit.",
+            "Latitude": 1.395060381003583,
+            "Longitude": 103.8579177493597
+        },
+        {
+            "Type": "Vehicle breakdown",
+            "Message": "(16/1)7:52 Vehicle breakdown on PIE (towards Changi Airport) after Bukit Timah Rd exit.",
+            "Latitude": 1.3394001434017833,
+            "Longitude": 103.77822378350862
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(16/1)7:51 Heavy Traffic on TPE (towards PIE) at Upper Changi Rd North Exit.",
+            "Latitude": 1.3550929509361616,
+            "Longitude": 103.96355773006609
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(16/1)7:47 Heavy Traffic on PIE (towards Tuas) between KJE and Jalan Bahar.",
+            "Latitude": 1.357510696780922,
+            "Longitude": 103.70025233718901
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(16/1)7:41 Heavy Traffic on BKE (towards PIE) between Mandai Rd Exit and KJE Exit.",
+            "Latitude": 1.3974724254639324,
+            "Longitude": 103.77391116861303
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(16/1)7:36 Heavy Traffic on KPE (towards ECP) at Nicoll Highway Exit.",
+            "Latitude": 1.3097004372823606,
+            "Longitude": 103.87581598155747
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(16/1)7:09 Heavy Traffic on PIE (towards Changi Airport) at Lornie Rd Exit.",
+            "Latitude": 1.3338721300471437,
+            "Longitude": 103.81410544184433
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(16/1)7:06 Heavy Traffic on KPE (towards ECP) after Buangkok Dr Entrance.",
+            "Latitude": 1.3713022054538908,
+            "Longitude": 103.90832880383286
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(16/1)6:50 Heavy Traffic on PIE (towards Tuas) at AYE Exit.",
+            "Latitude": 1.3247006416421387,
+            "Longitude": 103.66495822965432
+        }
+    ]
+}

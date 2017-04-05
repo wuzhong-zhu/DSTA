@@ -1,0 +1,149 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet",
+    "value": [
+        {
+            "Type": "Vehicle breakdown",
+            "Message": "(13/1)8:58 Vehicle breakdown on TPE (towards SLE) before Tampines Rd Exit.",
+            "Latitude": 1.3775386756665922,
+            "Longitude": 103.92716482510798
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(13/1)8:57 Heavy Traffic in CTE Tunnel (towards AYE) at Cairnhill Circle Exit.",
+            "Latitude": 1.3070401740030824,
+            "Longitude": 103.8409593779038
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(13/1)8:56 Heavy Traffic on KJE (towards BKE) at BKE(Woodlands) Exit.",
+            "Latitude": 1.3905721768202048,
+            "Longitude": 103.77148166852653
+        },
+        {
+            "Type": "Vehicle breakdown",
+            "Message": "(13/1)8:53 Vehicle breakdown on TPE (towards SLE) after Tampines Rd Exit.",
+            "Latitude": 1.3722826720915495,
+            "Longitude": 103.93880001294606
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(13/1)8:52 Heavy Traffic on AYE (towards Tuas) between Lower Delta Rd Exit and Normanton Exit.",
+            "Latitude": 1.2872506674588724,
+            "Longitude": 103.79569766949147
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(13/1)8:49 Heavy Traffic on Nicoll Highway (towards Shenton Way) between Stadium Drive and Middle Road.",
+            "Latitude": 1.2939347397059773,
+            "Longitude": 103.85642146374771
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(13/1)8:46 Heavy Traffic on AYE (towards Tuas) at Pioneer Circus Exit.",
+            "Latitude": 1.3222707436553112,
+            "Longitude": 103.69970639262269
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(13/1)8:41 Heavy Traffic on PIE (towards Changi Airport) between Thomson Rd and Kallang Way.",
+            "Latitude": 1.3288359407258756,
+            "Longitude": 103.86689191956464
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(13/1)8:41 Heavy Traffic on Keppel Road (towards City) between Kampong Bahru Road and Tanjong Pagar Road.",
+            "Latitude": 1.272711289604448,
+            "Longitude": 103.84328558401131
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(13/1)8:38 Heavy Traffic on CTE (towards AYE) between PIE(Changi) Exit and PIE(Jurong) Exit.",
+            "Latitude": 1.3232617348984796,
+            "Longitude": 103.85782339407184
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(13/1)8:37 Heavy Traffic on CTE (towards AYE) between AMK Ave 5 Exit and AMK Ave 1 Exit.",
+            "Latitude": 1.360880846484177,
+            "Longitude": 103.8584199584542
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(13/1)8:33 Heavy Traffic in CTE Tunnel (towards AYE) at Orchard Road Exit.",
+            "Latitude": 1.302511456063064,
+            "Longitude": 103.84185251888452
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(13/1)8:27 Heavy Traffic on PIE (towards Changi Airport) at Simei Ave Exit.",
+            "Latitude": 1.3421017285763037,
+            "Longitude": 103.94730605057171
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(13/1)8:20 Heavy Traffic in CTE Tunnel (towards AYE) at Havelock Road Exit.",
+            "Latitude": 1.2900170381146185,
+            "Longitude": 103.84270042174437
+        },
+        {
+            "Type": "Accident",
+            "Message": "(13/1)8:20 Accident on Bras Basah Road (towards Raffles Boulevard) after Prinsep Street with congestion till Grange Road.",
+            "Latitude": 1.2974333150757602,
+            "Longitude": 103.85021426325731
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(13/1)7:59 Heavy Traffic on Jalan Anak Bukit (towards City) between Hillview Road and Old Jurong Road.",
+            "Latitude": 1.3429572707397117,
+            "Longitude": 103.77708990090392
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(13/1)7:56 Heavy Traffic on Dunearn Slip Road between Adam Road/Dunearn Road Junction and Hillcrest Road.",
+            "Latitude": 1.3240651384852868,
+            "Longitude": 103.81307983678276
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(13/1)7:40 Heavy Traffic on KPE (towards ECP) at Nicoll Highway Exit.",
+            "Latitude": 1.3097004372823606,
+            "Longitude": 103.87581598155747
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(13/1)7:33 Heavy Traffic on TPE (towards PIE) between Pasir Ris Dr 12 Exit and PIE Exit.",
+            "Latitude": 1.3556579461200065,
+            "Longitude": 103.96331577728908
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(13/1)7:32 Heavy Traffic on PIE (towards Tuas) at AYE Exit.",
+            "Latitude": 1.3261447895558476,
+            "Longitude": 103.6659070014142
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(13/1)7:28 Heavy Traffic on KPE (towards ECP) after Buangkok Dr Entrance.",
+            "Latitude": 1.3713022054538908,
+            "Longitude": 103.90832880383286
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(13/1)7:19 Heavy Traffic on PIE (towards Changi Airport) at Lornie Rd Exit.",
+            "Latitude": 1.3337807104618546,
+            "Longitude": 103.81444196115861
+        },
+        {
+            "Type": "Roadwork",
+            "Message": "(13/1)6:19 Roadworks on Orchard Road (towards Bras Basah Rd) after Scotts Road. Avoid right lane.",
+            "Latitude": 1.3029847236113719,
+            "Longitude": 103.83560716706079
+        },
+        {
+            "Type": "Roadwork",
+            "Message": "(13/1)6:08 Roadworks on Orchard Road (towards Bras Basah Rd) after Tanglin Road. Avoid right lane.",
+            "Latitude": 1.3053544398822419,
+            "Longitude": 103.83130960801142
+        }
+    ]
+}

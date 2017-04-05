@@ -1,0 +1,442 @@
+{
+    "features": [
+        {
+            "id": 1,
+            "properties": {
+                "Name": "Bukit Merah Public Library",
+                "PostalCode": "159462",
+                "desc": "3779 Jalan Bukit Merah  Singapore 159462",
+                "Address": "3779 Jalan Bukit Merah  Singapore 159462",
+                "name": "Bukit Merah Public Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.815563739357,
+                    1.28422509959138
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "properties": {
+                "Name": "library@esplanade",
+                "PostalCode": "",
+                "desc": "8 Raffles Avenue #03-01 Singapore 39802",
+                "Address": "8 Raffles Avenue #03-01 Singapore 39802",
+                "name": "library@esplanade",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.857090277383,
+                    1.28942624008374
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "properties": {
+                "Name": "Queenstown Public Library",
+                "PostalCode": "149297",
+                "desc": "53 Margaret Drive  Singapore 149297",
+                "Address": "53 Margaret Drive  Singapore 149297",
+                "name": "Queenstown Public Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.805430801325,
+                    1.29864022011418
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "properties": {
+                "Name": "National Library  (Central Public Library)",
+                "PostalCode": "188064",
+                "desc": "100 Victoria Street, National Library Building #14-01 Singapore 188064",
+                "Address": "100 Victoria Street, National Library Building #14-01 Singapore 188064",
+                "name": "National Library  (Central Public Library)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854243398656,
+                    1.2975612434867
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "properties": {
+                "Name": "Marine Parade Public Library",
+                "PostalCode": "449282",
+                "desc": "278 Marine Parade Road #01-02 Singapore 449282",
+                "Address": "278 Marine Parade Road #01-02 Singapore 449282",
+                "name": "Marine Parade Public Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.909640247999,
+                    1.30487639040107
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "properties": {
+                "Name": "Clementi Community Library",
+                "PostalCode": "120322",
+                "desc": "332 Clementi Avenue 5 #01-235   Singapore 120322",
+                "Address": "332 Clementi Avenue 5 #01-235   Singapore 120322",
+                "name": "Clementi Community Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.766329890874,
+                    1.31615717700271
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "properties": {
+                "Name": "Geylang East Library",
+                "PostalCode": "389777",
+                "desc": "50 Geylang East Ave 1  Singapore 389777",
+                "Address": "50 Geylang East Ave 1  Singapore 389777",
+                "name": "Geylang East Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.885837275402,
+                    1.31744298885692
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "properties": {
+                "Name": "Bedok Public Library",
+                "PostalCode": "469659",
+                "desc": "21 Bedok North St. 1  Singapore 469659",
+                "Address": "21 Bedok North St. 1  Singapore 469659",
+                "name": "Bedok Public Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.930792195755,
+                    1.32683568960623
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "properties": {
+                "Name": "Jurong West Public Library",
+                "PostalCode": "648346",
+                "desc": "60 Jurong West Central 3,  #01-03 Singapore 648346",
+                "Address": "60 Jurong West Central 3,  #01-03 Singapore 648346",
+                "name": "Jurong West Public Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.704538474192,
+                    1.3405458565321
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "properties": {
+                "Name": "Jurong Regional Library",
+                "PostalCode": "609732",
+                "desc": "21 Jurong East Central 1  Singapore 609732",
+                "Address": "21 Jurong East Central 1  Singapore 609732",
+                "name": "Jurong Regional Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.739492767422,
+                    1.33288031932771
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "properties": {
+                "Name": "Toa Payoh Public Library",
+                "PostalCode": "319191",
+                "desc": "6 Toa Payoh Central  Singapore 319191",
+                "Address": "6 Toa Payoh Central  Singapore 319191",
+                "name": "Toa Payoh Public Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850491803007,
+                    1.33352077104239
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "properties": {
+                "Name": "Bukit Batok Public Library",
+                "PostalCode": "658713",
+                "desc": "1 Bukit Batok Central Link, West Mall  #03-01 Singapore 658713",
+                "Address": "1 Bukit Batok Central Link, West Mall  #03-01 Singapore 658713",
+                "name": "Bukit Batok Public Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.749353537464,
+                    1.35001950784228
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "properties": {
+                "Name": "Bishan Public Library",
+                "PostalCode": "579841",
+                "desc": "5 Bishan Place, Singapore  #01-01 Singapore 579841",
+                "Address": "5 Bishan Place, Singapore  #01-01 Singapore 579841",
+                "name": "Bishan Public Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.848840460902,
+                    1.34985071447302
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "properties": {
+                "Name": "Tampines Regional Library",
+                "PostalCode": "529620",
+                "desc": "31 Tampines Ave 7  Singapore 529620",
+                "Address": "31 Tampines Ave 7  Singapore 529620",
+                "name": "Tampines Regional Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.944524765747,
+                    1.3563120103331
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "properties": {
+                "Name": "Ang Mo Kio Public Library",
+                "PostalCode": "569842",
+                "desc": "4300 Ang Mo Kio Avenue 6  Singapore 569842",
+                "Address": "4300 Ang Mo Kio Avenue 6  Singapore 569842",
+                "name": "Ang Mo Kio Public Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845893820482,
+                    1.37498073385901
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "properties": {
+                "Name": "Cheng San Public Library",
+                "PostalCode": "538766",
+                "desc": "90 Hougang Mall, Hougang Avenue 10 #03-11 Singapore 538766",
+                "Address": "90 Hougang Mall, Hougang Avenue 10 #03-11 Singapore 538766",
+                "name": "Cheng San Public Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.893823083557,
+                    1.37210187045472
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "properties": {
+                "Name": "Pasir Ris Public Library",
+                "PostalCode": "518457",
+                "desc": "1 Pasir Ris Central St 3,  White Sands #04-01/06 Singapore 518457",
+                "Address": "1 Pasir Ris Central St 3,  White Sands #04-01/06 Singapore 518457",
+                "name": "Pasir Ris Public Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.949749226457,
+                    1.37239898072234
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "properties": {
+                "Name": "Choa Chu Kang",
+                "PostalCode": "689812",
+                "desc": "21 Choa Chu Kang Avenue 4, Lot One Shoppers&apos; Mall #04-01/02 Singapore 689812",
+                "Address": "21 Choa Chu Kang Avenue 4, Lot One Shoppers&apos; Mall #04-01/02 Singapore 689812",
+                "name": "Choa Chu Kang",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.744849694697,
+                    1.38526407203666
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "properties": {
+                "Name": "Bukit Panjang Public Library",
+                "PostalCode": "677743",
+                "desc": "1 Jelebu Road, Bukit Panjang Plaza #04-16/17 Singapore 677743",
+                "Address": "1 Jelebu Road, Bukit Panjang Plaza #04-16/17 Singapore 677743",
+                "name": "Bukit Panjang Public Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.76435794456,
+                    1.3799494031145
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "properties": {
+                "Name": "Sengkang Public Library",
+                "PostalCode": "545078",
+                "desc": "1 Sengkang Square, Compass Point #04-26 / 27 Singapore 545078",
+                "Address": "1 Sengkang Square, Compass Point #04-26 / 27 Singapore 545078",
+                "name": "Sengkang Public Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.894798285519,
+                    1.39155099881343
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "properties": {
+                "Name": "Woodlands Regional Library",
+                "PostalCode": "730900",
+                "desc": "900 South Woodlands Drive, Woodlands Civic Centre  #01-03 Singapore 730900",
+                "Address": "900 South Woodlands Drive, Woodlands Civic Centre  #01-03 Singapore 730900",
+                "name": "Woodlands Regional Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.786696398819,
+                    1.43526547823501
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "properties": {
+                "Name": "Yishun Public Library",
+                "PostalCode": "769098",
+                "desc": "930 Yishun Ave 2, Northpoint Shopping Centre #04-01 Singapore 769098",
+                "Address": "930 Yishun Ave 2, Northpoint Shopping Centre #04-01 Singapore 769098",
+                "name": "Yishun Public Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83633405694,
+                    1.42935472879534
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "properties": {
+                "Name": "Sembawang  Public Library",
+                "PostalCode": "757713",
+                "desc": "30 Sembawang Drive,  Sun Plaza   #03-01 Singapore 757713",
+                "Address": "30 Sembawang Drive,  Sun Plaza   #03-01 Singapore 757713",
+                "name": "Sembawang  Public Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.819498634275,
+                    1.44819666623891
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

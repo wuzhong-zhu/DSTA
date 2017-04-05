@@ -1,0 +1,1183 @@
+{
+    "features": [
+        {
+            "id": 1,
+            "properties": {
+                "Name": "Butterfly Park &amp; Insect Kingdom",
+                "PostalCode": "099702",
+                "desc": "51 Cable Car Road    Singapore 099702",
+                "Address": "51 Cable Car Road    Singapore 099702",
+                "name": "Butterfly Park &amp; Insect Kingdom",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.817004832191,
+                    1.25550582997007
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "properties": {
+                "Name": "Sentosa 4D Magic",
+                "PostalCode": "099708",
+                "desc": "51B Cable Car Road    Singapore 099708",
+                "Address": "51B Cable Car Road    Singapore 099708",
+                "name": "Sentosa 4D Magic",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.816509114282,
+                    1.25537686434707
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "properties": {
+                "Name": "Sentosa CineBlast",
+                "PostalCode": "098464",
+                "desc": "51C Imbiah Road    Singapore 098464",
+                "Address": "51C Imbiah Road    Singapore 098464",
+                "name": "Sentosa CineBlast",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.816195085423,
+                    1.25565244042085
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "properties": {
+                "Name": "Songs of the Sea",
+                "PostalCode": "099538",
+                "desc": "Siloso Beach    Singapore 099538",
+                "Address": "Siloso Beach    Singapore 099538",
+                "name": "Songs of the Sea",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.814500418506,
+                    1.25498726817931
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "properties": {
+                "Name": "MegaZip Adventure Park",
+                "PostalCode": "099008",
+                "desc": "10A Siloso Beach Walk    Singapore 099008",
+                "Address": "10A Siloso Beach Walk    Singapore 099008",
+                "name": "MegaZip Adventure Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.812719895656,
+                    1.25576970227367
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "properties": {
+                "Name": "Tiger Sky Tower",
+                "PostalCode": "099707",
+                "desc": "41 Imbiah Road    Singapore 099707",
+                "Address": "41 Imbiah Road    Singapore 099707",
+                "name": "Tiger Sky Tower",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.817602654367,
+                    1.25491485820644
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "properties": {
+                "Name": "Underwater World Singapore",
+                "PostalCode": "098969",
+                "desc": "80 Siloso Road    Singapore 098969",
+                "Address": "80 Siloso Road    Singapore 098969",
+                "name": "Underwater World Singapore",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.811518946385,
+                    1.25812668481068
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "properties": {
+                "Name": "Cable Car",
+                "PostalCode": "099203",
+                "desc": "109 Mount Faber Road    Singapore 099203",
+                "Address": "109 Mount Faber Road    Singapore 099203",
+                "name": "Cable Car",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.819789177722,
+                    1.2710818516293
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "properties": {
+                "Name": "Haw Par Villa",
+                "PostalCode": "118628",
+                "desc": "262 Pasir Panjang Road    Singapore 118628",
+                "Address": "262 Pasir Panjang Road    Singapore 118628",
+                "name": "Haw Par Villa",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.783151134827,
+                    1.28547960478479
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "properties": {
+                "Name": "Buddha Tooth Relic Temple",
+                "PostalCode": "058840",
+                "desc": "288 South Bridge Road    Singapore 058840",
+                "Address": "288 South Bridge Road    Singapore 058840",
+                "name": "Buddha Tooth Relic Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.844242687092,
+                    1.28149322103106
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "properties": {
+                "Name": "Singapore City Gallery",
+                "PostalCode": "069118",
+                "desc": "45 Maxwell Road    Singapore 069118",
+                "Address": "45 Maxwell Road    Singapore 069118",
+                "name": "Singapore City Gallery",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845850840021,
+                    1.2801845975946
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "properties": {
+                "Name": "Chinatown Heritage Centre",
+                "PostalCode": "059207",
+                "desc": "48 Pagoda Street    Singapore 059207",
+                "Address": "48 Pagoda Street    Singapore 059207",
+                "name": "Chinatown Heritage Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.844377782308,
+                    1.28357839653555
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "properties": {
+                "Name": "GX-5 Xtreme Swing",
+                "PostalCode": "179024",
+                "desc": "3E River Valley Road    Singapore 179024",
+                "Address": "3E River Valley Road    Singapore 179024",
+                "name": "GX-5 Xtreme Swing",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846483185195,
+                    1.29053449883838
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "properties": {
+                "Name": "Jamae Chulia Mosque",
+                "PostalCode": "058767",
+                "desc": "218 South Bridge Road    Singapore 058767",
+                "Address": "218 South Bridge Road    Singapore 058767",
+                "name": "Jamae Chulia Mosque",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845394765183,
+                    1.28319555616221
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "properties": {
+                "Name": "Lau Pa Sat",
+                "PostalCode": "048582",
+                "desc": "18 Raffles Quay    Singapore 048582",
+                "Address": "18 Raffles Quay    Singapore 048582",
+                "name": "Lau Pa Sat",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850414526439,
+                    1.28060306594635
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "properties": {
+                "Name": "Sri Mariamman Temple",
+                "PostalCode": "058793",
+                "desc": "244 South Bridge Road    Singapore 058793",
+                "Address": "244 South Bridge Road    Singapore 058793",
+                "name": "Sri Mariamman Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845305626955,
+                    1.28251802448379
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "properties": {
+                "Name": "Tan Si Chong Su Temple",
+                "PostalCode": "059568",
+                "desc": "15 Magazine Road    Singapore 059568",
+                "Address": "15 Magazine Road    Singapore 059568",
+                "name": "Tan Si Chong Su Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.842854599783,
+                    1.28929183639773
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "properties": {
+                "Name": "Singapore Flyer",
+                "PostalCode": "039803",
+                "desc": "30 Raffles Avenue     Singapore 039803",
+                "Address": "30 Raffles Avenue     Singapore 039803",
+                "name": "Singapore Flyer",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.863372154722,
+                    1.28971341744795
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "properties": {
+                "Name": "Esplanade - Theatres on the Bay",
+                "PostalCode": "038981",
+                "desc": "1 Esplanade Drive    Singapore 038981",
+                "Address": "1 Esplanade Drive    Singapore 038981",
+                "name": "Esplanade - Theatres on the Bay",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.855288015883,
+                    1.28986232281497
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "properties": {
+                "Name": "Merlion Park",
+                "PostalCode": "049213",
+                "desc": "1 Fullerton    Singapore 049213",
+                "Address": "1 Fullerton    Singapore 049213",
+                "name": "Merlion Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853982428124,
+                    1.28562623468019
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "properties": {
+                "Name": "Marina Barrage",
+                "PostalCode": "018951",
+                "desc": "8 Marina Gardens Drive    Singapore 018951",
+                "Address": "8 Marina Gardens Drive    Singapore 018951",
+                "name": "Marina Barrage",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.871571990341,
+                    1.28064693302133
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "properties": {
+                "Name": "Armenian Church",
+                "PostalCode": "179366",
+                "desc": "60 Hill Street    Singapore 179366",
+                "Address": "60 Hill Street    Singapore 179366",
+                "name": "Armenian Church",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.849404781715,
+                    1.2929699545142
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "properties": {
+                "Name": "Battle Box",
+                "PostalCode": "179872",
+                "desc": "15 Canning Rise     Singapore 179872",
+                "Address": "15 Canning Rise     Singapore 179872",
+                "name": "Battle Box",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846191403119,
+                    1.29616018314232
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "properties": {
+                "Name": "CHIJMES",
+                "PostalCode": "187996",
+                "desc": "30 Victoria Street    Singapore 187996",
+                "Address": "30 Victoria Street    Singapore 187996",
+                "name": "CHIJMES",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.852159965974,
+                    1.29559445635422
+                ]
+            }
+        },
+        {
+            "id": 25,
+            "properties": {
+                "Name": "Maghain Aboth Synagogue",
+                "PostalCode": "187950",
+                "desc": "24 Waterloo Street     Singapore 187950",
+                "Address": "24 Waterloo Street     Singapore 187950",
+                "name": "Maghain Aboth Synagogue",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850599501752,
+                    1.29827328646441
+                ]
+            }
+        },
+        {
+            "id": 26,
+            "properties": {
+                "Name": "Sri Thandayuthapani Temple",
+                "PostalCode": "238065",
+                "desc": "15 Tank Road    Singapore 238065",
+                "Address": "15 Tank Road    Singapore 238065",
+                "name": "Sri Thandayuthapani Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.842935029214,
+                    1.29434705472466
+                ]
+            }
+        },
+        {
+            "id": 27,
+            "properties": {
+                "Name": "St Andrew&apos;s Cathedral",
+                "PostalCode": "179802",
+                "desc": "Coleman Street    Singapore 179802",
+                "Address": "Coleman Street    Singapore 179802",
+                "name": "St Andrew&apos;s Cathedral",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851749009195,
+                    1.29199957313793
+                ]
+            }
+        },
+        {
+            "id": 28,
+            "properties": {
+                "Name": "Hajjah Fatimah Mosque",
+                "PostalCode": "199584",
+                "desc": "4001 Beach Road    Singapore 199584",
+                "Address": "4001 Beach Road    Singapore 199584",
+                "name": "Hajjah Fatimah Mosque",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.862860767798,
+                    1.3028889682099
+                ]
+            }
+        },
+        {
+            "id": 29,
+            "properties": {
+                "Name": "St. Joseph&apos;s Church",
+                "PostalCode": "188020",
+                "desc": "143 Victoria Street     Singapore 188020",
+                "Address": "143 Victoria Street     Singapore 188020",
+                "name": "St. Joseph&apos;s Church",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853152114177,
+                    1.29835827791365
+                ]
+            }
+        },
+        {
+            "id": 30,
+            "properties": {
+                "Name": "Sultan Mosque",
+                "PostalCode": "198833",
+                "desc": "3 Muscat Street     Singapore 198833",
+                "Address": "3 Muscat Street     Singapore 198833",
+                "name": "Sultan Mosque",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.858994560737,
+                    1.30224369235161
+                ]
+            }
+        },
+        {
+            "id": 31,
+            "properties": {
+                "Name": "Veeramakaliamman Temple",
+                "PostalCode": "218042",
+                "desc": "141 Serangoon Road    Singapore 218042",
+                "Address": "141 Serangoon Road    Singapore 218042",
+                "name": "Veeramakaliamman Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.852428318548,
+                    1.30788297146028
+                ]
+            }
+        },
+        {
+            "id": 32,
+            "properties": {
+                "Name": "Sakya Muni Buddha Gaya Temple",
+                "PostalCode": "218636",
+                "desc": "366 Race Course Road    Singapore 218636",
+                "Address": "366 Race Course Road    Singapore 218636",
+                "name": "Sakya Muni Buddha Gaya Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.856681022849,
+                    1.31506063327969
+                ]
+            }
+        },
+        {
+            "id": 33,
+            "properties": {
+                "Name": "Church of True Light",
+                "PostalCode": "208142",
+                "desc": "25G Perak Road    Singapore 208142",
+                "Address": "25G Perak Road    Singapore 208142",
+                "name": "Church of True Light",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853941667342,
+                    1.30527208566685
+                ]
+            }
+        },
+        {
+            "id": 34,
+            "properties": {
+                "Name": "Masjid Abdul Gaffoor Mosque",
+                "PostalCode": "209369",
+                "desc": "41 Dunlop Street     Singapore 209369",
+                "Address": "41 Dunlop Street     Singapore 209369",
+                "name": "Masjid Abdul Gaffoor Mosque",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853690894564,
+                    1.30448458501987
+                ]
+            }
+        },
+        {
+            "id": 35,
+            "properties": {
+                "Name": "Thekchen Choling",
+                "PostalCode": "209945",
+                "desc": "2 beatty Lane    Singapore 209945",
+                "Address": "2 beatty Lane    Singapore 209945",
+                "name": "Thekchen Choling",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.860336114577,
+                    1.31216301199372
+                ]
+            }
+        },
+        {
+            "id": 36,
+            "properties": {
+                "Name": "Eurasian Heritage Centre",
+                "PostalCode": "429744",
+                "desc": "139 Ceylon Road Eurasian Community House   Singapore 429744",
+                "Address": "139 Ceylon Road Eurasian Community House   Singapore 429744",
+                "name": "Eurasian Heritage Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.899291528047,
+                    1.31002144576012
+                ]
+            }
+        },
+        {
+            "id": 37,
+            "properties": {
+                "Name": "Katong Antique House",
+                "PostalCode": "428907",
+                "desc": "208 East Coast Road    Singapore 428907",
+                "Address": "208 East Coast Road    Singapore 428907",
+                "name": "Katong Antique House",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.907164872631,
+                    1.30719917502551
+                ]
+            }
+        },
+        {
+            "id": 38,
+            "properties": {
+                "Name": "Sri Senpaga Vinayagar Temple",
+                "PostalCode": "429613",
+                "desc": "19 Ceylon Road    Singapore 429613",
+                "Address": "19 Ceylon Road    Singapore 429613",
+                "name": "Sri Senpaga Vinayagar Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.902443701493,
+                    1.30558203593429
+                ]
+            }
+        },
+        {
+            "id": 39,
+            "properties": {
+                "Name": "Ski 360",
+                "PostalCode": "449891",
+                "desc": "1206A East Coast Parkway    Singapore 449891",
+                "Address": "1206A East Coast Parkway    Singapore 449891",
+                "name": "Ski 360",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.931685669276,
+                    1.30560052689471
+                ]
+            }
+        },
+        {
+            "id": 40,
+            "properties": {
+                "Name": "Jurong Bird Park",
+                "PostalCode": "628925",
+                "desc": "2 Jurong Hill    Singapore 628925",
+                "Address": "2 Jurong Hill    Singapore 628925",
+                "name": "Jurong Bird Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.705193803161,
+                    1.32108273880538
+                ]
+            }
+        },
+        {
+            "id": 41,
+            "properties": {
+                "Name": "Sun Yat Sen Nanyang Memorial Hall",
+                "PostalCode": "327874",
+                "desc": "12 Tai Gin Road    Singapore 327874",
+                "Address": "12 Tai Gin Road    Singapore 327874",
+                "name": "Sun Yat Sen Nanyang Memorial Hall",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847264063797,
+                    1.32815082119912
+                ]
+            }
+        },
+        {
+            "id": 42,
+            "properties": {
+                "Name": "New Water Visitor Centre",
+                "PostalCode": "486593",
+                "desc": "20 Koh Sek Lim Road    Singapore 486593",
+                "Address": "20 Koh Sek Lim Road    Singapore 486593",
+                "name": "New Water Visitor Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.958730042697,
+                    1.32402746570804
+                ]
+            }
+        },
+        {
+            "id": 43,
+            "properties": {
+                "Name": "Singapore Discovery Centre",
+                "PostalCode": "638365",
+                "desc": "510 Upper Jurong Road    Singapore 638365",
+                "Address": "510 Upper Jurong Road    Singapore 638365",
+                "name": "Singapore Discovery Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.678942758368,
+                    1.33272643521442
+                ]
+            }
+        },
+        {
+            "id": 44,
+            "properties": {
+                "Name": "Science Centre Singapore",
+                "PostalCode": "609081",
+                "desc": "15 Science Center Road     Singapore 609081",
+                "Address": "15 Science Center Road     Singapore 609081",
+                "name": "Science Centre Singapore",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.73629809735,
+                    1.33289912099738
+                ]
+            }
+        },
+        {
+            "id": 45,
+            "properties": {
+                "Name": "Chinese Garden",
+                "PostalCode": "619795",
+                "desc": "1 Chinese Garden    Singapore 619795",
+                "Address": "1 Chinese Garden    Singapore 619795",
+                "name": "Chinese Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.730737760615,
+                    1.3390588819582
+                ]
+            }
+        },
+        {
+            "id": 46,
+            "properties": {
+                "Name": "Snow City",
+                "PostalCode": "609433",
+                "desc": "21 Jurong Town Hall Road Snow City Building   Singapore 609433",
+                "Address": "21 Jurong Town Hall Road Snow City Building   Singapore 609433",
+                "name": "Snow City",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.735123740707,
+                    1.33512868218906
+                ]
+            }
+        },
+        {
+            "id": 47,
+            "properties": {
+                "Name": "Wild Wild Wet",
+                "PostalCode": "519599",
+                "desc": "1 Pasir Ris Close Downtown East   Singapore 519599",
+                "Address": "1 Pasir Ris Close Downtown East   Singapore 519599",
+                "name": "Wild Wild Wet",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.955598938106,
+                    1.37595121749187
+                ]
+            }
+        },
+        {
+            "id": 48,
+            "properties": {
+                "Name": "Farmart",
+                "PostalCode": "699008",
+                "desc": "67 Sungei Tengah Road    Singapore 699008",
+                "Address": "67 Sungei Tengah Road    Singapore 699008",
+                "name": "Farmart",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.726142632459,
+                    1.38190264404173
+                ]
+            }
+        },
+        {
+            "id": 49,
+            "properties": {
+                "Name": "Chengtai Nursery",
+                "PostalCode": "698997",
+                "desc": "51 Sungei Tengah Road    Singapore 698997",
+                "Address": "51 Sungei Tengah Road    Singapore 698997",
+                "name": "Chengtai Nursery",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.730026675452,
+                    1.37971475681857
+                ]
+            }
+        },
+        {
+            "id": 50,
+            "properties": {
+                "Name": "Singapore Zoo",
+                "PostalCode": "729826",
+                "desc": "80 Mandai Lake Road     Singapore 729826",
+                "Address": "80 Mandai Lake Road     Singapore 729826",
+                "name": "Singapore Zoo",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.791101150753,
+                    1.40526436415104
+                ]
+            }
+        },
+        {
+            "id": 51,
+            "properties": {
+                "Name": "Bollywood Veggies",
+                "PostalCode": "719026",
+                "desc": "100 Neo Tiew Road    Singapore 719026",
+                "Address": "100 Neo Tiew Road    Singapore 719026",
+                "name": "Bollywood Veggies",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.716830755196,
+                    1.41829951563979
+                ]
+            }
+        },
+        {
+            "id": 52,
+            "properties": {
+                "Name": "Kranji War Memorial",
+                "PostalCode": "738656",
+                "desc": "9 Woodlands Road    Singapore 738656",
+                "Address": "9 Woodlands Road    Singapore 738656",
+                "name": "Kranji War Memorial",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.757487032851,
+                    1.41902996952283
+                ]
+            }
+        },
+        {
+            "id": 53,
+            "properties": {
+                "Name": "Orchidville",
+                "PostalCode": "778793",
+                "desc": "10 Lorong Lada Hitam    Singapore 778793",
+                "Address": "10 Lorong Lada Hitam    Singapore 778793",
+                "name": "Orchidville",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.797909499167,
+                    1.41736021716817
+                ]
+            }
+        },
+        {
+            "id": 54,
+            "properties": {
+                "Name": "Fire Flies Health Farm",
+                "PostalCode": "719842",
+                "desc": "75 Lim Chu Kang Lane 2    Singapore 719842",
+                "Address": "75 Lim Chu Kang Lane 2    Singapore 719842",
+                "name": "Fire Flies Health Farm",
+                "type": "#fire"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.706794302332,
+                    1.42824944155112
+                ]
+            }
+        },
+        {
+            "id": 55,
+            "properties": {
+                "Name": "Hay Dairies",
+                "PostalCode": "718859",
+                "desc": "3 Lim Chu Kang Agrotech Park Lane 4   Singapore 718859",
+                "Address": "3 Lim Chu Kang Agrotech Park Lane 4   Singapore 718859",
+                "name": "Hay Dairies",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.70966126442,
+                    1.43143372953535
+                ]
+            }
+        },
+        {
+            "id": 56,
+            "properties": {
+                "Name": "Dream Fish - Merlion Arowanas Farm",
+                "PostalCode": "718831",
+                "desc": "221 Neo Tew Crescent    Singapore 718831",
+                "Address": "221 Neo Tew Crescent    Singapore 718831",
+                "name": "Dream Fish - Merlion Arowanas Farm",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.724634474967,
+                    1.43582533394659
+                ]
+            }
+        },
+        {
+            "id": 57,
+            "properties": {
+                "Name": "Aero-green Technology",
+                "PostalCode": "718925",
+                "desc": "114 Neo Tiew Cresent Plot LCK   Singapore 718925",
+                "Address": "114 Neo Tiew Cresent Plot LCK   Singapore 718925",
+                "name": "Aero-green Technology",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.728910833313,
+                    1.44620581316228
+                ]
+            }
+        },
+        {
+            "id": 58,
+            "properties": {
+                "Name": "Nyee Phoe Flower Garden",
+                "PostalCode": "718898",
+                "desc": "240  Neo Tiew Crescent    Singapore 718898",
+                "Address": "240  Neo Tiew Crescent    Singapore 718898",
+                "name": "Nyee Phoe Flower Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.729790749528,
+                    1.44144028079593
+                ]
+            }
+        },
+        {
+            "id": 59,
+            "properties": {
+                "Name": "Sentosa Luge &amp; Skyride",
+                "PostalCode": "099003",
+                "desc": "45 Siloso Beach Walk    Singapore 099003",
+                "Address": "45 Siloso Beach Walk    Singapore 099003",
+                "name": "Sentosa Luge &amp; Skyride",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.816882292989,
+                    1.25226623065549
+                ]
+            }
+        },
+        {
+            "id": 60,
+            "properties": {
+                "Name": "Images of Singapore",
+                "PostalCode": "099700",
+                "desc": "40 Imbiah Road    Singapore 099700",
+                "Address": "40 Imbiah Road    Singapore 099700",
+                "name": "Images of Singapore",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.817670156987,
+                    1.25405767425054
+                ]
+            }
+        },
+        {
+            "id": 61,
+            "properties": {
+                "Name": "Wave Houes Sentosa",
+                "PostalCode": "098996",
+                "desc": "36 Siloso Beach Walk    Singapore 098996",
+                "Address": "36 Siloso Beach Walk    Singapore 098996",
+                "name": "Wave Houes Sentosa",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.814600368493,
+                    1.25406350519534
+                ]
+            }
+        },
+        {
+            "id": 62,
+            "properties": {
+                "Name": "Sentosa",
+                "PostalCode": "099981",
+                "desc": "33 Allanbrooke Road    Singapore 099981",
+                "Address": "33 Allanbrooke Road    Singapore 099981",
+                "name": "Sentosa",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.828065259646,
+                    1.24845870104058
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

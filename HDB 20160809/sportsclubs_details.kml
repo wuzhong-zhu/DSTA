@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>SG - HDB Themes - sportsclubs (20)</name>
+    <Style id="carparkIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBcarpark.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="flatIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBflat.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="marketIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBmarket.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="shopIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBshop.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="industrialIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBindustrial.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="foodcentreIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBfoodcentre.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="childcareIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBchildcare.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="communityclubsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBcommunityclubs.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="kindergartensIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBkindergartens.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="libraryIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBlibrary.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="mrtIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBmrt.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="parksIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBparks.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="heritageSitesIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBheritageSites.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="placeinterestIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBplaceinterest.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="worshipIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBworship.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="policestationIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBpolicestation.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="residentcentreIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBresidentcentre.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="schoolsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBschools.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="sportsclubsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBsportsclubs.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="towncouncilIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBtowncouncil.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Delta Sports and Recreation Centre</name>
+      <description>[900 Tiong Bahru Road    Singapore 158790],Create DateTime=20150630110638</description>
+      <styleUrl>sportsclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.819797326692,1.28905814945475, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>900 Tiong Bahru Road    Singapore 158790</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Delta Sports and Recreation Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>158790</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Queenstown Sports and Recreation Centre</name>
+      <description>[473 Stirling Road    Singapore 148948],Create DateTime=20150630110638</description>
+      <styleUrl>sportsclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.802244067609,1.29648188401423, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>473 Stirling Road    Singapore 148948</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Queenstown Sports and Recreation Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>148948</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Clementi Sports and Recreation Centre</name>
+      <description>[518 Clementi Ave 3    Singapore 129907],Create DateTime=20150630110638</description>
+      <styleUrl>sportsclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.765015616825,1.31090387894989, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>518 Clementi Ave 3    Singapore 129907</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Clementi Sports and Recreation Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>129907</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jalan Besar Sports and Recreation Centre</name>
+      <description>[100 Tyrwhitt Road, #01-03    Singapore 207542],Create DateTime=20150630110638</description>
+      <styleUrl>sportsclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.86012080093,1.31100188392461, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>100 Tyrwhitt Road, #01-03    Singapore 207542</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jalan Besar Sports and Recreation Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>207542</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kallang Sports and Recreation Centre</name>
+      <description>[15 Stadium Road    Singapore 397718],Create DateTime=20150630110638</description>
+      <styleUrl>sportsclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.87476308857,1.3042317339196, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>15 Stadium Road    Singapore 397718</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kallang Sports and Recreation Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>397718</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Geylang Sports and Recreation Centre</name>
+      <description>[601 Aljunied Crescent    Singapore 389862],Create DateTime=20150630110638</description>
+      <styleUrl>sportsclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.888563635506,1.32073444573256, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>601 Aljunied Crescent    Singapore 389862</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Geylang Sports and Recreation Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>389862</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bedok Sports and Recreation Centre</name>
+      <description>[5 Bedok North Street 2    Singapore 469645],Create DateTime=20150630110638</description>
+      <styleUrl>sportsclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.938326341196,1.32584806880019, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>5 Bedok North Street 2    Singapore 469645</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bedok Sports and Recreation Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>469645</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jurong West Sports and Recreation Centre</name>
+      <description>[20 Jurong West Street 93    Singapore 648965],Create DateTime=20150630110638</description>
+      <styleUrl>sportsclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.693854311139,1.33823750100724, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>20 Jurong West Street 93    Singapore 648965</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jurong West Sports and Recreation Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>648965</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Toa Payoh Sports and Recreation Centre</name>
+      <description>[301 Toa Payoh Lor 6    Singapore 319392],Create DateTime=20150630110638</description>
+      <styleUrl>sportsclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.851566351683,1.33028646772691, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>301 Toa Payoh Lor 6    Singapore 319392</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Toa Payoh Sports and Recreation Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>319392</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jurong East Sports and Recreation Centre</name>
+      <description>[21 Jurong East Street 31    Singapore 609517],Create DateTime=20150630110638</description>
+      <styleUrl>sportsclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.729175052509,1.34685582891208, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>21 Jurong East Street 31    Singapore 609517</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jurong East Sports and Recreation Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>609517</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bt Gombak Sports and Recreation Centre</name>
+      <description>[810 Bukit Gombak West Ave 5    Singapore 659081],Create DateTime=20150630110638</description>
+      <styleUrl>sportsclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.753205446534,1.35774784033119, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>810 Bukit Gombak West Ave 5    Singapore 659081</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bt Gombak Sports and Recreation Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>659081</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bishan Sports and Recreation Centre</name>
+      <description>[5 Bishan Street 14    Singapore 579783],Create DateTime=20150630110638</description>
+      <styleUrl>sportsclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.851403172966,1.35530525505098, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>5 Bishan Street 14    Singapore 579783</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bishan Sports and Recreation Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>579783</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Serangoon Sports and Recreation Centre</name>
+      <description>[Yio Chu Kang Road    Singapore 545552],Create DateTime=20150630110638</description>
+      <styleUrl>sportsclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.874521610105,1.35773286674735, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Yio Chu Kang Road    Singapore 545552</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Serangoon Sports and Recreation Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>545552</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tampines Sports and Recreation Centre</name>
+      <description>[495 Tampines Ave 5    Singapore 529649],Create DateTime=20150630110638</description>
+      <styleUrl>sportsclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.940656637198,1.35407311754894, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>495 Tampines Ave 5    Singapore 529649</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tampines Sports and Recreation Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>529649</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hougang Sports and Recreation Centre</name>
+      <description>[93 Hougang Avenue 4    Singapore 538832],Create DateTime=20150630110638</description>
+      <styleUrl>sportsclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.887697933612,1.37061119863724, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>93 Hougang Avenue 4    Singapore 538832</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Hougang Sports and Recreation Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>538832</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Yio Chu Kang Sports and Recreation Centre</name>
+      <description>[200 Ang Mo Kio Ave 9    Singapore 569770],Create DateTime=20150630110638</description>
+      <styleUrl>sportsclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.845866601713,1.38223815446867, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>200 Ang Mo Kio Ave 9    Singapore 569770</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Yio Chu Kang Sports and Recreation Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>569770</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Choa Chu Kang Sports and Recreation Centre</name>
+      <description>[1 Choa Chu Kang Street 53    Singapore 689236],Create DateTime=20150630110638</description>
+      <styleUrl>sportsclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.748632632918,1.39195790793919, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1 Choa Chu Kang Street 53    Singapore 689236</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Choa Chu Kang Sports and Recreation Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>689236</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sengkang Sports and Recreation Centre</name>
+      <description>[57 Anchorvale Rd    Singapore 544964],Create DateTime=20150630110638</description>
+      <styleUrl>sportsclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.886398868462,1.39612615463124, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>57 Anchorvale Rd    Singapore 544964</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sengkang Sports and Recreation Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>544964</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Yishun Sports and Recreation Centre</name>
+      <description>[101 Yishun Avenue 1    Singapore 769130],Create DateTime=20150630110638</description>
+      <styleUrl>sportsclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.831394651657,1.41198061880962, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>101 Yishun Avenue 1    Singapore 769130</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Yishun Sports and Recreation Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>769130</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Woodlands Sports and Recreation Centre</name>
+      <description>[Woodlands Street 13    Singapore 738597],Create DateTime=20150630110638</description>
+      <styleUrl>sportsclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.780306570274,1.43489538529581, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Woodlands Street 13    Singapore 738597</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Woodlands Sports and Recreation Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>738597</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>
+

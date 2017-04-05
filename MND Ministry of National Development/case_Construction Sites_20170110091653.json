@@ -1,0 +1,122 @@
+{
+    "ReturnCode": "0",
+    "Cases": [
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170110-086502",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 29808.5271,
+            "IncidentStreetName": "TIONG BAHRU ROAD",
+            "IncidentXCoordinate": 27569.5308,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-10T01:12:34"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170110-086498",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 29766.9138,
+            "IncidentStreetName": null,
+            "IncidentXCoordinate": 27580.6998,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-10T00:14:28"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170109-086318",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 35909.1366,
+            "IncidentStreetName": "LORONG 8 TOA PAYOH",
+            "IncidentXCoordinate": 30418.4721,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-09T09:04:30"
+        },
+        {
+            "IncidentPostalCode": "449410",
+            "MobileCaseID": "M170108-086028",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 31725.0723,
+            "IncidentStreetName": "MARINE PARADE CENTRAL",
+            "IncidentXCoordinate": 36152.5703,
+            "IncidentBlockNo": "5",
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-08T08:58:13"
+        },
+        {
+            "IncidentPostalCode": "787066",
+            "MobileCaseID": "M170108-086005",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 40553.5053,
+            "IncidentStreetName": "YIO CHU KANG ROAD",
+            "IncidentXCoordinate": 28411.9602,
+            "IncidentBlockNo": "511",
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-08T02:13:47"
+        },
+        {
+            "IncidentPostalCode": "640720",
+            "MobileCaseID": "M170106-085591",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 36271.467,
+            "IncidentStreetName": "JURONG WEST AVENUE 5",
+            "IncidentXCoordinate": 12928.2966,
+            "IncidentBlockNo": "720",
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-06T07:34:34"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170105-085409",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 30868.9434,
+            "IncidentStreetName": "MARGARET DRIVE",
+            "IncidentXCoordinate": 25291.3848,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-05T08:17:04"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170104-085189",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 33465.344,
+            "IncidentStreetName": "TOWNER ROAD",
+            "IncidentXCoordinate": 30961.7994,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-04T10:18:36"
+        },
+        {
+            "IncidentPostalCode": "828723",
+            "MobileCaseID": "M170103-085029",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 42762.5156,
+            "IncidentStreetName": "PUNGGOL CENTRAL",
+            "IncidentXCoordinate": 35839.9453,
+            "IncidentBlockNo": "92",
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-03T18:43:24"
+        }
+    ]
+}

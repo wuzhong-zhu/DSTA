@@ -1,0 +1,7245 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "BABCOCK & WILCOX POWER GENERATION GROUP, INC. SINGAPORE BRANCH", 
+		"ID": "T10FC0059C", 
+		"ADDRESS": "2 INTERNATIONAL BUSINESS PARK", 
+		"POSTALCODE": "609930", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115651"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.74726841258527, 1.3302439854741417 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "UTILITY DEVELOPMENT CORPORATION PTE. LTD.", 
+		"ID": "200707454D", 
+		"ADDRESS": "7 INTERNATIONAL BUSINESS PARK", 
+		"POSTALCODE": "609919", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115651"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.7498582053263, 1.3255432150226938 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GRAESS ENERGY PTE. LTD.", 
+		"ID": "201527959E", 
+		"ADDRESS": "20 PIONEER CRESCENT", 
+		"POSTALCODE": "628555", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115654"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.69504182768146, 1.3126753518041805 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SEMBCORP POWER PTE LTD", 
+		"ID": "199707557R", 
+		"ADDRESS": "30 HILL STREET", 
+		"POSTALCODE": "179360", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134851"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8495264932886, 1.293599854156353 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TIONG SAN HIAP HENG GAS SUPPLY COMPANY", 
+		"ID": "31731300B", 
+		"ADDRESS": "2 JALAN BUKIT MERAH", 
+		"POSTALCODE": "150002", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134849"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.80686195938264, 1.2866235302596807 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SUNERGY SOLUTIONS PTE. LTD.", 
+		"ID": "201214325W", 
+		"ADDRESS": "22 SIMEI RISE", 
+		"POSTALCODE": "528810", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121602"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.96051450630087, 1.348899103318822 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GREEN ECONER-G PTE. LTD.", 
+		"ID": "201302025G", 
+		"ADDRESS": "6 SUNRISE AVENUE", 
+		"POSTALCODE": "806668", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113634"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85538047373801, 1.391102495397499 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CHANG CHENG-CNEEC PTE LTD", 
+		"ID": "199603468R", 
+		"ADDRESS": "28 JALAN DAUD", 
+		"POSTALCODE": "419570", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130018"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.9086246131117, 1.3265735445545495 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SNOW SERVICE", 
+		"ID": "53281914D", 
+		"ADDRESS": "334C ANCHORVALE CRESCENT", 
+		"POSTALCODE": "543334", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121615"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.88970361246663, 1.3974152544154952 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LEONG CHEW INDUSTRIAL GAS PTE. LTD.", 
+		"ID": "201002634E", 
+		"ADDRESS": "3013 BEDOK INDUSTRIAL PARK E", 
+		"POSTALCODE": "489979", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130041"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.95068542767264, 1.3358280051721707 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LPG GAS EQUIPMENT & TRADING", 
+		"ID": "52802596A", 
+		"ADDRESS": "3007 UBI ROAD 1", 
+		"POSTALCODE": "408701", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130011"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89404208718489, 1.330864230772638 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SIN YUAN HONG LP GAS PTE. LTD.", 
+		"ID": "200908316D", 
+		"ADDRESS": "41 PHILLIPS AVENUE", 
+		"POSTALCODE": "546974", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121617"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8788678798224, 1.3632234612640115 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "POWERGRID LIMITED", 
+		"ID": "199504469Z", 
+		"ADDRESS": "10 PASIR PANJANG ROAD", 
+		"POSTALCODE": "117438", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134847"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.79907356982595, 1.2748197236337657 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SOUTH EAST ASIA ENERGY GROUP PTE. LTD.", 
+		"ID": "200502364M", 
+		"ADDRESS": "18 KAKI BUKIT ROAD 3", 
+		"POSTALCODE": "415978", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130015"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.902616281473, 1.337227077691362 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "KEPPEL ELECTRIC PTE LTD", 
+		"ID": "199704013Z", 
+		"ADDRESS": "1 HARBOURFRONT AVENUE", 
+		"POSTALCODE": "098632", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143835"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.81829061933236, 1.2648366708368473 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ASIA INDUSTRIAL GASES PTE. LTD .", 
+		"ID": "197201287D", 
+		"ADDRESS": "8 GUL ROAD", 
+		"POSTALCODE": "629341", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115654"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.66511366346697, 1.3034391212763117 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ALSCOTT ASIA PTE. LTD.", 
+		"ID": "201309217Z", 
+		"ADDRESS": "16 RAFFLES QUAY", 
+		"POSTALCODE": "048581", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143821"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85091465792415, 1.2813575156989403 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GREENETIC INVESTMENTS PTE. LTD.", 
+		"ID": "201334096N", 
+		"ADDRESS": "7500A BEACH ROAD", 
+		"POSTALCODE": "199591", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134855"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86085448888524, 1.299887774181569 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SURE AGROVENTURES PTE. LTD.", 
+		"ID": "201217122E", 
+		"ADDRESS": "19 KEPPEL ROAD", 
+		"POSTALCODE": "089058", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143834"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84243242557102, 1.2729895107432336 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AIR-TEMP (ME) PTE. LTD.", 
+		"ID": "200402113E", 
+		"ADDRESS": "3007 UBI ROAD 1", 
+		"POSTALCODE": "408701", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130011"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89404208718489, 1.330864230772638 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TSE GROUP INTERNATIONAL PTE. LTD.", 
+		"ID": "201504145G", 
+		"ADDRESS": "112 ROBINSON ROAD", 
+		"POSTALCODE": "068902", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143829"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84881655819943, 1.279276595492636 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GLOBETVISION PTE. LTD.", 
+		"ID": "201215553Z", 
+		"ADDRESS": "90 CECIL STREET", 
+		"POSTALCODE": "069531", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143830"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84907534966483, 1.2813430579672465 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SOLAR PHILIPPINES 3 PTE. LTD.", 
+		"ID": "201523654C", 
+		"ADDRESS": "152 BEACH ROAD", 
+		"POSTALCODE": "189721", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134853"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85941141485446, 1.2988188355494321 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AL KHANA SERVICES", 
+		"ID": "53252563M", 
+		"ADDRESS": "128C PUNGGOL FIELD WALK", 
+		"POSTALCODE": "823128", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113634"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.9125606315818, 1.3925428088771699 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SINGAPORE POWER LIMITED", 
+		"ID": "199406577N", 
+		"ADDRESS": "10 PASIR PANJANG ROAD", 
+		"POSTALCODE": "117438", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134847"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.79907356982595, 1.2748197236337657 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TIAN YI POWER CO PTE. LTD.", 
+		"ID": "200712136M", 
+		"ADDRESS": "7 TEMASEK BOULEVARD", 
+		"POSTALCODE": "038987", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143820"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85837446117547, 1.2954293030748256 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "J'S MECH PTE. LTD.", 
+		"ID": "200507424W", 
+		"ADDRESS": "8 SUNGEI KADUT STREET 5", 
+		"POSTALCODE": "728955", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113835"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.7465353569331, 1.4250053995897958 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "UNION SHENG WELDING (PTE.) LTD .", 
+		"ID": "197401739C", 
+		"ADDRESS": "28 SIN MING DRIVE", 
+		"POSTALCODE": "575702", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121628"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83583186725039, 1.3573573093020301 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "RESS INNOVATION PTE. LTD.", 
+		"ID": "201326334N", 
+		"ADDRESS": "2 BALESTIER ROAD", 
+		"POSTALCODE": "320002", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132153"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84293580524046, 1.3258900777088354 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "YONG YEW LEE GAS TRADING", 
+		"ID": "37056100K", 
+		"ADDRESS": "528 MACPHERSON ROAD", 
+		"POSTALCODE": "368217", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132159"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.88435029609634, 1.3323168537296 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CK AIR-CONDITION ENGINEERING PTE. LTD.", 
+		"ID": "201215689W", 
+		"ADDRESS": "452 YISHUN RING ROAD", 
+		"POSTALCODE": "760452", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113852"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84541899404091, 1.4220886448112546 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "XIE MING TRADING CO", 
+		"ID": "29624200D", 
+		"ADDRESS": "589 SERANGOON ROAD", 
+		"POSTALCODE": "218203", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133435"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85843666414556, 1.3159429095046586 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "QUANRONG INFRASTRUCTURE PTE. LTD.", 
+		"ID": "199405309C", 
+		"ADDRESS": "51 TUAS SOUTH STREET 5", 
+		"POSTALCODE": "637644", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115656"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.62293506749239, 1.2946293274345992 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CANADIAN SOLAR SOUTH EAST ASIA PTE. LTD.", 
+		"ID": "201129498K", 
+		"ADDRESS": "101 THOMSON ROAD", 
+		"POSTALCODE": "307591", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132150"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84363574303765, 1.3171629973847663 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "BIOFUEL POWER PTE. LTD.", 
+		"ID": "200608716K", 
+		"ADDRESS": "38 BEACH ROAD", 
+		"POSTALCODE": "189767", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134853"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85645697003244, 1.2954627827517133 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "H2SG ENERGY PTE. LTD.", 
+		"ID": "201328565E", 
+		"ADDRESS": "190 MIDDLE ROAD", 
+		"POSTALCODE": "188979", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134852"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8522868672151, 1.3004160000395575 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "PETITE SERVICES", 
+		"ID": "53273130A", 
+		"ADDRESS": "259 YISHUN STREET 22", 
+		"POSTALCODE": "760259", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113851"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83917921625401, 1.4349441403306207 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ENERSOLAR NEW ENERGY TECHNOLOGIES PTE. LTD.", 
+		"ID": "200806841D", 
+		"ADDRESS": "701 GEYLANG ROAD", 
+		"POSTALCODE": "389687", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132203"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.88946268649768, 1.314779394191875 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "OCCIDENTAL & ORIENTAL CELLARS SINGAPORE PTE. LTD.", 
+		"ID": "201213864N", 
+		"ADDRESS": "1 SCOTTS ROAD", 
+		"POSTALCODE": "228208", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133437"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83197075842212, 1.306107211958323 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ELEKTROMOTIVE SINGAPORE PTE. LTD.", 
+		"ID": "201117697W", 
+		"ADDRESS": "18 BOON LAY WAY", 
+		"POSTALCODE": "609966", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115651"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.75271550669062, 1.3285647751613607 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TUASPRING PTE. LTD.", 
+		"ID": "201023368R", 
+		"ADDRESS": "80 BENDEMEER ROAD", 
+		"POSTALCODE": "339949", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132157"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86310913863012, 1.3169096189333207 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TITAN WELDING COMPANY", 
+		"ID": "21233500J", 
+		"ADDRESS": "12 DEFU LANE 10", 
+		"POSTALCODE": "539193", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121611"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89428265293773, 1.3571413001410042 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "BLUE WHEELS SERVICES", 
+		"ID": "53120789K", 
+		"ADDRESS": "416 SAUJANA ROAD", 
+		"POSTALCODE": "670416", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115709"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.76845403146491, 1.3831903663467853 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "COOL VENTURE", 
+		"ID": "53262002W", 
+		"ADDRESS": "63 CIRCUIT ROAD", 
+		"POSTALCODE": "370063", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132200"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.88663340323856, 1.3265261884902633 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "BERG SOLAR PTE. LTD.", 
+		"ID": "201435997R", 
+		"ADDRESS": "35 SELEGIE ROAD", 
+		"POSTALCODE": "188307", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134852"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84944836460349, 1.3006393969230663 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AIR-TEMP ENGRG", 
+		"ID": "44293200J", 
+		"ADDRESS": "3007 UBI ROAD 1", 
+		"POSTALCODE": "408701", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130011"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89404208718489, 1.330864230772638 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "KRYSTAL COOL", 
+		"ID": "53272854L", 
+		"ADDRESS": "16 JALAN TENTERAM", 
+		"POSTALCODE": "321016", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132154"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85955998023897, 1.3281273438945265 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "M-COOL AIRCON SERVICES", 
+		"ID": "53295833X", 
+		"ADDRESS": "734 YISHUN AVENUE 5", 
+		"POSTALCODE": "760734", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113853"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83107479176414, 1.4292575339703624 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "DSP CONSULTING & ASSOCIATES LLP", 
+		"ID": "T09LL1146H", 
+		"ADDRESS": "15 WEST COAST HIGHWAY", 
+		"POSTALCODE": "117861", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134847"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.78278391775098, 1.2796243201635198 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MIDEA REFRIGERATION", 
+		"ID": "53181259J", 
+		"ADDRESS": "625 ALJUNIED ROAD", 
+		"POSTALCODE": "389836", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132204"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87885818770356, 1.3250766555524116 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "FUTURE NRG (SEA) PTE. LTD.", 
+		"ID": "201131151G", 
+		"ADDRESS": "83 GENTING LANE", 
+		"POSTALCODE": "349568", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132158"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87652916543719, 1.3267443375198662 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "HOME LOAN SOLUTIONS", 
+		"ID": "53171994D", 
+		"ADDRESS": "51 JALAN PEMIMPIN", 
+		"POSTALCODE": "577206", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121628"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84216314160616, 1.351888628727408 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "KITTY HAWK ELECTRIC PTE. LTD.", 
+		"ID": "201525172E", 
+		"ADDRESS": "9 RAFFLES PLACE", 
+		"POSTALCODE": "048619", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143822"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8508364975073, 1.2831870377649115 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "YONG NEWSPAPER AGENCY", 
+		"ID": "53111974B", 
+		"ADDRESS": "134 TAMPINES STREET 11", 
+		"POSTALCODE": "521134", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121600"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.94631345894241, 1.344663793621508 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "QUANTUM POWER ASIA PTE. LTD.", 
+		"ID": "201428846W", 
+		"ADDRESS": "50 CHIN SWEE ROAD", 
+		"POSTALCODE": "169874", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134850"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84029395049295, 1.2876519169239449 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "NEWIND ENERGY PTE. LTD.", 
+		"ID": "201417357N", 
+		"ADDRESS": "8 ROBINSON ROAD", 
+		"POSTALCODE": "048544", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143821"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85083918676376, 1.2822510245115082 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CHEONG BEE ENGINEERING SERVICES", 
+		"ID": "52931510J", 
+		"ADDRESS": "446 HOUGANG AVENUE 8", 
+		"POSTALCODE": "530446", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121605"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89428409797485, 1.3787979974550177 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "DIAMOND ENERGY SUPPLY PTE. LTD.", 
+		"ID": "201116636N", 
+		"ADDRESS": "1 CLEANTECH LOOP", 
+		"POSTALCODE": "637141", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115656"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.69237969824425, 1.355391625912175 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SMART ENERGY PTE. LTD.", 
+		"ID": "200618647D", 
+		"ADDRESS": "1 MANDAI LINK", 
+		"POSTALCODE": "728650", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113834"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.75775380812483, 1.411182672363686 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "H&SHUN POWER PTE. LTD.", 
+		"ID": "201409195H", 
+		"ADDRESS": "50 RAFFLES PLACE", 
+		"POSTALCODE": "048623", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143822"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8521277088927, 1.284659327600614 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "PRIME ENERGY INVESTMENTS PTE. LTD.", 
+		"ID": "200812190G", 
+		"ADDRESS": "6 BATTERY ROAD", 
+		"POSTALCODE": "049909", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143825"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8517647046673, 1.2854633068280292 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ZHI SERVICES", 
+		"ID": "53295224C", 
+		"ADDRESS": "337 ANG MO KIO AVENUE 1", 
+		"POSTALCODE": "560337", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121622"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85161611657807, 1.3631894589763152 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "VISUAL IMPACTS ENERGY SYSTEM PTE. LTD.", 
+		"ID": "201225327N", 
+		"ADDRESS": "1 SOON LEE STREET", 
+		"POSTALCODE": "627605", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115653"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.6975458867297, 1.3327251026291733 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "POWER SYSTEM ENGINEERS PTE. LTD.", 
+		"ID": "201222945R", 
+		"ADDRESS": "10 ADMIRALTY STREET", 
+		"POSTALCODE": "757695", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113847"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.81245204880571, 1.462364227233852 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ASIA POWER LINK PTE. LTD.", 
+		"ID": "201009440Z", 
+		"ADDRESS": "10 ANSON ROAD", 
+		"POSTALCODE": "079903", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143832"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84595469884812, 1.2758508930456463 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TIAN HUAT ENTERPRISE", 
+		"ID": "32816900E", 
+		"ADDRESS": "207 BUKIT BATOK STREET 21", 
+		"POSTALCODE": "650207", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115702"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.74938216817333, 1.3462421743688606 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SOLAR GLOBAL (S) PTE. LTD.", 
+		"ID": "201017375D", 
+		"ADDRESS": "763 WOODLANDS AVENUE 6", 
+		"POSTALCODE": "730763", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113840"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.79597638924494, 1.4453774339117158 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "BAICHENG AIR CONDITIONING PTE. LTD.", 
+		"ID": "201506894N", 
+		"ADDRESS": "85 GEYLANG ROAD", 
+		"POSTALCODE": "389201", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132202"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87301197169363, 1.3108249445751692 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LE'COOL AIRCONDITIONING & ENGINEERING PTE. LTD.", 
+		"ID": "201116897K", 
+		"ADDRESS": "1002 TOA PAYOH INDUSTRIAL PARK", 
+		"POSTALCODE": "319074", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132153"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8610417734105, 1.3349371599076922 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "FIREFLY (SINGAPORE) SOLAR ENERGY PTE. LTD.", 
+		"ID": "201210889E", 
+		"ADDRESS": "1 COLEMAN STREET", 
+		"POSTALCODE": "179803", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134851"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85118428769813, 1.2911788697920341 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "EVER GREEN TECH PTE. LIMITED", 
+		"ID": "201104337K", 
+		"ADDRESS": "575 PASIR RIS STREET 53", 
+		"POSTALCODE": "510575", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121554"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.94636061112188, 1.373182731360996 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AIR TREK ENGINEERING SERVICES", 
+		"ID": "53197105L", 
+		"ADDRESS": "267A PUNGGOL FIELD", 
+		"POSTALCODE": "821267", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113634"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89750528030825, 1.4045522558618582 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "PURE ENERGY (SINGAPORE) PTE. LTD.", 
+		"ID": "201014715R", 
+		"ADDRESS": "20 COLLYER QUAY", 
+		"POSTALCODE": "049319", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143823"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85269199192115, 1.284682836736513 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "EZYCOOL PTE. LTD.", 
+		"ID": "200211159R", 
+		"ADDRESS": "196C PUNGGOL FIELD", 
+		"POSTALCODE": "823196", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113635"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.90749735495089, 1.3992732147465439 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "M.I.C.E. SERVICES", 
+		"ID": "53146258K", 
+		"ADDRESS": "40 JALAN KELI", 
+		"POSTALCODE": "577914", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121628"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83483984940686, 1.355303508298743 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "NBT WIND POWER II PTE. LTD.", 
+		"ID": "201426621R", 
+		"ADDRESS": "159 TELOK AYER STREET", 
+		"POSTALCODE": "068614", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143828"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8476008425221, 1.2803356089041371 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "THISTLE ENERGY PTE. LTD.", 
+		"ID": "201309134W", 
+		"ADDRESS": "2 BALESTIER ROAD", 
+		"POSTALCODE": "320002", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132153"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84293580524046, 1.3258900777088354 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MARINE HVAC & OFFSHORE PTE. LTD.", 
+		"ID": "201103216D", 
+		"ADDRESS": "10B ENTERPRISE ROAD", 
+		"POSTALCODE": "629828", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115655"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.7040846179471, 1.3336551366462495 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "INDUS ENERGY INC PTE. LTD.", 
+		"ID": "201332314C", 
+		"ADDRESS": "77A BOAT QUAY", 
+		"POSTALCODE": "049865", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143824"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84918591242335, 1.2882433287074628 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "THE AIR CONSULTANCY LLP", 
+		"ID": "T15LL0765D", 
+		"ADDRESS": "64 JALAN SINAR BULAN", 
+		"POSTALCODE": "507064", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121551"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.97258922982971, 1.3623833119108157 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "DAILY LIFE RENEWABLE ENERGY HOLDINGS PTE. LTD.", 
+		"ID": "201211627N", 
+		"ADDRESS": "5 GUL STREET 1", 
+		"POSTALCODE": "629318", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115654"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.66920464518073, 1.3184969323399427 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "COOL INNOVATION ENGINEERING PTE. LTD.", 
+		"ID": "201130800W", 
+		"ADDRESS": "5037 ANG MO KIO INDUSTRIAL PARK 2", 
+		"POSTALCODE": "569540", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121625"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8611949512644, 1.3720104933466146 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SYCOMP TECHNOLOGIES SINGAPORE PRIVATE LTD.", 
+		"ID": "201025764D", 
+		"ADDRESS": "390 HAVELOCK ROAD", 
+		"POSTALCODE": "169662", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134850"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8357626117533, 1.2895926831977633 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SONG REFRIGERATION & STAINLESS STEEL", 
+		"ID": "53120860E", 
+		"ADDRESS": "214 BISHAN STREET 23", 
+		"POSTALCODE": "570214", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121626"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84830306186146, 1.3575055790309793 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TITAN POWER PTE. LTD.", 
+		"ID": "201211011H", 
+		"ADDRESS": "41 SCIENCE PARK ROAD", 
+		"POSTALCODE": "117610", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134847"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.78286550686708, 1.2886896293552998 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CLEANPOWER PTE. LTD.", 
+		"ID": "200515007M", 
+		"ADDRESS": "10 ANSON ROAD", 
+		"POSTALCODE": "079903", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143832"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84595469884812, 1.2758508930456463 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "JUWI RENEWABLE ENERGIES PRIVATE LIMITED", 
+		"ID": "201134174N", 
+		"ADDRESS": "152 BEACH ROAD", 
+		"POSTALCODE": "189721", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134853"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85941141485446, 1.2988188355494321 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GENESIS B2B SERVICES", 
+		"ID": "53293463J", 
+		"ADDRESS": "1 JALAN BUKIT MERAH", 
+		"POSTALCODE": "150001", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134849"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.80824211887978, 1.2864471939889939 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "INDIGO ENERGY MYANMAR MICROGRID PRIVATE LIMITED", 
+		"ID": "201424303R", 
+		"ADDRESS": "1 RAFFLES PLACE", 
+		"POSTALCODE": "048616", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143822"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8510728212533, 1.2843437133403435 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "HYFLUX ENGINEERING PTE LTD", 
+		"ID": "200009792D", 
+		"ADDRESS": "80 BENDEMEER ROAD", 
+		"POSTALCODE": "339949", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132157"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86310913863012, 1.3169096189333207 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TRANSCORE ENERGY PTE. LTD.", 
+		"ID": "201024917E", 
+		"ADDRESS": "101 CECIL STREET", 
+		"POSTALCODE": "069533", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143830"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84943566127757, 1.2809749809368562 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "WAYNE BURT PRECISION TECHNOLOGIES PTE. LTD.", 
+		"ID": "201326309K", 
+		"ADDRESS": "6 WOODLANDS LOOP", 
+		"POSTALCODE": "738346", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113843"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.80437464813937, 1.4492066145607407 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "FLEXIBLE AIRCON SERVICES", 
+		"ID": "53194450J", 
+		"ADDRESS": "51 UBI AVENUE 1", 
+		"POSTALCODE": "408933", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130013"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89820315194257, 1.325271563509043 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SOLAR PHILIPPINES 1 PTE. LTD.", 
+		"ID": "201523620Z", 
+		"ADDRESS": "152 BEACH ROAD", 
+		"POSTALCODE": "189721", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134853"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85941141485446, 1.2988188355494321 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "KING HUA AIR CONDITIONING PTE. LTD.", 
+		"ID": "201308875E", 
+		"ADDRESS": "1003 TOA PAYOH INDUSTRIAL PARK", 
+		"POSTALCODE": "319075", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132153"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86031034287544, 1.334497649045118 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "INTEGRATED POWER SYNERGY (PTE.) LTD.", 
+		"ID": "201416481E", 
+		"ADDRESS": "100 TRAS STREET", 
+		"POSTALCODE": "079027", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143832"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84347113889255, 1.2745820860452615 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MODERN ENERGY INVESTMENT PTE. LTD.", 
+		"ID": "201024619D", 
+		"ADDRESS": "2 TANNERY ROAD", 
+		"POSTALCODE": "347720", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132157"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87769196259583, 1.3305507682744617 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AFRICA ENERGY HOLDINGS LIMITED", 
+		"ID": "201225310E", 
+		"ADDRESS": "7500A BEACH ROAD", 
+		"POSTALCODE": "199591", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134855"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86085448888524, 1.299887774181569 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TUAS POWER LTD", 
+		"ID": "199502116G", 
+		"ADDRESS": "111 SOMERSET ROAD", 
+		"POSTALCODE": "238164", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133440"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8373189019303, 1.3001972132321706 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "PACIFICLIGHT ENERGY PTE. LTD.", 
+		"ID": "200211051N", 
+		"ADDRESS": "460 ALEXANDRA ROAD", 
+		"POSTALCODE": "119963", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134848"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.80126421108814, 1.2739805054163524 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "KAI SUN ASIA PTE. LTD.", 
+		"ID": "201010047H", 
+		"ADDRESS": "87 YISHUN STREET 81", 
+		"POSTALCODE": "768448", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113855"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83659123156698, 1.4131988189967928 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "WINDSIA RENEWABLE ENERGY PTE. LTD.", 
+		"ID": "201506263W", 
+		"ADDRESS": "120 EUNOS AVENUE 7", 
+		"POSTALCODE": "409574", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130014"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89621638855334, 1.322824417421266 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "WEIKEN AIR-CON ENGINEERING PTE. LTD.", 
+		"ID": "201510009W", 
+		"ADDRESS": "8 TOA PAYOH INDUSTRIAL PARK", 
+		"POSTALCODE": "319060", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132153"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8614173865621, 1.3363597141571728 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "HYDRO ENERGY ASIA PTE. LTD.", 
+		"ID": "201114684D", 
+		"ADDRESS": "194 PANDAN LOOP", 
+		"POSTALCODE": "128383", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134848"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.75199096603811, 1.3103174901327568 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "KINNON GREEN PTE. LTD.", 
+		"ID": "201228142E", 
+		"ADDRESS": "82 UBI AVENUE 4", 
+		"POSTALCODE": "408832", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130012"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89230343004635, 1.3328782825370273 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "XUMINQING", 
+		"ID": "53231027J", 
+		"ADDRESS": "909 TAMPINES AVENUE 4", 
+		"POSTALCODE": "520909", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121600"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.93940737028431, 1.3501906409936302 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "POLARIS AIRCON SERVICES", 
+		"ID": "53194874M", 
+		"ADDRESS": "713 WOODLANDS DRIVE 70", 
+		"POSTALCODE": "730713", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113839"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.79781228042575, 1.4419481332043547 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "COOLSPEC ENGINEERING PTE. LTD.", 
+		"ID": "200815444Z", 
+		"ADDRESS": "20 WOODLANDS LINK", 
+		"POSTALCODE": "738733", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113844"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8108589349032, 1.450815543874293 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "BBG ENGINEERING PTE. LTD.", 
+		"ID": "201318721C", 
+		"ADDRESS": "66 KALLANG BAHRU", 
+		"POSTALCODE": "330066", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132156"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86991481770832, 1.320658100849252 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GENESIS COOL", 
+		"ID": "53238077X", 
+		"ADDRESS": "3 SOON LEE STREET", 
+		"POSTALCODE": "627606", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115653"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.69723762488972, 1.3337768535424053 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "JUWI SINGAPORE PROJECTS PTE. LTD.", 
+		"ID": "201523605H", 
+		"ADDRESS": "152 BEACH ROAD", 
+		"POSTALCODE": "189721", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134853"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85941141485446, 1.2988188355494321 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "UNION ENERGY CORPORATION PTE. LTD.", 
+		"ID": "199805041R", 
+		"ADDRESS": "25 GENTING ROAD", 
+		"POSTALCODE": "349482", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132158"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87558750595444, 1.3282428785453815 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "EASTERN ENERGY SERVICES PTE LTD", 
+		"ID": "198303261N", 
+		"ADDRESS": "60 KAKI BUKIT PLACE", 
+		"POSTALCODE": "415979", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130015"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.90405388339305, 1.334065395345043 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LER SERVICES", 
+		"ID": "53147347C", 
+		"ADDRESS": "603 YISHUN STREET 61", 
+		"POSTALCODE": "760603", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113852"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83566030450662, 1.4220497880044018 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "EMPEREAL ENERGY AND SERVICES PTE. LTD.", 
+		"ID": "201225101N", 
+		"ADDRESS": "3 SHENTON WAY", 
+		"POSTALCODE": "068805", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143828"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85008978135491, 1.2785395335185668 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LTL GLOBAL ENGINEERING PTE. LTD.", 
+		"ID": "201024778D", 
+		"ADDRESS": "5001 BEACH ROAD", 
+		"POSTALCODE": "199588", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134854"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86516394582073, 1.302745502028214 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SG-NBT RENEWABLE ENERGY SINGAPORE PTE. LTD.", 
+		"ID": "201426623W", 
+		"ADDRESS": "159 TELOK AYER STREET", 
+		"POSTALCODE": "068614", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143828"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8476008425221, 1.2803356089041371 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "PRIMUS GREEN CAPITAL PTE. LTD.", 
+		"ID": "201413498E", 
+		"ADDRESS": "25 JALAN BANGSAWAN", 
+		"POSTALCODE": "457807", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130030"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.92386296026629, 1.3204351446818716 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "EIGHTEEN DEGREE AIRCON SERVICES", 
+		"ID": "53236452W", 
+		"ADDRESS": "897B WOODLANDS DRIVE 50", 
+		"POSTALCODE": "731897", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113841"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.79399873273991, 1.4360444128228416 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SHOOTOS PTE. LTD.", 
+		"ID": "201505975W", 
+		"ADDRESS": "569B CHAMPIONS WAY", 
+		"POSTALCODE": "732569", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113841"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.78943757397636, 1.4301922204908584 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ECOWISE ENERGY PTE. LTD.", 
+		"ID": "200811297C", 
+		"ADDRESS": "17 KALLANG JUNCTION", 
+		"POSTALCODE": "339274", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132156"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86543904313905, 1.3139387663157402 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "HOUSELY AIR CONDITIONING PTE. LTD.", 
+		"ID": "200922231W", 
+		"ADDRESS": "545 BEDOK NORTH STREET 3", 
+		"POSTALCODE": "460545", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130034"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.92411760013559, 1.330044856279388 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "DAITO TECHNOS ASIA PTE. LTD.", 
+		"ID": "201402410C", 
+		"ADDRESS": "190 MIDDLE ROAD", 
+		"POSTALCODE": "188979", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134852"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85229315697016, 1.3004078607477063 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LANCO SOLAR INTERNATIONAL PTE. LTD.", 
+		"ID": "201025828K", 
+		"ADDRESS": "8 SHENTON WAY", 
+		"POSTALCODE": "068811", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143828"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8472243303322, 1.2757324152138292 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "HOCK SENG HENG GAS SUPPLY", 
+		"ID": "29875400B", 
+		"ADDRESS": "15 DEFU LANE 1", 
+		"POSTALCODE": "539489", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121612"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89775030162556, 1.3603842429704291 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "B & P ENGINEERING (S) PTE LTD", 
+		"ID": "199801133N", 
+		"ADDRESS": "18 MANDAI ESTATE", 
+		"POSTALCODE": "729910", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113836"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.75975240001229, 1.40677398687934 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CALGAZ INTERNATIONAL LLC", 
+		"ID": "T05FC6747K", 
+		"ADDRESS": "438B ALEXANDRA ROAD", 
+		"POSTALCODE": "119968", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134848"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.79942306665089, 1.277392634035181 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "BIEKING ENGINEERING PTE. LTD.", 
+		"ID": "201026587H", 
+		"ADDRESS": "5 SOON LEE STREET", 
+		"POSTALCODE": "627607", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115653"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.6988559184617, 1.3338366306737748 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GE POWER ELECTRONICS (SINGAPORE) PTE. LTD.", 
+		"ID": "200721918G", 
+		"ADDRESS": "11 NORTH BUONA VISTA DRIVE", 
+		"POSTALCODE": "138589", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134848"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.79165385459389, 1.3057559727664116 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SINERGRY POWER PTE. LTD.", 
+		"ID": "200814767E", 
+		"ADDRESS": "51 BUKIT BATOK CRESCENT", 
+		"POSTALCODE": "658077", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115705"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.75729247120675, 1.3374149831619548 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "VERTIC HYDRO PTE. LTD.", 
+		"ID": "201329470E", 
+		"ADDRESS": "12 MARINA BOULEVARD", 
+		"POSTALCODE": "018982", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143819"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85445667805323, 1.2791191962586528 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "HAKIMI NATURAL RESOURCES & ENERGY PTE. LTD.", 
+		"ID": "201312213Z", 
+		"ADDRESS": "3 COLEMAN STREET", 
+		"POSTALCODE": "179804", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134851"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85027227183129, 1.2918019804932066 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "BRAZUKAS ENERGY SAVING TECHNOLOGIES PTE. LTD.", 
+		"ID": "201431966C", 
+		"ADDRESS": "80 ROBINSON ROAD", 
+		"POSTALCODE": "068898", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143829"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84931615045721, 1.2801312132165543 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "PURION SML  LLP", 
+		"ID": "T14LL1115H", 
+		"ADDRESS": "9010 TAMPINES STREET 93", 
+		"POSTALCODE": "528844", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121602"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.94327258805605, 1.3413964859158696 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TIAN HO", 
+		"ID": "53250850E", 
+		"ADDRESS": "619 WOODLANDS DRIVE 52", 
+		"POSTALCODE": "730619", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113839"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.7980550325741, 1.4334299765792007 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TEO TIONG HUAT HARDWARE ENTERPRISE", 
+		"ID": "39300100L", 
+		"ADDRESS": "5041 ANG MO KIO INDUSTRIAL PARK 2", 
+		"POSTALCODE": "569544", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121625"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86089213861024, 1.372516938416365 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GLOBAL GREEN ENERGY PTE. LTD.", 
+		"ID": "199700524K", 
+		"ADDRESS": "10G DALVEY ESTATE", 
+		"POSTALCODE": "259534", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133446"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.82172816537444, 1.3177942351730887 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SOLAR HORIZON HOLDINGS PTE. LTD.", 
+		"ID": "201409310C", 
+		"ADDRESS": "101 CECIL STREET", 
+		"POSTALCODE": "069533", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143830"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84943566127757, 1.2809749809368562 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MITSUI & CO. POWER & INFRASTRUCTURE DEVELOPMENT LTD. SINGAPORE BRANCH", 
+		"ID": "T11FC0104E", 
+		"ADDRESS": "80 ROBINSON ROAD", 
+		"POSTALCODE": "068898", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143829"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84931615045721, 1.2801312132165543 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "EASY COOL AIRCORN SERVICES", 
+		"ID": "53284587X", 
+		"ADDRESS": "1 KAKI BUKIT ROAD 1", 
+		"POSTALCODE": "415934", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130015"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.90267546109675, 1.3327586351681338 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MIDEA AIR-CONDITIONING", 
+		"ID": "53181233B", 
+		"ADDRESS": "625 ALJUNIED ROAD", 
+		"POSTALCODE": "389836", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132204"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87885818770356, 1.3250766555524116 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "FANDARYA POWER CO PTE. LTD.", 
+		"ID": "201312211W", 
+		"ADDRESS": "3 COLEMAN STREET", 
+		"POSTALCODE": "179804", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134851"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85027227183129, 1.2918019804932066 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LT POWER SOLUTIONS PTE. LTD.", 
+		"ID": "201206659W", 
+		"ADDRESS": "2 BUKIT BATOK STREET 24", 
+		"POSTALCODE": "659480", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115706"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.75444209719323, 1.342082291395039 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "BEST AIR CONDITIONING", 
+		"ID": "53258879K", 
+		"ADDRESS": "17 LORONG 7 TOA PAYOH", 
+		"POSTALCODE": "310017", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132152"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85660830495335, 1.3364203568824444 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "REALCOOL PTE. LTD.", 
+		"ID": "201405054G", 
+		"ADDRESS": "125 LORONG 1 TOA PAYOH", 
+		"POSTALCODE": "310125", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132152"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84573755954442, 1.3383250189967901 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MASTER COOL AIR-CON ENGINEERING", 
+		"ID": "53197616E", 
+		"ADDRESS": "31 HIGHLAND ROAD", 
+		"POSTALCODE": "549120", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121618"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87771580097083, 1.3569200949764626 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "DK SQUARE HOLDINGS PTE. LTD.", 
+		"ID": "201101727G", 
+		"ADDRESS": "3015 UBI ROAD 1", 
+		"POSTALCODE": "408704", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130011"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89290898446464, 1.3298568017361627 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "HYDROSING ENERGY PTE. LTD.", 
+		"ID": "201502359Z", 
+		"ADDRESS": "50 RAFFLES PLACE", 
+		"POSTALCODE": "048623", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143822"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85213310036809, 1.2846918845420507 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CHOP LEE LIAN", 
+		"ID": "03865200E", 
+		"ADDRESS": "208 HOUGANG STREET 21", 
+		"POSTALCODE": "530208", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121604"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8866349983712, 1.3586897457279634 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SERAYA ENERGY PTE LTD", 
+		"ID": "200103194D", 
+		"ADDRESS": "1 HARBOURFRONT PLACE", 
+		"POSTALCODE": "098633", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143835"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.81913883457071, 1.264772466031436 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ENERGY AUDIT & POWER EFFICIENCIES PTE. LTD.", 
+		"ID": "201100277C", 
+		"ADDRESS": "20 MAXWELL ROAD", 
+		"POSTALCODE": "069113", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143830"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84467519669896, 1.2790161614059559 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SP POWERASSETS LIMITED", 
+		"ID": "200302108D", 
+		"ADDRESS": "10 PASIR PANJANG ROAD", 
+		"POSTALCODE": "117438", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134847"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.79907356982595, 1.2748197236337657 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "WINDSIA ENERGY INDUSTRIES PTE. LTD.", 
+		"ID": "200605456H", 
+		"ADDRESS": "120 EUNOS AVENUE 7", 
+		"POSTALCODE": "409574", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130014"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89621638855334, 1.322824417421266 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "NEW GREEN TECHNOLOGY PTE. LTD.", 
+		"ID": "201425027W", 
+		"ADDRESS": "143 CECIL STREET", 
+		"POSTALCODE": "069542", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143831"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84806987037172, 1.278752975099896 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "COOL WELL AIRCON & SERVICES PTE. LTD.", 
+		"ID": "201526380C", 
+		"ADDRESS": "190 LORONG 6 TOA PAYOH", 
+		"POSTALCODE": "310190", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132152"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84870456723365, 1.3329729981897303 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "KEPPEL MERLIMAU COGEN PTE LTD", 
+		"ID": "199506641H", 
+		"ADDRESS": "1 HARBOURFRONT AVENUE", 
+		"POSTALCODE": "098632", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143835"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.81829061933236, 1.2648366708368473 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SJH ENGINEERING PTE. LTD.", 
+		"ID": "201024062D", 
+		"ADDRESS": "40C HONGKONG STREET", 
+		"POSTALCODE": "059679", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143827"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84742836111998, 1.2872584904156144 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LIAN CHI BUDDHIST SERVICES", 
+		"ID": "53178599L", 
+		"ADDRESS": "1 YISHUN STREET 23", 
+		"POSTALCODE": "768441", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113855"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84170338383763, 1.438708076628943 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "YTL POWERSERAYA PTE. LIMITED", 
+		"ID": "200816323E", 
+		"ADDRESS": "1 HARBOURFRONT PLACE", 
+		"POSTALCODE": "098633", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143835"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.81913883457071, 1.264772466031436 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "JIA FU CURTAIN SERVICES", 
+		"ID": "53110516D", 
+		"ADDRESS": "414 BUKIT BATOK WEST AVENUE 4", 
+		"POSTALCODE": "650414", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115704"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.74597600257371, 1.3635722868728941 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MERCANCIA PTE. LTD.", 
+		"ID": "201315650E", 
+		"ADDRESS": "810 BEDOK RESERVOIR ROAD", 
+		"POSTALCODE": "479241", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130038"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.93244388987377, 1.3371347079298346 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "JM AIRCON LLP", 
+		"ID": "T13LL1476B", 
+		"ADDRESS": "36 SPRINGLEAF HEIGHT", 
+		"POSTALCODE": "788130", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113858"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.82374868979576, 1.3983980500741953 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TAN SOON HUAH GAS SUPPLY PTE. LTD.", 
+		"ID": "200207144H", 
+		"ADDRESS": "15 DEFU LANE 11", 
+		"POSTALCODE": "539171", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121611"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89330104534066, 1.341852220215438 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MYANMAR POWER MANAGEMENT PTE. LTD.", 
+		"ID": "201502777C", 
+		"ADDRESS": "420 NORTH BRIDGE ROAD", 
+		"POSTALCODE": "188727", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134852"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85494383771697, 1.2971937421786686 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "HARVEST AIR", 
+		"ID": "53250402W", 
+		"ADDRESS": "31 WOODLANDS CLOSE", 
+		"POSTALCODE": "737855", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113842"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8059311744763, 1.4366749265982672 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AV ELECTRICAL ENGINEERING SERVICES", 
+		"ID": "38249400L", 
+		"ADDRESS": "363 YUNG AN ROAD", 
+		"POSTALCODE": "610363", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115652"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.7203051961201, 1.3366647407510215 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "POWER COOL AIRCONDITIONING PTE. LTD.", 
+		"ID": "201100969M", 
+		"ADDRESS": "33 UBI AVENUE 3", 
+		"POSTALCODE": "408868", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130012"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89411492136605, 1.3329533000796605 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "BRIGHT INTERNATIONAL POWER PTE. LTD.", 
+		"ID": "200605562M", 
+		"ADDRESS": "8 PIONEER SECTOR 1", 
+		"POSTALCODE": "628420", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115654"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.65610997862228, 1.307620242665105 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "YEW LEE HENG LP-GAS TRADING PTE LTD", 
+		"ID": "199603030M", 
+		"ADDRESS": "15 DEFU LANE 1", 
+		"POSTALCODE": "539489", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121612"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89775030162556, 1.3603842429704291 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "UD POWER GROUP HOLDING PTE. LTD.", 
+		"ID": "201305110D", 
+		"ADDRESS": "50 COLLYER QUAY", 
+		"POSTALCODE": "049321", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143824"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85296783196002, 1.283160795738871 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SUN ELECTRIC POWER PTE. LIMITED", 
+		"ID": "201325177M", 
+		"ADDRESS": "6 MARINA BOULEVARD", 
+		"POSTALCODE": "018985", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143819"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85265871655291, 1.2807633381318264 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AUSNET TRANSMISSION GROUP PTY LTD (SINGAPORE BRANCH)", 
+		"ID": "T13FC0137G", 
+		"ADDRESS": "2 SHENTON WAY", 
+		"POSTALCODE": "068804", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143828"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84979686280752, 1.2792711631876497 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "STRAITS GRID PTE. LTD.", 
+		"ID": "201219512D", 
+		"ADDRESS": "24 RAFFLES PLACE", 
+		"POSTALCODE": "048621", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143822"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85213039859828, 1.283849924847256 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "COPPER RED PTE. LTD.", 
+		"ID": "200502034K", 
+		"ADDRESS": "371 UPPER PAYA LEBAR ROAD", 
+		"POSTALCODE": "534969", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121609"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8799647418163, 1.3481143005799134 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ENERGY DELIVERY NETWORK", 
+		"ID": "53126884E", 
+		"ADDRESS": "8 SEA BREEZE GROVE", 
+		"POSTALCODE": "487508", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130040"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.95330117422087, 1.336864272649048 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "IPCL PTE. LTD.", 
+		"ID": "201326959C", 
+		"ADDRESS": "30 CECIL STREET", 
+		"POSTALCODE": "049712", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143824"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84988763770485, 1.2827909341713366 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "POWERGAS LIMITED", 
+		"ID": "199504471E", 
+		"ADDRESS": "10 PASIR PANJANG ROAD", 
+		"POSTALCODE": "117438", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134847"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.79907356982595, 1.2748197236337657 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MLINK MANAGEMENT", 
+		"ID": "53161089J", 
+		"ADDRESS": "61 PASIR RIS TERRACE", 
+		"POSTALCODE": "518705", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121556"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.94333733707622, 1.3822020384251494 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CLIMATE CONTROLS & SOLUTIONS ASIA", 
+		"ID": "53271696E", 
+		"ADDRESS": "81 UBI AVENUE 4", 
+		"POSTALCODE": "408830", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130012"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89179396342337, 1.3335059204733217 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CITY ICE AIR CONDITIONING", 
+		"ID": "53195915E", 
+		"ADDRESS": "24C KOVAN ROAD", 
+		"POSTALCODE": "548073", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121618"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.88075118495334, 1.3584827707515523 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "JAMES AIR-CON SERVICES", 
+		"ID": "53169520D", 
+		"ADDRESS": "232 ANG MO KIO AVENUE 3", 
+		"POSTALCODE": "560232", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121622"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83719590753401, 1.368339856163791 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "KINNARII POWER ASSETS PTE. LTD.", 
+		"ID": "201227948K", 
+		"ADDRESS": "25 JALAN BANGSAWAN", 
+		"POSTALCODE": "457807", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130030"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.92386296026629, 1.3204351446818716 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GUSSING RENEWABLE ENERGY SINGAPORE PTE. LTD.", 
+		"ID": "201527536H", 
+		"ADDRESS": "1 SCOTTS ROAD", 
+		"POSTALCODE": "228208", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133437"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83197075842212, 1.306107211958323 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "D' WORKS", 
+		"ID": "53206465L", 
+		"ADDRESS": "39 JALAN TIGA", 
+		"POSTALCODE": "390039", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132204"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.88509199687704, 1.3078141078868741 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "PREMIER SOLAR ENERGY SYSTEM PTE. LTD.", 
+		"ID": "201209806Z", 
+		"ADDRESS": "400 ORCHARD ROAD", 
+		"POSTALCODE": "238875", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133441"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.82921401427654, 1.3069717775546899 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LST AIR PTE. LTD.", 
+		"ID": "201303842M", 
+		"ADDRESS": "1 SOON LEE STREET", 
+		"POSTALCODE": "627605", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115653"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.69753779979155, 1.3327241978227788 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "A1 COOL AIR PTE. LTD.", 
+		"ID": "201310590Z", 
+		"ADDRESS": "22 LORONG 11 GEYLANG", 
+		"POSTALCODE": "388714", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132202"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87704919203777, 1.3132105790851578 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "POWERXCEL TECHNOLOGIES LLP", 
+		"ID": "T08LL0759F", 
+		"ADDRESS": "20 SIN MING WALK", 
+		"POSTALCODE": "575570", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121627"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83136778605895, 1.3655182551613194 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SING-NOR ENGINEERING & CONSULTING PTE. LTD.", 
+		"ID": "200502180E", 
+		"ADDRESS": "45 PAGODA STREET", 
+		"POSTALCODE": "059204", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143826"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84452336177587, 1.2831508989689497 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AMPLEX ENGINEERING SERVICES", 
+		"ID": "44991200X", 
+		"ADDRESS": "3014 UBI ROAD 1", 
+		"POSTALCODE": "408702", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130011"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89427659582282, 1.3302791041650541 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "DR COOL AIRCON SERVICES", 
+		"ID": "53289824M", 
+		"ADDRESS": "51 COMMONWEALTH DRIVE", 
+		"POSTALCODE": "141051", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134849"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.79764003320729, 1.3015290852867845 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ALL WELL AIR-CONDITIONING SERVICE PTE. LTD.", 
+		"ID": "201501206M", 
+		"ADDRESS": "832 TAMPINES STREET 82", 
+		"POSTALCODE": "520832", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121559"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.93539798439738, 1.3500949516743685 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "REPUBLIC POWER PTE. LTD.", 
+		"ID": "201500006G", 
+		"ADDRESS": "101 UPPER CROSS STREET", 
+		"POSTALCODE": "058357", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143825"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84397975644521, 1.2857635991575118 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "EXPLORE ENERGY PTE. LTD.", 
+		"ID": "201230177E", 
+		"ADDRESS": "12 MARINA BOULEVARD", 
+		"POSTALCODE": "018982", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143819"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85445667805323, 1.2791191962586528 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "1 STEP ENGINEERING PTE. LTD.", 
+		"ID": "201428134C", 
+		"ADDRESS": "10 ANSON ROAD", 
+		"POSTALCODE": "079903", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143832"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84592325021447, 1.2758807371032213 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CHG REVIVAL PTE. LTD.", 
+		"ID": "201218878M", 
+		"ADDRESS": "100 JALAN SULTAN", 
+		"POSTALCODE": "199001", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134853"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86185011085642, 1.3029381707270107 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "DYNGAS", 
+		"ID": "53287604X", 
+		"ADDRESS": "196 PANDAN LOOP", 
+		"POSTALCODE": "128384", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134848"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.75114182856449, 1.310619518322668 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CNEEC SINGAPORE DEVELOPMENTS", 
+		"ID": "53279850C", 
+		"ADDRESS": "10 UBI CRESCENT", 
+		"POSTALCODE": "408564", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130010"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89626230318301, 1.3263306192170137 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ASIA PACIFIC INTERNATIONAL DEVELOPMENT GROUP PTE. LTD.", 
+		"ID": "201415437K", 
+		"ADDRESS": "19 KIM KEAT ROAD", 
+		"POSTALCODE": "328804", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132154"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8531155187631, 1.3249693781372984 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AES TRANSPOWER PRIVATE LTD", 
+		"ID": "199400887M", 
+		"ADDRESS": "112 ROBINSON ROAD", 
+		"POSTALCODE": "068902", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143829"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84881655819943, 1.279276595492636 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SOLAR PHILIPPINES 2 PTE. LTD.", 
+		"ID": "201523639K", 
+		"ADDRESS": "152 BEACH ROAD", 
+		"POSTALCODE": "189721", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134853"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85941141485446, 1.2988188355494321 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GARM POWER CO PTE. LTD.", 
+		"ID": "201312205H", 
+		"ADDRESS": "3 COLEMAN STREET", 
+		"POSTALCODE": "179804", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134851"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85027227183129, 1.2918019804932066 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "IPM FUEL COMPANY PTE. LTD.", 
+		"ID": "199608703K", 
+		"ADDRESS": "1 ROBINSON ROAD", 
+		"POSTALCODE": "048542", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143821"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85111503624114, 1.2819733838890761 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "REDEMPTECH ENERGY SPV1 PTE. LTD.", 
+		"ID": "201406673E", 
+		"ADDRESS": "2 SHENTON WAY", 
+		"POSTALCODE": "068804", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143828"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84979686280752, 1.2792711631876497 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SAPPHIRE ENERGY", 
+		"ID": "53244579A", 
+		"ADDRESS": "2 LOYANG DRIVE", 
+		"POSTALCODE": "508935", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121552"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.97159157469181, 1.37374752460205 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "PROTON POWER PTE. LTD.", 
+		"ID": "201226269H", 
+		"ADDRESS": "19 KEPPEL ROAD", 
+		"POSTALCODE": "089058", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143834"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84243242557102, 1.2729895107432336 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "H2 FUEL PTE. LTD.", 
+		"ID": "200703465C", 
+		"ADDRESS": "10 ANSON ROAD", 
+		"POSTALCODE": "079903", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143832"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84595469884812, 1.2758508930456463 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GREAT COAL AND ELECTRICITY INTERNATIONAL HOLDING PTE. LTD.", 
+		"ID": "201012988N", 
+		"ADDRESS": "152 BEACH ROAD", 
+		"POSTALCODE": "189721", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134853"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85941141485446, 1.2988188355494321 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TUAS POWER SUPPLY PTE LTD", 
+		"ID": "200004985K", 
+		"ADDRESS": "111 SOMERSET ROAD", 
+		"POSTALCODE": "238164", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133440"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8373189019303, 1.3001972132321706 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ASIAONE SERVICES PTE. LTD.", 
+		"ID": "200913745E", 
+		"ADDRESS": "1 JALAN BERSEH", 
+		"POSTALCODE": "209037", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133433"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85747872732789, 1.3074003309886846 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "VPOWER HOLDINGS (SINGAPORE) PTE. LIMITED", 
+		"ID": "201428296N", 
+		"ADDRESS": "3 RAFFLES PLACE", 
+		"POSTALCODE": "048617", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143822"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85113840825929, 1.283422169426223 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "PAVILION GAS PTE. LTD.", 
+		"ID": "201211671M", 
+		"ADDRESS": "12 MARINA BOULEVARD", 
+		"POSTALCODE": "018982", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143819"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85445667805323, 1.2791191962586528 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SENOKO ENERGY PTE. LTD.", 
+		"ID": "200816718E", 
+		"ADDRESS": "111 SOMERSET ROAD", 
+		"POSTALCODE": "238164", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133440"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8373189019303, 1.3001972132321706 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MH  REFRIGERATION AND ENGINEERING", 
+		"ID": "53253471M", 
+		"ADDRESS": "501A WELLINGTON CIRCLE", 
+		"POSTALCODE": "751501", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113846"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8207812861201, 1.4517624854068427 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ODG ENERGY PTE. LTD.", 
+		"ID": "201333645K", 
+		"ADDRESS": "24 RAFFLES PLACE", 
+		"POSTALCODE": "048621", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143822"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8521286015263, 1.2838508292211492 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "BEST ELECTRICITY SUPPLY PTE. LTD.", 
+		"ID": "201502907C", 
+		"ADDRESS": "5 BENOI PLACE", 
+		"POSTALCODE": "629926", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115655"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.6793701436825, 1.3148512179029628 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AEI GROUP PTE. LTD.", 
+		"ID": "200918336G", 
+		"ADDRESS": "156 MACPHERSON ROAD", 
+		"POSTALCODE": "348528", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132157"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87372212018633, 1.3291138087061212 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SOLAR C&I HOLDINGS PTE. LTD.", 
+		"ID": "201527905W", 
+		"ADDRESS": "20 TUAS SOUTH AVENUE 14", 
+		"POSTALCODE": "637312", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115656"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.62281368802897, 1.2736039793772371 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GRASSROOTS & RURAL INNOVATIVE DEVELOPMENT PRIVATE LIMITED", 
+		"ID": "201326678M", 
+		"ADDRESS": "1 CLEANTECH LOOP", 
+		"POSTALCODE": "637141", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115656"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.69215237953259, 1.3550886528703951 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "HYFLUX ENERGY PTE. LTD.", 
+		"ID": "201107186D", 
+		"ADDRESS": "80 BENDEMEER ROAD", 
+		"POSTALCODE": "339949", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132157"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86310913863012, 1.3169096189333207 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "S & M TECHNOLOGY", 
+		"ID": "53263622L", 
+		"ADDRESS": "10 ADMIRALTY STREET", 
+		"POSTALCODE": "757695", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113847"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.81245204880571, 1.462364227233852 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GSP EXPRESS PTE. LTD.", 
+		"ID": "201016353Z", 
+		"ADDRESS": "21 HILLVIEW AVENUE", 
+		"POSTALCODE": "669556", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115707"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.76526374740494, 1.3635774352296661 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ASIATECH ENERGY PTE. LTD.", 
+		"ID": "201319278E", 
+		"ADDRESS": "11 COLLYER QUAY", 
+		"POSTALCODE": "049317", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143823"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85206839766917, 1.2836138871885816 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "XYLM ENGINEERING PTE. LTD.", 
+		"ID": "201414452E", 
+		"ADDRESS": "5 ANG MO KIO INDUSTRIAL PARK 2A", 
+		"POSTALCODE": "567760", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121624"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87042606466639, 1.3780496819134942 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "E-WIND HOLDINGS PTE. LTD.", 
+		"ID": "201007846K", 
+		"ADDRESS": "105 CECIL STREET", 
+		"POSTALCODE": "069534", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143830"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84919574889867, 1.2805436024197883 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "IPCL PTE. LTD.", 
+		"ID": "201326959C", 
+		"ADDRESS": "20 CECIL STREET", 
+		"POSTALCODE": "049705", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143824"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85047708100747, 1.28305590792546 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "DZ TRADING & SERVICES", 
+		"ID": "53275631B", 
+		"ADDRESS": "410 JURONG WEST STREET 42", 
+		"POSTALCODE": "640410", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115658"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.72638408909928, 1.3536669567434598 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ONE PARTY STORE", 
+		"ID": "53218136X", 
+		"ADDRESS": "824 SIMS AVENUE", 
+		"POSTALCODE": "400824", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130009"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.90363200630652, 1.3179696142963586 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "QUICK START AIR-CON & ELECTRIC SERVICES", 
+		"ID": "53174798X", 
+		"ADDRESS": "306C ANCHORVALE LINK", 
+		"POSTALCODE": "543306", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121615"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.88811474838677, 1.3898810739142216 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SING SWEE BEE INDUSTRIES PTE LTD", 
+		"ID": "198903794Z", 
+		"ADDRESS": "6 ATTAP VALLEY ROAD", 
+		"POSTALCODE": "759906", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113850"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.7970769948399, 1.456576131871305 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "BANYAN UTILITIES PTE. LTD.", 
+		"ID": "200707394Z", 
+		"ADDRESS": "25 INTERNATIONAL BUSINESS PARK", 
+		"POSTALCODE": "609916", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115651"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.7463772227023, 1.3251931074333243 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SENOKO ENERGY SUPPLY PTE LTD", 
+		"ID": "200009950Z", 
+		"ADDRESS": "111 SOMERSET ROAD", 
+		"POSTALCODE": "238164", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133440"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8373189019303, 1.3001972132321706 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "E-WIND ENERGY PTE. LTD.", 
+		"ID": "199004493N", 
+		"ADDRESS": "105 CECIL STREET", 
+		"POSTALCODE": "069534", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143830"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84919574889867, 1.2805436024197883 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ENFINITY RENEWABLE ENERGY PTE. LTD.", 
+		"ID": "201327953M", 
+		"ADDRESS": "10 CHANGI BUSINESS PARK CENTRAL 2", 
+		"POSTALCODE": "486030", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130039"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.966519767106, 1.335661695406937 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "WELLSENG ENTERPRISE", 
+		"ID": "40557500M", 
+		"ADDRESS": "199 SIMS AVENUE", 
+		"POSTALCODE": "387503", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132201"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.88032263777005, 1.3148257065024507 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CPVT ENERGY ASIA PTE. LTD.", 
+		"ID": "201003305K", 
+		"ADDRESS": "28 SIN MING LANE", 
+		"POSTALCODE": "573972", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121627"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83416592725787, 1.3599392585468921 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ENERQ PTE. LTD.", 
+		"ID": "201114205N", 
+		"ADDRESS": "8 TEMASEK BOULEVARD", 
+		"POSTALCODE": "038988", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143820"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85956772471953, 1.2952375665057063 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SENOKO GAS SUPPLY PTE. LTD.", 
+		"ID": "200712395G", 
+		"ADDRESS": "111 SOMERSET ROAD", 
+		"POSTALCODE": "238164", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133440"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8373189019303, 1.3001972132321706 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LATENE INTERNATIONAL", 
+		"ID": "53149200A", 
+		"ADDRESS": "1 SHIPYARD ROAD", 
+		"POSTALCODE": "628128", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115654"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.69706558394341, 1.3084457817798667 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "HVAC CONTROLS ASIA PTE. LTD.", 
+		"ID": "201307321H", 
+		"ADDRESS": "701 GEYLANG ROAD", 
+		"POSTALCODE": "389687", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132203"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.88946268649768, 1.314779394191875 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AES CALACA PTE. LTD.", 
+		"ID": "200711114H", 
+		"ADDRESS": "112 ROBINSON ROAD", 
+		"POSTALCODE": "068902", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143829"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84881655819943, 1.279276595492636 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "BLUEPRINFIN PTE. LTD.", 
+		"ID": "201508734R", 
+		"ADDRESS": "8 TEMASEK BOULEVARD", 
+		"POSTALCODE": "038988", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143820"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85956772471953, 1.2952375665057063 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "COOLAIR PTE. LTD.", 
+		"ID": "201411501R", 
+		"ADDRESS": "196C PUNGGOL FIELD", 
+		"POSTALCODE": "823196", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113635"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.90749735495089, 1.3992732147465439 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "COLBEN ENERGY (SINGAPORE) PTE. LTD.", 
+		"ID": "200918614D", 
+		"ADDRESS": "65 JOO KOON CIRCLE", 
+		"POSTALCODE": "629078", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115654"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.67319808240805, 1.3279866100729638 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "RCMA POWER PTE. LTD.", 
+		"ID": "201512738Z", 
+		"ADDRESS": "1 TEMASEK AVENUE", 
+		"POSTALCODE": "039192", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143820"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86029012629278, 1.2926619402433168 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "JING CHEN ENGINEERING PTE. LTD.", 
+		"ID": "201308244H", 
+		"ADDRESS": "188 TUAS SOUTH AVENUE 2", 
+		"POSTALCODE": "637199", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115656"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.63423877702506, 1.316083355372971 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TAVILDARA POWER PTE. LTD.", 
+		"ID": "201312209M", 
+		"ADDRESS": "3 COLEMAN STREET", 
+		"POSTALCODE": "179804", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134851"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85027227183129, 1.2918019804932066 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ASIA POWER GENERATION CO. PTE. LTD.", 
+		"ID": "201426802K", 
+		"ADDRESS": "6 BATTERY ROAD", 
+		"POSTALCODE": "049909", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143824"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.851763806108, 1.2854605937527874 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "DERMAGY PLUS", 
+		"ID": "53231184A", 
+		"ADDRESS": "275A BISHAN STREET 24", 
+		"POSTALCODE": "571275", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121626"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84351999301707, 1.35672875874257 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ACECOM GLOBAL PTE. LTD.", 
+		"ID": "201005952C", 
+		"ADDRESS": "200 JALAN SULTAN", 
+		"POSTALCODE": "199018", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134853"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8616308767406, 1.303932065290831 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "NEW GEN ENERGY PTE. LTD.", 
+		"ID": "201136048W", 
+		"ADDRESS": "1003 BUKIT MERAH CENTRAL", 
+		"POSTALCODE": "159836", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134849"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.81447801074779, 1.2833082124158737 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "YI FENG TRADING & SERVICES", 
+		"ID": "53111908D", 
+		"ADDRESS": "510 WOODLANDS DRIVE 14", 
+		"POSTALCODE": "730510", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113838"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.788496697263, 1.4327542519793486 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SONGYANG ELECTRICAL ENGINEERING CONSTRUCTION", 
+		"ID": "52815978W", 
+		"ADDRESS": "2 ADMIRALTY ROAD EAST", 
+		"POSTALCODE": "759987", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113850"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83278660515043, 1.455409801713218 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SENOKO POWER LIMITED", 
+		"ID": "199504467W", 
+		"ADDRESS": "111 SOMERSET ROAD", 
+		"POSTALCODE": "238164", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133440"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8373189019303, 1.3001972132321706 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MAY INTERNATIONAL SOURCING", 
+		"ID": "53116245A", 
+		"ADDRESS": "90 BEDOK NORTH STREET 4", 
+		"POSTALCODE": "460090", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130032"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.94044891721866, 1.3321477357584859 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AIR T&D PTE. LTD.", 
+		"ID": "201406049E", 
+		"ADDRESS": "86 PHOENIX GARDEN", 
+		"POSTALCODE": "668336", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115707"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.75983870495514, 1.3764209850398677 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GLOBAL POWER PROJECTS SINGAPORE PTE. LTD.", 
+		"ID": "201023960R", 
+		"ADDRESS": "7500A BEACH ROAD", 
+		"POSTALCODE": "199591", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134855"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86085448888524, 1.299887774181569 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CHS MACHINERY PTE. LTD.", 
+		"ID": "201216152G", 
+		"ADDRESS": "12 DEFU LANE 1", 
+		"POSTALCODE": "539487", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121612"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8979192491882, 1.3610272380364514 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "NBT WIND POWER I PTE. LTD.", 
+		"ID": "201426593M", 
+		"ADDRESS": "159 TELOK AYER STREET", 
+		"POSTALCODE": "068614", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143828"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8476008425221, 1.2803356089041371 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SUN CUBE", 
+		"ID": "53286094B", 
+		"ADDRESS": "160 PAYA LEBAR ROAD", 
+		"POSTALCODE": "409022", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130013"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89032652419046, 1.329308821019183 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MBH POWER & ENERGY (S) PTE. LTD.", 
+		"ID": "200511656G", 
+		"ADDRESS": "1A INTERNATIONAL BUSINESS PARK", 
+		"POSTALCODE": "609933", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115651"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.74838179670299, 1.3280581878188191 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "DE'COM COOL-AIR SOLUTIONS", 
+		"ID": "53270154B", 
+		"ADDRESS": "612 ANG MO KIO AVENUE 4", 
+		"POSTALCODE": "560612", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121623"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83859859811561, 1.378900969382015 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ARIZONA POWER PRIVATE LIMITED", 
+		"ID": "200820950W", 
+		"ADDRESS": "8 EU TONG SEN STREET", 
+		"POSTALCODE": "059818", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143828"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84679579748405, 1.2889505525237681 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "UTICA PRIVATE LIMITED", 
+		"ID": "200806645W", 
+		"ADDRESS": "101 KITCHENER ROAD", 
+		"POSTALCODE": "208511", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133432"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8580663896741, 1.3086510556517401 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "KEPPEL GAS PTE. LTD.", 
+		"ID": "200413498Z", 
+		"ADDRESS": "1 HARBOURFRONT AVENUE", 
+		"POSTALCODE": "098632", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143835"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.81829061933236, 1.2648366708368473 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "X-FACTOR ENERGY", 
+		"ID": "53122954L", 
+		"ADDRESS": "5 BEDOK SOUTH AVENUE 2", 
+		"POSTALCODE": "460005", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130032"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.93439944038487, 1.322185575047095 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ISTANA KARANG SINGAPORE PTE. LTD.", 
+		"ID": "200804186N", 
+		"ADDRESS": "16 RAFFLES QUAY", 
+		"POSTALCODE": "048581", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143821"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85091465792415, 1.2813575156989403 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MONTGOMERY INTERNATIONAL PTE. LTD.", 
+		"ID": "201009548C", 
+		"ADDRESS": "8 TEMASEK BOULEVARD", 
+		"POSTALCODE": "038988", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143820"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85955963774668, 1.295229427345692 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "E3ENERGY PTE. LTD.", 
+		"ID": "201436356D", 
+		"ADDRESS": "6 CONWAY CIRCLE", 
+		"POSTALCODE": "558251", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121621"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86503528590929, 1.3599517102381675 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "WLH AIR-CON SERVICES", 
+		"ID": "53186417X", 
+		"ADDRESS": "204 MARSILING DRIVE", 
+		"POSTALCODE": "730204", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113837"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.77402724146616, 1.4442094364918312 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AIR TECH ACMV PTE. LTD.", 
+		"ID": "201402134G", 
+		"ADDRESS": "3006 UBI ROAD 1", 
+		"POSTALCODE": "408700", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130011"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89300783963573, 1.3304437288565003 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SUM YUEN", 
+		"ID": "02989000D", 
+		"ADDRESS": "223 JURONG EAST STREET 21", 
+		"POSTALCODE": "600223", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115648"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.7360899670833, 1.3410660313741714 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MAERSK MARINE &OFFSHORE", 
+		"ID": "53307931D", 
+		"ADDRESS": "407 SIN MING AVENUE", 
+		"POSTALCODE": "570407", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121626"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83421085686038, 1.3634454625563304 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "JOHN BROWN ENGINEERING (ASIA) PTE. LTD.", 
+		"ID": "201415670N", 
+		"ADDRESS": "30 CECIL STREET", 
+		"POSTALCODE": "049712", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143824"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84988763770485, 1.2827909341713366 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "PEACE YOGA", 
+		"ID": "53294318W", 
+		"ADDRESS": "637 HOUGANG AVENUE 8", 
+		"POSTALCODE": "530637", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121606"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87928226659268, 1.3709611553272667 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "VALUE ENGINEERING SERVICES LLP", 
+		"ID": "T14LL1327J", 
+		"ADDRESS": "77 GEYLANG BAHRU", 
+		"POSTALCODE": "339685", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132156"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87292317134711, 1.3207186465932417 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "S & E ELECTRICAL SERVICES", 
+		"ID": "52868593K", 
+		"ADDRESS": "32 NEW MARKET ROAD", 
+		"POSTALCODE": "050032", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143825"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84257892931817, 1.2848529134993314 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TAISUN TAICANG TERMINAL PTE LTD", 
+		"ID": "199602980K", 
+		"ADDRESS": "20 SIN MING LANE", 
+		"POSTALCODE": "573968", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121626"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83335631865148, 1.3580889379286725 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "IBER PRINT", 
+		"ID": "53256681E", 
+		"ADDRESS": "200 UPPER THOMSON ROAD", 
+		"POSTALCODE": "574424", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121627"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83605380683285, 1.3518389035410612 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "YUSIN TRADING CO PTE LTD", 
+		"ID": "197600717E", 
+		"ADDRESS": "2022 BUKIT BATOK STREET 23", 
+		"POSTALCODE": "659527", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115706"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.75180389684513, 1.343000129023743 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "DYCEL SERVICES", 
+		"ID": "53263548E", 
+		"ADDRESS": "17 JALAN TENTERAM", 
+		"POSTALCODE": "321017", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132154"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85981247501296, 1.328205116165222 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "RENERTEC PTE. LTD.", 
+		"ID": "200716573N", 
+		"ADDRESS": "20 SIMEI RISE", 
+		"POSTALCODE": "528809", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121602"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.96031414172501, 1.3491767517355715 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "EMPEREAL PTE. LTD.", 
+		"ID": "201224190C", 
+		"ADDRESS": "3 SHENTON WAY", 
+		"POSTALCODE": "068805", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143828"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85008978135491, 1.2785395335185668 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AIRCON GURU PTE. LTD.", 
+		"ID": "201500291R", 
+		"ADDRESS": "168 WOODLANDS STREET 11", 
+		"POSTALCODE": "730168", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113837"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.7767376914868, 1.432952949052894 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ECOWISE MARINA POWER PTE. LTD.", 
+		"ID": "200920905M", 
+		"ADDRESS": "17 KALLANG JUNCTION", 
+		"POSTALCODE": "339274", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132156"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86543904313905, 1.3139387663157402 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "HEEHUAT GAS SUPPLY", 
+		"ID": "52889299A", 
+		"ADDRESS": "6A BOON TIONG ROAD", 
+		"POSTALCODE": "164006", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134849"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83134718170417, 1.2868289575410774 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "REX AUTOMATION & CONTROLS PTE. LTD.", 
+		"ID": "201015419M", 
+		"ADDRESS": "1 BUKIT BATOK CRESCENT", 
+		"POSTALCODE": "658064", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115704"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.75903831968974, 1.3390446927661441 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SAILZEDA VT PTE. LTD.", 
+		"ID": "201526463D", 
+		"ADDRESS": "37 DEFU LANE 10", 
+		"POSTALCODE": "539214", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121611"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89109442831638, 1.3522686889734774 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SING SWEE BEE ENTERPRISE PTE LTD", 
+		"ID": "199206229C", 
+		"ADDRESS": "6 ATTAP VALLEY ROAD", 
+		"POSTALCODE": "759906", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113850"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.7970769948399, 1.456576131871305 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "DEVI INDUSTRY", 
+		"ID": "53164052C", 
+		"ADDRESS": "50 CHOA CHU KANG NORTH 6", 
+		"POSTALCODE": "689574", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115716"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.75134118853086, 1.3944463892329364 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "IPM ASIA PTE. LTD.", 
+		"ID": "199307415N", 
+		"ADDRESS": "1 ROBINSON ROAD", 
+		"POSTALCODE": "048542", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143821"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85111503624114, 1.2819733838890761 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "JAYARANI  SALES  &  MARKETING", 
+		"ID": "53048726L", 
+		"ADDRESS": "946 HOUGANG STREET 92", 
+		"POSTALCODE": "530946", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121607"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.88122325210041, 1.3746436696591369 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "WIND BENDERS PTE. LTD.", 
+		"ID": "201512579M", 
+		"ADDRESS": "280 WOODLANDS INDUSTRIAL PARK E5", 
+		"POSTALCODE": "757322", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113847"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.79109508914462, 1.4513180831562562 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ROTARY POWER SYSTEMS PTE. LTD.", 
+		"ID": "200205713N", 
+		"ADDRESS": "38 TUAS CRESCENT", 
+		"POSTALCODE": "638725", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115657"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.64052577538334, 1.3176990309115515 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "KIAN LEE ELECTRICAL ENTERPRISE", 
+		"ID": "22344500B", 
+		"ADDRESS": "1004 EUNOS AVENUE 8", 
+		"POSTALCODE": "409499", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130014"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.90093292216726, 1.3239764469317525 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LS AIRCON ENGINEERING", 
+		"ID": "53179705L", 
+		"ADDRESS": "2021 BUKIT BATOK STREET 23", 
+		"POSTALCODE": "659526", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115706"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.75286331808596, 1.3424032871997034 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "PACIFICLIGHT POWER PTE. LTD.", 
+		"ID": "199901043R", 
+		"ADDRESS": "460 ALEXANDRA ROAD", 
+		"POSTALCODE": "119963", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134848"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.80126421108814, 1.2739805054163524 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "THE LOAN MARKETPLACE", 
+		"ID": "53289711X", 
+		"ADDRESS": "330 SERANGOON AVENUE 3", 
+		"POSTALCODE": "550330", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121619"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86956301381154, 1.3499304335433557 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "DAWEI LNG TERMINAL HOLDING PTE. LTD.", 
+		"ID": "201502253Z", 
+		"ADDRESS": "20 MALACCA STREET", 
+		"POSTALCODE": "048979", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143823"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85071160563189, 1.2839358492052524 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SCHWEITZER ENGINEERING LABORATORIES SOUTHEAST ASIA PTE. LTD.", 
+		"ID": "201112926Z", 
+		"ADDRESS": "10 COLLYER QUAY", 
+		"POSTALCODE": "049315", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143823"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85190935323419, 1.2831987868392938 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ASIA PACIFIC REALTY INVESTMENT SERVICES", 
+		"ID": "53121358K", 
+		"ADDRESS": "111 NORTH BRIDGE ROAD", 
+		"POSTALCODE": "179098", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134851"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85080331368093, 1.2923111318630915 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ACV ASCENDANT LLP", 
+		"ID": "T13LL1382K", 
+		"ADDRESS": "112 ROBINSON ROAD", 
+		"POSTALCODE": "068902", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143829"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8488174566287, 1.2792585082742385 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LINDE GAS SINGAPORE PTE. LTD.", 
+		"ID": "199303758R", 
+		"ADDRESS": "50 JURONG ISLAND HIGHWAY", 
+		"POSTALCODE": "627877", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115653"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.71555436784996, 1.2823614030975996 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "HTH AIRCON ENGINEERING & SERVICES", 
+		"ID": "53249792M", 
+		"ADDRESS": "57 JALAN SENYUM", 
+		"POSTALCODE": "418196", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130018"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.91409130025521, 1.3230725956657103 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MIDEA AIR-CONDITIONING & REFRIGERATION", 
+		"ID": "53181260W", 
+		"ADDRESS": "625 ALJUNIED ROAD", 
+		"POSTALCODE": "389836", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132204"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87885818770356, 1.3250766555524116 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LATENE INTERNATIONAL PTE. LTD.", 
+		"ID": "201230838G", 
+		"ADDRESS": "1 SHIPYARD ROAD", 
+		"POSTALCODE": "628128", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115654"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.69706558394341, 1.3084457817798667 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SELECT SOLUTIONS", 
+		"ID": "53242782C", 
+		"ADDRESS": "2 SHENTON WAY", 
+		"POSTALCODE": "068804", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143828"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84979686280752, 1.2792711631876497 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "RI SHENG AIR COND ENGINEERING", 
+		"ID": "53214103B", 
+		"ADDRESS": "30 DEFU LANE 10", 
+		"POSTALCODE": "539211", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121611"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89230479440754, 1.3523183994698211 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "COOL GENERATION AIR-CONDITIONER ENGINEERING", 
+		"ID": "53277281D", 
+		"ADDRESS": "317 TAMPINES STREET 33", 
+		"POSTALCODE": "520317", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121558"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.95689793337512, 1.351531877097813 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LIVECOOL SOLUTIONS", 
+		"ID": "53269230J", 
+		"ADDRESS": "333A ANCHORVALE LINK", 
+		"POSTALCODE": "541333", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121614"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89086810598485, 1.3946777302266513 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MYANMAR ELECTRICITY & ENERGY PTE. LTD.", 
+		"ID": "201302523W", 
+		"ADDRESS": "80 ROBINSON ROAD", 
+		"POSTALCODE": "068898", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143829"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84931615045721, 1.2801312132165543 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LEK SENG GAS SUPPLY", 
+		"ID": "53013293A", 
+		"ADDRESS": "147 SERANGOON NORTH AVENUE 1", 
+		"POSTALCODE": "550147", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121619"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87266245691555, 1.3684733801329163 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ENOVATEK ENERGY PTE. LTD.", 
+		"ID": "201211051Z", 
+		"ADDRESS": "77 HIGH STREET", 
+		"POSTALCODE": "179433", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134851"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8493584460515, 1.2904481586988739 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "OKH DLRE JV PTE. LTD.", 
+		"ID": "201215397E", 
+		"ADDRESS": "701 SIMS DRIVE", 
+		"POSTALCODE": "387383", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132201"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8772514544962, 1.3182903664884882 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "PROAC SUPPLY AND SERVICES", 
+		"ID": "53205459L", 
+		"ADDRESS": "312 WOODLANDS STREET 31", 
+		"POSTALCODE": "730312", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113837"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.77565224675435, 1.4306811718085957 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SOON LEE REFRIGERATOR AND AIRCON", 
+		"ID": "53169234E", 
+		"ADDRESS": "1 FLORA DRIVE", 
+		"POSTALCODE": "507009", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121551"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.9653942577621, 1.3594120002552836 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "A'AYAN FITRAH", 
+		"ID": "53271900W", 
+		"ADDRESS": "757 WOODLANDS AVENUE 4", 
+		"POSTALCODE": "730757", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113840"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.79459882285776, 1.446203090657266 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "VESTAS ASIA PACIFIC WIND TECHNOLOGY PTE. LTD.", 
+		"ID": "200516675D", 
+		"ADDRESS": "10 COLLYER QUAY", 
+		"POSTALCODE": "049315", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143823"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85190935323419, 1.2831987868392938 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "DAUN ENERGY1 PTE. LTD.", 
+		"ID": "201209002Z", 
+		"ADDRESS": "1 DUXTON HILL", 
+		"POSTALCODE": "089587", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143834"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8430677145885, 1.2794746789064855 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ABEYONIC", 
+		"ID": "53191935L", 
+		"ADDRESS": "3014A UBI ROAD 1", 
+		"POSTALCODE": "408703", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130011"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89362153028696, 1.32950860579833 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AMGAS ASIA PTE. LTD.", 
+		"ID": "200809269W", 
+		"ADDRESS": "15 PIONEER WALK", 
+		"POSTALCODE": "627753", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115653"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.69574850123058, 1.321480218443619 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ECO ACMV ENGINEERING PTE. LTD.", 
+		"ID": "201202657K", 
+		"ADDRESS": "8 KAKI BUKIT AVENUE 4", 
+		"POSTALCODE": "415875", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130015"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.90656727769961, 1.338514770224172 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SIM UNITED", 
+		"ID": "53107002J", 
+		"ADDRESS": "10 NEYTHAL ROAD", 
+		"POSTALCODE": "628576", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115654"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.70189709973681, 1.3249071658478082 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "YOUMEI SINGAPORE ENERGY TECHNOLOGY PTE. LTD.", 
+		"ID": "200919754E", 
+		"ADDRESS": "14 JALAN CHENGAM", 
+		"POSTALCODE": "578297", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121628"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83193298193513, 1.3721942412608807 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TP UTILITIES PTE. LTD.", 
+		"ID": "200920924G", 
+		"ADDRESS": "111 SOMERSET ROAD", 
+		"POSTALCODE": "238164", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133440"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8373189019303, 1.3001972132321706 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SEALICO GAS ENERGY PTE. LTD.", 
+		"ID": "197800590H", 
+		"ADDRESS": "20 ANG MO KIO INDUSTRIAL PARK 2A", 
+		"POSTALCODE": "567761", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121624"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87061924041251, 1.3769237509689585 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MARIAN ENERGY PTE. LTD.", 
+		"ID": "201402202C", 
+		"ADDRESS": "371 BEACH ROAD", 
+		"POSTALCODE": "199597", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134855"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.86233172429486, 1.3023096347187852 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SYSTEM ATS & ELECTRIC", 
+		"ID": "52909444D", 
+		"ADDRESS": "20 WOODLANDS LINK", 
+		"POSTALCODE": "738733", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113844"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8108589349032, 1.450815543874293 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CAROUSEL POWER HOLDINGS LLP", 
+		"ID": "T15LL0863C", 
+		"ADDRESS": "3 DAIRY FARM ROAD", 
+		"POSTALCODE": "679035", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115711"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.76884363096032, 1.3639193822984375 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "WINAIR ENTERPRISE", 
+		"ID": "53205948D", 
+		"ADDRESS": "1033 EUNOS AVENUE 5A", 
+		"POSTALCODE": "409703", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130014"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.89893358713806, 1.321893760425882 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "NBT WIND POWER V PTE. LTD.", 
+		"ID": "201426624H", 
+		"ADDRESS": "159 TELOK AYER STREET", 
+		"POSTALCODE": "068614", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143828"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8476008425221, 1.2803356089041371 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CAMDARA ENGINEERING PTE. LTD.", 
+		"ID": "200723477M", 
+		"ADDRESS": "34 JALAN BUKIT HO SWEE", 
+		"POSTALCODE": "160034", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134849"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8270809089618, 1.288070637735111 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "HYDROGEN POWER PTE. LTD.", 
+		"ID": "201506027C", 
+		"ADDRESS": "50 RAFFLES PLACE", 
+		"POSTALCODE": "048623", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143822"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85213310036809, 1.2846918845420507 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SINGAPORE SMART GRID PTE. LTD.", 
+		"ID": "201525761H", 
+		"ADDRESS": "143 CECIL STREET", 
+		"POSTALCODE": "069542", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143831"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84806987037172, 1.278752975099896 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "KOOL MAX AIRCON SERVICES", 
+		"ID": "53290284W", 
+		"ADDRESS": "1 KAKI BUKIT ROAD 1", 
+		"POSTALCODE": "415934", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130015"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.90267546109675, 1.3327586351681338 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "JIA CHENG AIRCON SUPPLY PTE. LTD.", 
+		"ID": "201402703E", 
+		"ADDRESS": "180 YIO CHU KANG ROAD", 
+		"POSTALCODE": "545628", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121617"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87359955520576, 1.361870633382708 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "G7 ENERGY PTE. LTD.", 
+		"ID": "201504289R", 
+		"ADDRESS": "9 MARYLAND DRIVE", 
+		"POSTALCODE": "277505", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133448"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.7863081519528, 1.3190255541449762 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SUNRISE M&E ENGINEERING PTE. LTD.", 
+		"ID": "201412647D", 
+		"ADDRESS": "111 NORTH BRIDGE ROAD", 
+		"POSTALCODE": "179098", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134850"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8508024151819, 1.292317462393127 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LBS AIR-CON SERVICE", 
+		"ID": "53219839E", 
+		"ADDRESS": "909 TAMPINES AVENUE 4", 
+		"POSTALCODE": "520909", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121600"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.93940737028431, 1.3501906409936302 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AUWELD INTERNATIONAL PTE. LTD.", 
+		"ID": "197701458D", 
+		"ADDRESS": "1 SHIPYARD ROAD", 
+		"POSTALCODE": "628128", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115654"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.69706558394341, 1.3084457817798667 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "XI XIANGFENG FUELS N SERVICES", 
+		"ID": "52916275W", 
+		"ADDRESS": "255 EAST COAST ROAD", 
+		"POSTALCODE": "428932", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130024"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.90800946040876, 1.3083715169665304 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "WINTERAIRE AIRCONDITIONING", 
+		"ID": "53273833X", 
+		"ADDRESS": "690B WOODLANDS DRIVE 75", 
+		"POSTALCODE": "732690", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113841"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.80823150844529, 1.4431854364135284 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "EJF TRADING", 
+		"ID": "53276160W", 
+		"ADDRESS": "212 BUKIT BATOK STREET 21", 
+		"POSTALCODE": "650212", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115702"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.75221709600874, 1.3471864220189274 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CNBM INTERNATIONAL ENERGY PTE. LTD.", 
+		"ID": "201429041D", 
+		"ADDRESS": "1 IRVING PLACE", 
+		"POSTALCODE": "369546", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132200"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.88643413186422, 1.3362308790367186 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TECH ELITE", 
+		"ID": "53002230C", 
+		"ADDRESS": "158 MARIAM WAY", 
+		"POSTALCODE": "507083", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121551"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.96813928955498, 1.3579440752548542 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "POWERHAVEN ASIA PTE. LTD.", 
+		"ID": "201405716Z", 
+		"ADDRESS": "51 GOLDHILL PLAZA", 
+		"POSTALCODE": "308900", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132151"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84293577566947, 1.3181930666841415 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TIDAL ENERGY ASIA PTE. LTD.", 
+		"ID": "201224807E", 
+		"ADDRESS": "8 ROBINSON ROAD", 
+		"POSTALCODE": "048544", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143821"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85083918676376, 1.2822510245115082 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ENERGREEN TECHNOLOGIES PTE. LTD.", 
+		"ID": "201528625R", 
+		"ADDRESS": "312 ANG MO KIO AVENUE 3", 
+		"POSTALCODE": "560312", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719121622"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84877845845439, 1.3661937629713752 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ENERGIA KINETICS ASIA PACIFIC", 
+		"ID": "53276696B", 
+		"ADDRESS": "61 MARINE DRIVE", 
+		"POSTALCODE": "440061", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719130028"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.90875240127987, 1.3030809903381204 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GASMART LOGISTICS PTE. LTD.", 
+		"ID": "200203843N", 
+		"ADDRESS": "37 KEPPEL ROAD", 
+		"POSTALCODE": "089064", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143834"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.83832072480023, 1.271916950225277 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AVANZZA CORPORATION PRIVATE LIMITED", 
+		"ID": "200812702C", 
+		"ADDRESS": "111 NORTH BRIDGE ROAD", 
+		"POSTALCODE": "179098", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134851"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85080331368093, 1.2923111318630915 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SEMBCORP COGEN PTE LTD", 
+		"ID": "199707556E", 
+		"ADDRESS": "30 HILL STREET", 
+		"POSTALCODE": "179360", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719134851"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8495264932886, 1.293599854156353 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TUAS POWER GENERATION PTE. LTD.", 
+		"ID": "200909292D", 
+		"ADDRESS": "111 SOMERSET ROAD", 
+		"POSTALCODE": "238164", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133440"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8373189019303, 1.3001972132321706 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "LYS ENERGY SOLUTIONS PTE. LTD.", 
+		"ID": "201327271N", 
+		"ADDRESS": "51A NEIL ROAD", 
+		"POSTALCODE": "088829", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143834"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84266876404608, 1.2795416030878923 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MIDEA COMMERCIAL AIR-CONDITIONING", 
+		"ID": "53181232D", 
+		"ADDRESS": "625 ALJUNIED ROAD", 
+		"POSTALCODE": "389836", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132204"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.87885818770356, 1.3250766555524116 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AIR-COOL&RENO PRIVATE LIMITED", 
+		"ID": "201505806E", 
+		"ADDRESS": "21 BUKIT BATOK CRESCENT", 
+		"POSTALCODE": "658065", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115705"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.7596655755708, 1.3369592587993584 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "STARSPLASH!", 
+		"ID": "53220420D", 
+		"ADDRESS": "289A PUNGGOL PLACE", 
+		"POSTALCODE": "821289", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719113634"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.90261902743718, 1.4015659151981168 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SW ENERGY RESOURCES PTE. LTD.", 
+		"ID": "201019295G", 
+		"ADDRESS": "745 LORONG 5 TOA PAYOH", 
+		"POSTALCODE": "319455", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719132153"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.85286848092785, 1.3331755451863636 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SINO GAS HOLDINGS PTE. LIMITED", 
+		"ID": "201228130K", 
+		"ADDRESS": "24 PANDAN ROAD", 
+		"POSTALCODE": "609275", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115651"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.75113140154413, 1.2996686280727814 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AES MASINLOC PTE. LTD.", 
+		"ID": "200721472E", 
+		"ADDRESS": "112 ROBINSON ROAD", 
+		"POSTALCODE": "068902", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719143829"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84881655819943, 1.279276595492636 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ATLANTIS ENERGY PTE. LIMITED", 
+		"ID": "200608795C", 
+		"ADDRESS": "65 NIVEN ROAD", 
+		"POSTALCODE": "228414", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719133438"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.84948253039946, 1.3039511647807918 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "UNITED RENEWABLE TECHNOLOGIES PTE. LTD.", 
+		"ID": "201421282D", 
+		"ADDRESS": "2 TUAS SOUTH AVENUE 2", 
+		"POSTALCODE": "637601", 
+		"MAPTILE": "", 
+		"PRODUCTSERVICE": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"CATEGORY": "ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY", 
+		"OPERATINGHOURS": "", 
+		"SOURCE": "", 
+		"STATUS": "null", 
+		"CREATEDATETIME": "20150719115656"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.62993719845075, 1.3190782287895069 ] } 
+	 }
+
+	]
+}

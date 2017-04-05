@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>SG - HDB Themes - towncouncil (33)</name>
+    <Style id="carparkIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBcarpark.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="flatIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBflat.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="marketIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBmarket.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="shopIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBshop.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="industrialIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBindustrial.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="foodcentreIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBfoodcentre.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="childcareIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBchildcare.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="communityclubsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBcommunityclubs.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="kindergartensIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBkindergartens.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="libraryIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBlibrary.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="mrtIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBmrt.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="parksIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBparks.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="heritageSitesIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBheritageSites.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="placeinterestIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBplaceinterest.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="worshipIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBworship.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="policestationIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBpolicestation.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="residentcentreIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBresidentcentre.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="schoolsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBschools.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="sportsclubsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBsportsclubs.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="towncouncilIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBtowncouncil.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Tanjong Pagar Town Council</name>
+      <description>[166 Bukit Merah Central #03-3527 Singapore 150166],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.817642868494,1.28311949933734, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>166 Bukit Merah Central #03-3527 Singapore 150166</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tanjong Pagar Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>150166</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jalan Besar Town Council</name>
+      <description>[568 Ganges Ave #01-112 Singapore 160568],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.831038271831,1.29002443505488, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>568 Ganges Ave #01-112 Singapore 160568</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jalan Besar Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>160568</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>West Coast Town Council</name>
+      <description>[444 Clementi Ave 3 #01-123/125 Singapore 120444],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.763861437499,1.31357005145216, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>444 Clementi Ave 3 #01-123/125 Singapore 120444</value>
+        </Data>
+        <Data name="fieldName">
+          <value>West Coast Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>120444</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Holland - Bukit Panjang Town Council</name>
+      <description>[170 Ghim Moh Road #06-02 Singapore 279621],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.789440813367,1.3120347184656, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>170 Ghim Moh Road #06-02 Singapore 279621</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Holland - Bukit Panjang Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>279621</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Marine Parade Town Council</name>
+      <description>[50 Marine Terrace #01-265 Singapore 440050],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.915834526035,1.30532819421192, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>50 Marine Terrace #01-265 Singapore 440050</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Marine Parade Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>440050</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jalan Besar Town Council</name>
+      <description>[70 Geylang Bahru #01-2719 Singapore 330070],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.870354518089,1.32191612852321, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>70 Geylang Bahru #01-2719 Singapore 330070</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jalan Besar Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>330070</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>East Coast Town Council</name>
+      <description>[206 Bedok North St 1 #01-353 Singapore 460206],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.930861565325,1.32647172386634, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>206 Bedok North St 1 #01-353 Singapore 460206</value>
+        </Data>
+        <Data name="fieldName">
+          <value>East Coast Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>460206</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bishan-Toa Payoh Town Council</name>
+      <description>[125A Toa Payoh Lor 2 #01-134 Singapore 311125],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.845754971127,1.33755125421901, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>125A Toa Payoh Lor 2 #01-134 Singapore 311125</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bishan-Toa Payoh Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>311125</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Potong Pasir Town Council</name>
+      <description>[121 Potong Pasir Ave 1 #01-271 Singapore 350121],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.865603143588,1.33574608604764, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>121 Potong Pasir Ave 1 #01-271 Singapore 350121</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Potong Pasir Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>350121</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Aljunied Town Council</name>
+      <description>[609 Bedok Reservoir Road #01-646 Singapore 460609],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.912374754918,1.33187223546396, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>609 Bedok Reservoir Road #01-646 Singapore 460609</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Aljunied Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>460609</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hong Kah Town Council</name>
+      <description>[952 Jurong West St 91 #01-725 Singapore 640952],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.691439601519,1.34252838979445, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>952 Jurong West St 91 #01-725 Singapore 640952</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Hong Kah Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>640952</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>West Coast Town Council</name>
+      <description>[509 Jurong West St 51 #01-159 Singapore 640509],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.719259988935,1.34884565446886, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>509 Jurong West St 51 #01-159 Singapore 640509</value>
+        </Data>
+        <Data name="fieldName">
+          <value>West Coast Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>640509</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jurong Town Council</name>
+      <description>[255 Jurong East St 24 #01-303 Singapore 600255],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.737896792191,1.34428329076653, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>255 Jurong East St 24 #01-303 Singapore 600255</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jurong Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>600255</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jurong Town Council</name>
+      <description>[630 Bukit Batok Central #01-146 Singapore 650630],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.749915175531,1.35008873045398, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>630 Bukit Batok Central #01-146 Singapore 650630</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jurong Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>650630</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bishan-Toa Payoh Town Council</name>
+      <description>[197 Bishan Street 13 #01-585 Singapore 570197],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.850672501536,1.34912031593751, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>197 Bishan Street 13 #01-585 Singapore 570197</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bishan-Toa Payoh Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>570197</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tampines Town Council</name>
+      <description>[136 Tampines St 11 # Singapore 521136],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.945200720406,1.34468073922333, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>136 Tampines St 11 # Singapore 521136</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tampines Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>521136</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hong Kah Town Council</name>
+      <description>[524 Bukit Batok St 52 #01-769 Singapore 650524],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.752619827473,1.35728296229542, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>524 Bukit Batok St 52 #01-769 Singapore 650524</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Hong Kah Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>650524</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ang Mo Kio- Yio Chu Kang Town Council</name>
+      <description>[342 Ang Mo Kio Ave 1 #01-1561 Singapore 560342],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.848528280697,1.36462823030617, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>342 Ang Mo Kio Ave 1 #01-1561 Singapore 560342</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ang Mo Kio- Yio Chu Kang Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>560342</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Marine Parade Town Council</name>
+      <description>[266 Serangoon Central Drive #03-251 Singapore 550266],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.871472369053,1.35323212809291, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>266 Serangoon Central Drive #03-251 Singapore 550266</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Marine Parade Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>550266</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ang Mo Kio- Yio Chu Kang Town Council</name>
+      <description>[161 Ang Mo Kio Ave 4 #01-500 Singapore 560161],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.839515214845,1.37418190101695, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>161 Ang Mo Kio Ave 4 #01-500 Singapore 560161</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ang Mo Kio- Yio Chu Kang Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>560161</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ang Mo Kio- Yio Chu Kang Town Council</name>
+      <description>[528 Ang Mo Kio Avenue 10 #01-2385 Singapore 560528],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.854882962164,1.37257071000561, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>528 Ang Mo Kio Avenue 10 #01-2385 Singapore 560528</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ang Mo Kio- Yio Chu Kang Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>560528</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Aljunied Town Council</name>
+      <description>[147 Serangoon North Ave 1 #01-421 Singapore 550147],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.872665014416,1.36847833830905, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>147 Serangoon North Ave 1 #01-421 Singapore 550147</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Aljunied Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>550147</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Aljunied Town Council</name>
+      <description>[810 Hougang Central #02-214 Singapore 530810],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.893532669295,1.37154677395827, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>810 Hougang Central #02-214 Singapore 530810</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Aljunied Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>530810</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hougang Town Council</name>
+      <description>[701 Hougang Ave 2 #01-01 Singapore 530701],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.890063197945,1.36600063392391, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>701 Hougang Ave 2 #01-01 Singapore 530701</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Hougang Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>530701</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Pasir Ris - Punggol Town Council</name>
+      <description>[577 Pasir Ris St 53 #01-88 Singapore 510577],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.946940597694,1.37344040354947, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>577 Pasir Ris St 53 #01-88 Singapore 510577</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Pasir Ris - Punggol Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>510577</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hong Kah Town Council</name>
+      <description>[309 Choa Chu Kang Ave 4 #02-02 Singapore 680309],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.745696309091,1.38511295135892, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>309 Choa Chu Kang Ave 4 #02-02 Singapore 680309</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Hong Kah Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>680309</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Holland - Bukit Panjang Town Council</name>
+      <description>[256 Bangkit Road #01-71 Singapore 670256],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.773004048527,1.37904775889862, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>256 Bangkit Road #01-71 Singapore 670256</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Holland - Bukit Panjang Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>670256</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Pasir Ris - Punggol Town Council</name>
+      <description>[Rivervale Crescent #01-01 Singapore 541156],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.906957251108,1.39166448590981, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Rivervale Crescent #01-01 Singapore 541156</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Pasir Ris - Punggol Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>541156</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ang Mo Kio- Yio Chu Kang Town Council</name>
+      <description>[845 Yishun St 81 #02-00 Singapore 760845],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.835014530076,1.41596848829924, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>845 Yishun St 81 #02-00 Singapore 760845</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ang Mo Kio- Yio Chu Kang Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>760845</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sembawang Town Council</name>
+      <description>[306A Woodlands St 31 #02-00 Singapore 731306],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.775136506708,1.43010025078098, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>306A Woodlands St 31 #02-00 Singapore 731306</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sembawang Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>731306</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sembawang Town Council</name>
+      <description>[900 Woodlands South Drive #02-02 Singapore 730900],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.786696398819,1.43526547823501, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>900 Woodlands South Drive #02-02 Singapore 730900</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sembawang Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>730900</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sembawang Town Council</name>
+      <description>[290 Yishun Street 22 # Singapore 760290],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.836163108106,1.43606266403305, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>290 Yishun Street 22 # Singapore 760290</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sembawang Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>760290</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sembawang Town Council</name>
+      <description>[751 Yishun Street 72 #01-186 Singapore 760751],Create DateTime=20150630110638</description>
+      <styleUrl>towncouncilIcon</styleUrl>
+      <Point>
+        <coordinates>103.834280709974,1.42760985652707, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>751 Yishun Street 72 #01-186 Singapore 760751</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sembawang Town Council</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>760751</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>
+

@@ -1,0 +1,70 @@
+{
+    "ReturnCode": "0",
+    "Cases": [
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170127-090567",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 38592.9775,
+            "IncidentStreetName": "PASIR RIS STREET 11",
+            "IncidentXCoordinate": 41806.1935,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-27T21:59:31"
+        },
+        {
+            "IncidentPostalCode": "100077",
+            "MobileCaseID": "M170127-090549",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 28491.5156,
+            "IncidentStreetName": "TELOK BLANGAH DRIVE",
+            "IncidentXCoordinate": 25273.2168,
+            "IncidentBlockNo": "77",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-27T20:10:06"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170127-090368",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 35212.8672,
+            "IncidentStreetName": null,
+            "IncidentXCoordinate": 29836.7676,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Pressure",
+            "Subject": "Drinking Water - Water Pressure",
+            "CreatedDateTime": "2017-01-27T07:37:32"
+        },
+        {
+            "IncidentPostalCode": "437964",
+            "MobileCaseID": "M170126-090261",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 31292.6758,
+            "IncidentStreetName": "MEYER ROAD",
+            "IncidentXCoordinate": 35043.2148,
+            "IncidentBlockNo": "180",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-26T17:44:32"
+        },
+        {
+            "IncidentPostalCode": "788601",
+            "MobileCaseID": "M170125-090059",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 40624.0039,
+            "IncidentStreetName": "MUNSHI ABDULLAH WALK",
+            "IncidentXCoordinate": 27674.8223,
+            "IncidentBlockNo": "21",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-25T20:13:35"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "ReturnCode": "0",
+    "Cases": [
+        {
+            "IncidentPostalCode": "788601",
+            "MobileCaseID": "M170125-090059",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 40624.0039,
+            "IncidentStreetName": "MUNSHI ABDULLAH WALK",
+            "IncidentXCoordinate": 27674.8223,
+            "IncidentBlockNo": "21",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-25T20:13:35"
+        },
+        {
+            "IncidentPostalCode": "791441",
+            "MobileCaseID": "M170121-089045",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 41454.7711,
+            "IncidentStreetName": "FERNVALE ROAD",
+            "IncidentXCoordinate": 32655.4365,
+            "IncidentBlockNo": "441A",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-21T21:17:52"
+        },
+        {
+            "IncidentPostalCode": "522515",
+            "MobileCaseID": "M170121-088995",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 37672.3781,
+            "IncidentStreetName": "TAMPINES CENTRAL 7",
+            "IncidentXCoordinate": 39724.1508,
+            "IncidentBlockNo": "515B",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Pressure",
+            "Subject": "Drinking Water - Water Pressure",
+            "CreatedDateTime": "2017-01-21T17:25:42"
+        }
+    ]
+}

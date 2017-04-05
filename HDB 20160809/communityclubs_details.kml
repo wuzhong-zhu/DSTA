@@ -1,0 +1,2520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>SG - HDB Themes - communityclubs (107)</name>
+    <Style id="carparkIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBcarpark.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="flatIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBflat.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="marketIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBmarket.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="shopIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBshop.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="industrialIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBindustrial.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="foodcentreIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBfoodcentre.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="childcareIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBchildcare.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="communityclubsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBcommunityclubs.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="kindergartensIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBkindergartens.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="libraryIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBlibrary.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="mrtIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBmrt.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="parksIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBparks.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="heritageSitesIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBheritageSites.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="placeinterestIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBplaceinterest.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="worshipIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBworship.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="policestationIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBpolicestation.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="residentcentreIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBresidentcentre.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="schoolsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBschools.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="sportsclubsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBsportsclubs.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="towncouncilIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBtowncouncil.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>TELOK BLANGAH CC</name>
+      <description>[450 TELOK BLANGAH ST 31    Singapore 108943],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.80788858404,1.27484427999022, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>450 TELOK BLANGAH ST 31    Singapore 108943</value>
+        </Data>
+        <Data name="fieldName">
+          <value>TELOK BLANGAH CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>108943</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>RADIN MAS CC</name>
+      <description>[1 TELOK BLANGAH CRESCENT    Singapore 098915],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.819854376899,1.27601165533839, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1 TELOK BLANGAH CRESCENT    Singapore 098915</value>
+        </Data>
+        <Data name="fieldName">
+          <value>RADIN MAS CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>098915</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>TANJONG PAGAR CC</name>
+      <description>[101 CANTONMENT ROAD    Singapore 089774],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.841596330528,1.27607667875133, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>101 CANTONMENT ROAD    Singapore 089774</value>
+        </Data>
+        <Data name="fieldName">
+          <value>TANJONG PAGAR CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>089774</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>HENDERSON CC</name>
+      <description>[500 BUKIT MERAH VIEW    Singapore 159682],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.823523913373,1.28596058706198, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>500 BUKIT MERAH VIEW    Singapore 159682</value>
+        </Data>
+        <Data name="fieldName">
+          <value>HENDERSON CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>159682</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>LENG KEE CC</name>
+      <description>[400 LENGKOK BAHRU    Singapore 159049],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.814282645476,1.28989314379623, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>400 LENGKOK BAHRU    Singapore 159049</value>
+        </Data>
+        <Data name="fieldName">
+          <value>LENG KEE CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>159049</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>BUKIT MERAH CC</name>
+      <description>[4000 JALAN BUKIT MERAH,    Singapore 159465],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.815828536883,1.28525427553071, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>4000 JALAN BUKIT MERAH,    Singapore 159465</value>
+        </Data>
+        <Data name="fieldName">
+          <value>BUKIT MERAH CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>159465</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>KIM SENG CC</name>
+      <description>[570 HAVELOCK ROAD    Singapore 169640],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.83098210862,1.28949681296594, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>570 HAVELOCK ROAD    Singapore 169640</value>
+        </Data>
+        <Data name="fieldName">
+          <value>KIM SENG CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>169640</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>TIONG BAHRU CC</name>
+      <description>[EU CHIN ST    Singapore 169715],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.831911821423,1.28346985748785, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>EU CHIN ST    Singapore 169715</value>
+        </Data>
+        <Data name="fieldName">
+          <value>TIONG BAHRU CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>169715</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>KRETA AYER CC</name>
+      <description>[KRETA AYER ROAD    Singapore 088995],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.843012843538,1.28119258853881, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>KRETA AYER ROAD    Singapore 088995</value>
+        </Data>
+        <Data name="fieldName">
+          <value>KRETA AYER CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>088995</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>TELOK AYER HONG LIM GREEN CC</name>
+      <description>[20 UPPER PICKERING STREET    Singapore 058284],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.846536122761,1.28624973880642, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>20 UPPER PICKERING STREET    Singapore 058284</value>
+        </Data>
+        <Data name="fieldName">
+          <value>TELOK AYER HONG LIM GREEN CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>058284</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>WEST COAST CC</name>
+      <description>[2     Singapore 129605],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.764863675889,1.3027869321292, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>2     Singapore 129605</value>
+        </Data>
+        <Data name="fieldName">
+          <value>WEST COAST CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>129605</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>DOVER CC</name>
+      <description>[1 DOVER ROAD, #01-300    Singapore 130001],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.78331396612,1.30230747264762, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1 DOVER ROAD, #01-300    Singapore 130001</value>
+        </Data>
+        <Data name="fieldName">
+          <value>DOVER CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>130001</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>QUEENSTOWN CC</name>
+      <description>[365 COMMONWEALTH AVENUE    Singapore 149732],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.801298306903,1.29925809770438, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>365 COMMONWEALTH AVENUE    Singapore 149732</value>
+        </Data>
+        <Data name="fieldName">
+          <value>QUEENSTOWN CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>149732</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>KAMPONG GLAM CC</name>
+      <description>[385 BEACH ROAD    Singapore 199581],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.863598770652,1.30278298693613, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>385 BEACH ROAD    Singapore 199581</value>
+        </Data>
+        <Data name="fieldName">
+          <value>KAMPONG GLAM CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>199581</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>WATER-VENTURE (KALLANG)</name>
+      <description>[4876 BEACH ROAD    Singapore 199587],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.867608017767,1.30372460492118, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>4876 BEACH ROAD    Singapore 199587</value>
+        </Data>
+        <Data name="fieldName">
+          <value>WATER-VENTURE (KALLANG)</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>199587</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>KATONG CC</name>
+      <description>[51 KAMPONG ARANG ROAD    Singapore 438178],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.884659022248,1.30048085969968, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>51 KAMPONG ARANG ROAD    Singapore 438178</value>
+        </Data>
+        <Data name="fieldName">
+          <value>KATONG CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>438178</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>BUONA VISTA CC</name>
+      <description>[36 HOLLAND DRIVE, #01-01    Singapore 270036],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.79261941659,1.30925872475292, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>36 HOLLAND DRIVE, #01-01    Singapore 270036</value>
+        </Data>
+        <Data name="fieldName">
+          <value>BUONA VISTA CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>270036</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>ULU PANDAN CC</name>
+      <description>[170     Singapore 279621],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.789670299898,1.31237066004468, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>170     Singapore 279621</value>
+        </Data>
+        <Data name="fieldName">
+          <value>ULU PANDAN CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>279621</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>CAIRNHILL CC</name>
+      <description>[1 ANTHONY ROAD    Singapore 229944],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.838888879407,1.31052449062864, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1 ANTHONY ROAD    Singapore 229944</value>
+        </Data>
+        <Data name="fieldName">
+          <value>CAIRNHILL CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>229944</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>JALAN BESAR CC</name>
+      <description>[69 JELLICOE RD    Singapore 208737],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.861732483768,1.30778266160727, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>69 JELLICOE RD    Singapore 208737</value>
+        </Data>
+        <Data name="fieldName">
+          <value>JALAN BESAR CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>208737</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>GEYLANG WEST CC</name>
+      <description>[1205 UPPER BOON KENG ROAD    Singapore 387311],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.872545519828,1.31556628497129, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1205 UPPER BOON KENG ROAD    Singapore 387311</value>
+        </Data>
+        <Data name="fieldName">
+          <value>GEYLANG WEST CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>387311</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>MOUNTBATTEN CC</name>
+      <description>[35 JALAN SATU    Singapore 399479],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.886948092975,1.31008169936736, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>35 JALAN SATU    Singapore 399479</value>
+        </Data>
+        <Data name="fieldName">
+          <value>MOUNTBATTEN CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>399479</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>GEYLANG SERAI CC</name>
+      <description>[99 HAIG ROAD, #1-1 GEYLANG SERAI CC    Singapore 438748],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.897836168014,1.31100481103791, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>99 HAIG ROAD, #1-1 GEYLANG SERAI CC    Singapore 438748</value>
+        </Data>
+        <Data name="fieldName">
+          <value>GEYLANG SERAI CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>438748</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>JOO CHIAT CC</name>
+      <description>[405 JOO CHIAT ROAD    Singapore 427633],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.904195896228,1.30750381304612, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>405 JOO CHIAT ROAD    Singapore 427633</value>
+        </Data>
+        <Data name="fieldName">
+          <value>JOO CHIAT CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>427633</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>MARINE PARADE CC</name>
+      <description>[278 MARINE PARADE ROAD    Singapore 449282],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.909581511568,1.30466969203745, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>278 MARINE PARADE ROAD    Singapore 449282</value>
+        </Data>
+        <Data name="fieldName">
+          <value>MARINE PARADE CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>449282</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>SIGLAP SOUTH CC</name>
+      <description>[6 PALM ROAD    Singapore 456441],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.930712898548,1.31326685795859, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>6 PALM ROAD    Singapore 456441</value>
+        </Data>
+        <Data name="fieldName">
+          <value>SIGLAP SOUTH CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>456441</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>WATER-VENTURE (EAST COAST)</name>
+      <description>[1390     Singapore 468961],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.952223927309,1.31172823984426, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1390     Singapore 468961</value>
+        </Data>
+        <Data name="fieldName">
+          <value>WATER-VENTURE (EAST COAST)</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>468961</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>AYER RAJAH CC</name>
+      <description>[150 PANDAN GARDENS    Singapore 609335],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.74746713219,1.32101262747909, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>150 PANDAN GARDENS    Singapore 609335</value>
+        </Data>
+        <Data name="fieldName">
+          <value>AYER RAJAH CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>609335</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>CLEMENTI CC</name>
+      <description>[220 CLEMENTI AVE 4    Singapore 129880],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.768153674992,1.31881519623088, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>220 CLEMENTI AVE 4    Singapore 129880</value>
+        </Data>
+        <Data name="fieldName">
+          <value>CLEMENTI CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>129880</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>TANGLIN CC</name>
+      <description>[245 WHITLEY ROAD    Singapore 297829],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.826890939213,1.32335525062609, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>245 WHITLEY ROAD    Singapore 297829</value>
+        </Data>
+        <Data name="fieldName">
+          <value>TANGLIN CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>297829</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PEK KIO CC</name>
+      <description>[97 CAMBRIDGE ROAD    Singapore 219751],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.849543916261,1.31657275369207, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>97 CAMBRIDGE ROAD    Singapore 219751</value>
+        </Data>
+        <Data name="fieldName">
+          <value>PEK KIO CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>219751</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>KALLANG CC</name>
+      <description>[45 BOON KENG ROAD    Singapore 339771],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.862373288426,1.31780292560803, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>45 BOON KENG ROAD    Singapore 339771</value>
+        </Data>
+        <Data name="fieldName">
+          <value>KALLANG CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>339771</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>WHAMPOA CC</name>
+      <description>[300 WHAMPOA DRIVE    Singapore 327737],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.856943506287,1.32466831156149, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>300 WHAMPOA DRIVE    Singapore 327737</value>
+        </Data>
+        <Data name="fieldName">
+          <value>WHAMPOA CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>327737</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>KOLAM AYER CC</name>
+      <description>[3188 GEYLANG BAHRU    Singapore 339717],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.869930584323,1.32424119386628, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>3188 GEYLANG BAHRU    Singapore 339717</value>
+        </Data>
+        <Data name="fieldName">
+          <value>KOLAM AYER CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>339717</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>MACPHERSON CC</name>
+      <description>[400 PAYA LEBAR WAY    Singapore 379131],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.88458167504,1.32348939178889, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>400 PAYA LEBAR WAY    Singapore 379131</value>
+        </Data>
+        <Data name="fieldName">
+          <value>MACPHERSON CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>379131</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>KAMPONG UBI CC</name>
+      <description>[10 JALAN UBI    Singapore 409075],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.900766882226,1.31783082740121, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>10 JALAN UBI    Singapore 409075</value>
+        </Data>
+        <Data name="fieldName">
+          <value>KAMPONG UBI CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>409075</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>KAMPONG KEMBANGAN CC</name>
+      <description>[5     Singapore 417408],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.912726548582,1.32313368310192, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>5     Singapore 417408</value>
+        </Data>
+        <Data name="fieldName">
+          <value>KAMPONG KEMBANGAN CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>417408</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>KAMPONG CHAI CHEE CC</name>
+      <description>[200     Singapore 469752],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.927181994567,1.32745073325003, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>200     Singapore 469752</value>
+        </Data>
+        <Data name="fieldName">
+          <value>KAMPONG CHAI CHEE CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>469752</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>BEDOK CC</name>
+      <description>[850     Singapore 467352],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.936039876133,1.32415153775494, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>850     Singapore 467352</value>
+        </Data>
+        <Data name="fieldName">
+          <value>BEDOK CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>467352</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>SIGLAP CC</name>
+      <description>[300 BEDOK SOUTH AVENUE 3    Singapore 469299],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.943332073947,1.32156608728187, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>300 BEDOK SOUTH AVENUE 3    Singapore 469299</value>
+        </Data>
+        <Data name="fieldName">
+          <value>SIGLAP CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>469299</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>THE FRONTIER CC</name>
+      <description>[60     Singapore 648346],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.704512345185,1.34063605754053, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>60     Singapore 648346</value>
+        </Data>
+        <Data name="fieldName">
+          <value>THE FRONTIER CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>648346</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>TAMAN JURONG CC</name>
+      <description>[1 YUNG SHENG ROAD    Singapore 618495],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.72172296663,1.33527781640572, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1 YUNG SHENG ROAD    Singapore 618495</value>
+        </Data>
+        <Data name="fieldName">
+          <value>TAMAN JURONG CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>618495</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>YUHUA CC</name>
+      <description>[90 BOON LAY WAY    Singapore 609958],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.73711584117,1.33995851563193, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>90 BOON LAY WAY    Singapore 609958</value>
+        </Data>
+        <Data name="fieldName">
+          <value>YUHUA CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>609958</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>TOA PAYOH CENTRAL CC</name>
+      <description>[93     Singapore 319194],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.850301262679,1.33482625246312, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>93     Singapore 319194</value>
+        </Data>
+        <Data name="fieldName">
+          <value>TOA PAYOH CENTRAL CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>319194</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>TOA PAYOH WEST CC</name>
+      <description>[200 LORONG 2 TOA PAYOH    Singapore 319642],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.844988368909,1.33540366380535, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>200 LORONG 2 TOA PAYOH    Singapore 319642</value>
+        </Data>
+        <Data name="fieldName">
+          <value>TOA PAYOH WEST CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>319642</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>TOA PAYOH EAST CC</name>
+      <description>[160 LOR 6 TOA PAYOH    Singapore 319380],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.854656996949,1.33623981774046, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>160 LOR 6 TOA PAYOH    Singapore 319380</value>
+        </Data>
+        <Data name="fieldName">
+          <value>TOA PAYOH EAST CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>319380</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>TOA PAYOH SOUTH CC</name>
+      <description>[1999 LOR 8 TOA PAYOH    Singapore 319258],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.859433692093,1.33455903120804, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1999 LOR 8 TOA PAYOH    Singapore 319258</value>
+        </Data>
+        <Data name="fieldName">
+          <value>TOA PAYOH SOUTH CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>319258</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>POTONG PASIR CC</name>
+      <description>[6 POTONG PASIR AVE 2    Singapore 358361],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.867151676056,1.3326338062198, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>6 POTONG PASIR AVE 2    Singapore 358361</value>
+        </Data>
+        <Data name="fieldName">
+          <value>POTONG PASIR CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>358361</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>EUNOS CC</name>
+      <description>[180 BEDOK RESERVOIR ROAD    Singapore 479220],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.915255268693,1.3326437262269, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>180 BEDOK RESERVOIR ROAD    Singapore 479220</value>
+        </Data>
+        <Data name="fieldName">
+          <value>EUNOS CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>479220</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>FENGSHAN CC</name>
+      <description>[20 BEDOK NORTH STREET 2    Singapore 469644],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.936640183793,1.33085916688338, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>20 BEDOK NORTH STREET 2    Singapore 469644</value>
+        </Data>
+        <Data name="fieldName">
+          <value>FENGSHAN CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>469644</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>KAKI BUKIT CC</name>
+      <description>[670 BEDOK NORTH STREET 3    Singapore 469627],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.926478753466,1.33353260373168, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>670 BEDOK NORTH STREET 3    Singapore 469627</value>
+        </Data>
+        <Data name="fieldName">
+          <value>KAKI BUKIT CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>469627</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>GEK POH VILLE CC</name>
+      <description>[1 JURONG WEST ST 74    Singapore 649149],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.698835683229,1.34881969630621, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1 JURONG WEST ST 74    Singapore 649149</value>
+        </Data>
+        <Data name="fieldName">
+          <value>GEK POH VILLE CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>649149</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>NANYANG CC</name>
+      <description>[60 JURONG WEST ST 91    Singapore 649040],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.692526175456,1.34258171416461, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>60 JURONG WEST ST 91    Singapore 649040</value>
+        </Data>
+        <Data name="fieldName">
+          <value>NANYANG CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>649040</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>BOON LAY CC</name>
+      <description>[10 BOON LAY PLACE    Singapore 649882],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.711395963258,1.348393828168, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>10 BOON LAY PLACE    Singapore 649882</value>
+        </Data>
+        <Data name="fieldName">
+          <value>BOON LAY CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>649882</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>JURONG GREEN CC</name>
+      <description>[6     Singapore 649520],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.725552303437,1.35058196320813, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>6     Singapore 649520</value>
+        </Data>
+        <Data name="fieldName">
+          <value>JURONG GREEN CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>649520</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>JURONG SPRING CC</name>
+      <description>[8 JURONG WEST STREET 52    Singapore 649296],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.718150447318,1.3483301826016, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>8 JURONG WEST STREET 52    Singapore 649296</value>
+        </Data>
+        <Data name="fieldName">
+          <value>JURONG SPRING CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>649296</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>BUKIT BATOK CC</name>
+      <description>[21 BUKIT BATOK CENTRAL    Singapore 659959],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.747514399658,1.35019082306154, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>21 BUKIT BATOK CENTRAL    Singapore 659959</value>
+        </Data>
+        <Data name="fieldName">
+          <value>BUKIT BATOK CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>659959</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>BUKIT TIMAH CC</name>
+      <description>[20 TOH YI DRIVE,    Singapore 596569],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.771816186526,1.34067179111951, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>20 TOH YI DRIVE,    Singapore 596569</value>
+        </Data>
+        <Data name="fieldName">
+          <value>BUKIT TIMAH CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>596569</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>THOMSON CC</name>
+      <description>[194 UPPER THOMSON ROAD    Singapore 574339],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.836336593843,1.35117520582875, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>194 UPPER THOMSON ROAD    Singapore 574339</value>
+        </Data>
+        <Data name="fieldName">
+          <value>THOMSON CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>574339</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>BISHAN CC</name>
+      <description>[51 BISHAN STREET 13    Singapore 579799],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.850750138176,1.34976878759122, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>51 BISHAN STREET 13    Singapore 579799</value>
+        </Data>
+        <Data name="fieldName">
+          <value>BISHAN CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>579799</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>BRADDELL HEIGHTS CC</name>
+      <description>[50     Singapore 556129],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.87044322404,1.35163293351084, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>50     Singapore 556129</value>
+        </Data>
+        <Data name="fieldName">
+          <value>BRADDELL HEIGHTS CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>556129</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>TAMPINES WEST CC</name>
+      <description>[5 TAMPINES AVENUE 3    Singapore 529705],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.935551146811,1.34874422858309, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>5 TAMPINES AVENUE 3    Singapore 529705</value>
+        </Data>
+        <Data name="fieldName">
+          <value>TAMPINES WEST CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>529705</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>TAMPINES CHANGKAT CC</name>
+      <description>[13     Singapore 529453],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.947687830823,1.34581333826093, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>13     Singapore 529453</value>
+        </Data>
+        <Data name="fieldName">
+          <value>TAMPINES CHANGKAT CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>529453</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>CHANGI SIMEI CC</name>
+      <description>[10     Singapore 529915],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.955081369697,1.34527000744802, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>10     Singapore 529915</value>
+        </Data>
+        <Data name="fieldName">
+          <value>CHANGI SIMEI CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>529915</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>HONG KAH NORTH CC</name>
+      <description>[30 BUKIT BATOK STREET 31    Singapore 659440],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.749456849181,1.35905888121717, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>30 BUKIT BATOK STREET 31    Singapore 659440</value>
+        </Data>
+        <Data name="fieldName">
+          <value>HONG KAH NORTH CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>659440</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>BUKIT GOMBAK CC</name>
+      <description>[386 BUKIT BATOK WEST AVE 5, #01-348    Singapore 650386],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.752720372672,1.36400971172277, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>386 BUKIT BATOK WEST AVE 5, #01-348    Singapore 650386</value>
+        </Data>
+        <Data name="fieldName">
+          <value>BUKIT GOMBAK CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>650386</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>BISHAN NORTH CC</name>
+      <description>[233 BISHAN STREET 22, #01-126    Singapore 570233],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.845814160142,1.35869701418822, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>233 BISHAN STREET 22, #01-126    Singapore 570233</value>
+        </Data>
+        <Data name="fieldName">
+          <value>BISHAN NORTH CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>570233</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>TECK GHEE CC</name>
+      <description>[861 ANG MO KIO AVE 10    Singapore 569734],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.853555098923,1.36310541948037, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>861 ANG MO KIO AVE 10    Singapore 569734</value>
+        </Data>
+        <Data name="fieldName">
+          <value>TECK GHEE CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>569734</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>HOUGANG CC</name>
+      <description>[35     Singapore 538840],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.892622227323,1.36475742475669, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>35     Singapore 538840</value>
+        </Data>
+        <Data name="fieldName">
+          <value>HOUGANG CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>538840</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>ALJUNIED CC</name>
+      <description>[110 HOUGANG AVE 1, #01-1048    Singapore 530110],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.889674695726,1.35490236683482, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>110 HOUGANG AVE 1, #01-1048    Singapore 530110</value>
+        </Data>
+        <Data name="fieldName">
+          <value>ALJUNIED CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>530110</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PAYA LEBAR KOVAN CC</name>
+      <description>[207 HOUGANG ST 21    Singapore 530207],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.886343964741,1.35788027290301, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>207 HOUGANG ST 21    Singapore 530207</value>
+        </Data>
+        <Data name="fieldName">
+          <value>PAYA LEBAR KOVAN CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>530207</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>TAMPINES CENTRAL CC</name>
+      <description>[Singapore 521866],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.934596874568,1.35534431697023, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore 521866</value>
+        </Data>
+        <Data name="fieldName">
+          <value>TAMPINES CENTRAL CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>521866</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>TAMPINES NORTH CC</name>
+      <description>[2 TAMPINES STREET 41    Singapore 529204],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.946657725133,1.3573609671724, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>2 TAMPINES STREET 41    Singapore 529204</value>
+        </Data>
+        <Data name="fieldName">
+          <value>TAMPINES NORTH CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>529204</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>TAMPINES EAST CC</name>
+      <description>[10 TAMPINES STREET 23    Singapore 529341],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.954332103779,1.35335084105693, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>10 TAMPINES STREET 23    Singapore 529341</value>
+        </Data>
+        <Data name="fieldName">
+          <value>TAMPINES EAST CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>529341</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>BUKIT PANJANG CC</name>
+      <description>[8 PENDING ROAD    Singapore 678295],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.770651808482,1.37635336558604, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>8 PENDING ROAD    Singapore 678295</value>
+        </Data>
+        <Data name="fieldName">
+          <value>BUKIT PANJANG CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>678295</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>KEBUN BARU CC</name>
+      <description>[216 ANG MO KIO AVE 4    Singapore 569897],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.837653677283,1.37286161350216, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>216 ANG MO KIO AVE 4    Singapore 569897</value>
+        </Data>
+        <Data name="fieldName">
+          <value>KEBUN BARU CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>569897</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>ANG MO KIO CC</name>
+      <description>[795 ANG MO KIO AVE 1 ST. 22    Singapore 569976],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.840684775801,1.36686220886507, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>795 ANG MO KIO AVE 1 ST. 22    Singapore 569976</value>
+        </Data>
+        <Data name="fieldName">
+          <value>ANG MO KIO CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>569976</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>CHENG SAN CC</name>
+      <description>[6 ANG MO KIO STREET 53    Singapore 569205],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.849594246239,1.37184701349397, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>6 ANG MO KIO STREET 53    Singapore 569205</value>
+        </Data>
+        <Data name="fieldName">
+          <value>CHENG SAN CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>569205</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>HWI YOH CC</name>
+      <description>[535 SERANGOON NORTH AVE 4, #01-179    Singapore 550535],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.87386933214,1.37377527989147, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>535 SERANGOON NORTH AVE 4, #01-179    Singapore 550535</value>
+        </Data>
+        <Data name="fieldName">
+          <value>HWI YOH CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>550535</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>THE SERANGOON CC</name>
+      <description>[10 SERANGOON NORTH AVE 2    Singapore 555877],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.874013320422,1.3699872285264, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>10 SERANGOON NORTH AVE 2    Singapore 555877</value>
+        </Data>
+        <Data name="fieldName">
+          <value>THE SERANGOON CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>555877</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>CI YUAN CC</name>
+      <description>[662 HOUGANG AVE 4, #01-413    Singapore 530662],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.88221647968,1.37448709735521, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>662 HOUGANG AVE 4, #01-413    Singapore 530662</value>
+        </Data>
+        <Data name="fieldName">
+          <value>CI YUAN CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>530662</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PUNGGOL CC</name>
+      <description>[3 HOUGANG AVE 6    Singapore 538808],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.891947695668,1.37450199680321, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>3 HOUGANG AVE 6    Singapore 538808</value>
+        </Data>
+        <Data name="fieldName">
+          <value>PUNGGOL CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>538808</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>LAM SOON CC</name>
+      <description>[421 CHOA CHU KANG AVE 4, #01-218    Singapore 680421],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.740747509547,1.38179460254877, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>421 CHOA CHU KANG AVE 4, #01-218    Singapore 680421</value>
+        </Data>
+        <Data name="fieldName">
+          <value>LAM SOON CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>680421</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>CHUA CHU KANG CC</name>
+      <description>[35 TECK WHYE AVENUE    Singapore 688892],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.751585474025,1.38109881963197, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>35 TECK WHYE AVENUE    Singapore 688892</value>
+        </Data>
+        <Data name="fieldName">
+          <value>CHUA CHU KANG CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>688892</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>SENJA-CASHEW CC</name>
+      <description>[607 SENJA ROAD, #01-02    Singapore 670607],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.76166874982,1.38237140281766, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>607 SENJA ROAD, #01-02    Singapore 670607</value>
+        </Data>
+        <Data name="fieldName">
+          <value>SENJA-CASHEW CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>670607</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>ZHENGHUA CC</name>
+      <description>[SEGAR RD    Singapore 677738],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.771719591987,1.38688901839969, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>SEGAR RD    Singapore 677738</value>
+        </Data>
+        <Data name="fieldName">
+          <value>ZHENGHUA CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>677738</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>YIO CHU KANG CC</name>
+      <description>[50 ANG MO KIO,STREET 61    Singapore 569163],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.84153506181,1.38150813775209, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>50 ANG MO KIO,STREET 61    Singapore 569163</value>
+        </Data>
+        <Data name="fieldName">
+          <value>YIO CHU KANG CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>569163</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PUNGGOL PARK CC</name>
+      <description>[458 HOUGANG AVE 10, #01-405    Singapore 530458],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.896200524172,1.37804275442193, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>458 HOUGANG AVE 10, #01-405    Singapore 530458</value>
+        </Data>
+        <Data name="fieldName">
+          <value>PUNGGOL PARK CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>530458</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>WATER-VENTURE (PASIR RIS)</name>
+      <description>[125 ELIAS ROAD    Singapore 519926],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.943446198032,1.38494703715189, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>125 ELIAS ROAD    Singapore 519926</value>
+        </Data>
+        <Data name="fieldName">
+          <value>WATER-VENTURE (PASIR RIS)</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>519926</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PASIR RIS ELIAS CC</name>
+      <description>[93 PASIR RIS DRIVE 3    Singapore 519498],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.942684559845,1.37823228674401, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>93 PASIR RIS DRIVE 3    Singapore 519498</value>
+        </Data>
+        <Data name="fieldName">
+          <value>PASIR RIS ELIAS CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>519498</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>YEW TEE CC</name>
+      <description>[20     Singapore 689286],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.744799379289,1.39488873398604, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>20     Singapore 689286</value>
+        </Data>
+        <Data name="fieldName">
+          <value>YEW TEE CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>689286</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>ANCHORVALE CC</name>
+      <description>[59 ANCHORVALE RD    Singapore 544965],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.886665688423,1.397127925195, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>59 ANCHORVALE RD    Singapore 544965</value>
+        </Data>
+        <Data name="fieldName">
+          <value>ANCHORVALE CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>544965</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>SENGKANG CC</name>
+      <description>[2     Singapore 545025],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.894198553755,1.39265728809436, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>2     Singapore 545025</value>
+        </Data>
+        <Data name="fieldName">
+          <value>SENGKANG CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>545025</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>RIVERVALE CC</name>
+      <description>[193 RIVERVALE DRIVE, #01-787    Singapore 540193],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.901775036487,1.39362831586983, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>193 RIVERVALE DRIVE, #01-787    Singapore 540193</value>
+        </Data>
+        <Data name="fieldName">
+          <value>RIVERVALE CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>540193</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>PUNGGOL 21 CC</name>
+      <description>[EDGEDALE PLAINS, #01-472    Singapore 823172],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.912357150998,1.39522644455293, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>EDGEDALE PLAINS, #01-472    Singapore 823172</value>
+        </Data>
+        <Data name="fieldName">
+          <value>PUNGGOL 21 CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>823172</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>WATER-VENTURE (CHANGI)</name>
+      <description>[285 NICOLL DRIVE CHANGI POINT    Singapore 498988],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.988982800214,1.39112061652063, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>285 NICOLL DRIVE CHANGI POINT    Singapore 498988</value>
+        </Data>
+        <Data name="fieldName">
+          <value>WATER-VENTURE (CHANGI)</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>498988</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>NEE SOON SOUTH CC</name>
+      <description>[30 YISHUN STREET 81    Singapore 768455],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.834879804031,1.41497368462213, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>30 YISHUN STREET 81    Singapore 768455</value>
+        </Data>
+        <Data name="fieldName">
+          <value>NEE SOON SOUTH CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>768455</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>FUCHUN CC</name>
+      <description>[1     Singapore 738581],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.774903192008,1.42957869638344, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1     Singapore 738581</value>
+        </Data>
+        <Data name="fieldName">
+          <value>FUCHUN CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>738581</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>ACE THE PLACE CC</name>
+      <description>[547 WOODLANDS DRIVE 16, #01-177    Singapore 730547],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.793125838469,1.43001110047762, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>547 WOODLANDS DRIVE 16, #01-177    Singapore 730547</value>
+        </Data>
+        <Data name="fieldName">
+          <value>ACE THE PLACE CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>730547</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>NEE SOON CENTRAL CC</name>
+      <description>[749 YISHUN STREET 72, #01-138    Singapore 760749],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.834125539202,1.42837434418599, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>749 YISHUN STREET 72, #01-138    Singapore 760749</value>
+        </Data>
+        <Data name="fieldName">
+          <value>NEE SOON CENTRAL CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>760749</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>NEE SOON EAST CC</name>
+      <description>[1 YISHUN AVE 9, NEE SOON EAST C.C    Singapore 768893],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.838488071947,1.43102087444157, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1 YISHUN AVE 9, NEE SOON EAST C.C    Singapore 768893</value>
+        </Data>
+        <Data name="fieldName">
+          <value>NEE SOON EAST CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>768893</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>CHONG PANG CC</name>
+      <description>[21 YISHUN RING ROAD    Singapore 768677],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.829227344671,1.43100766438173, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>21 YISHUN RING ROAD    Singapore 768677</value>
+        </Data>
+        <Data name="fieldName">
+          <value>CHONG PANG CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>768677</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>MARSILING CC</name>
+      <description>[100 ADMIRALTY ROAD    Singapore 739980],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.773397977361,1.44043596249188, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>100 ADMIRALTY ROAD    Singapore 739980</value>
+        </Data>
+        <Data name="fieldName">
+          <value>MARSILING CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>739980</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>WOODLANDS CC</name>
+      <description>[1 WOODLANDS STREET 81, #01-01    Singapore 738526],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.788235406614,1.43973033782819, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1 WOODLANDS STREET 81, #01-01    Singapore 738526</value>
+        </Data>
+        <Data name="fieldName">
+          <value>WOODLANDS CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>738526</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>ADMIRAL GARDEN CC</name>
+      <description>[649 WOODLANDS RING ROAD, #01-430    Singapore 730649],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.800967815859,1.4389255305589, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>649 WOODLANDS RING ROAD, #01-430    Singapore 730649</value>
+        </Data>
+        <Data name="fieldName">
+          <value>ADMIRAL GARDEN CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>730649</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>THE JELUTUNG@CANBERRA CC</name>
+      <description>[2     Singapore 757632],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.819305363058,1.44511470996111, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>2     Singapore 757632</value>
+        </Data>
+        <Data name="fieldName">
+          <value>THE JELUTUNG@CANBERRA CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>757632</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>SEMBAWANG CC</name>
+      <description>[2125     Singapore 758528],Create DateTime=20150630110627</description>
+      <styleUrl>communityclubsIcon</styleUrl>
+      <Point>
+        <coordinates>103.828814143838,1.45170784280622, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>2125     Singapore 758528</value>
+        </Data>
+        <Data name="fieldName">
+          <value>SEMBAWANG CC</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>758528</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>
+

@@ -1,0 +1,44 @@
+{
+    "ReturnCode": "0",
+    "Cases": [
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170116-087906",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 30864.4609,
+            "IncidentStreetName": null,
+            "IncidentXCoordinate": 25648.0801,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-16T21:02:36"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170115-087599",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 34167.3984,
+            "IncidentStreetName": null,
+            "IncidentXCoordinate": 37375.9297,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-15T10:41:54"
+        },
+        {
+            "IncidentPostalCode": "510540",
+            "MobileCaseID": "M170112-087049",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 39048.0869,
+            "IncidentStreetName": "PASIR RIS STREET 51",
+            "IncidentXCoordinate": 41064.1662,
+            "IncidentBlockNo": "540",
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-12T13:40:14"
+        }
+    ]
+}

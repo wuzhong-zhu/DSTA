@@ -1,0 +1,4420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>SG - HDB Themes - parks (207)</name>
+    <Style id="carparkIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBcarpark.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="flatIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBflat.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="marketIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBmarket.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="shopIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBshop.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="industrialIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBindustrial.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="foodcentreIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBfoodcentre.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="childcareIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBchildcare.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="communityclubsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBcommunityclubs.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="kindergartensIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBkindergartens.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="libraryIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBlibrary.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="mrtIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBmrt.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="parksIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBparks.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="heritageSitesIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBheritageSites.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="placeinterestIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBplaceinterest.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="worshipIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBworship.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="policestationIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBpolicestation.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="residentcentreIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBresidentcentre.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="schoolsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBschools.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="sportsclubsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBsportsclubs.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="towncouncilIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBtowncouncil.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Comchest Green</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.805999096306,1.26478839386843, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Comchest Green</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Labrador Nature Reserve</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.802344153297,1.26657367839246, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Labrador Nature Reserve</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Pasir Pajang Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.791884540029,1.27555315809739, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Pasir Pajang Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jambol Place Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.790171138128,1.2790487113031, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jambol Place Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Terrace Garden</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.810744954251,1.27894272247593, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Terrace Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hortpark</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.798701257795,1.27918167881529, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Hortpark</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Telok Blangah Hill Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.81260818826,1.27821885778597, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Telok Blangah Hill Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Mount Faber Grace Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.8208931848,1.27280888387904, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Mount Faber Grace Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Purmei Hillock Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.823777603631,1.27360274147866, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Purmei Hillock Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Mount Faber Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.818967811107,1.27248168622178, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Mount Faber Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Vanda Miss Joaquim Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.842565769279,1.2766294950089, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Vanda Miss Joaquim Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tanjong Pagar Ricoh Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.845824456833,1.27661025456935, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tanjong Pagar Ricoh Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Duxton Plain Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.84186809071,1.27774478961866, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Duxton Plain Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Telok Ayer Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.846747026365,1.27803842229859, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Telok Ayer Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kent Ridge Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.791176220631,1.2848455909376, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kent Ridge Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kent Ridge Canopy Walk</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.79427354755,1.28091251948085, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kent Ridge Canopy Walk</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tiong Bahru Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.823552739458,1.28804090901584, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tiong Bahru Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Henderson Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.824192042229,1.28662674614695, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Henderson Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Seng Poh Tea Garden</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.831201018814,1.28369091415687, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Seng Poh Tea Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Promenade</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.836675211183,1.29022392474118, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Promenade</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Raffles Place Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.851496804075,1.28413827229139, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Raffles Place Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ann Siang Hill Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.846093908415,1.28109823486164, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ann Siang Hill Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Empress Place</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.852437030243,1.28737100764848, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Empress Place</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Pearl&amp;apos;S Hill City Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.839457939008,1.28465417994412, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Pearl&amp;apos;S Hill City Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Telok Ayer Green</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.847654796324,1.28149155464205, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Telok Ayer Green</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Read Crescent Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.844934555079,1.28845103609681, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Read Crescent Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hong Lim Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.847174384918,1.28630624054323, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Hong Lim Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Waterboat House Garden</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.853478073385,1.28733460419994, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Waterboat House Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Gardens At Marina South (U/C)</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.865313918259,1.28066745057897, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Gardens At Marina South (U/C)</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Youth Olympic Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.860384340343,1.28905406057982, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Youth Olympic Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Esplanade Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.853596725483,1.28944475841593, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Esplanade Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Gardens At Marina East (U/C)</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.87090049501,1.28635974086556, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Gardens At Marina East (U/C)</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Clementi Woods</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.767757254542,1.29873574057428, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Clementi Woods</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>West Coast Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.764673686939,1.29352055029372, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>West Coast Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Commonwealth Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.797950454828,1.29619227426784, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Commonwealth Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tanglin Halt Garden</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.798509420225,1.29623723534732, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tanglin Halt Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Orchard Fountain Corner</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.837498018766,1.3018769469516, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Orchard Fountain Corner</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kim Seng Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.834740707008,1.29280724832291, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kim Seng Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>*Scape Youth Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.836442532926,1.30041373217304, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>*Scape Youth Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dhoby Ghaut Green</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.845977288999,1.29837706213935, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Dhoby Ghaut Green</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>*Scape Skate Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.839389136369,1.29971863765913, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>*Scape Skate Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Istana Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.843892546645,1.29923303891503, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Istana Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Fort Canning Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.846609433349,1.29415059297918, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Fort Canning Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>War Memorial Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.854732566482,1.2928790037474, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>War Memorial Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Gardens At Marina Centre (U/C)</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.864676788437,1.29206056454682, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Gardens At Marina Centre (U/C)</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Marina Promenade</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.864638651229,1.29906147824521, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Marina Promenade</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kampong Glam Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.86299591613,1.30244531462948, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kampong Glam Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Wilkinson Interim Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.886981280119,1.30182967413319, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Wilkinson Interim Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Katong Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.886350793638,1.29699411106733, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Katong Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Marine Parade Road Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.905949209232,1.30341995846484, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Marine Parade Road Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>West Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.770339821359,1.31113414552223, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>West Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>One-North Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.790368304885,1.30427827040531, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>One-North Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ridout Tea Garden</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.802086494283,1.30391940090393, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ridout Tea Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Singapore Botanic Gardens</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.816086176157,1.31210060163707, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Singapore Botanic Gardens</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kampong Java Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.845475979815,1.31074633683949, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kampong Java Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Mount Emily Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.847428341326,1.30463084274387, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Mount Emily Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>North Bridge Garden</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.86216402545,1.30409742371793, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>North Bridge Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>City Green</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.856020352008,1.31157925001718, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>City Green</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kallang Riverside Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.867769861062,1.306282320661, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kallang Riverside Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Arthur Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.888217228399,1.30390497811805, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Arthur Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Haig Walk</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.900280402779,1.30732977810345, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Haig Walk</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Joo Chiat Interim Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.901698930111,1.31440836683756, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Joo Chiat Interim Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>East Coast Terrace Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.923792871393,1.31102806022826, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>East Coast Terrace Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Elite Terrace Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.924383155062,1.31532233487218, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Elite Terrace Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Siglap Linear Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.928427804123,1.31118313940619, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Siglap Linear Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>East Coast Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.928734059374,1.30499333369408, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>East Coast Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Xtreme Skatepark @ East Coast</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.938591761783,1.30860818298165, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Xtreme Skatepark @ East Coast</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bougainvillea Garden</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.947183657734,1.31098935331155, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bougainvillea Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jurong Hill Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.708497904481,1.31798944031634, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jurong Hill Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Taman Jurong Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.721037354801,1.32825081518354, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Taman Jurong Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Pandan Reservoir Fitness Corner</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.748787659386,1.3171509871645, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Pandan Reservoir Fitness Corner</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Pandan Gardens Leisure Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.750396738749,1.31983504117771, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Pandan Gardens Leisure Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sunset Way Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.764747641664,1.32769429808131, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sunset Way Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Clementi Neighbourhood Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.773563712987,1.32519975517202, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Clementi Neighbourhood Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Coronation Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.796403169349,1.32202319976625, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Coronation Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Namly Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.796601595339,1.32331669118089, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Namly Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Henry Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.783106444352,1.31623455640058, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Henry Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bougainvillea Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.807615304219,1.32669887142062, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bougainvillea Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>University Road Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.81768220232,1.32545365314956, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>University Road Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Malcolm Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.826564644963,1.32272604512546, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Malcolm Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Novena Rise Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.842728263327,1.32483827546647, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Novena Rise Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Novena Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.842814370992,1.32231137087718, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Novena Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Saint George&amp;apos;S Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.861828705838,1.32296695945464, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Saint George&amp;apos;S Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Geylang East Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.887869831889,1.32173891719801, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Geylang East Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Telok Kurau Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.913989755768,1.31617495156432, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Telok Kurau Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Terang Bulan Avenue Interim Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.921143510364,1.32167094286623, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Terang Bulan Avenue Interim Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Garden Hill Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.929096813712,1.32712367550631, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Garden Hill Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Aida Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.927926891577,1.31937959700544, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Aida Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bangsawan Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.923838727296,1.32120665266921, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bangsawan Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bedok Adventure Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.931995764941,1.32695505254145, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bedok Adventure Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Yunnan Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.692901534565,1.33748452681282, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Yunnan Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jurong Central Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.706939179705,1.33581042273862, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jurong Central Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Lakeside Grove Fitness Corner</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.717036374622,1.33975458153379, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Lakeside Grove Fitness Corner</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jurong Lake Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.72698435207,1.33777859706286, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jurong Lake Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Taman Jurong Greens</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.71855548642,1.33717907458249, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Taman Jurong Greens</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Lake View Promenade</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.727995461965,1.33188486127862, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Lake View Promenade</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Eng Kong Place Fitness Corner</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.767246856511,1.33474059834371, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Eng Kong Place Fitness Corner</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Toa Payoh Town Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.847964891652,1.33056981936072, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Toa Payoh Town Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Toa Payoh Sensory Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.852837558504,1.33525315716575, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Toa Payoh Sensory Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Aljunied Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.879926048553,1.32920358291637, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Aljunied Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Oasis@Mulberry Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.878460138004,1.3329531364691, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Oasis@Mulberry Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Siang Kuang Avenue Interim Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.873095161467,1.32984396481001, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Siang Kuang Avenue Interim Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kaki Bukit Neighbourhood Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.927666498968,1.33266654201089, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kaki Bukit Neighbourhood Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bedok Town Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.923188664124,1.33481921911349, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bedok Town Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jurong West Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.694138194339,1.34570549389106, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jurong West Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Palm View Garden</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.721802047652,1.34900675342574, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Palm View Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Neighbourhood Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.746443762887,1.3483623810324, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Neighbourhood Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Batok Nature Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.763845275905,1.34993597117575, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Batok Nature Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Mayfair Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.780841054984,1.34149970768955, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Mayfair Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hindhede Nature Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.776045614095,1.35025905377248, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Hindhede Nature Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hoover Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.773049687724,1.34386924327369, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Hoover Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Taman Permata Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.834964862245,1.3500252159209, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Taman Permata Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Macritchie Reservoir Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.833643727877,1.34211481818951, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Macritchie Reservoir Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.84773379917,1.34495094726665, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bedok Reservoir Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.925280190701,1.3431975024986, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bedok Reservoir Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tampines Green</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.946512732754,1.35068674245438, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tampines Green</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tampines Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.942615768849,1.34957234779677, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tampines Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Garden Community Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.94085427865,1.348904099124, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Garden Community Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tampines Tree Garden</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.95883638427,1.3518269899915, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tampines Tree Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Simei Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.95494069489,1.34751369879856, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Simei Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Batok Hillside Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.745557733429,1.36003778571809, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Batok Hillside Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Beauty Garden</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.748670651116,1.3620000128443, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Beauty Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Lorong Kamunchup Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.76093660717,1.36038849283925, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Lorong Kamunchup Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Little Guilin (Bukit Batok Town Park)</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.756024890548,1.35735093211165, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Little Guilin (Bukit Batok Town Park)</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jalan Ramaja Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.760823940193,1.3575795218359, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jalan Ramaja Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Timah Nature Reserve</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.779150501769,1.35410136537225, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Timah Nature Reserve</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dairy Farm Nature Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.773771910702,1.3627237121282, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Dairy Farm Nature Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bishan Active Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.847090235344,1.35663339613449, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bishan Active Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chartwell Drive Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.863871280158,1.35963103241185, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Chartwell Drive Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Serangoon Community Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.872037180457,1.35648033590561, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Serangoon Community Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jalan Geneng Interim Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.880869049551,1.35334341190523, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jalan Geneng Interim Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Richard Avenue Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.882129121591,1.36092858125101, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Richard Avenue Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Parry Avenue Interim Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.881277160133,1.36408138453269, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Parry Avenue Interim Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Surin Avenue Neighbourhood Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.884085252864,1.35557677225862, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Surin Avenue Neighbourhood Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tampines Central Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.937582370172,1.35371767870609, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tampines Central Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Festival Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.949538664318,1.35344412734629, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Festival Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sun Plaza Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.94382351157,1.35854802218316, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sun Plaza Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Park Aquaria</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.958289254628,1.3643256927637, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Park Aquaria</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tampines Leisure Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.962431676056,1.35699938057533, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tampines Leisure Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tampines North Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.952652620347,1.35664372250813, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tampines North Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Cheng Hua Garden</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.776022161473,1.3720607056017, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Cheng Hua Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Cashew Crescent Fitness Corner</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.769495146228,1.37224383192559, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Cashew Crescent Fitness Corner</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Upper Peirce Reservoir Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.812232964176,1.37722361488083, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Upper Peirce Reservoir Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Lower Peirce Reservoir Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.82606526707,1.3718733234088, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Lower Peirce Reservoir Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Leban Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.82927687685,1.37245959579077, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Leban Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bishan Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.836364287975,1.3653615034024, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bishan Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Gelenggang Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.829832445184,1.37347591133988, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Gelenggang Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ang Mo Kio Town Garden East</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.85054706583,1.37073015228358, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ang Mo Kio Town Garden East</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ang Mo Kio Town Garden West</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.842740203824,1.37450994395408, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ang Mo Kio Town Garden West</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tavistock Avenue Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.863809556442,1.37009329051051, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tavistock Avenue Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Serangoon North Neighbourhood Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.871186633045,1.37392012840201, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Serangoon North Neighbourhood Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Punggol South Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.882755587955,1.36937078854588, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Punggol South Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Punggol Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.898619235844,1.37698239323825, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Punggol Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tampines Bike Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.941914346031,1.36567893861032, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tampines Bike Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Brontonsaur Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.937563793022,1.37430661204095, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Brontonsaur Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Pasir Ris Town Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.951919822807,1.37359417682879, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Pasir Ris Town Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Time Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.955094357699,1.37262663123896, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Time Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sea Shell Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.959427352583,1.37019280580957, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sea Shell Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Choa Chu Kang Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.747157674842,1.38859632727436, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Choa Chu Kang Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Choa Chu Kang Neighbourhood 2 Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.744127000222,1.37890532787444, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Choa Chu Kang Neighbourhood 2 Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Teck Whye Gardens</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.750236100689,1.38069562436607, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Teck Whye Gardens</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tembusu Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.743361150086,1.37893809969744, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tembusu Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Panjang Neighbourhood Park 5</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.764996236769,1.38368353519129, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Panjang Neighbourhood Park 5</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Panjang Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.7657715887,1.38190581194298, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Panjang Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Zhenghua Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.775417063274,1.38087565886767, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Zhenghua Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sungei Api Api Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.946100725286,1.37888298480685, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sungei Api Api Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Pasir Ris Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.952189420126,1.37979718775143, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Pasir Ris Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Changi Beach Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>104.00196799321,1.38266635282499, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Changi Beach Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Stagmont Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.748593045611,1.39399908367939, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Stagmont Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Yew Tee Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.743571734851,1.39733908691814, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Yew Tee Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Limbang Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.744559744158,1.39073294720115, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Limbang Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Upper Seletar Reservoir Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.807770143195,1.40106767664238, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Upper Seletar Reservoir Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dew Garden</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.871064647825,1.39926519533297, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Dew Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Lorong Tanggam Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.873791039713,1.39905412549728, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Lorong Tanggam Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jalan Kayu Interim Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.872857453722,1.39797227858889, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jalan Kayu Interim Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sengkang Riverside Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.887937488978,1.39988947266624, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sengkang Riverside Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sengkang Sculpture Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.896792713507,1.39484909974317, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sengkang Sculpture Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Turnhouse Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.978952659219,1.38988398167697, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Turnhouse Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Nature Reserve</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.796098615378,1.41163465715359, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Nature Reserve</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Springside Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.820875499458,1.40571946470717, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Springside Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Lower Seletar Reservoir Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.832509342555,1.41013572641044, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Lower Seletar Reservoir Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ketam Mountain Bike Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.94884571806,1.41260874590402, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ketam Mountain Bike Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jalan Rasok Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.758982368221,1.41650124858317, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jalan Rasok Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Yishun Town Garden</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.836097227762,1.42611131344365, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Yishun Town Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Yishun Green Link</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.839690702152,1.4205963117118, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Yishun Green Link</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Yishun Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.842609359539,1.42403848376716, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Yishun Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Woodlands Town Park East</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.779303576826,1.43664742920196, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Woodlands Town Park East</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Woodlands Town Garden</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.769931515832,1.43858204720709, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Woodlands Town Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Mandai Tekong Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.793406366521,1.43516512997133, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Mandai Tekong Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Vista Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.79569001819,1.42976293880837, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Vista Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Woodlands Admiral Garden</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.799915194906,1.43766926239703, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Woodlands Admiral Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Yishun Neighbourhood Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.835057923834,1.43775722404382, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Yishun Neighbourhood Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sungei Buloh Wetland Reserve</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.722699068136,1.44543061814636, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sungei Buloh Wetland Reserve</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kranji Reservoir Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.737756266043,1.43970250546431, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kranji Reservoir Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Admiralty Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.7814020346,1.44515442864464, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Admiralty Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Fu Shan Garden</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.790801023194,1.44068487951626, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Fu Shan Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Circle Green</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.797585331005,1.44323858737807, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Circle Green</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Greenwood Sanctuary @ Admiralty</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.806852755642,1.43963371307597, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Greenwood Sanctuary @ Admiralty</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Canberra Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.818435223168,1.44366055118376, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Canberra Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Pebble Garden</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.82949312527,1.45064493416702, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Pebble Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kemuning Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.82736201214,1.43961981756787, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kemuning Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Montreal Green</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.825947937104,1.44917127180765, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Montreal Green</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Woodlands Waterfront</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.77846334374,1.45211626051689, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Woodlands Waterfront</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Janggus Garden</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.836983847408,1.45753984163767, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Janggus Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sembawang Park</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.83646705018,1.46145822727364, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sembawang Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kandis Garden</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.835644741669,1.45619154679712, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kandis Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sentosa - Football Field</name>
+      <description>[NA],Create DateTime=20150630110630</description>
+      <styleUrl>parksIcon</styleUrl>
+      <Point>
+        <coordinates>103.819926715203,1.25223728559755, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>NA</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sentosa - Football Field</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>
+

@@ -1,0 +1,70 @@
+{
+    "ReturnCode": "0",
+    "Cases": [
+        {
+            "IncidentPostalCode": "090006",
+            "MobileCaseID": "M170112-087001",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 28955.8418,
+            "IncidentStreetName": "TELOK BLANGAH CRESCENT",
+            "IncidentXCoordinate": 26349.0332,
+            "IncidentBlockNo": "6",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-12T09:47:51"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170112-086968",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 37254.3286,
+            "IncidentStreetName": "TAMPINES STREET 23",
+            "IncidentXCoordinate": 41411.3826,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-12T07:47:10"
+        },
+        {
+            "IncidentPostalCode": "521307",
+            "MobileCaseID": "M170111-086786",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 37276.8264,
+            "IncidentStreetName": "TAMPINES STREET 32",
+            "IncidentXCoordinate": 41692.0446,
+            "IncidentBlockNo": "307A",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-11T11:12:43"
+        },
+        {
+            "IncidentPostalCode": "560523",
+            "MobileCaseID": "M170111-086753",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 39430.4445,
+            "IncidentStreetName": "ANG MO KIO AVENUE 5",
+            "IncidentXCoordinate": 30205.3961,
+            "IncidentBlockNo": "523",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-11T08:44:05"
+        },
+        {
+            "IncidentPostalCode": "640862",
+            "MobileCaseID": "M170108-086171",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 36917.8398,
+            "IncidentStreetName": "JURONG WEST STREET 81",
+            "IncidentXCoordinate": 12794.1543,
+            "IncidentBlockNo": "862",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Quality",
+            "Subject": "Drinking Water - Water Quality",
+            "CreatedDateTime": "2017-01-08T16:45:59"
+        }
+    ]
+}

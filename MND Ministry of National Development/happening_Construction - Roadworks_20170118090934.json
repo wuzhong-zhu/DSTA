@@ -1,0 +1,83 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet",
+    "value": [
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(18/1)8:43 Heavy Traffic on ECP (towards City) after Still Rd Sth Exit.",
+            "Latitude": 1.2956947672703654,
+            "Longitude": 103.88853476924062
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(18/1)8:37 Heavy Traffic in CTE Tunnel (towards AYE) at Outram Rd Exit.",
+            "Latitude": 1.284896610441159,
+            "Longitude": 103.83745825057021
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(18/1)8:35 Heavy Traffic in CTE Tunnel (towards AYE) at Havelock Road Exit.",
+            "Latitude": 1.2914858145989052,
+            "Longitude": 103.84334676635054
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(18/1)8:30 Heavy Traffic on PIE (towards Changi Airport) between Tampines Ave 5 and Simei Ave.",
+            "Latitude": 1.3405738431372218,
+            "Longitude": 103.94576874514117
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(18/1)8:28 Heavy Traffic on AYE (towards Tuas) at South Buona Vista Rd Exit.",
+            "Latitude": 1.2928124567073849,
+            "Longitude": 103.78704194837805
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(18/1)8:26 Heavy Traffic on PIE (towards Tuas) between Bedok North Rd and KPE Exit.",
+            "Latitude": 1.3203005295208095,
+            "Longitude": 103.88028993421753
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(18/1)8:23 Heavy Traffic on AYE (towards MCE) between Jurong Town Hall Entrance and Clementi Ave 2 Exit.",
+            "Latitude": 1.3058614973802847,
+            "Longitude": 103.76841331104278
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(18/1)7:42 Heavy Traffic on TPE (towards PIE) between Punggol Rd Exit and Pasir Ris Dr 12 Exit.",
+            "Latitude": 1.3775869687402111,
+            "Longitude": 103.92716258056701
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(18/1)7:17 Heavy Traffic on TPE (towards PIE) between Pasir Ris Dr 8 Exit and PIE Exit.",
+            "Latitude": 1.355934947879531,
+            "Longitude": 103.96322864044797
+        },
+        {
+            "Type": "Roadwork",
+            "Message": "(18/1)7:13 Roadworks on Orchard Road (towards Bras Basah Rd) after Tanglin Road. Avoid right lane.",
+            "Latitude": 1.305387259250736,
+            "Longitude": 103.83127438494586
+        },
+        {
+            "Type": "Roadwork",
+            "Message": "(18/1)7:11 Roadworks on Orchard Road (towards Bras Basah Rd) after Scotts Road. Avoid right lane.",
+            "Latitude": 1.3028862562016208,
+            "Longitude": 103.83578967065752
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(18/1)7:09 Heavy Traffic on KPE (towards ECP) after Buangkok Dr Entrance.",
+            "Latitude": 1.3713022054538908,
+            "Longitude": 103.90832880383286
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(18/1)7:05 Heavy Traffic on PIE (towards Changi Airport) at Lornie Rd Exit.",
+            "Latitude": 1.3338008779700223,
+            "Longitude": 103.81446523363292
+        }
+    ]
+}

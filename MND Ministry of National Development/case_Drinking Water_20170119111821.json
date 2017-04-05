@@ -1,0 +1,109 @@
+{
+    "ReturnCode": "0",
+    "Cases": [
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170119-088445",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 44928.289,
+            "IncidentStreetName": "TURF CLUB AVENUE",
+            "IncidentXCoordinate": 19554.3672,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-19T10:44:48"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170119-088376",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 33483.7769,
+            "IncidentStreetName": null,
+            "IncidentXCoordinate": 20334.6239,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Pressure",
+            "Subject": "Drinking Water - Water Pressure",
+            "CreatedDateTime": "2017-01-19T00:26:46"
+        },
+        {
+            "IncidentPostalCode": "609958",
+            "MobileCaseID": "M170117-088161",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 35789.9141,
+            "IncidentStreetName": "BOON LAY WAY",
+            "IncidentXCoordinate": 17282.5645,
+            "IncidentBlockNo": "90",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-17T22:38:19"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170117-088100",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 31752.5117,
+            "IncidentStreetName": "MARINE DRIVE",
+            "IncidentXCoordinate": 36499.918,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Quality",
+            "Subject": "Drinking Water - Water Quality",
+            "CreatedDateTime": "2017-01-17T18:51:42"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170116-087923",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 43027.8259,
+            "IncidentStreetName": "SUMANG WALK",
+            "IncidentXCoordinate": 34965.6181,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "No Water",
+            "Subject": "Drinking Water - No Water",
+            "CreatedDateTime": "2017-01-16T22:04:57"
+        },
+        {
+            "IncidentPostalCode": "739483",
+            "MobileCaseID": "M170115-087557",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 46079.6569,
+            "IncidentStreetName": "KRANJI ROAD",
+            "IncidentXCoordinate": 19310.288,
+            "IncidentBlockNo": "207",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-15T06:46:31"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170114-087474",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 37309.4961,
+            "IncidentStreetName": "TAMPINES STREET 82",
+            "IncidentXCoordinate": 39588.75,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-14T15:31:40"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170113-087311",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 36727.1575,
+            "IncidentStreetName": null,
+            "IncidentXCoordinate": 39276.9655,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-13T22:58:19"
+        }
+    ]
+}

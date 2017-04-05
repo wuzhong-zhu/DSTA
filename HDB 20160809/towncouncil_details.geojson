@@ -1,0 +1,632 @@
+{
+    "features": [
+        {
+            "id": 1,
+            "properties": {
+                "Name": "Tanjong Pagar Town Council",
+                "PostalCode": "150166",
+                "desc": "166 Bukit Merah Central #03-3527 Singapore 150166",
+                "Address": "166 Bukit Merah Central #03-3527 Singapore 150166",
+                "name": "Tanjong Pagar Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.817642868494,
+                    1.28311949933734
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "properties": {
+                "Name": "Jalan Besar Town Council",
+                "PostalCode": "160568",
+                "desc": "568 Ganges Ave #01-112 Singapore 160568",
+                "Address": "568 Ganges Ave #01-112 Singapore 160568",
+                "name": "Jalan Besar Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.831038271831,
+                    1.29002443505488
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "properties": {
+                "Name": "West Coast Town Council",
+                "PostalCode": "120444",
+                "desc": "444 Clementi Ave 3 #01-123/125 Singapore 120444",
+                "Address": "444 Clementi Ave 3 #01-123/125 Singapore 120444",
+                "name": "West Coast Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.763861437499,
+                    1.31357005145216
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "properties": {
+                "Name": "Holland - Bukit Panjang Town Council",
+                "PostalCode": "279621",
+                "desc": "170 Ghim Moh Road #06-02 Singapore 279621",
+                "Address": "170 Ghim Moh Road #06-02 Singapore 279621",
+                "name": "Holland - Bukit Panjang Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.789440813367,
+                    1.3120347184656
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "properties": {
+                "Name": "Marine Parade Town Council",
+                "PostalCode": "440050",
+                "desc": "50 Marine Terrace #01-265 Singapore 440050",
+                "Address": "50 Marine Terrace #01-265 Singapore 440050",
+                "name": "Marine Parade Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.915834526035,
+                    1.30532819421192
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "properties": {
+                "Name": "Jalan Besar Town Council",
+                "PostalCode": "330070",
+                "desc": "70 Geylang Bahru #01-2719 Singapore 330070",
+                "Address": "70 Geylang Bahru #01-2719 Singapore 330070",
+                "name": "Jalan Besar Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.870354518089,
+                    1.32191612852321
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "properties": {
+                "Name": "East Coast Town Council",
+                "PostalCode": "460206",
+                "desc": "206 Bedok North St 1 #01-353 Singapore 460206",
+                "Address": "206 Bedok North St 1 #01-353 Singapore 460206",
+                "name": "East Coast Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.930861565325,
+                    1.32647172386634
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "properties": {
+                "Name": "Bishan-Toa Payoh Town Council",
+                "PostalCode": "311125",
+                "desc": "125A Toa Payoh Lor 2 #01-134 Singapore 311125",
+                "Address": "125A Toa Payoh Lor 2 #01-134 Singapore 311125",
+                "name": "Bishan-Toa Payoh Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845754971127,
+                    1.33755125421901
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "properties": {
+                "Name": "Potong Pasir Town Council",
+                "PostalCode": "350121",
+                "desc": "121 Potong Pasir Ave 1 #01-271 Singapore 350121",
+                "Address": "121 Potong Pasir Ave 1 #01-271 Singapore 350121",
+                "name": "Potong Pasir Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.865603143588,
+                    1.33574608604764
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "properties": {
+                "Name": "Aljunied Town Council",
+                "PostalCode": "460609",
+                "desc": "609 Bedok Reservoir Road #01-646 Singapore 460609",
+                "Address": "609 Bedok Reservoir Road #01-646 Singapore 460609",
+                "name": "Aljunied Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.912374754918,
+                    1.33187223546396
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "properties": {
+                "Name": "Hong Kah Town Council",
+                "PostalCode": "640952",
+                "desc": "952 Jurong West St 91 #01-725 Singapore 640952",
+                "Address": "952 Jurong West St 91 #01-725 Singapore 640952",
+                "name": "Hong Kah Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.691439601519,
+                    1.34252838979445
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "properties": {
+                "Name": "West Coast Town Council",
+                "PostalCode": "640509",
+                "desc": "509 Jurong West St 51 #01-159 Singapore 640509",
+                "Address": "509 Jurong West St 51 #01-159 Singapore 640509",
+                "name": "West Coast Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.719259988935,
+                    1.34884565446886
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "properties": {
+                "Name": "Jurong Town Council",
+                "PostalCode": "600255",
+                "desc": "255 Jurong East St 24 #01-303 Singapore 600255",
+                "Address": "255 Jurong East St 24 #01-303 Singapore 600255",
+                "name": "Jurong Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.737896792191,
+                    1.34428329076653
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "properties": {
+                "Name": "Jurong Town Council",
+                "PostalCode": "650630",
+                "desc": "630 Bukit Batok Central #01-146 Singapore 650630",
+                "Address": "630 Bukit Batok Central #01-146 Singapore 650630",
+                "name": "Jurong Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.749915175531,
+                    1.35008873045398
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "properties": {
+                "Name": "Bishan-Toa Payoh Town Council",
+                "PostalCode": "570197",
+                "desc": "197 Bishan Street 13 #01-585 Singapore 570197",
+                "Address": "197 Bishan Street 13 #01-585 Singapore 570197",
+                "name": "Bishan-Toa Payoh Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850672501536,
+                    1.34912031593751
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "properties": {
+                "Name": "Tampines Town Council",
+                "PostalCode": "521136",
+                "desc": "136 Tampines St 11 # Singapore 521136",
+                "Address": "136 Tampines St 11 # Singapore 521136",
+                "name": "Tampines Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.945200720406,
+                    1.34468073922333
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "properties": {
+                "Name": "Hong Kah Town Council",
+                "PostalCode": "650524",
+                "desc": "524 Bukit Batok St 52 #01-769 Singapore 650524",
+                "Address": "524 Bukit Batok St 52 #01-769 Singapore 650524",
+                "name": "Hong Kah Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.752619827473,
+                    1.35728296229542
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "properties": {
+                "Name": "Ang Mo Kio- Yio Chu Kang Town Council",
+                "PostalCode": "560342",
+                "desc": "342 Ang Mo Kio Ave 1 #01-1561 Singapore 560342",
+                "Address": "342 Ang Mo Kio Ave 1 #01-1561 Singapore 560342",
+                "name": "Ang Mo Kio- Yio Chu Kang Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.848528280697,
+                    1.36462823030617
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "properties": {
+                "Name": "Marine Parade Town Council",
+                "PostalCode": "550266",
+                "desc": "266 Serangoon Central Drive #03-251 Singapore 550266",
+                "Address": "266 Serangoon Central Drive #03-251 Singapore 550266",
+                "name": "Marine Parade Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.871472369053,
+                    1.35323212809291
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "properties": {
+                "Name": "Ang Mo Kio- Yio Chu Kang Town Council",
+                "PostalCode": "560161",
+                "desc": "161 Ang Mo Kio Ave 4 #01-500 Singapore 560161",
+                "Address": "161 Ang Mo Kio Ave 4 #01-500 Singapore 560161",
+                "name": "Ang Mo Kio- Yio Chu Kang Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839515214845,
+                    1.37418190101695
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "properties": {
+                "Name": "Ang Mo Kio- Yio Chu Kang Town Council",
+                "PostalCode": "560528",
+                "desc": "528 Ang Mo Kio Avenue 10 #01-2385 Singapore 560528",
+                "Address": "528 Ang Mo Kio Avenue 10 #01-2385 Singapore 560528",
+                "name": "Ang Mo Kio- Yio Chu Kang Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854882962164,
+                    1.37257071000561
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "properties": {
+                "Name": "Aljunied Town Council",
+                "PostalCode": "550147",
+                "desc": "147 Serangoon North Ave 1 #01-421 Singapore 550147",
+                "Address": "147 Serangoon North Ave 1 #01-421 Singapore 550147",
+                "name": "Aljunied Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.872665014416,
+                    1.36847833830905
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "properties": {
+                "Name": "Aljunied Town Council",
+                "PostalCode": "530810",
+                "desc": "810 Hougang Central #02-214 Singapore 530810",
+                "Address": "810 Hougang Central #02-214 Singapore 530810",
+                "name": "Aljunied Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.893532669295,
+                    1.37154677395827
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "properties": {
+                "Name": "Hougang Town Council",
+                "PostalCode": "530701",
+                "desc": "701 Hougang Ave 2 #01-01 Singapore 530701",
+                "Address": "701 Hougang Ave 2 #01-01 Singapore 530701",
+                "name": "Hougang Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.890063197945,
+                    1.36600063392391
+                ]
+            }
+        },
+        {
+            "id": 25,
+            "properties": {
+                "Name": "Pasir Ris - Punggol Town Council",
+                "PostalCode": "510577",
+                "desc": "577 Pasir Ris St 53 #01-88 Singapore 510577",
+                "Address": "577 Pasir Ris St 53 #01-88 Singapore 510577",
+                "name": "Pasir Ris - Punggol Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.946940597694,
+                    1.37344040354947
+                ]
+            }
+        },
+        {
+            "id": 26,
+            "properties": {
+                "Name": "Hong Kah Town Council",
+                "PostalCode": "680309",
+                "desc": "309 Choa Chu Kang Ave 4 #02-02 Singapore 680309",
+                "Address": "309 Choa Chu Kang Ave 4 #02-02 Singapore 680309",
+                "name": "Hong Kah Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.745696309091,
+                    1.38511295135892
+                ]
+            }
+        },
+        {
+            "id": 27,
+            "properties": {
+                "Name": "Holland - Bukit Panjang Town Council",
+                "PostalCode": "670256",
+                "desc": "256 Bangkit Road #01-71 Singapore 670256",
+                "Address": "256 Bangkit Road #01-71 Singapore 670256",
+                "name": "Holland - Bukit Panjang Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.773004048527,
+                    1.37904775889862
+                ]
+            }
+        },
+        {
+            "id": 28,
+            "properties": {
+                "Name": "Pasir Ris - Punggol Town Council",
+                "PostalCode": "541156",
+                "desc": "Rivervale Crescent #01-01 Singapore 541156",
+                "Address": "Rivervale Crescent #01-01 Singapore 541156",
+                "name": "Pasir Ris - Punggol Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.906957251108,
+                    1.39166448590981
+                ]
+            }
+        },
+        {
+            "id": 29,
+            "properties": {
+                "Name": "Ang Mo Kio- Yio Chu Kang Town Council",
+                "PostalCode": "760845",
+                "desc": "845 Yishun St 81 #02-00 Singapore 760845",
+                "Address": "845 Yishun St 81 #02-00 Singapore 760845",
+                "name": "Ang Mo Kio- Yio Chu Kang Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.835014530076,
+                    1.41596848829924
+                ]
+            }
+        },
+        {
+            "id": 30,
+            "properties": {
+                "Name": "Sembawang Town Council",
+                "PostalCode": "731306",
+                "desc": "306A Woodlands St 31 #02-00 Singapore 731306",
+                "Address": "306A Woodlands St 31 #02-00 Singapore 731306",
+                "name": "Sembawang Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.775136506708,
+                    1.43010025078098
+                ]
+            }
+        },
+        {
+            "id": 31,
+            "properties": {
+                "Name": "Sembawang Town Council",
+                "PostalCode": "730900",
+                "desc": "900 Woodlands South Drive #02-02 Singapore 730900",
+                "Address": "900 Woodlands South Drive #02-02 Singapore 730900",
+                "name": "Sembawang Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.786696398819,
+                    1.43526547823501
+                ]
+            }
+        },
+        {
+            "id": 32,
+            "properties": {
+                "Name": "Sembawang Town Council",
+                "PostalCode": "760290",
+                "desc": "290 Yishun Street 22 # Singapore 760290",
+                "Address": "290 Yishun Street 22 # Singapore 760290",
+                "name": "Sembawang Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.836163108106,
+                    1.43606266403305
+                ]
+            }
+        },
+        {
+            "id": 33,
+            "properties": {
+                "Name": "Sembawang Town Council",
+                "PostalCode": "760751",
+                "desc": "751 Yishun Street 72 #01-186 Singapore 760751",
+                "Address": "751 Yishun Street 72 #01-186 Singapore 760751",
+                "name": "Sembawang Town Council",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.834280709974,
+                    1.42760985652707
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

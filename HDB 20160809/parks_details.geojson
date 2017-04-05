@@ -1,0 +1,3938 @@
+{
+    "features": [
+        {
+            "id": 1,
+            "properties": {
+                "Name": "Comchest Green",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Comchest Green",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.805999096306,
+                    1.26478839386843
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "properties": {
+                "Name": "Labrador Nature Reserve",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Labrador Nature Reserve",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.802344153297,
+                    1.26657367839246
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "properties": {
+                "Name": "Pasir Pajang Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Pasir Pajang Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.791884540029,
+                    1.27555315809739
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "properties": {
+                "Name": "Jambol Place Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Jambol Place Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.790171138128,
+                    1.2790487113031
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "properties": {
+                "Name": "Terrace Garden",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Terrace Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.810744954251,
+                    1.27894272247593
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "properties": {
+                "Name": "Hortpark",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Hortpark",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.798701257795,
+                    1.27918167881529
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "properties": {
+                "Name": "Telok Blangah Hill Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Telok Blangah Hill Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.81260818826,
+                    1.27821885778597
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "properties": {
+                "Name": "Mount Faber Grace Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Mount Faber Grace Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8208931848,
+                    1.27280888387904
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "properties": {
+                "Name": "Bukit Purmei Hillock Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bukit Purmei Hillock Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.823777603631,
+                    1.27360274147866
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "properties": {
+                "Name": "Mount Faber Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Mount Faber Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.818967811107,
+                    1.27248168622178
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "properties": {
+                "Name": "Vanda Miss Joaquim Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Vanda Miss Joaquim Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.842565769279,
+                    1.2766294950089
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "properties": {
+                "Name": "Tanjong Pagar Ricoh Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Tanjong Pagar Ricoh Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845824456833,
+                    1.27661025456935
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "properties": {
+                "Name": "Duxton Plain Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Duxton Plain Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84186809071,
+                    1.27774478961866
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "properties": {
+                "Name": "Telok Ayer Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Telok Ayer Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846747026365,
+                    1.27803842229859
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "properties": {
+                "Name": "Kent Ridge Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Kent Ridge Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.791176220631,
+                    1.2848455909376
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "properties": {
+                "Name": "Kent Ridge Canopy Walk",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Kent Ridge Canopy Walk",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.79427354755,
+                    1.28091251948085
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "properties": {
+                "Name": "Tiong Bahru Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Tiong Bahru Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.823552739458,
+                    1.28804090901584
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "properties": {
+                "Name": "Henderson Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Henderson Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.824192042229,
+                    1.28662674614695
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "properties": {
+                "Name": "Seng Poh Tea Garden",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Seng Poh Tea Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.831201018814,
+                    1.28369091415687
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "properties": {
+                "Name": "Promenade",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Promenade",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.836675211183,
+                    1.29022392474118
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "properties": {
+                "Name": "Raffles Place Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Raffles Place Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851496804075,
+                    1.28413827229139
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "properties": {
+                "Name": "Ann Siang Hill Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Ann Siang Hill Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846093908415,
+                    1.28109823486164
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "properties": {
+                "Name": "Empress Place",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Empress Place",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.852437030243,
+                    1.28737100764848
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "properties": {
+                "Name": "Pearl&apos;S Hill City Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Pearl&apos;S Hill City Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839457939008,
+                    1.28465417994412
+                ]
+            }
+        },
+        {
+            "id": 25,
+            "properties": {
+                "Name": "Telok Ayer Green",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Telok Ayer Green",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847654796324,
+                    1.28149155464205
+                ]
+            }
+        },
+        {
+            "id": 26,
+            "properties": {
+                "Name": "Read Crescent Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Read Crescent Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.844934555079,
+                    1.28845103609681
+                ]
+            }
+        },
+        {
+            "id": 27,
+            "properties": {
+                "Name": "Hong Lim Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Hong Lim Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847174384918,
+                    1.28630624054323
+                ]
+            }
+        },
+        {
+            "id": 28,
+            "properties": {
+                "Name": "Waterboat House Garden",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Waterboat House Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853478073385,
+                    1.28733460419994
+                ]
+            }
+        },
+        {
+            "id": 29,
+            "properties": {
+                "Name": "Gardens At Marina South (U/C)",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Gardens At Marina South (U/C)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.865313918259,
+                    1.28066745057897
+                ]
+            }
+        },
+        {
+            "id": 30,
+            "properties": {
+                "Name": "Youth Olympic Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Youth Olympic Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.860384340343,
+                    1.28905406057982
+                ]
+            }
+        },
+        {
+            "id": 31,
+            "properties": {
+                "Name": "Esplanade Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Esplanade Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853596725483,
+                    1.28944475841593
+                ]
+            }
+        },
+        {
+            "id": 32,
+            "properties": {
+                "Name": "Gardens At Marina East (U/C)",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Gardens At Marina East (U/C)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.87090049501,
+                    1.28635974086556
+                ]
+            }
+        },
+        {
+            "id": 33,
+            "properties": {
+                "Name": "Clementi Woods",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Clementi Woods",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.767757254542,
+                    1.29873574057428
+                ]
+            }
+        },
+        {
+            "id": 34,
+            "properties": {
+                "Name": "West Coast Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "West Coast Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.764673686939,
+                    1.29352055029372
+                ]
+            }
+        },
+        {
+            "id": 35,
+            "properties": {
+                "Name": "Commonwealth Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Commonwealth Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.797950454828,
+                    1.29619227426784
+                ]
+            }
+        },
+        {
+            "id": 36,
+            "properties": {
+                "Name": "Tanglin Halt Garden",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Tanglin Halt Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.798509420225,
+                    1.29623723534732
+                ]
+            }
+        },
+        {
+            "id": 37,
+            "properties": {
+                "Name": "Orchard Fountain Corner",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Orchard Fountain Corner",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.837498018766,
+                    1.3018769469516
+                ]
+            }
+        },
+        {
+            "id": 38,
+            "properties": {
+                "Name": "Kim Seng Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Kim Seng Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.834740707008,
+                    1.29280724832291
+                ]
+            }
+        },
+        {
+            "id": 39,
+            "properties": {
+                "Name": "*Scape Youth Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "*Scape Youth Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.836442532926,
+                    1.30041373217304
+                ]
+            }
+        },
+        {
+            "id": 40,
+            "properties": {
+                "Name": "Dhoby Ghaut Green",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Dhoby Ghaut Green",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845977288999,
+                    1.29837706213935
+                ]
+            }
+        },
+        {
+            "id": 41,
+            "properties": {
+                "Name": "*Scape Skate Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "*Scape Skate Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839389136369,
+                    1.29971863765913
+                ]
+            }
+        },
+        {
+            "id": 42,
+            "properties": {
+                "Name": "Istana Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Istana Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.843892546645,
+                    1.29923303891503
+                ]
+            }
+        },
+        {
+            "id": 43,
+            "properties": {
+                "Name": "Fort Canning Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Fort Canning Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846609433349,
+                    1.29415059297918
+                ]
+            }
+        },
+        {
+            "id": 44,
+            "properties": {
+                "Name": "War Memorial Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "War Memorial Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854732566482,
+                    1.2928790037474
+                ]
+            }
+        },
+        {
+            "id": 45,
+            "properties": {
+                "Name": "Gardens At Marina Centre (U/C)",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Gardens At Marina Centre (U/C)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.864676788437,
+                    1.29206056454682
+                ]
+            }
+        },
+        {
+            "id": 46,
+            "properties": {
+                "Name": "Marina Promenade",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Marina Promenade",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.864638651229,
+                    1.29906147824521
+                ]
+            }
+        },
+        {
+            "id": 47,
+            "properties": {
+                "Name": "Kampong Glam Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Kampong Glam Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86299591613,
+                    1.30244531462948
+                ]
+            }
+        },
+        {
+            "id": 48,
+            "properties": {
+                "Name": "Wilkinson Interim Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Wilkinson Interim Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.886981280119,
+                    1.30182967413319
+                ]
+            }
+        },
+        {
+            "id": 49,
+            "properties": {
+                "Name": "Katong Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Katong Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.886350793638,
+                    1.29699411106733
+                ]
+            }
+        },
+        {
+            "id": 50,
+            "properties": {
+                "Name": "Marine Parade Road Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Marine Parade Road Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.905949209232,
+                    1.30341995846484
+                ]
+            }
+        },
+        {
+            "id": 51,
+            "properties": {
+                "Name": "West Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "West Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.770339821359,
+                    1.31113414552223
+                ]
+            }
+        },
+        {
+            "id": 52,
+            "properties": {
+                "Name": "One-North Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "One-North Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.790368304885,
+                    1.30427827040531
+                ]
+            }
+        },
+        {
+            "id": 53,
+            "properties": {
+                "Name": "Ridout Tea Garden",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Ridout Tea Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.802086494283,
+                    1.30391940090393
+                ]
+            }
+        },
+        {
+            "id": 54,
+            "properties": {
+                "Name": "Singapore Botanic Gardens",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Singapore Botanic Gardens",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.816086176157,
+                    1.31210060163707
+                ]
+            }
+        },
+        {
+            "id": 55,
+            "properties": {
+                "Name": "Kampong Java Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Kampong Java Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845475979815,
+                    1.31074633683949
+                ]
+            }
+        },
+        {
+            "id": 56,
+            "properties": {
+                "Name": "Mount Emily Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Mount Emily Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847428341326,
+                    1.30463084274387
+                ]
+            }
+        },
+        {
+            "id": 57,
+            "properties": {
+                "Name": "North Bridge Garden",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "North Bridge Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86216402545,
+                    1.30409742371793
+                ]
+            }
+        },
+        {
+            "id": 58,
+            "properties": {
+                "Name": "City Green",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "City Green",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.856020352008,
+                    1.31157925001718
+                ]
+            }
+        },
+        {
+            "id": 59,
+            "properties": {
+                "Name": "Kallang Riverside Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Kallang Riverside Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.867769861062,
+                    1.306282320661
+                ]
+            }
+        },
+        {
+            "id": 60,
+            "properties": {
+                "Name": "Arthur Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Arthur Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.888217228399,
+                    1.30390497811805
+                ]
+            }
+        },
+        {
+            "id": 61,
+            "properties": {
+                "Name": "Haig Walk",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Haig Walk",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.900280402779,
+                    1.30732977810345
+                ]
+            }
+        },
+        {
+            "id": 62,
+            "properties": {
+                "Name": "Joo Chiat Interim Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Joo Chiat Interim Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.901698930111,
+                    1.31440836683756
+                ]
+            }
+        },
+        {
+            "id": 63,
+            "properties": {
+                "Name": "East Coast Terrace Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "East Coast Terrace Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.923792871393,
+                    1.31102806022826
+                ]
+            }
+        },
+        {
+            "id": 64,
+            "properties": {
+                "Name": "Elite Terrace Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Elite Terrace Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.924383155062,
+                    1.31532233487218
+                ]
+            }
+        },
+        {
+            "id": 65,
+            "properties": {
+                "Name": "Siglap Linear Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Siglap Linear Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.928427804123,
+                    1.31118313940619
+                ]
+            }
+        },
+        {
+            "id": 66,
+            "properties": {
+                "Name": "East Coast Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "East Coast Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.928734059374,
+                    1.30499333369408
+                ]
+            }
+        },
+        {
+            "id": 67,
+            "properties": {
+                "Name": "Xtreme Skatepark @ East Coast",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Xtreme Skatepark @ East Coast",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.938591761783,
+                    1.30860818298165
+                ]
+            }
+        },
+        {
+            "id": 68,
+            "properties": {
+                "Name": "Bougainvillea Garden",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bougainvillea Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.947183657734,
+                    1.31098935331155
+                ]
+            }
+        },
+        {
+            "id": 69,
+            "properties": {
+                "Name": "Jurong Hill Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Jurong Hill Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.708497904481,
+                    1.31798944031634
+                ]
+            }
+        },
+        {
+            "id": 70,
+            "properties": {
+                "Name": "Taman Jurong Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Taman Jurong Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.721037354801,
+                    1.32825081518354
+                ]
+            }
+        },
+        {
+            "id": 71,
+            "properties": {
+                "Name": "Pandan Reservoir Fitness Corner",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Pandan Reservoir Fitness Corner",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.748787659386,
+                    1.3171509871645
+                ]
+            }
+        },
+        {
+            "id": 72,
+            "properties": {
+                "Name": "Pandan Gardens Leisure Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Pandan Gardens Leisure Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.750396738749,
+                    1.31983504117771
+                ]
+            }
+        },
+        {
+            "id": 73,
+            "properties": {
+                "Name": "Sunset Way Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Sunset Way Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.764747641664,
+                    1.32769429808131
+                ]
+            }
+        },
+        {
+            "id": 74,
+            "properties": {
+                "Name": "Clementi Neighbourhood Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Clementi Neighbourhood Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.773563712987,
+                    1.32519975517202
+                ]
+            }
+        },
+        {
+            "id": 75,
+            "properties": {
+                "Name": "Coronation Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Coronation Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.796403169349,
+                    1.32202319976625
+                ]
+            }
+        },
+        {
+            "id": 76,
+            "properties": {
+                "Name": "Namly Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Namly Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.796601595339,
+                    1.32331669118089
+                ]
+            }
+        },
+        {
+            "id": 77,
+            "properties": {
+                "Name": "Henry Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Henry Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.783106444352,
+                    1.31623455640058
+                ]
+            }
+        },
+        {
+            "id": 78,
+            "properties": {
+                "Name": "Bougainvillea Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bougainvillea Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.807615304219,
+                    1.32669887142062
+                ]
+            }
+        },
+        {
+            "id": 79,
+            "properties": {
+                "Name": "University Road Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "University Road Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.81768220232,
+                    1.32545365314956
+                ]
+            }
+        },
+        {
+            "id": 80,
+            "properties": {
+                "Name": "Malcolm Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Malcolm Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.826564644963,
+                    1.32272604512546
+                ]
+            }
+        },
+        {
+            "id": 81,
+            "properties": {
+                "Name": "Novena Rise Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Novena Rise Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.842728263327,
+                    1.32483827546647
+                ]
+            }
+        },
+        {
+            "id": 82,
+            "properties": {
+                "Name": "Novena Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Novena Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.842814370992,
+                    1.32231137087718
+                ]
+            }
+        },
+        {
+            "id": 83,
+            "properties": {
+                "Name": "Saint George&apos;S Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Saint George&apos;S Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.861828705838,
+                    1.32296695945464
+                ]
+            }
+        },
+        {
+            "id": 84,
+            "properties": {
+                "Name": "Geylang East Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Geylang East Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.887869831889,
+                    1.32173891719801
+                ]
+            }
+        },
+        {
+            "id": 85,
+            "properties": {
+                "Name": "Telok Kurau Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Telok Kurau Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.913989755768,
+                    1.31617495156432
+                ]
+            }
+        },
+        {
+            "id": 86,
+            "properties": {
+                "Name": "Terang Bulan Avenue Interim Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Terang Bulan Avenue Interim Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.921143510364,
+                    1.32167094286623
+                ]
+            }
+        },
+        {
+            "id": 87,
+            "properties": {
+                "Name": "Garden Hill Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Garden Hill Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.929096813712,
+                    1.32712367550631
+                ]
+            }
+        },
+        {
+            "id": 88,
+            "properties": {
+                "Name": "Aida Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Aida Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.927926891577,
+                    1.31937959700544
+                ]
+            }
+        },
+        {
+            "id": 89,
+            "properties": {
+                "Name": "Bangsawan Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bangsawan Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.923838727296,
+                    1.32120665266921
+                ]
+            }
+        },
+        {
+            "id": 90,
+            "properties": {
+                "Name": "Bedok Adventure Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bedok Adventure Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.931995764941,
+                    1.32695505254145
+                ]
+            }
+        },
+        {
+            "id": 91,
+            "properties": {
+                "Name": "Yunnan Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Yunnan Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.692901534565,
+                    1.33748452681282
+                ]
+            }
+        },
+        {
+            "id": 92,
+            "properties": {
+                "Name": "Jurong Central Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Jurong Central Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.706939179705,
+                    1.33581042273862
+                ]
+            }
+        },
+        {
+            "id": 93,
+            "properties": {
+                "Name": "Lakeside Grove Fitness Corner",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Lakeside Grove Fitness Corner",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.717036374622,
+                    1.33975458153379
+                ]
+            }
+        },
+        {
+            "id": 94,
+            "properties": {
+                "Name": "Jurong Lake Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Jurong Lake Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.72698435207,
+                    1.33777859706286
+                ]
+            }
+        },
+        {
+            "id": 95,
+            "properties": {
+                "Name": "Taman Jurong Greens",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Taman Jurong Greens",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.71855548642,
+                    1.33717907458249
+                ]
+            }
+        },
+        {
+            "id": 96,
+            "properties": {
+                "Name": "Lake View Promenade",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Lake View Promenade",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.727995461965,
+                    1.33188486127862
+                ]
+            }
+        },
+        {
+            "id": 97,
+            "properties": {
+                "Name": "Eng Kong Place Fitness Corner",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Eng Kong Place Fitness Corner",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.767246856511,
+                    1.33474059834371
+                ]
+            }
+        },
+        {
+            "id": 98,
+            "properties": {
+                "Name": "Toa Payoh Town Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Toa Payoh Town Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847964891652,
+                    1.33056981936072
+                ]
+            }
+        },
+        {
+            "id": 99,
+            "properties": {
+                "Name": "Toa Payoh Sensory Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Toa Payoh Sensory Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.852837558504,
+                    1.33525315716575
+                ]
+            }
+        },
+        {
+            "id": 100,
+            "properties": {
+                "Name": "Aljunied Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Aljunied Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.879926048553,
+                    1.32920358291637
+                ]
+            }
+        },
+        {
+            "id": 101,
+            "properties": {
+                "Name": "Oasis@Mulberry Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Oasis@Mulberry Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.878460138004,
+                    1.3329531364691
+                ]
+            }
+        },
+        {
+            "id": 102,
+            "properties": {
+                "Name": "Siang Kuang Avenue Interim Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Siang Kuang Avenue Interim Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.873095161467,
+                    1.32984396481001
+                ]
+            }
+        },
+        {
+            "id": 103,
+            "properties": {
+                "Name": "Kaki Bukit Neighbourhood Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Kaki Bukit Neighbourhood Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.927666498968,
+                    1.33266654201089
+                ]
+            }
+        },
+        {
+            "id": 104,
+            "properties": {
+                "Name": "Bedok Town Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bedok Town Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.923188664124,
+                    1.33481921911349
+                ]
+            }
+        },
+        {
+            "id": 105,
+            "properties": {
+                "Name": "Jurong West Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Jurong West Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.694138194339,
+                    1.34570549389106
+                ]
+            }
+        },
+        {
+            "id": 106,
+            "properties": {
+                "Name": "Palm View Garden",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Palm View Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.721802047652,
+                    1.34900675342574
+                ]
+            }
+        },
+        {
+            "id": 107,
+            "properties": {
+                "Name": "Neighbourhood Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Neighbourhood Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.746443762887,
+                    1.3483623810324
+                ]
+            }
+        },
+        {
+            "id": 108,
+            "properties": {
+                "Name": "Bukit Batok Nature Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bukit Batok Nature Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.763845275905,
+                    1.34993597117575
+                ]
+            }
+        },
+        {
+            "id": 109,
+            "properties": {
+                "Name": "Mayfair Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Mayfair Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.780841054984,
+                    1.34149970768955
+                ]
+            }
+        },
+        {
+            "id": 110,
+            "properties": {
+                "Name": "Hindhede Nature Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Hindhede Nature Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.776045614095,
+                    1.35025905377248
+                ]
+            }
+        },
+        {
+            "id": 111,
+            "properties": {
+                "Name": "Hoover Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Hoover Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.773049687724,
+                    1.34386924327369
+                ]
+            }
+        },
+        {
+            "id": 112,
+            "properties": {
+                "Name": "Taman Permata Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Taman Permata Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.834964862245,
+                    1.3500252159209
+                ]
+            }
+        },
+        {
+            "id": 113,
+            "properties": {
+                "Name": "Macritchie Reservoir Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Macritchie Reservoir Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.833643727877,
+                    1.34211481818951
+                ]
+            }
+        },
+        {
+            "id": 114,
+            "properties": {
+                "Name": "Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84773379917,
+                    1.34495094726665
+                ]
+            }
+        },
+        {
+            "id": 115,
+            "properties": {
+                "Name": "Bedok Reservoir Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bedok Reservoir Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.925280190701,
+                    1.3431975024986
+                ]
+            }
+        },
+        {
+            "id": 116,
+            "properties": {
+                "Name": "Tampines Green",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Tampines Green",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.946512732754,
+                    1.35068674245438
+                ]
+            }
+        },
+        {
+            "id": 117,
+            "properties": {
+                "Name": "Tampines Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Tampines Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.942615768849,
+                    1.34957234779677
+                ]
+            }
+        },
+        {
+            "id": 118,
+            "properties": {
+                "Name": "Garden Community Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Garden Community Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.94085427865,
+                    1.348904099124
+                ]
+            }
+        },
+        {
+            "id": 119,
+            "properties": {
+                "Name": "Tampines Tree Garden",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Tampines Tree Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.95883638427,
+                    1.3518269899915
+                ]
+            }
+        },
+        {
+            "id": 120,
+            "properties": {
+                "Name": "Simei Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Simei Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.95494069489,
+                    1.34751369879856
+                ]
+            }
+        },
+        {
+            "id": 121,
+            "properties": {
+                "Name": "Bukit Batok Hillside Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bukit Batok Hillside Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.745557733429,
+                    1.36003778571809
+                ]
+            }
+        },
+        {
+            "id": 122,
+            "properties": {
+                "Name": "Beauty Garden",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Beauty Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.748670651116,
+                    1.3620000128443
+                ]
+            }
+        },
+        {
+            "id": 123,
+            "properties": {
+                "Name": "Lorong Kamunchup Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Lorong Kamunchup Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.76093660717,
+                    1.36038849283925
+                ]
+            }
+        },
+        {
+            "id": 124,
+            "properties": {
+                "Name": "Little Guilin (Bukit Batok Town Park)",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Little Guilin (Bukit Batok Town Park)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.756024890548,
+                    1.35735093211165
+                ]
+            }
+        },
+        {
+            "id": 125,
+            "properties": {
+                "Name": "Jalan Ramaja Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Jalan Ramaja Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.760823940193,
+                    1.3575795218359
+                ]
+            }
+        },
+        {
+            "id": 126,
+            "properties": {
+                "Name": "Bukit Timah Nature Reserve",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bukit Timah Nature Reserve",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.779150501769,
+                    1.35410136537225
+                ]
+            }
+        },
+        {
+            "id": 127,
+            "properties": {
+                "Name": "Dairy Farm Nature Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Dairy Farm Nature Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.773771910702,
+                    1.3627237121282
+                ]
+            }
+        },
+        {
+            "id": 128,
+            "properties": {
+                "Name": "Bishan Active Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bishan Active Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847090235344,
+                    1.35663339613449
+                ]
+            }
+        },
+        {
+            "id": 129,
+            "properties": {
+                "Name": "Chartwell Drive Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Chartwell Drive Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.863871280158,
+                    1.35963103241185
+                ]
+            }
+        },
+        {
+            "id": 130,
+            "properties": {
+                "Name": "Serangoon Community Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Serangoon Community Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.872037180457,
+                    1.35648033590561
+                ]
+            }
+        },
+        {
+            "id": 131,
+            "properties": {
+                "Name": "Jalan Geneng Interim Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Jalan Geneng Interim Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.880869049551,
+                    1.35334341190523
+                ]
+            }
+        },
+        {
+            "id": 132,
+            "properties": {
+                "Name": "Richard Avenue Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Richard Avenue Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.882129121591,
+                    1.36092858125101
+                ]
+            }
+        },
+        {
+            "id": 133,
+            "properties": {
+                "Name": "Parry Avenue Interim Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Parry Avenue Interim Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.881277160133,
+                    1.36408138453269
+                ]
+            }
+        },
+        {
+            "id": 134,
+            "properties": {
+                "Name": "Surin Avenue Neighbourhood Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Surin Avenue Neighbourhood Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.884085252864,
+                    1.35557677225862
+                ]
+            }
+        },
+        {
+            "id": 135,
+            "properties": {
+                "Name": "Tampines Central Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Tampines Central Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.937582370172,
+                    1.35371767870609
+                ]
+            }
+        },
+        {
+            "id": 136,
+            "properties": {
+                "Name": "Festival Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Festival Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.949538664318,
+                    1.35344412734629
+                ]
+            }
+        },
+        {
+            "id": 137,
+            "properties": {
+                "Name": "Sun Plaza Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Sun Plaza Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.94382351157,
+                    1.35854802218316
+                ]
+            }
+        },
+        {
+            "id": 138,
+            "properties": {
+                "Name": "Park Aquaria",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Park Aquaria",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.958289254628,
+                    1.3643256927637
+                ]
+            }
+        },
+        {
+            "id": 139,
+            "properties": {
+                "Name": "Tampines Leisure Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Tampines Leisure Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.962431676056,
+                    1.35699938057533
+                ]
+            }
+        },
+        {
+            "id": 140,
+            "properties": {
+                "Name": "Tampines North Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Tampines North Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.952652620347,
+                    1.35664372250813
+                ]
+            }
+        },
+        {
+            "id": 141,
+            "properties": {
+                "Name": "Cheng Hua Garden",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Cheng Hua Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.776022161473,
+                    1.3720607056017
+                ]
+            }
+        },
+        {
+            "id": 142,
+            "properties": {
+                "Name": "Cashew Crescent Fitness Corner",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Cashew Crescent Fitness Corner",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.769495146228,
+                    1.37224383192559
+                ]
+            }
+        },
+        {
+            "id": 143,
+            "properties": {
+                "Name": "Upper Peirce Reservoir Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Upper Peirce Reservoir Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.812232964176,
+                    1.37722361488083
+                ]
+            }
+        },
+        {
+            "id": 144,
+            "properties": {
+                "Name": "Lower Peirce Reservoir Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Lower Peirce Reservoir Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82606526707,
+                    1.3718733234088
+                ]
+            }
+        },
+        {
+            "id": 145,
+            "properties": {
+                "Name": "Leban Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Leban Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82927687685,
+                    1.37245959579077
+                ]
+            }
+        },
+        {
+            "id": 146,
+            "properties": {
+                "Name": "Bishan Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bishan Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.836364287975,
+                    1.3653615034024
+                ]
+            }
+        },
+        {
+            "id": 147,
+            "properties": {
+                "Name": "Gelenggang Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Gelenggang Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.829832445184,
+                    1.37347591133988
+                ]
+            }
+        },
+        {
+            "id": 148,
+            "properties": {
+                "Name": "Ang Mo Kio Town Garden East",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Ang Mo Kio Town Garden East",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85054706583,
+                    1.37073015228358
+                ]
+            }
+        },
+        {
+            "id": 149,
+            "properties": {
+                "Name": "Ang Mo Kio Town Garden West",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Ang Mo Kio Town Garden West",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.842740203824,
+                    1.37450994395408
+                ]
+            }
+        },
+        {
+            "id": 150,
+            "properties": {
+                "Name": "Tavistock Avenue Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Tavistock Avenue Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.863809556442,
+                    1.37009329051051
+                ]
+            }
+        },
+        {
+            "id": 151,
+            "properties": {
+                "Name": "Serangoon North Neighbourhood Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Serangoon North Neighbourhood Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.871186633045,
+                    1.37392012840201
+                ]
+            }
+        },
+        {
+            "id": 152,
+            "properties": {
+                "Name": "Punggol South Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Punggol South Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.882755587955,
+                    1.36937078854588
+                ]
+            }
+        },
+        {
+            "id": 153,
+            "properties": {
+                "Name": "Punggol Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Punggol Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.898619235844,
+                    1.37698239323825
+                ]
+            }
+        },
+        {
+            "id": 154,
+            "properties": {
+                "Name": "Tampines Bike Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Tampines Bike Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.941914346031,
+                    1.36567893861032
+                ]
+            }
+        },
+        {
+            "id": 155,
+            "properties": {
+                "Name": "Brontonsaur Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Brontonsaur Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.937563793022,
+                    1.37430661204095
+                ]
+            }
+        },
+        {
+            "id": 156,
+            "properties": {
+                "Name": "Pasir Ris Town Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Pasir Ris Town Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.951919822807,
+                    1.37359417682879
+                ]
+            }
+        },
+        {
+            "id": 157,
+            "properties": {
+                "Name": "Time Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Time Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.955094357699,
+                    1.37262663123896
+                ]
+            }
+        },
+        {
+            "id": 158,
+            "properties": {
+                "Name": "Sea Shell Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Sea Shell Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.959427352583,
+                    1.37019280580957
+                ]
+            }
+        },
+        {
+            "id": 159,
+            "properties": {
+                "Name": "Choa Chu Kang Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Choa Chu Kang Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.747157674842,
+                    1.38859632727436
+                ]
+            }
+        },
+        {
+            "id": 160,
+            "properties": {
+                "Name": "Choa Chu Kang Neighbourhood 2 Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Choa Chu Kang Neighbourhood 2 Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.744127000222,
+                    1.37890532787444
+                ]
+            }
+        },
+        {
+            "id": 161,
+            "properties": {
+                "Name": "Teck Whye Gardens",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Teck Whye Gardens",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.750236100689,
+                    1.38069562436607
+                ]
+            }
+        },
+        {
+            "id": 162,
+            "properties": {
+                "Name": "Tembusu Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Tembusu Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.743361150086,
+                    1.37893809969744
+                ]
+            }
+        },
+        {
+            "id": 163,
+            "properties": {
+                "Name": "Bukit Panjang Neighbourhood Park 5",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bukit Panjang Neighbourhood Park 5",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.764996236769,
+                    1.38368353519129
+                ]
+            }
+        },
+        {
+            "id": 164,
+            "properties": {
+                "Name": "Bukit Panjang Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bukit Panjang Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.7657715887,
+                    1.38190581194298
+                ]
+            }
+        },
+        {
+            "id": 165,
+            "properties": {
+                "Name": "Zhenghua Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Zhenghua Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.775417063274,
+                    1.38087565886767
+                ]
+            }
+        },
+        {
+            "id": 166,
+            "properties": {
+                "Name": "Sungei Api Api Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Sungei Api Api Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.946100725286,
+                    1.37888298480685
+                ]
+            }
+        },
+        {
+            "id": 167,
+            "properties": {
+                "Name": "Pasir Ris Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Pasir Ris Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.952189420126,
+                    1.37979718775143
+                ]
+            }
+        },
+        {
+            "id": 168,
+            "properties": {
+                "Name": "Changi Beach Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Changi Beach Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.00196799321,
+                    1.38266635282499
+                ]
+            }
+        },
+        {
+            "id": 169,
+            "properties": {
+                "Name": "Stagmont Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Stagmont Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.748593045611,
+                    1.39399908367939
+                ]
+            }
+        },
+        {
+            "id": 170,
+            "properties": {
+                "Name": "Yew Tee Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Yew Tee Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.743571734851,
+                    1.39733908691814
+                ]
+            }
+        },
+        {
+            "id": 171,
+            "properties": {
+                "Name": "Limbang Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Limbang Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.744559744158,
+                    1.39073294720115
+                ]
+            }
+        },
+        {
+            "id": 172,
+            "properties": {
+                "Name": "Upper Seletar Reservoir Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Upper Seletar Reservoir Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.807770143195,
+                    1.40106767664238
+                ]
+            }
+        },
+        {
+            "id": 173,
+            "properties": {
+                "Name": "Dew Garden",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Dew Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.871064647825,
+                    1.39926519533297
+                ]
+            }
+        },
+        {
+            "id": 174,
+            "properties": {
+                "Name": "Lorong Tanggam Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Lorong Tanggam Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.873791039713,
+                    1.39905412549728
+                ]
+            }
+        },
+        {
+            "id": 175,
+            "properties": {
+                "Name": "Jalan Kayu Interim Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Jalan Kayu Interim Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.872857453722,
+                    1.39797227858889
+                ]
+            }
+        },
+        {
+            "id": 176,
+            "properties": {
+                "Name": "Sengkang Riverside Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Sengkang Riverside Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.887937488978,
+                    1.39988947266624
+                ]
+            }
+        },
+        {
+            "id": 177,
+            "properties": {
+                "Name": "Sengkang Sculpture Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Sengkang Sculpture Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.896792713507,
+                    1.39484909974317
+                ]
+            }
+        },
+        {
+            "id": 178,
+            "properties": {
+                "Name": "Turnhouse Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Turnhouse Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.978952659219,
+                    1.38988398167697
+                ]
+            }
+        },
+        {
+            "id": 179,
+            "properties": {
+                "Name": "Nature Reserve",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Nature Reserve",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.796098615378,
+                    1.41163465715359
+                ]
+            }
+        },
+        {
+            "id": 180,
+            "properties": {
+                "Name": "Springside Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Springside Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.820875499458,
+                    1.40571946470717
+                ]
+            }
+        },
+        {
+            "id": 181,
+            "properties": {
+                "Name": "Lower Seletar Reservoir Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Lower Seletar Reservoir Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.832509342555,
+                    1.41013572641044
+                ]
+            }
+        },
+        {
+            "id": 182,
+            "properties": {
+                "Name": "Ketam Mountain Bike Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Ketam Mountain Bike Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.94884571806,
+                    1.41260874590402
+                ]
+            }
+        },
+        {
+            "id": 183,
+            "properties": {
+                "Name": "Jalan Rasok Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Jalan Rasok Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.758982368221,
+                    1.41650124858317
+                ]
+            }
+        },
+        {
+            "id": 184,
+            "properties": {
+                "Name": "Yishun Town Garden",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Yishun Town Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.836097227762,
+                    1.42611131344365
+                ]
+            }
+        },
+        {
+            "id": 185,
+            "properties": {
+                "Name": "Yishun Green Link",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Yishun Green Link",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839690702152,
+                    1.4205963117118
+                ]
+            }
+        },
+        {
+            "id": 186,
+            "properties": {
+                "Name": "Yishun Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Yishun Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.842609359539,
+                    1.42403848376716
+                ]
+            }
+        },
+        {
+            "id": 187,
+            "properties": {
+                "Name": "Woodlands Town Park East",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Woodlands Town Park East",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.779303576826,
+                    1.43664742920196
+                ]
+            }
+        },
+        {
+            "id": 188,
+            "properties": {
+                "Name": "Woodlands Town Garden",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Woodlands Town Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.769931515832,
+                    1.43858204720709
+                ]
+            }
+        },
+        {
+            "id": 189,
+            "properties": {
+                "Name": "Mandai Tekong Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Mandai Tekong Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.793406366521,
+                    1.43516512997133
+                ]
+            }
+        },
+        {
+            "id": 190,
+            "properties": {
+                "Name": "Vista Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Vista Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.79569001819,
+                    1.42976293880837
+                ]
+            }
+        },
+        {
+            "id": 191,
+            "properties": {
+                "Name": "Woodlands Admiral Garden",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Woodlands Admiral Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.799915194906,
+                    1.43766926239703
+                ]
+            }
+        },
+        {
+            "id": 192,
+            "properties": {
+                "Name": "Yishun Neighbourhood Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Yishun Neighbourhood Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.835057923834,
+                    1.43775722404382
+                ]
+            }
+        },
+        {
+            "id": 193,
+            "properties": {
+                "Name": "Sungei Buloh Wetland Reserve",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Sungei Buloh Wetland Reserve",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.722699068136,
+                    1.44543061814636
+                ]
+            }
+        },
+        {
+            "id": 194,
+            "properties": {
+                "Name": "Kranji Reservoir Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Kranji Reservoir Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.737756266043,
+                    1.43970250546431
+                ]
+            }
+        },
+        {
+            "id": 195,
+            "properties": {
+                "Name": "Admiralty Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Admiralty Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.7814020346,
+                    1.44515442864464
+                ]
+            }
+        },
+        {
+            "id": 196,
+            "properties": {
+                "Name": "Fu Shan Garden",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Fu Shan Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.790801023194,
+                    1.44068487951626
+                ]
+            }
+        },
+        {
+            "id": 197,
+            "properties": {
+                "Name": "Circle Green",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Circle Green",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.797585331005,
+                    1.44323858737807
+                ]
+            }
+        },
+        {
+            "id": 198,
+            "properties": {
+                "Name": "Greenwood Sanctuary @ Admiralty",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Greenwood Sanctuary @ Admiralty",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.806852755642,
+                    1.43963371307597
+                ]
+            }
+        },
+        {
+            "id": 199,
+            "properties": {
+                "Name": "Canberra Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Canberra Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.818435223168,
+                    1.44366055118376
+                ]
+            }
+        },
+        {
+            "id": 200,
+            "properties": {
+                "Name": "Pebble Garden",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Pebble Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82949312527,
+                    1.45064493416702
+                ]
+            }
+        },
+        {
+            "id": 201,
+            "properties": {
+                "Name": "Kemuning Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Kemuning Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82736201214,
+                    1.43961981756787
+                ]
+            }
+        },
+        {
+            "id": 202,
+            "properties": {
+                "Name": "Montreal Green",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Montreal Green",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.825947937104,
+                    1.44917127180765
+                ]
+            }
+        },
+        {
+            "id": 203,
+            "properties": {
+                "Name": "Woodlands Waterfront",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Woodlands Waterfront",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.77846334374,
+                    1.45211626051689
+                ]
+            }
+        },
+        {
+            "id": 204,
+            "properties": {
+                "Name": "Janggus Garden",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Janggus Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.836983847408,
+                    1.45753984163767
+                ]
+            }
+        },
+        {
+            "id": 205,
+            "properties": {
+                "Name": "Sembawang Park",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Sembawang Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83646705018,
+                    1.46145822727364
+                ]
+            }
+        },
+        {
+            "id": 206,
+            "properties": {
+                "Name": "Kandis Garden",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Kandis Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.835644741669,
+                    1.45619154679712
+                ]
+            }
+        },
+        {
+            "id": 207,
+            "properties": {
+                "Name": "Sentosa - Football Field",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Sentosa - Football Field",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.819926715203,
+                    1.25223728559755
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

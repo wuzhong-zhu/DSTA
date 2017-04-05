@@ -1,0 +1,119 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet",
+    "value": [
+        {
+            "Type": "Vehicle breakdown",
+            "Message": "(23/1)10:55 Vehicle breakdown on ECP (towards Changi Airport) after Fort Rd Exit.",
+            "Latitude": 1.295510965854229,
+            "Longitude": 103.87640327435369
+        },
+        {
+            "Type": "Unattended Vehicle",
+            "Message": "(23/1)10:51 Stationary Vehicle on CTE (towards AYE) after PIE(Jurong) Exit.",
+            "Latitude": 1.3242584345525363,
+            "Longitude": 103.85876651670608
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(23/1)10:39 Heavy Traffic in CTE Tunnel (towards AYE) at Havelock Road Exit.",
+            "Latitude": 1.287789759782115,
+            "Longitude": 103.84256061864352
+        },
+        {
+            "Type": "Roadwork",
+            "Message": "(23/1)10:36 Roadworks on Upper Serangoon Road (towards City) after Upper Aljunied Road. Avoid left lane.",
+            "Latitude": 1.3386181418384238,
+            "Longitude": 103.87069836467094
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(23/1)10:27 Heavy Traffic on MCE (towards AYE) at Maxwell Rd Exit.",
+            "Latitude": 1.273338341902529,
+            "Longitude": 103.85126439436391
+        },
+        {
+            "Type": "Roadwork",
+            "Message": "(23/1)10:20 Roadworks on Mountbatten Road (towards City) after Stadium Boulevard. Avoid left lane.",
+            "Latitude": 1.3077519614321131,
+            "Longitude": 103.87863953544144
+        },
+        {
+            "Type": "Vehicle breakdown",
+            "Message": "(23/1)10:17 Vehicle breakdown on TPE (towards SLE) after Punggol Rd Exit.",
+            "Latitude": 1.3984897332837816,
+            "Longitude": 103.90048578787297
+        },
+        {
+            "Type": "Roadwork",
+            "Message": "(23/1)10:07 Roadworks on MCE (towards AYE) after Marina Coastal Dr Entrance.",
+            "Latitude": 1.270873398384457,
+            "Longitude": 103.85657194138983
+        },
+        {
+            "Type": "Obstacle",
+            "Message": "(23/1)10:04 Obstacle on PIE (towards Tuas) after Clementi Rd Exit with congestion till Adam Rd Exit. Avoid lanes 1 and 2.",
+            "Latitude": 1.3415787094816929,
+            "Longitude": 103.77976251801641
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(23/1)9:16 Heavy Traffic on AYE (towards MCE) between Clementi Ave 6 Exit and Buona Vista Exit.",
+            "Latitude": 1.297715844792975,
+            "Longitude": 103.78261166965805
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(23/1)8:24 Heavy Traffic on SLE (towards CTE) after TPE Exit.",
+            "Latitude": 1.3914166059344253,
+            "Longitude": 103.8581056043284
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(23/1)8:22 Heavy Traffic on Macritchie Viaduct (towards Queensway) between Toa Payoh and Marymount Road.",
+            "Latitude": 1.3403891739471614,
+            "Longitude": 103.83273200832136
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(23/1)8:20 Heavy Traffic on PIE (towards Changi Airport) between Eng Neo Ave and Kallang Way.",
+            "Latitude": 1.3289205870694765,
+            "Longitude": 103.86638515354629
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(23/1)8:15 Heavy Traffic on Lornie Road (towards Queensway) after MacRitchie viaduct.",
+            "Latitude": 1.3359699348112233,
+            "Longitude": 103.8186957263759
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(23/1)8:14 Heavy Traffic on KPE (towards ECP) at Airport Road Exit.",
+            "Latitude": 1.3448677861269644,
+            "Longitude": 103.89923012722937
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(23/1)7:51 Heavy Traffic on CTE (towards AYE) between Yio Chu Kang Rd Exit and PIE(Jurong) Exit.",
+            "Latitude": 1.3217304060965198,
+            "Longitude": 103.85641066555041
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(23/1)7:15 Heavy Traffic on PIE (towards Tuas) between Bedok North Avenue 3 exit and Paya Lebar Rd.",
+            "Latitude": 1.322076603401138,
+            "Longitude": 103.88473728153004
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(23/1)7:02 Heavy Traffic on PIE (towards Changi Airport) at Lornie Rd Exit.",
+            "Latitude": 1.333883822384075,
+            "Longitude": 103.81396653381199
+        },
+        {
+            "Type": "Roadwork",
+            "Message": "(23/1)6:34 Roadworks on Kallang Bahru near Geylang Bahru/Kallang Bahru Junction.",
+            "Latitude": 1.3212659149446946,
+            "Longitude": 103.87170779805503
+        }
+    ]
+}

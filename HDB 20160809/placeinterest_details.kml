@@ -1,0 +1,1665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>SG - HDB Themes - placeinterest (62)</name>
+    <Style id="carparkIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBcarpark.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="flatIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBflat.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="marketIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBmarket.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="shopIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBshop.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="industrialIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBindustrial.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="foodcentreIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBfoodcentre.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="childcareIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBchildcare.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="communityclubsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBcommunityclubs.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="kindergartensIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBkindergartens.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="libraryIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBlibrary.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="mrtIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBmrt.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="parksIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBparks.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="heritageSitesIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBheritageSites.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="placeinterestIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBplaceinterest.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="worshipIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBworship.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="policestationIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBpolicestation.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="residentcentreIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBresidentcentre.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="schoolsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBschools.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="sportsclubsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBsportsclubs.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="towncouncilIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBtowncouncil.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Butterfly Park &amp;amp; Insect Kingdom</name>
+      <description>[51 Cable Car Road    Singapore 099702],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.817004832191,1.25550582997007, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>51 Cable Car Road    Singapore 099702</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Butterfly Park &amp;amp; Insect Kingdom</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>099702</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sentosa 4D Magic</name>
+      <description>[51B Cable Car Road    Singapore 099708],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.816509114282,1.25537686434707, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>51B Cable Car Road    Singapore 099708</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sentosa 4D Magic</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>099708</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sentosa CineBlast</name>
+      <description>[51C Imbiah Road    Singapore 098464],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.816195085423,1.25565244042085, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>51C Imbiah Road    Singapore 098464</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sentosa CineBlast</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>098464</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Songs of the Sea</name>
+      <description>[Siloso Beach    Singapore 099538],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.814500418506,1.25498726817931, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Siloso Beach    Singapore 099538</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Songs of the Sea</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>099538</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>MegaZip Adventure Park</name>
+      <description>[10A Siloso Beach Walk    Singapore 099008],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.812719895656,1.25576970227367, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>10A Siloso Beach Walk    Singapore 099008</value>
+        </Data>
+        <Data name="fieldName">
+          <value>MegaZip Adventure Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>099008</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tiger Sky Tower</name>
+      <description>[41 Imbiah Road    Singapore 099707],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.817602654367,1.25491485820644, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>41 Imbiah Road    Singapore 099707</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tiger Sky Tower</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>099707</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Underwater World Singapore</name>
+      <description>[80 Siloso Road    Singapore 098969],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.811518946385,1.25812668481068, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>80 Siloso Road    Singapore 098969</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Underwater World Singapore</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>098969</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Cable Car</name>
+      <description>[109 Mount Faber Road    Singapore 099203],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.819789177722,1.2710818516293, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>109 Mount Faber Road    Singapore 099203</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Cable Car</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>099203</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Haw Par Villa</name>
+      <description>[262 Pasir Panjang Road    Singapore 118628],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.783151134827,1.28547960478479, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>262 Pasir Panjang Road    Singapore 118628</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Haw Par Villa</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>118628</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Buddha Tooth Relic Temple</name>
+      <description>[288 South Bridge Road    Singapore 058840],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.844242687092,1.28149322103106, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>288 South Bridge Road    Singapore 058840</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Buddha Tooth Relic Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>058840</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Singapore City Gallery</name>
+      <description>[45 Maxwell Road    Singapore 069118],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.845850840021,1.2801845975946, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>45 Maxwell Road    Singapore 069118</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Singapore City Gallery</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>069118</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chinatown Heritage Centre</name>
+      <description>[48 Pagoda Street    Singapore 059207],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.844377782308,1.28357839653555, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>48 Pagoda Street    Singapore 059207</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Chinatown Heritage Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>059207</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>GX-5 Xtreme Swing</name>
+      <description>[3E River Valley Road    Singapore 179024],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.846483185195,1.29053449883838, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>3E River Valley Road    Singapore 179024</value>
+        </Data>
+        <Data name="fieldName">
+          <value>GX-5 Xtreme Swing</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>179024</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jamae Chulia Mosque</name>
+      <description>[218 South Bridge Road    Singapore 058767],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.845394765183,1.28319555616221, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>218 South Bridge Road    Singapore 058767</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jamae Chulia Mosque</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>058767</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Lau Pa Sat</name>
+      <description>[18 Raffles Quay    Singapore 048582],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.850414526439,1.28060306594635, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>18 Raffles Quay    Singapore 048582</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Lau Pa Sat</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>048582</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sri Mariamman Temple</name>
+      <description>[244 South Bridge Road    Singapore 058793],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.845305626955,1.28251802448379, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>244 South Bridge Road    Singapore 058793</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sri Mariamman Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>058793</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tan Si Chong Su Temple</name>
+      <description>[15 Magazine Road    Singapore 059568],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.842854599783,1.28929183639773, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>15 Magazine Road    Singapore 059568</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tan Si Chong Su Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>059568</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Singapore Flyer</name>
+      <description>[30 Raffles Avenue     Singapore 039803],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.863372154722,1.28971341744795, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>30 Raffles Avenue     Singapore 039803</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Singapore Flyer</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>039803</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Esplanade - Theatres on the Bay</name>
+      <description>[1 Esplanade Drive    Singapore 038981],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.855288015883,1.28986232281497, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1 Esplanade Drive    Singapore 038981</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Esplanade - Theatres on the Bay</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>038981</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Merlion Park</name>
+      <description>[1 Fullerton    Singapore 049213],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.853982428124,1.28562623468019, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1 Fullerton    Singapore 049213</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Merlion Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>049213</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Marina Barrage</name>
+      <description>[8 Marina Gardens Drive    Singapore 018951],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.871571990341,1.28064693302133, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>8 Marina Gardens Drive    Singapore 018951</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Marina Barrage</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>018951</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Armenian Church</name>
+      <description>[60 Hill Street    Singapore 179366],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.849404781715,1.2929699545142, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>60 Hill Street    Singapore 179366</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Armenian Church</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>179366</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Battle Box</name>
+      <description>[15 Canning Rise     Singapore 179872],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.846191403119,1.29616018314232, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>15 Canning Rise     Singapore 179872</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Battle Box</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>179872</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>CHIJMES</name>
+      <description>[30 Victoria Street    Singapore 187996],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.852159965974,1.29559445635422, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>30 Victoria Street    Singapore 187996</value>
+        </Data>
+        <Data name="fieldName">
+          <value>CHIJMES</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>187996</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Maghain Aboth Synagogue</name>
+      <description>[24 Waterloo Street     Singapore 187950],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.850599501752,1.29827328646441, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>24 Waterloo Street     Singapore 187950</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Maghain Aboth Synagogue</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>187950</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sri Thandayuthapani Temple</name>
+      <description>[15 Tank Road    Singapore 238065],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.842935029214,1.29434705472466, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>15 Tank Road    Singapore 238065</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sri Thandayuthapani Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>238065</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>St Andrew&amp;apos;s Cathedral</name>
+      <description>[Coleman Street    Singapore 179802],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.851749009195,1.29199957313793, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Coleman Street    Singapore 179802</value>
+        </Data>
+        <Data name="fieldName">
+          <value>St Andrew&amp;apos;s Cathedral</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>179802</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hajjah Fatimah Mosque</name>
+      <description>[4001 Beach Road    Singapore 199584],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.862860767798,1.3028889682099, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>4001 Beach Road    Singapore 199584</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Hajjah Fatimah Mosque</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>199584</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>St. Joseph&amp;apos;s Church</name>
+      <description>[143 Victoria Street     Singapore 188020],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.853152114177,1.29835827791365, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>143 Victoria Street     Singapore 188020</value>
+        </Data>
+        <Data name="fieldName">
+          <value>St. Joseph&amp;apos;s Church</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>188020</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sultan Mosque</name>
+      <description>[3 Muscat Street     Singapore 198833],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.858994560737,1.30224369235161, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>3 Muscat Street     Singapore 198833</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sultan Mosque</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>198833</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Veeramakaliamman Temple</name>
+      <description>[141 Serangoon Road    Singapore 218042],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.852428318548,1.30788297146028, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>141 Serangoon Road    Singapore 218042</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Veeramakaliamman Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>218042</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sakya Muni Buddha Gaya Temple</name>
+      <description>[366 Race Course Road    Singapore 218636],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.856681022849,1.31506063327969, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>366 Race Course Road    Singapore 218636</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sakya Muni Buddha Gaya Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>218636</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Church of True Light</name>
+      <description>[25G Perak Road    Singapore 208142],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.853941667342,1.30527208566685, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>25G Perak Road    Singapore 208142</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Church of True Light</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>208142</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Masjid Abdul Gaffoor Mosque</name>
+      <description>[41 Dunlop Street     Singapore 209369],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.853690894564,1.30448458501987, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>41 Dunlop Street     Singapore 209369</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Masjid Abdul Gaffoor Mosque</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>209369</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Thekchen Choling</name>
+      <description>[2 beatty Lane    Singapore 209945],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.860336114577,1.31216301199372, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>2 beatty Lane    Singapore 209945</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Thekchen Choling</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>209945</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Eurasian Heritage Centre</name>
+      <description>[139 Ceylon Road Eurasian Community House   Singapore 429744],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.899291528047,1.31002144576012, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>139 Ceylon Road Eurasian Community House   Singapore 429744</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Eurasian Heritage Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>429744</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Katong Antique House</name>
+      <description>[208 East Coast Road    Singapore 428907],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.907164872631,1.30719917502551, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>208 East Coast Road    Singapore 428907</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Katong Antique House</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>428907</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sri Senpaga Vinayagar Temple</name>
+      <description>[19 Ceylon Road    Singapore 429613],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.902443701493,1.30558203593429, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>19 Ceylon Road    Singapore 429613</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sri Senpaga Vinayagar Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>429613</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ski 360</name>
+      <description>[1206A East Coast Parkway    Singapore 449891],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.931685669276,1.30560052689471, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1206A East Coast Parkway    Singapore 449891</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ski 360</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>449891</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jurong Bird Park</name>
+      <description>[2 Jurong Hill    Singapore 628925],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.705193803161,1.32108273880538, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>2 Jurong Hill    Singapore 628925</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jurong Bird Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>628925</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sun Yat Sen Nanyang Memorial Hall</name>
+      <description>[12 Tai Gin Road    Singapore 327874],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.847264063797,1.32815082119912, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>12 Tai Gin Road    Singapore 327874</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sun Yat Sen Nanyang Memorial Hall</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>327874</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>New Water Visitor Centre</name>
+      <description>[20 Koh Sek Lim Road    Singapore 486593],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.958730042697,1.32402746570804, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>20 Koh Sek Lim Road    Singapore 486593</value>
+        </Data>
+        <Data name="fieldName">
+          <value>New Water Visitor Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>486593</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Singapore Discovery Centre</name>
+      <description>[510 Upper Jurong Road    Singapore 638365],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.678942758368,1.33272643521442, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>510 Upper Jurong Road    Singapore 638365</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Singapore Discovery Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>638365</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Science Centre Singapore</name>
+      <description>[15 Science Center Road     Singapore 609081],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.73629809735,1.33289912099738, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>15 Science Center Road     Singapore 609081</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Science Centre Singapore</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>609081</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chinese Garden</name>
+      <description>[1 Chinese Garden    Singapore 619795],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.730737760615,1.3390588819582, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1 Chinese Garden    Singapore 619795</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Chinese Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>619795</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Snow City</name>
+      <description>[21 Jurong Town Hall Road Snow City Building   Singapore 609433],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.735123740707,1.33512868218906, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>21 Jurong Town Hall Road Snow City Building   Singapore 609433</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Snow City</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>609433</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Wild Wild Wet</name>
+      <description>[1 Pasir Ris Close Downtown East   Singapore 519599],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.955598938106,1.37595121749187, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>1 Pasir Ris Close Downtown East   Singapore 519599</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Wild Wild Wet</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>519599</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Farmart</name>
+      <description>[67 Sungei Tengah Road    Singapore 699008],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.726142632459,1.38190264404173, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>67 Sungei Tengah Road    Singapore 699008</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Farmart</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>699008</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chengtai Nursery</name>
+      <description>[51 Sungei Tengah Road    Singapore 698997],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.730026675452,1.37971475681857, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>51 Sungei Tengah Road    Singapore 698997</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Chengtai Nursery</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>698997</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Singapore Zoo</name>
+      <description>[80 Mandai Lake Road     Singapore 729826],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.791101150753,1.40526436415104, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>80 Mandai Lake Road     Singapore 729826</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Singapore Zoo</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>729826</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bollywood Veggies</name>
+      <description>[100 Neo Tiew Road    Singapore 719026],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.716830755196,1.41829951563979, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>100 Neo Tiew Road    Singapore 719026</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bollywood Veggies</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>719026</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kranji War Memorial</name>
+      <description>[9 Woodlands Road    Singapore 738656],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.757487032851,1.41902996952283, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>9 Woodlands Road    Singapore 738656</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kranji War Memorial</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>738656</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Orchidville</name>
+      <description>[10 Lorong Lada Hitam    Singapore 778793],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.797909499167,1.41736021716817, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>10 Lorong Lada Hitam    Singapore 778793</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Orchidville</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>778793</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Fire Flies Health Farm</name>
+      <description>[75 Lim Chu Kang Lane 2    Singapore 719842],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.706794302332,1.42824944155112, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>75 Lim Chu Kang Lane 2    Singapore 719842</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Fire Flies Health Farm</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>719842</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hay Dairies</name>
+      <description>[3 Lim Chu Kang Agrotech Park Lane 4   Singapore 718859],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.70966126442,1.43143372953535, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>3 Lim Chu Kang Agrotech Park Lane 4   Singapore 718859</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Hay Dairies</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>718859</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dream Fish - Merlion Arowanas Farm</name>
+      <description>[221 Neo Tew Crescent    Singapore 718831],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.724634474967,1.43582533394659, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>221 Neo Tew Crescent    Singapore 718831</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Dream Fish - Merlion Arowanas Farm</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>718831</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Aero-green Technology</name>
+      <description>[114 Neo Tiew Cresent Plot LCK   Singapore 718925],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.728910833313,1.44620581316228, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>114 Neo Tiew Cresent Plot LCK   Singapore 718925</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Aero-green Technology</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>718925</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Nyee Phoe Flower Garden</name>
+      <description>[240  Neo Tiew Crescent    Singapore 718898],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.729790749528,1.44144028079593, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>240  Neo Tiew Crescent    Singapore 718898</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Nyee Phoe Flower Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>718898</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sentosa Luge &amp;amp; Skyride</name>
+      <description>[45 Siloso Beach Walk    Singapore 099003],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.816882292989,1.25226623065549, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>45 Siloso Beach Walk    Singapore 099003</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sentosa Luge &amp;amp; Skyride</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>099003</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Images of Singapore</name>
+      <description>[40 Imbiah Road    Singapore 099700],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.817670156987,1.25405767425054, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>40 Imbiah Road    Singapore 099700</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Images of Singapore</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>099700</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Wave Houes Sentosa</name>
+      <description>[36 Siloso Beach Walk    Singapore 098996],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.814600368493,1.25406350519534, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>36 Siloso Beach Walk    Singapore 098996</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Wave Houes Sentosa</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>098996</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sentosa</name>
+      <description>[33 Allanbrooke Road    Singapore 099981],Create DateTime=20150630110630</description>
+      <styleUrl>placeinterestIcon</styleUrl>
+      <Point>
+        <coordinates>103.828065259646,1.24845870104058, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>33 Allanbrooke Road    Singapore 099981</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sentosa</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value>099981</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>
+

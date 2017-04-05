@@ -1,0 +1,167 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet",
+    "value": [
+        {
+            "Type": "Vehicle breakdown",
+            "Message": "(24/1)9:17 Vehicle breakdown on KJE (towards PIE) before Woodlands Rd Exit.",
+            "Latitude": 1.390367102353979,
+            "Longitude": 103.7640061472411
+        },
+        {
+            "Type": "Vehicle breakdown",
+            "Message": "(24/1)9:17 Vehicle breakdown on KJE (towards PIE) before Woodlands Rd Exit.",
+            "Latitude": 1.3902053760447186,
+            "Longitude": 103.76282596048512
+        },
+        {
+            "Type": "Vehicle breakdown",
+            "Message": "(24/1)8:58 Vehicle breakdown on MCE (towards AYE) before Marina Coastal Dr Entrance.",
+            "Latitude": 1.271492730695524,
+            "Longitude": 103.86147908892312
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)8:57 Heavy Traffic on PIE (towards Tuas) between Adam Rd Exit and BKE.",
+            "Latitude": 1.34862522745229,
+            "Longitude": 103.79691153257816
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)8:54 Heavy Traffic on ECP (towards City) between Still Rd Sth Exit and Fort Rd Exit.",
+            "Latitude": 1.2955922927239105,
+            "Longitude": 103.88009945106965
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)8:53 Heavy Traffic on Clementi Road (towards Commonwealth Avenue West) after Clementi Avenue 2.",
+            "Latitude": 1.313214426848691,
+            "Longitude": 103.77220588889055
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)8:50 Heavy Traffic on New Upper Changi Road (toward City) after Bedok South Avenue 3.",
+            "Latitude": 1.3243594280104893,
+            "Longitude": 103.9337146338277
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)8:50 Heavy Traffic on Nicoll Highway (towards Shenton Way) between Stadium Drive and Middle Road.",
+            "Latitude": 1.2933705003617788,
+            "Longitude": 103.85610444383158
+        },
+        {
+            "Type": "Accident",
+            "Message": "(24/1)8:48 Accident on BKE (towards PIE) before Dairy Farm Rd Exit.",
+            "Latitude": 1.3691919987279804,
+            "Longitude": 103.77894763633721
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)8:44 Heavy Traffic on Yio Chu Kang Road (towards Phillips Avenue) after Poh Huat Road West.",
+            "Latitude": 1.3671037259452248,
+            "Longitude": 103.87550666646541
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)8:39 Heavy Traffic on Upper Serangoon Road (towards City) between Buangkok East Drive and Hougang Avenue 5.",
+            "Latitude": 1.3660643681101083,
+            "Longitude": 103.89141554504424
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)8:38 Heavy Traffic in CTE Tunnel (towards AYE) at Havelock Road Exit.",
+            "Latitude": 1.2914048650976973,
+            "Longitude": 103.84329706767728
+        },
+        {
+            "Type": "Accident",
+            "Message": "(24/1)8:15 Accident on AYE (towards MCE) after Clementi Ave 2 Exit with congestion till Jurong Town Hall Exit.",
+            "Latitude": 1.3076674534386588,
+            "Longitude": 103.76651427516217
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)8:15 Heavy Traffic on TPE (towards PIE) between Pasir Ris Dr 8 Exit and PIE Exit.",
+            "Latitude": 1.3565610476569916,
+            "Longitude": 103.96304471100026
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)8:05 Heavy Traffic on West Coast Highway (towards Tuas) between Wholesale Centre and Clementi Road.",
+            "Latitude": 1.2990221891079352,
+            "Longitude": 103.7633721058667
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)8:02 Heavy Traffic on Eng Neo Avenue between Dunearn Road and Fairways Drive.",
+            "Latitude": 1.3315580539619343,
+            "Longitude": 103.79808780595431
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)8:01 Heavy Traffic on Dunearn Road (towards City) between Jalan Anak Bukit and Eng Neo Avenue.",
+            "Latitude": 1.3299195731374152,
+            "Longitude": 103.80149614029527
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)7:51 Heavy Traffic on Upper Bukit Timah Road (towards City) after Hillview Road.",
+            "Latitude": 1.3492082381660342,
+            "Longitude": 103.77025880660082
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)7:51 Heavy Traffic on PIE (towards Changi Airport) between BKE and Lornie Rd.",
+            "Latitude": 1.3278866722420752,
+            "Longitude": 103.8248867099079
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)7:47 Heavy Traffic on PIE (towards Tuas) between CTE(City) Exit and Thomson Rd Exit.",
+            "Latitude": 1.3264757046544948,
+            "Longitude": 103.83062121739715
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)7:40 Heavy Traffic on AYE (towards MCE) between Jurong Town Hall Entrance and Clementi Ave 2 Exit.",
+            "Latitude": 1.305670575170364,
+            "Longitude": 103.76868925056849
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)7:37 Heavy Traffic on TPE (towards PIE) between Seletar Link Exit and KPE Exit.",
+            "Latitude": 1.3856086034360968,
+            "Longitude": 103.91455676557035
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)7:15 Heavy Traffic on KPE (towards ECP) between Buangkok Dr Exit and Buangkok Dr Entrance.",
+            "Latitude": 1.3721557619914126,
+            "Longitude": 103.90860910351682
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)7:12 Heavy Traffic on PIE (towards Changi Airport) at Lornie Rd Exit.",
+            "Latitude": 1.3337862184201097,
+            "Longitude": 103.81449101334672
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)7:07 Heavy Traffic on AYE (towards Tuas) before Clementi Ave 2 Exit",
+            "Latitude": 1.3057555875199318,
+            "Longitude": 103.76842210154439
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(24/1)6:49 Heavy Traffic on CTE (towards AYE) between AMK Ave 5 Exit and PIE(Jurong) Exit.",
+            "Latitude": 1.3221495486521362,
+            "Longitude": 103.8567599279219
+        },
+        {
+            "Type": "Accident",
+            "Message": "(24/1)6:47 Accident on AYE (towards Tuas) after Jurong Port Rd Exit with congestion till Jurong Town Hall Exit. Avoid lane 3.",
+            "Latitude": 1.3231782936192995,
+            "Longitude": 103.71806814686946
+        }
+    ]
+}

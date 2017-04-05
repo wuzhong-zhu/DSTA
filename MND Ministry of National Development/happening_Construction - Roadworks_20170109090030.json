@@ -1,0 +1,167 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet",
+    "value": [
+        {
+            "Type": "Vehicle breakdown",
+            "Message": "(9/1)8:57 Vehicle breakdown on CTE (towards AYE) before AMK Ave 5 Exit.",
+            "Latitude": 1.3869995272519522,
+            "Longitude": 103.85828113122878
+        },
+        {
+            "Type": "Vehicle breakdown",
+            "Message": "(9/1)8:54 Vehicle breakdown on PIE (towards Tuas) after Upper Changi Rd East.",
+            "Latitude": 1.350476598812863,
+            "Longitude": 103.95911651718686
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)8:54 Heavy Traffic on Cross Street near Cross Street/Robinson Road Junction.",
+            "Latitude": 1.2811538514079701,
+            "Longitude": 103.85039852711762
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)8:51 Heavy Traffic on Raffles Quay (towards Shenton Way) between Fullerton Road and Marina Boulevard.",
+            "Latitude": 1.2808555775292634,
+            "Longitude": 103.85117074689045
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)8:50 Heavy Traffic on CTE (towards AYE) at Ang Mo Kio Ave 5 Exit.",
+            "Latitude": 1.3782689831267707,
+            "Longitude": 103.85856282373155
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)8:47 Heavy Traffic on PIE (towards Tuas) at Clementi Rd Exit.",
+            "Latitude": 1.342265526026131,
+            "Longitude": 103.78129995688718
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)8:44 Heavy Traffic on SLE (towards BKE) between Woodlands Ave 12 Exit and BKE Exit.",
+            "Latitude": 1.4239116869417736,
+            "Longitude": 103.77445944675517
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)8:41 Heavy Traffic on PIE (towards Tuas) at Toh Guan Rd Exit.",
+            "Latitude": 1.3405205906813977,
+            "Longitude": 103.75030716895375
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)8:41 Heavy Traffic on Commonwealth Avenue West (towards City) between Clementi Avenue 4 and Clementi Avenue 2.",
+            "Latitude": 1.3121410316738202,
+            "Longitude": 103.7719901733871
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)8:41 Heavy Traffic on KPE (towards ECP) at Airport Road Exit.",
+            "Latitude": 1.344852909269734,
+            "Longitude": 103.89923275961276
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)8:26 Heavy Traffic on AYE (towards Tuas) between Alexandra Rd Entrance and Buona Vista exit.",
+            "Latitude": 1.292321505306437,
+            "Longitude": 103.78809397026384
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)8:21 Heavy Traffic on Yio Chu Kang Road (towards Ang Mo Kio Street 65) after Ang Mo Kio Street 66.",
+            "Latitude": 1.3921488683306014,
+            "Longitude": 103.8487498802456
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)8:19 Heavy Traffic on PIE (towards Tuas) at KPE(ECP) Exit.",
+            "Latitude": 1.3200498316255178,
+            "Longitude": 103.87976122160228
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)8:18 Heavy Traffic in CTE Tunnel (towards AYE) at Havelock Road Exit.",
+            "Latitude": 1.289026561864397,
+            "Longitude": 103.84207495262191
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)8:17 Heavy Traffic on CTE (towards SLE) at Yio Chu Kang Rd Exit.",
+            "Latitude": 1.3907718272718255,
+            "Longitude": 103.85755341235071
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)8:17 Heavy Traffic on AYE (towards Tuas) between Lower Delta Rd Exit and Normanton Exit.",
+            "Latitude": 1.2872415429235566,
+            "Longitude": 103.79573165242056
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)8:02 Heavy Traffic on Farrer Road (towards Queensway) between MacRitchie viaduct and Farrer Flyover.",
+            "Latitude": 1.3131537830943856,
+            "Longitude": 103.80423737021799
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)7:58 Heavy Traffic in CTE Tunnel (towards AYE) at Outram Rd Exit.",
+            "Latitude": 1.2847333908374068,
+            "Longitude": 103.83734907774142
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)7:57 Heavy Traffic on Braddell Road (towards Tampines) after Braddell U/P.",
+            "Latitude": 1.343450031137312,
+            "Longitude": 103.86781763516117
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)7:50 Heavy Traffic on PIE (towards Tuas) between Jurong West Ave 3 and Jalan Bahar.",
+            "Latitude": 1.3606228758142984,
+            "Longitude": 103.70302154280382
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)7:50 Heavy Traffic on PIE (towards Changi Airport) at Lornie Rd Exit.",
+            "Latitude": 1.3338557787945726,
+            "Longitude": 103.81406195180824
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)7:48 Heavy Traffic on KPE (towards ECP) at Nicoll Highway Exit.",
+            "Latitude": 1.3098426313591611,
+            "Longitude": 103.87576616843648
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)7:45 Heavy Traffic on TPE (towards PIE) between Pasir Ris Dr 8 Exit and PIE Exit.",
+            "Latitude": 1.3572072908105437,
+            "Longitude": 103.96280062372584
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)7:43 Heavy Traffic on Lornie Viaduct (towards Lornie) between Bishan Road and Bishan Flyover.",
+            "Latitude": 1.3431931225396074,
+            "Longitude": 103.83894150122943
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)7:42 Heavy Traffic on BKE (towards PIE) between Mandai Rd Exit and KJE Exit.",
+            "Latitude": 1.396355816739335,
+            "Longitude": 103.77390949834788
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)6:59 Heavy Traffic on PIE (towards Tuas) at AYE Exit.",
+            "Latitude": 1.3256498091404978,
+            "Longitude": 103.66555776816456
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(9/1)6:58 Heavy Traffic on KPE (towards ECP) before Buangkok Dr Exit.",
+            "Latitude": 1.3784070969304212,
+            "Longitude": 103.91318086007324
+        }
+    ]
+}

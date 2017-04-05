@@ -1,0 +1,83 @@
+{
+    "ReturnCode": "0",
+    "Cases": [
+        {
+            "IncidentPostalCode": "683490",
+            "MobileCaseID": "M170103-084960",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 39749.1722,
+            "IncidentStreetName": "CHOA CHU KANG AVENUE 5",
+            "IncidentXCoordinate": 17809.7434,
+            "IncidentBlockNo": "490C",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2017-01-03T13:06:35"
+        },
+        {
+            "IncidentPostalCode": "570445",
+            "MobileCaseID": "M170102-084698",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 37864.9219,
+            "IncidentStreetName": "SIN MING AVENUE",
+            "IncidentXCoordinate": 27822.1113,
+            "IncidentBlockNo": "445",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "No Water",
+            "Subject": "Drinking Water - No Water",
+            "CreatedDateTime": "2017-01-02T11:59:52"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170101-084457",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 31598.1484,
+            "IncidentStreetName": "EAST COAST PARK SERVICE ROAD",
+            "IncidentXCoordinate": 37402.2617,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "No Water",
+            "Subject": "Drinking Water - No Water",
+            "CreatedDateTime": "2017-01-01T08:52:27"
+        },
+        {
+            "IncidentPostalCode": "431007",
+            "MobileCaseID": "M161231-084327",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 31635.0345,
+            "IncidentStreetName": "JALAN BATU",
+            "IncidentXCoordinate": 33595.4675,
+            "IncidentBlockNo": "7",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "No Water",
+            "Subject": "Drinking Water - No Water",
+            "CreatedDateTime": "2016-12-31T14:59:23"
+        },
+        {
+            "IncidentPostalCode": "680227",
+            "MobileCaseID": "M161231-084314",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 40318.2005,
+            "IncidentStreetName": "CHOA CHU KANG CENTRAL",
+            "IncidentXCoordinate": 18265.74,
+            "IncidentBlockNo": "227",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2016-12-31T13:56:18"
+        },
+        {
+            "IncidentPostalCode": "318992",
+            "MobileCaseID": "M161229-083913",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 36098.4235,
+            "IncidentStreetName": "TOA PAYOH NORTH",
+            "IncidentXCoordinate": 30015.9981,
+            "IncidentBlockNo": "970",
+            "MobileCategory": "Drinking Water",
+            "MobileSubCategory": "Water Leak",
+            "Subject": "Drinking Water - Water Leak",
+            "CreatedDateTime": "2016-12-29T22:01:25"
+        }
+    ]
+}

@@ -1,0 +1,2038 @@
+{
+    "features": [
+        {
+            "id": 1,
+            "properties": {
+                "Name": "TELOK BLANGAH CC",
+                "PostalCode": "108943",
+                "desc": "450 TELOK BLANGAH ST 31    Singapore 108943",
+                "Address": "450 TELOK BLANGAH ST 31    Singapore 108943",
+                "name": "TELOK BLANGAH CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80788858404,
+                    1.27484427999022
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "properties": {
+                "Name": "RADIN MAS CC",
+                "PostalCode": "098915",
+                "desc": "1 TELOK BLANGAH CRESCENT    Singapore 098915",
+                "Address": "1 TELOK BLANGAH CRESCENT    Singapore 098915",
+                "name": "RADIN MAS CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.819854376899,
+                    1.27601165533839
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "properties": {
+                "Name": "TANJONG PAGAR CC",
+                "PostalCode": "089774",
+                "desc": "101 CANTONMENT ROAD    Singapore 089774",
+                "Address": "101 CANTONMENT ROAD    Singapore 089774",
+                "name": "TANJONG PAGAR CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.841596330528,
+                    1.27607667875133
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "properties": {
+                "Name": "HENDERSON CC",
+                "PostalCode": "159682",
+                "desc": "500 BUKIT MERAH VIEW    Singapore 159682",
+                "Address": "500 BUKIT MERAH VIEW    Singapore 159682",
+                "name": "HENDERSON CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.823523913373,
+                    1.28596058706198
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "properties": {
+                "Name": "LENG KEE CC",
+                "PostalCode": "159049",
+                "desc": "400 LENGKOK BAHRU    Singapore 159049",
+                "Address": "400 LENGKOK BAHRU    Singapore 159049",
+                "name": "LENG KEE CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.814282645476,
+                    1.28989314379623
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "properties": {
+                "Name": "BUKIT MERAH CC",
+                "PostalCode": "159465",
+                "desc": "4000 JALAN BUKIT MERAH,    Singapore 159465",
+                "Address": "4000 JALAN BUKIT MERAH,    Singapore 159465",
+                "name": "BUKIT MERAH CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.815828536883,
+                    1.28525427553071
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "properties": {
+                "Name": "KIM SENG CC",
+                "PostalCode": "169640",
+                "desc": "570 HAVELOCK ROAD    Singapore 169640",
+                "Address": "570 HAVELOCK ROAD    Singapore 169640",
+                "name": "KIM SENG CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83098210862,
+                    1.28949681296594
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "properties": {
+                "Name": "TIONG BAHRU CC",
+                "PostalCode": "169715",
+                "desc": "EU CHIN ST    Singapore 169715",
+                "Address": "EU CHIN ST    Singapore 169715",
+                "name": "TIONG BAHRU CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.831911821423,
+                    1.28346985748785
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "properties": {
+                "Name": "KRETA AYER CC",
+                "PostalCode": "088995",
+                "desc": "KRETA AYER ROAD    Singapore 088995",
+                "Address": "KRETA AYER ROAD    Singapore 088995",
+                "name": "KRETA AYER CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.843012843538,
+                    1.28119258853881
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "properties": {
+                "Name": "TELOK AYER HONG LIM GREEN CC",
+                "PostalCode": "058284",
+                "desc": "20 UPPER PICKERING STREET    Singapore 058284",
+                "Address": "20 UPPER PICKERING STREET    Singapore 058284",
+                "name": "TELOK AYER HONG LIM GREEN CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846536122761,
+                    1.28624973880642
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "properties": {
+                "Name": "WEST COAST CC",
+                "PostalCode": "129605",
+                "desc": "2     Singapore 129605",
+                "Address": "2     Singapore 129605",
+                "name": "WEST COAST CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.764863675889,
+                    1.3027869321292
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "properties": {
+                "Name": "DOVER CC",
+                "PostalCode": "130001",
+                "desc": "1 DOVER ROAD, #01-300    Singapore 130001",
+                "Address": "1 DOVER ROAD, #01-300    Singapore 130001",
+                "name": "DOVER CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.78331396612,
+                    1.30230747264762
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "properties": {
+                "Name": "QUEENSTOWN CC",
+                "PostalCode": "149732",
+                "desc": "365 COMMONWEALTH AVENUE    Singapore 149732",
+                "Address": "365 COMMONWEALTH AVENUE    Singapore 149732",
+                "name": "QUEENSTOWN CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.801298306903,
+                    1.29925809770438
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "properties": {
+                "Name": "KAMPONG GLAM CC",
+                "PostalCode": "199581",
+                "desc": "385 BEACH ROAD    Singapore 199581",
+                "Address": "385 BEACH ROAD    Singapore 199581",
+                "name": "KAMPONG GLAM CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.863598770652,
+                    1.30278298693613
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "properties": {
+                "Name": "WATER-VENTURE (KALLANG)",
+                "PostalCode": "199587",
+                "desc": "4876 BEACH ROAD    Singapore 199587",
+                "Address": "4876 BEACH ROAD    Singapore 199587",
+                "name": "WATER-VENTURE (KALLANG)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.867608017767,
+                    1.30372460492118
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "properties": {
+                "Name": "KATONG CC",
+                "PostalCode": "438178",
+                "desc": "51 KAMPONG ARANG ROAD    Singapore 438178",
+                "Address": "51 KAMPONG ARANG ROAD    Singapore 438178",
+                "name": "KATONG CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.884659022248,
+                    1.30048085969968
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "properties": {
+                "Name": "BUONA VISTA CC",
+                "PostalCode": "270036",
+                "desc": "36 HOLLAND DRIVE, #01-01    Singapore 270036",
+                "Address": "36 HOLLAND DRIVE, #01-01    Singapore 270036",
+                "name": "BUONA VISTA CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.79261941659,
+                    1.30925872475292
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "properties": {
+                "Name": "ULU PANDAN CC",
+                "PostalCode": "279621",
+                "desc": "170     Singapore 279621",
+                "Address": "170     Singapore 279621",
+                "name": "ULU PANDAN CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.789670299898,
+                    1.31237066004468
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "properties": {
+                "Name": "CAIRNHILL CC",
+                "PostalCode": "229944",
+                "desc": "1 ANTHONY ROAD    Singapore 229944",
+                "Address": "1 ANTHONY ROAD    Singapore 229944",
+                "name": "CAIRNHILL CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.838888879407,
+                    1.31052449062864
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "properties": {
+                "Name": "JALAN BESAR CC",
+                "PostalCode": "208737",
+                "desc": "69 JELLICOE RD    Singapore 208737",
+                "Address": "69 JELLICOE RD    Singapore 208737",
+                "name": "JALAN BESAR CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.861732483768,
+                    1.30778266160727
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "properties": {
+                "Name": "GEYLANG WEST CC",
+                "PostalCode": "387311",
+                "desc": "1205 UPPER BOON KENG ROAD    Singapore 387311",
+                "Address": "1205 UPPER BOON KENG ROAD    Singapore 387311",
+                "name": "GEYLANG WEST CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.872545519828,
+                    1.31556628497129
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "properties": {
+                "Name": "MOUNTBATTEN CC",
+                "PostalCode": "399479",
+                "desc": "35 JALAN SATU    Singapore 399479",
+                "Address": "35 JALAN SATU    Singapore 399479",
+                "name": "MOUNTBATTEN CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.886948092975,
+                    1.31008169936736
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "properties": {
+                "Name": "GEYLANG SERAI CC",
+                "PostalCode": "438748",
+                "desc": "99 HAIG ROAD, #1-1 GEYLANG SERAI CC    Singapore 438748",
+                "Address": "99 HAIG ROAD, #1-1 GEYLANG SERAI CC    Singapore 438748",
+                "name": "GEYLANG SERAI CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.897836168014,
+                    1.31100481103791
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "properties": {
+                "Name": "JOO CHIAT CC",
+                "PostalCode": "427633",
+                "desc": "405 JOO CHIAT ROAD    Singapore 427633",
+                "Address": "405 JOO CHIAT ROAD    Singapore 427633",
+                "name": "JOO CHIAT CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.904195896228,
+                    1.30750381304612
+                ]
+            }
+        },
+        {
+            "id": 25,
+            "properties": {
+                "Name": "MARINE PARADE CC",
+                "PostalCode": "449282",
+                "desc": "278 MARINE PARADE ROAD    Singapore 449282",
+                "Address": "278 MARINE PARADE ROAD    Singapore 449282",
+                "name": "MARINE PARADE CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.909581511568,
+                    1.30466969203745
+                ]
+            }
+        },
+        {
+            "id": 26,
+            "properties": {
+                "Name": "SIGLAP SOUTH CC",
+                "PostalCode": "456441",
+                "desc": "6 PALM ROAD    Singapore 456441",
+                "Address": "6 PALM ROAD    Singapore 456441",
+                "name": "SIGLAP SOUTH CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.930712898548,
+                    1.31326685795859
+                ]
+            }
+        },
+        {
+            "id": 27,
+            "properties": {
+                "Name": "WATER-VENTURE (EAST COAST)",
+                "PostalCode": "468961",
+                "desc": "1390     Singapore 468961",
+                "Address": "1390     Singapore 468961",
+                "name": "WATER-VENTURE (EAST COAST)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.952223927309,
+                    1.31172823984426
+                ]
+            }
+        },
+        {
+            "id": 28,
+            "properties": {
+                "Name": "AYER RAJAH CC",
+                "PostalCode": "609335",
+                "desc": "150 PANDAN GARDENS    Singapore 609335",
+                "Address": "150 PANDAN GARDENS    Singapore 609335",
+                "name": "AYER RAJAH CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.74746713219,
+                    1.32101262747909
+                ]
+            }
+        },
+        {
+            "id": 29,
+            "properties": {
+                "Name": "CLEMENTI CC",
+                "PostalCode": "129880",
+                "desc": "220 CLEMENTI AVE 4    Singapore 129880",
+                "Address": "220 CLEMENTI AVE 4    Singapore 129880",
+                "name": "CLEMENTI CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.768153674992,
+                    1.31881519623088
+                ]
+            }
+        },
+        {
+            "id": 30,
+            "properties": {
+                "Name": "TANGLIN CC",
+                "PostalCode": "297829",
+                "desc": "245 WHITLEY ROAD    Singapore 297829",
+                "Address": "245 WHITLEY ROAD    Singapore 297829",
+                "name": "TANGLIN CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.826890939213,
+                    1.32335525062609
+                ]
+            }
+        },
+        {
+            "id": 31,
+            "properties": {
+                "Name": "PEK KIO CC",
+                "PostalCode": "219751",
+                "desc": "97 CAMBRIDGE ROAD    Singapore 219751",
+                "Address": "97 CAMBRIDGE ROAD    Singapore 219751",
+                "name": "PEK KIO CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.849543916261,
+                    1.31657275369207
+                ]
+            }
+        },
+        {
+            "id": 32,
+            "properties": {
+                "Name": "KALLANG CC",
+                "PostalCode": "339771",
+                "desc": "45 BOON KENG ROAD    Singapore 339771",
+                "Address": "45 BOON KENG ROAD    Singapore 339771",
+                "name": "KALLANG CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.862373288426,
+                    1.31780292560803
+                ]
+            }
+        },
+        {
+            "id": 33,
+            "properties": {
+                "Name": "WHAMPOA CC",
+                "PostalCode": "327737",
+                "desc": "300 WHAMPOA DRIVE    Singapore 327737",
+                "Address": "300 WHAMPOA DRIVE    Singapore 327737",
+                "name": "WHAMPOA CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.856943506287,
+                    1.32466831156149
+                ]
+            }
+        },
+        {
+            "id": 34,
+            "properties": {
+                "Name": "KOLAM AYER CC",
+                "PostalCode": "339717",
+                "desc": "3188 GEYLANG BAHRU    Singapore 339717",
+                "Address": "3188 GEYLANG BAHRU    Singapore 339717",
+                "name": "KOLAM AYER CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.869930584323,
+                    1.32424119386628
+                ]
+            }
+        },
+        {
+            "id": 35,
+            "properties": {
+                "Name": "MACPHERSON CC",
+                "PostalCode": "379131",
+                "desc": "400 PAYA LEBAR WAY    Singapore 379131",
+                "Address": "400 PAYA LEBAR WAY    Singapore 379131",
+                "name": "MACPHERSON CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88458167504,
+                    1.32348939178889
+                ]
+            }
+        },
+        {
+            "id": 36,
+            "properties": {
+                "Name": "KAMPONG UBI CC",
+                "PostalCode": "409075",
+                "desc": "10 JALAN UBI    Singapore 409075",
+                "Address": "10 JALAN UBI    Singapore 409075",
+                "name": "KAMPONG UBI CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.900766882226,
+                    1.31783082740121
+                ]
+            }
+        },
+        {
+            "id": 37,
+            "properties": {
+                "Name": "KAMPONG KEMBANGAN CC",
+                "PostalCode": "417408",
+                "desc": "5     Singapore 417408",
+                "Address": "5     Singapore 417408",
+                "name": "KAMPONG KEMBANGAN CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.912726548582,
+                    1.32313368310192
+                ]
+            }
+        },
+        {
+            "id": 38,
+            "properties": {
+                "Name": "KAMPONG CHAI CHEE CC",
+                "PostalCode": "469752",
+                "desc": "200     Singapore 469752",
+                "Address": "200     Singapore 469752",
+                "name": "KAMPONG CHAI CHEE CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.927181994567,
+                    1.32745073325003
+                ]
+            }
+        },
+        {
+            "id": 39,
+            "properties": {
+                "Name": "BEDOK CC",
+                "PostalCode": "467352",
+                "desc": "850     Singapore 467352",
+                "Address": "850     Singapore 467352",
+                "name": "BEDOK CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.936039876133,
+                    1.32415153775494
+                ]
+            }
+        },
+        {
+            "id": 40,
+            "properties": {
+                "Name": "SIGLAP CC",
+                "PostalCode": "469299",
+                "desc": "300 BEDOK SOUTH AVENUE 3    Singapore 469299",
+                "Address": "300 BEDOK SOUTH AVENUE 3    Singapore 469299",
+                "name": "SIGLAP CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.943332073947,
+                    1.32156608728187
+                ]
+            }
+        },
+        {
+            "id": 41,
+            "properties": {
+                "Name": "THE FRONTIER CC",
+                "PostalCode": "648346",
+                "desc": "60     Singapore 648346",
+                "Address": "60     Singapore 648346",
+                "name": "THE FRONTIER CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.704512345185,
+                    1.34063605754053
+                ]
+            }
+        },
+        {
+            "id": 42,
+            "properties": {
+                "Name": "TAMAN JURONG CC",
+                "PostalCode": "618495",
+                "desc": "1 YUNG SHENG ROAD    Singapore 618495",
+                "Address": "1 YUNG SHENG ROAD    Singapore 618495",
+                "name": "TAMAN JURONG CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.72172296663,
+                    1.33527781640572
+                ]
+            }
+        },
+        {
+            "id": 43,
+            "properties": {
+                "Name": "YUHUA CC",
+                "PostalCode": "609958",
+                "desc": "90 BOON LAY WAY    Singapore 609958",
+                "Address": "90 BOON LAY WAY    Singapore 609958",
+                "name": "YUHUA CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.73711584117,
+                    1.33995851563193
+                ]
+            }
+        },
+        {
+            "id": 44,
+            "properties": {
+                "Name": "TOA PAYOH CENTRAL CC",
+                "PostalCode": "319194",
+                "desc": "93     Singapore 319194",
+                "Address": "93     Singapore 319194",
+                "name": "TOA PAYOH CENTRAL CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850301262679,
+                    1.33482625246312
+                ]
+            }
+        },
+        {
+            "id": 45,
+            "properties": {
+                "Name": "TOA PAYOH WEST CC",
+                "PostalCode": "319642",
+                "desc": "200 LORONG 2 TOA PAYOH    Singapore 319642",
+                "Address": "200 LORONG 2 TOA PAYOH    Singapore 319642",
+                "name": "TOA PAYOH WEST CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.844988368909,
+                    1.33540366380535
+                ]
+            }
+        },
+        {
+            "id": 46,
+            "properties": {
+                "Name": "TOA PAYOH EAST CC",
+                "PostalCode": "319380",
+                "desc": "160 LOR 6 TOA PAYOH    Singapore 319380",
+                "Address": "160 LOR 6 TOA PAYOH    Singapore 319380",
+                "name": "TOA PAYOH EAST CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854656996949,
+                    1.33623981774046
+                ]
+            }
+        },
+        {
+            "id": 47,
+            "properties": {
+                "Name": "TOA PAYOH SOUTH CC",
+                "PostalCode": "319258",
+                "desc": "1999 LOR 8 TOA PAYOH    Singapore 319258",
+                "Address": "1999 LOR 8 TOA PAYOH    Singapore 319258",
+                "name": "TOA PAYOH SOUTH CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.859433692093,
+                    1.33455903120804
+                ]
+            }
+        },
+        {
+            "id": 48,
+            "properties": {
+                "Name": "POTONG PASIR CC",
+                "PostalCode": "358361",
+                "desc": "6 POTONG PASIR AVE 2    Singapore 358361",
+                "Address": "6 POTONG PASIR AVE 2    Singapore 358361",
+                "name": "POTONG PASIR CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.867151676056,
+                    1.3326338062198
+                ]
+            }
+        },
+        {
+            "id": 49,
+            "properties": {
+                "Name": "EUNOS CC",
+                "PostalCode": "479220",
+                "desc": "180 BEDOK RESERVOIR ROAD    Singapore 479220",
+                "Address": "180 BEDOK RESERVOIR ROAD    Singapore 479220",
+                "name": "EUNOS CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.915255268693,
+                    1.3326437262269
+                ]
+            }
+        },
+        {
+            "id": 50,
+            "properties": {
+                "Name": "FENGSHAN CC",
+                "PostalCode": "469644",
+                "desc": "20 BEDOK NORTH STREET 2    Singapore 469644",
+                "Address": "20 BEDOK NORTH STREET 2    Singapore 469644",
+                "name": "FENGSHAN CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.936640183793,
+                    1.33085916688338
+                ]
+            }
+        },
+        {
+            "id": 51,
+            "properties": {
+                "Name": "KAKI BUKIT CC",
+                "PostalCode": "469627",
+                "desc": "670 BEDOK NORTH STREET 3    Singapore 469627",
+                "Address": "670 BEDOK NORTH STREET 3    Singapore 469627",
+                "name": "KAKI BUKIT CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.926478753466,
+                    1.33353260373168
+                ]
+            }
+        },
+        {
+            "id": 52,
+            "properties": {
+                "Name": "GEK POH VILLE CC",
+                "PostalCode": "649149",
+                "desc": "1 JURONG WEST ST 74    Singapore 649149",
+                "Address": "1 JURONG WEST ST 74    Singapore 649149",
+                "name": "GEK POH VILLE CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.698835683229,
+                    1.34881969630621
+                ]
+            }
+        },
+        {
+            "id": 53,
+            "properties": {
+                "Name": "NANYANG CC",
+                "PostalCode": "649040",
+                "desc": "60 JURONG WEST ST 91    Singapore 649040",
+                "Address": "60 JURONG WEST ST 91    Singapore 649040",
+                "name": "NANYANG CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.692526175456,
+                    1.34258171416461
+                ]
+            }
+        },
+        {
+            "id": 54,
+            "properties": {
+                "Name": "BOON LAY CC",
+                "PostalCode": "649882",
+                "desc": "10 BOON LAY PLACE    Singapore 649882",
+                "Address": "10 BOON LAY PLACE    Singapore 649882",
+                "name": "BOON LAY CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.711395963258,
+                    1.348393828168
+                ]
+            }
+        },
+        {
+            "id": 55,
+            "properties": {
+                "Name": "JURONG GREEN CC",
+                "PostalCode": "649520",
+                "desc": "6     Singapore 649520",
+                "Address": "6     Singapore 649520",
+                "name": "JURONG GREEN CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.725552303437,
+                    1.35058196320813
+                ]
+            }
+        },
+        {
+            "id": 56,
+            "properties": {
+                "Name": "JURONG SPRING CC",
+                "PostalCode": "649296",
+                "desc": "8 JURONG WEST STREET 52    Singapore 649296",
+                "Address": "8 JURONG WEST STREET 52    Singapore 649296",
+                "name": "JURONG SPRING CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.718150447318,
+                    1.3483301826016
+                ]
+            }
+        },
+        {
+            "id": 57,
+            "properties": {
+                "Name": "BUKIT BATOK CC",
+                "PostalCode": "659959",
+                "desc": "21 BUKIT BATOK CENTRAL    Singapore 659959",
+                "Address": "21 BUKIT BATOK CENTRAL    Singapore 659959",
+                "name": "BUKIT BATOK CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.747514399658,
+                    1.35019082306154
+                ]
+            }
+        },
+        {
+            "id": 58,
+            "properties": {
+                "Name": "BUKIT TIMAH CC",
+                "PostalCode": "596569",
+                "desc": "20 TOH YI DRIVE,    Singapore 596569",
+                "Address": "20 TOH YI DRIVE,    Singapore 596569",
+                "name": "BUKIT TIMAH CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.771816186526,
+                    1.34067179111951
+                ]
+            }
+        },
+        {
+            "id": 59,
+            "properties": {
+                "Name": "THOMSON CC",
+                "PostalCode": "574339",
+                "desc": "194 UPPER THOMSON ROAD    Singapore 574339",
+                "Address": "194 UPPER THOMSON ROAD    Singapore 574339",
+                "name": "THOMSON CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.836336593843,
+                    1.35117520582875
+                ]
+            }
+        },
+        {
+            "id": 60,
+            "properties": {
+                "Name": "BISHAN CC",
+                "PostalCode": "579799",
+                "desc": "51 BISHAN STREET 13    Singapore 579799",
+                "Address": "51 BISHAN STREET 13    Singapore 579799",
+                "name": "BISHAN CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850750138176,
+                    1.34976878759122
+                ]
+            }
+        },
+        {
+            "id": 61,
+            "properties": {
+                "Name": "BRADDELL HEIGHTS CC",
+                "PostalCode": "556129",
+                "desc": "50     Singapore 556129",
+                "Address": "50     Singapore 556129",
+                "name": "BRADDELL HEIGHTS CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.87044322404,
+                    1.35163293351084
+                ]
+            }
+        },
+        {
+            "id": 62,
+            "properties": {
+                "Name": "TAMPINES WEST CC",
+                "PostalCode": "529705",
+                "desc": "5 TAMPINES AVENUE 3    Singapore 529705",
+                "Address": "5 TAMPINES AVENUE 3    Singapore 529705",
+                "name": "TAMPINES WEST CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.935551146811,
+                    1.34874422858309
+                ]
+            }
+        },
+        {
+            "id": 63,
+            "properties": {
+                "Name": "TAMPINES CHANGKAT CC",
+                "PostalCode": "529453",
+                "desc": "13     Singapore 529453",
+                "Address": "13     Singapore 529453",
+                "name": "TAMPINES CHANGKAT CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.947687830823,
+                    1.34581333826093
+                ]
+            }
+        },
+        {
+            "id": 64,
+            "properties": {
+                "Name": "CHANGI SIMEI CC",
+                "PostalCode": "529915",
+                "desc": "10     Singapore 529915",
+                "Address": "10     Singapore 529915",
+                "name": "CHANGI SIMEI CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.955081369697,
+                    1.34527000744802
+                ]
+            }
+        },
+        {
+            "id": 65,
+            "properties": {
+                "Name": "HONG KAH NORTH CC",
+                "PostalCode": "659440",
+                "desc": "30 BUKIT BATOK STREET 31    Singapore 659440",
+                "Address": "30 BUKIT BATOK STREET 31    Singapore 659440",
+                "name": "HONG KAH NORTH CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.749456849181,
+                    1.35905888121717
+                ]
+            }
+        },
+        {
+            "id": 66,
+            "properties": {
+                "Name": "BUKIT GOMBAK CC",
+                "PostalCode": "650386",
+                "desc": "386 BUKIT BATOK WEST AVE 5, #01-348    Singapore 650386",
+                "Address": "386 BUKIT BATOK WEST AVE 5, #01-348    Singapore 650386",
+                "name": "BUKIT GOMBAK CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.752720372672,
+                    1.36400971172277
+                ]
+            }
+        },
+        {
+            "id": 67,
+            "properties": {
+                "Name": "BISHAN NORTH CC",
+                "PostalCode": "570233",
+                "desc": "233 BISHAN STREET 22, #01-126    Singapore 570233",
+                "Address": "233 BISHAN STREET 22, #01-126    Singapore 570233",
+                "name": "BISHAN NORTH CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845814160142,
+                    1.35869701418822
+                ]
+            }
+        },
+        {
+            "id": 68,
+            "properties": {
+                "Name": "TECK GHEE CC",
+                "PostalCode": "569734",
+                "desc": "861 ANG MO KIO AVE 10    Singapore 569734",
+                "Address": "861 ANG MO KIO AVE 10    Singapore 569734",
+                "name": "TECK GHEE CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853555098923,
+                    1.36310541948037
+                ]
+            }
+        },
+        {
+            "id": 69,
+            "properties": {
+                "Name": "HOUGANG CC",
+                "PostalCode": "538840",
+                "desc": "35     Singapore 538840",
+                "Address": "35     Singapore 538840",
+                "name": "HOUGANG CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.892622227323,
+                    1.36475742475669
+                ]
+            }
+        },
+        {
+            "id": 70,
+            "properties": {
+                "Name": "ALJUNIED CC",
+                "PostalCode": "530110",
+                "desc": "110 HOUGANG AVE 1, #01-1048    Singapore 530110",
+                "Address": "110 HOUGANG AVE 1, #01-1048    Singapore 530110",
+                "name": "ALJUNIED CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.889674695726,
+                    1.35490236683482
+                ]
+            }
+        },
+        {
+            "id": 71,
+            "properties": {
+                "Name": "PAYA LEBAR KOVAN CC",
+                "PostalCode": "530207",
+                "desc": "207 HOUGANG ST 21    Singapore 530207",
+                "Address": "207 HOUGANG ST 21    Singapore 530207",
+                "name": "PAYA LEBAR KOVAN CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.886343964741,
+                    1.35788027290301
+                ]
+            }
+        },
+        {
+            "id": 72,
+            "properties": {
+                "Name": "TAMPINES CENTRAL CC",
+                "PostalCode": "521866",
+                "desc": "Singapore 521866",
+                "Address": "Singapore 521866",
+                "name": "TAMPINES CENTRAL CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.934596874568,
+                    1.35534431697023
+                ]
+            }
+        },
+        {
+            "id": 73,
+            "properties": {
+                "Name": "TAMPINES NORTH CC",
+                "PostalCode": "529204",
+                "desc": "2 TAMPINES STREET 41    Singapore 529204",
+                "Address": "2 TAMPINES STREET 41    Singapore 529204",
+                "name": "TAMPINES NORTH CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.946657725133,
+                    1.3573609671724
+                ]
+            }
+        },
+        {
+            "id": 74,
+            "properties": {
+                "Name": "TAMPINES EAST CC",
+                "PostalCode": "529341",
+                "desc": "10 TAMPINES STREET 23    Singapore 529341",
+                "Address": "10 TAMPINES STREET 23    Singapore 529341",
+                "name": "TAMPINES EAST CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.954332103779,
+                    1.35335084105693
+                ]
+            }
+        },
+        {
+            "id": 75,
+            "properties": {
+                "Name": "BUKIT PANJANG CC",
+                "PostalCode": "678295",
+                "desc": "8 PENDING ROAD    Singapore 678295",
+                "Address": "8 PENDING ROAD    Singapore 678295",
+                "name": "BUKIT PANJANG CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.770651808482,
+                    1.37635336558604
+                ]
+            }
+        },
+        {
+            "id": 76,
+            "properties": {
+                "Name": "KEBUN BARU CC",
+                "PostalCode": "569897",
+                "desc": "216 ANG MO KIO AVE 4    Singapore 569897",
+                "Address": "216 ANG MO KIO AVE 4    Singapore 569897",
+                "name": "KEBUN BARU CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.837653677283,
+                    1.37286161350216
+                ]
+            }
+        },
+        {
+            "id": 77,
+            "properties": {
+                "Name": "ANG MO KIO CC",
+                "PostalCode": "569976",
+                "desc": "795 ANG MO KIO AVE 1 ST. 22    Singapore 569976",
+                "Address": "795 ANG MO KIO AVE 1 ST. 22    Singapore 569976",
+                "name": "ANG MO KIO CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.840684775801,
+                    1.36686220886507
+                ]
+            }
+        },
+        {
+            "id": 78,
+            "properties": {
+                "Name": "CHENG SAN CC",
+                "PostalCode": "569205",
+                "desc": "6 ANG MO KIO STREET 53    Singapore 569205",
+                "Address": "6 ANG MO KIO STREET 53    Singapore 569205",
+                "name": "CHENG SAN CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.849594246239,
+                    1.37184701349397
+                ]
+            }
+        },
+        {
+            "id": 79,
+            "properties": {
+                "Name": "HWI YOH CC",
+                "PostalCode": "550535",
+                "desc": "535 SERANGOON NORTH AVE 4, #01-179    Singapore 550535",
+                "Address": "535 SERANGOON NORTH AVE 4, #01-179    Singapore 550535",
+                "name": "HWI YOH CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.87386933214,
+                    1.37377527989147
+                ]
+            }
+        },
+        {
+            "id": 80,
+            "properties": {
+                "Name": "THE SERANGOON CC",
+                "PostalCode": "555877",
+                "desc": "10 SERANGOON NORTH AVE 2    Singapore 555877",
+                "Address": "10 SERANGOON NORTH AVE 2    Singapore 555877",
+                "name": "THE SERANGOON CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.874013320422,
+                    1.3699872285264
+                ]
+            }
+        },
+        {
+            "id": 81,
+            "properties": {
+                "Name": "CI YUAN CC",
+                "PostalCode": "530662",
+                "desc": "662 HOUGANG AVE 4, #01-413    Singapore 530662",
+                "Address": "662 HOUGANG AVE 4, #01-413    Singapore 530662",
+                "name": "CI YUAN CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88221647968,
+                    1.37448709735521
+                ]
+            }
+        },
+        {
+            "id": 82,
+            "properties": {
+                "Name": "PUNGGOL CC",
+                "PostalCode": "538808",
+                "desc": "3 HOUGANG AVE 6    Singapore 538808",
+                "Address": "3 HOUGANG AVE 6    Singapore 538808",
+                "name": "PUNGGOL CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.891947695668,
+                    1.37450199680321
+                ]
+            }
+        },
+        {
+            "id": 83,
+            "properties": {
+                "Name": "LAM SOON CC",
+                "PostalCode": "680421",
+                "desc": "421 CHOA CHU KANG AVE 4, #01-218    Singapore 680421",
+                "Address": "421 CHOA CHU KANG AVE 4, #01-218    Singapore 680421",
+                "name": "LAM SOON CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.740747509547,
+                    1.38179460254877
+                ]
+            }
+        },
+        {
+            "id": 84,
+            "properties": {
+                "Name": "CHUA CHU KANG CC",
+                "PostalCode": "688892",
+                "desc": "35 TECK WHYE AVENUE    Singapore 688892",
+                "Address": "35 TECK WHYE AVENUE    Singapore 688892",
+                "name": "CHUA CHU KANG CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.751585474025,
+                    1.38109881963197
+                ]
+            }
+        },
+        {
+            "id": 85,
+            "properties": {
+                "Name": "SENJA-CASHEW CC",
+                "PostalCode": "670607",
+                "desc": "607 SENJA ROAD, #01-02    Singapore 670607",
+                "Address": "607 SENJA ROAD, #01-02    Singapore 670607",
+                "name": "SENJA-CASHEW CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.76166874982,
+                    1.38237140281766
+                ]
+            }
+        },
+        {
+            "id": 86,
+            "properties": {
+                "Name": "ZHENGHUA CC",
+                "PostalCode": "677738",
+                "desc": "SEGAR RD    Singapore 677738",
+                "Address": "SEGAR RD    Singapore 677738",
+                "name": "ZHENGHUA CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.771719591987,
+                    1.38688901839969
+                ]
+            }
+        },
+        {
+            "id": 87,
+            "properties": {
+                "Name": "YIO CHU KANG CC",
+                "PostalCode": "569163",
+                "desc": "50 ANG MO KIO,STREET 61    Singapore 569163",
+                "Address": "50 ANG MO KIO,STREET 61    Singapore 569163",
+                "name": "YIO CHU KANG CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84153506181,
+                    1.38150813775209
+                ]
+            }
+        },
+        {
+            "id": 88,
+            "properties": {
+                "Name": "PUNGGOL PARK CC",
+                "PostalCode": "530458",
+                "desc": "458 HOUGANG AVE 10, #01-405    Singapore 530458",
+                "Address": "458 HOUGANG AVE 10, #01-405    Singapore 530458",
+                "name": "PUNGGOL PARK CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.896200524172,
+                    1.37804275442193
+                ]
+            }
+        },
+        {
+            "id": 89,
+            "properties": {
+                "Name": "WATER-VENTURE (PASIR RIS)",
+                "PostalCode": "519926",
+                "desc": "125 ELIAS ROAD    Singapore 519926",
+                "Address": "125 ELIAS ROAD    Singapore 519926",
+                "name": "WATER-VENTURE (PASIR RIS)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.943446198032,
+                    1.38494703715189
+                ]
+            }
+        },
+        {
+            "id": 90,
+            "properties": {
+                "Name": "PASIR RIS ELIAS CC",
+                "PostalCode": "519498",
+                "desc": "93 PASIR RIS DRIVE 3    Singapore 519498",
+                "Address": "93 PASIR RIS DRIVE 3    Singapore 519498",
+                "name": "PASIR RIS ELIAS CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.942684559845,
+                    1.37823228674401
+                ]
+            }
+        },
+        {
+            "id": 91,
+            "properties": {
+                "Name": "YEW TEE CC",
+                "PostalCode": "689286",
+                "desc": "20     Singapore 689286",
+                "Address": "20     Singapore 689286",
+                "name": "YEW TEE CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.744799379289,
+                    1.39488873398604
+                ]
+            }
+        },
+        {
+            "id": 92,
+            "properties": {
+                "Name": "ANCHORVALE CC",
+                "PostalCode": "544965",
+                "desc": "59 ANCHORVALE RD    Singapore 544965",
+                "Address": "59 ANCHORVALE RD    Singapore 544965",
+                "name": "ANCHORVALE CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.886665688423,
+                    1.397127925195
+                ]
+            }
+        },
+        {
+            "id": 93,
+            "properties": {
+                "Name": "SENGKANG CC",
+                "PostalCode": "545025",
+                "desc": "2     Singapore 545025",
+                "Address": "2     Singapore 545025",
+                "name": "SENGKANG CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.894198553755,
+                    1.39265728809436
+                ]
+            }
+        },
+        {
+            "id": 94,
+            "properties": {
+                "Name": "RIVERVALE CC",
+                "PostalCode": "540193",
+                "desc": "193 RIVERVALE DRIVE, #01-787    Singapore 540193",
+                "Address": "193 RIVERVALE DRIVE, #01-787    Singapore 540193",
+                "name": "RIVERVALE CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.901775036487,
+                    1.39362831586983
+                ]
+            }
+        },
+        {
+            "id": 95,
+            "properties": {
+                "Name": "PUNGGOL 21 CC",
+                "PostalCode": "823172",
+                "desc": "EDGEDALE PLAINS, #01-472    Singapore 823172",
+                "Address": "EDGEDALE PLAINS, #01-472    Singapore 823172",
+                "name": "PUNGGOL 21 CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.912357150998,
+                    1.39522644455293
+                ]
+            }
+        },
+        {
+            "id": 96,
+            "properties": {
+                "Name": "WATER-VENTURE (CHANGI)",
+                "PostalCode": "498988",
+                "desc": "285 NICOLL DRIVE CHANGI POINT    Singapore 498988",
+                "Address": "285 NICOLL DRIVE CHANGI POINT    Singapore 498988",
+                "name": "WATER-VENTURE (CHANGI)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.988982800214,
+                    1.39112061652063
+                ]
+            }
+        },
+        {
+            "id": 97,
+            "properties": {
+                "Name": "NEE SOON SOUTH CC",
+                "PostalCode": "768455",
+                "desc": "30 YISHUN STREET 81    Singapore 768455",
+                "Address": "30 YISHUN STREET 81    Singapore 768455",
+                "name": "NEE SOON SOUTH CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.834879804031,
+                    1.41497368462213
+                ]
+            }
+        },
+        {
+            "id": 98,
+            "properties": {
+                "Name": "FUCHUN CC",
+                "PostalCode": "738581",
+                "desc": "1     Singapore 738581",
+                "Address": "1     Singapore 738581",
+                "name": "FUCHUN CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.774903192008,
+                    1.42957869638344
+                ]
+            }
+        },
+        {
+            "id": 99,
+            "properties": {
+                "Name": "ACE THE PLACE CC",
+                "PostalCode": "730547",
+                "desc": "547 WOODLANDS DRIVE 16, #01-177    Singapore 730547",
+                "Address": "547 WOODLANDS DRIVE 16, #01-177    Singapore 730547",
+                "name": "ACE THE PLACE CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.793125838469,
+                    1.43001110047762
+                ]
+            }
+        },
+        {
+            "id": 100,
+            "properties": {
+                "Name": "NEE SOON CENTRAL CC",
+                "PostalCode": "760749",
+                "desc": "749 YISHUN STREET 72, #01-138    Singapore 760749",
+                "Address": "749 YISHUN STREET 72, #01-138    Singapore 760749",
+                "name": "NEE SOON CENTRAL CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.834125539202,
+                    1.42837434418599
+                ]
+            }
+        },
+        {
+            "id": 101,
+            "properties": {
+                "Name": "NEE SOON EAST CC",
+                "PostalCode": "768893",
+                "desc": "1 YISHUN AVE 9, NEE SOON EAST C.C    Singapore 768893",
+                "Address": "1 YISHUN AVE 9, NEE SOON EAST C.C    Singapore 768893",
+                "name": "NEE SOON EAST CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.838488071947,
+                    1.43102087444157
+                ]
+            }
+        },
+        {
+            "id": 102,
+            "properties": {
+                "Name": "CHONG PANG CC",
+                "PostalCode": "768677",
+                "desc": "21 YISHUN RING ROAD    Singapore 768677",
+                "Address": "21 YISHUN RING ROAD    Singapore 768677",
+                "name": "CHONG PANG CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.829227344671,
+                    1.43100766438173
+                ]
+            }
+        },
+        {
+            "id": 103,
+            "properties": {
+                "Name": "MARSILING CC",
+                "PostalCode": "739980",
+                "desc": "100 ADMIRALTY ROAD    Singapore 739980",
+                "Address": "100 ADMIRALTY ROAD    Singapore 739980",
+                "name": "MARSILING CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.773397977361,
+                    1.44043596249188
+                ]
+            }
+        },
+        {
+            "id": 104,
+            "properties": {
+                "Name": "WOODLANDS CC",
+                "PostalCode": "738526",
+                "desc": "1 WOODLANDS STREET 81, #01-01    Singapore 738526",
+                "Address": "1 WOODLANDS STREET 81, #01-01    Singapore 738526",
+                "name": "WOODLANDS CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.788235406614,
+                    1.43973033782819
+                ]
+            }
+        },
+        {
+            "id": 105,
+            "properties": {
+                "Name": "ADMIRAL GARDEN CC",
+                "PostalCode": "730649",
+                "desc": "649 WOODLANDS RING ROAD, #01-430    Singapore 730649",
+                "Address": "649 WOODLANDS RING ROAD, #01-430    Singapore 730649",
+                "name": "ADMIRAL GARDEN CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.800967815859,
+                    1.4389255305589
+                ]
+            }
+        },
+        {
+            "id": 106,
+            "properties": {
+                "Name": "THE JELUTUNG@CANBERRA CC",
+                "PostalCode": "757632",
+                "desc": "2     Singapore 757632",
+                "Address": "2     Singapore 757632",
+                "name": "THE JELUTUNG@CANBERRA CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.819305363058,
+                    1.44511470996111
+                ]
+            }
+        },
+        {
+            "id": 107,
+            "properties": {
+                "Name": "SEMBAWANG CC",
+                "PostalCode": "758528",
+                "desc": "2125     Singapore 758528",
+                "Address": "2125     Singapore 758528",
+                "name": "SEMBAWANG CC",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.828814143838,
+                    1.45170784280622
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

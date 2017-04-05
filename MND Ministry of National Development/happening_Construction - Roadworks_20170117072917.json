@@ -1,0 +1,53 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet",
+    "value": [
+        {
+            "Type": "Vehicle breakdown",
+            "Message": "(17/1)7:15 Vehicle breakdown on SLE (towards CTE) after TPE Exit.",
+            "Latitude": 1.3976645619965966,
+            "Longitude": 103.8540288806047
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(17/1)7:02 Heavy Traffic on CTE (towards AYE) at Ang Mo Kio Ave 5 Exit.",
+            "Latitude": 1.3796335441083838,
+            "Longitude": 103.85836327381233
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(17/1)7:02 Heavy Traffic on PIE (towards Changi Airport) at Lornie Rd Exit.",
+            "Latitude": 1.3339014490610737,
+            "Longitude": 103.8140440701666
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(17/1)7:00 Heavy Traffic on CTE (towards AYE) at Braddell Rd Exit.",
+            "Latitude": 1.3467511388134545,
+            "Longitude": 103.8593640219097
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(17/1)6:58 Heavy Traffic on CTE (towards AYE) at Ang Mo Kio Ave 1 Exit.",
+            "Latitude": 1.3575206190110667,
+            "Longitude": 103.85740723123335
+        },
+        {
+            "Type": "Heavy Traffic",
+            "Message": "(17/1)6:56 Heavy Traffic on CTE (towards AYE) between AMK Ave 5 Exit and PIE(Changi) Exit.",
+            "Latitude": 1.3464004079923844,
+            "Longitude": 103.85938559265354
+        },
+        {
+            "Type": "Roadwork",
+            "Message": "(17/1)6:34 Roadworks on Orchard Road (towards Bras Basah Rd) after Tanglin Road. Avoid right lane.",
+            "Latitude": 1.3055129747670224,
+            "Longitude": 103.83101262912696
+        },
+        {
+            "Type": "Roadwork",
+            "Message": "(17/1)6:34 Roadworks on Orchard Road (towards Bras Basah Rd) after Bideford Road. Avoid right lane.",
+            "Latitude": 1.3025653779244886,
+            "Longitude": 103.83634702939568
+        }
+    ]
+}

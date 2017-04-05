@@ -1,0 +1,4306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>SG - HDB Themes - heritageSites (201)</name>
+    <Style id="carparkIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBcarpark.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="flatIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBflat.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="marketIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBmarket.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="shopIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBshop.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="industrialIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBindustrial.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="foodcentreIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBfoodcentre.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="childcareIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBchildcare.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="communityclubsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBcommunityclubs.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="kindergartensIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBkindergartens.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="libraryIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBlibrary.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="mrtIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBmrt.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="parksIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBparks.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="heritageSitesIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBheritageSites.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="placeinterestIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBplaceinterest.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="worshipIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBworship.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="policestationIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBpolicestation.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="residentcentreIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBresidentcentre.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="schoolsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBschools.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="sportsclubsIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBsportsclubs.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="towncouncilIcon">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_HDBtowncouncil.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff7f0000</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7fffaa55</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <textColor xmlns="ff000000">ff000000</textColor>
+        <text><![CDATA[<table border="0" cellpadding="0" cellspacing="1">
+<tr bgcolor="#CCCC99"><td>Address</td><td><b>		$[fieldAddress]		</b></td></tr>
+<tr bgcolor="#FFFFCC"><td>Name</td><td><b>		$[fieldName]		</b></td></tr>
+<tr bgcolor="#CCCC99"><td>PostalCode</td><td><b>		$[fieldPostalCode]		</b></td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Batu Berlayar/Dragon&amp;apos;s Teeth Gate/Lot&amp;apos;s Wife</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.804893000316,1.26267100031163, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Batu Berlayar/Dragon&amp;apos;s Teeth Gate/Lot&amp;apos;s Wife</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Former Archipelago Brewery Company</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.80194100037,1.27720499964019, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Former Archipelago Brewery Company</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Labrador Battery</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.80178099972,1.26810899991492, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Labrador Battery</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Telok Ayer Chinese Methodist Church</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.847000000179,1.27850400040331, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Telok Ayer Chinese Methodist Church</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Singapore Chin Kang Huay Kuan</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.840454000207,1.27915200003276, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Singapore Chin Kang Huay Kuan</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Battle for Pasir Panjang</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.791060999649,1.28499199969877, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Battle for Pasir Panjang</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Queensway Shopping Centre</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.80316199978,1.28748099960409, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Queensway Shopping Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Alexandra Fire Station and Queenstown Neighbourhood Police Centre</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.801857000034,1.28872499984304, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Alexandra Fire Station and Queenstown Neighbourhood Police Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tiong Ghee Temple</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.804236999569,1.29093500006301, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tiong Ghee Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Alexandra Hospital</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.80136099969,1.2868800000074, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Alexandra Hospital</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Thye Hong Centre</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.814681999743,1.29110600018696, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Thye Hong Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Gan Eng Seng School</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.823715000324,1.28996900002306, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Gan Eng Seng School</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>College of Medicine Building</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.833701999906,1.28018699955991, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>College of Medicine Building</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tan Teck Guan Building</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.833534000246,1.28020299960327, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tan Teck Guan Building</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>First Public Dental Clinic</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.838210999837,1.27937200022228, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>First Public Dental Clinic</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Asian Civilizations Museum</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.851378999984,1.28735900041018, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Asian Civilizations Museum</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Raffles Landing Site</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.850700000365,1.28783100040499, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Raffles Landing Site</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Victoria Theatre and Concert Hall</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.851768000004,1.28764599960223, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Victoria Theatre and Concert Hall</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>City Hall and the Padang</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.851729999905,1.29066199962337, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>City Hall and the Padang</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Supreme Court</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.850861000415,1.29025900003147, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Supreme Court</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ministry of Information, Communications and The Arts (MICA) (The Old Hill Street Police Station)</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.847732999998,1.29084900027476, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ministry of Information, Communications and The Arts (MICA) (The Old Hill Street Police Station)</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Masjid Al-Abrar</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.847274999784,1.28041300022094, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Masjid Al-Abrar</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Masjid Moulana Mohd Ali</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.849997999831,1.28542400006284, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Masjid Moulana Mohd Ali</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Masjid Omar Kampong Melaka</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.844299000419,1.28784499959864, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Masjid Omar Kampong Melaka</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Nagore Durgha Shrine</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.847815999674,1.28136900044495, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Nagore Durgha Shrine</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sri Mariamman Temple</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.84516100042,1.28262300022151, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sri Mariamman Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Thian Hock Keng Temple</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.847588000321,1.28125799998306, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Thian Hock Keng Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Yueh Hai Ching Temple</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.849242999757,1.28452600043167, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Yueh Hai Ching Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jamae Mosque</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.845382999681,1.28318899957246, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jamae Mosque</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Empress Place Building  (Now known as Asian Civilisation Museum II)</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.851669000263,1.28722199971499, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Empress Place Building  (Now known as Asian Civilisation Museum II)</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tan Si Chong Su Temple</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.842789000337,1.28914400011885, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tan Si Chong Su Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Old Thong Chai Building</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.845130999689,1.28725499997385, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Old Thong Chai Building</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Telok Ayer Market</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.850371999611,1.28061599955362, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Telok Ayer Market</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Cavenagh Bridge</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.852279999966,1.28652800010668, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Cavenagh Bridge</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Elgin Bridge</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.849243000117,1.28908000023529, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Elgin Bridge</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>The Parliament House</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.850189000214,1.28877899978627, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>The Parliament House</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Coleman Bridge, Singapore</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.847969000067,1.28972600025807, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Coleman Bridge, Singapore</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Clarke Quay</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.84543599969,1.29036600009734, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Clarke Quay</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>The Cannery</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.845978000147,1.29094499985509, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>The Cannery</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Read Bridge</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.845077999903,1.28915800004569, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Read Bridge</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ord Bridge</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.844100999779,1.29083799957979, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ord Bridge</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Po Chiak Keng Temple (Tan Si Chong Su)</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.842789000337,1.28914400011885, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Po Chiak Keng Temple (Tan Si Chong Su)</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Clemenceau Bridge</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.842476000115,1.29074100018947, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Clemenceau Bridge</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Alkaff Bridge</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.839905000104,1.2901090000316, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Alkaff Bridge</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>The Arts House at the Old Parliament</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.851372000398,1.28877099975942, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>The Arts House at the Old Parliament</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Former Attorney-General&amp;apos;s Chambers</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.851379000077,1.28890500035187, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Former Attorney-General&amp;apos;s Chambers</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sook Ching Centre</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.84590099991,1.28440199999545, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sook Ching Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ying Fo Fui Kun</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.848427000387,1.28258999984291, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ying Fo Fui Kun</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chui Eng Free School Site</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.847953999854,1.28294399996617, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Chui Eng Free School Site</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Outram Prison</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.838965999558,1.28132100006716, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Outram Prison</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Pondok Peranakan Gelam Club</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.845817999822,1.28158099958972, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Pondok Peranakan Gelam Club</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Fuk Tak Chi</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.848770000337,1.28300799975933, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Fuk Tak Chi</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Ee Hoe Hean Club</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.840415999737,1.27932899973232, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Ee Hoe Hean Club</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Oversea-Chinese Banking Corporation</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.849128999826,1.28533499983874, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Oversea-Chinese Banking Corporation</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>United Overseas Bank</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.850983000243,1.28534600007292, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>United Overseas Bank</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Esplanade Park</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.853607000205,1.28961000007372, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Esplanade Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Indian National Army Monument</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.853713999878,1.28933099995358, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Indian National Army Monument</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Queen Elizabeth Walk</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.854164000223,1.2893469999283, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Queen Elizabeth Walk</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Cenotaph</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.853752000095,1.29034700016244, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Cenotaph</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tan Kim Seng Fountain</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.85436199978,1.29106299977203, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tan Kim Seng Fountain</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Lim Bo Seng Memorial</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.85302700021,1.28848299967788, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Lim Bo Seng Memorial</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>The Fullerton Singapore</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.85313399993,1.28634399964901, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>The Fullerton Singapore</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Merlion Park</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.854186999736,1.28752400011562, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Merlion Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>The Fullerton Waterboat House</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.853470000388,1.28719099979124, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>The Fullerton Waterboat House</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Clifford Pier</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.853363000333,1.28406999955874, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Clifford Pier</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Republic of Singapore Yacht Club</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.763038999972,1.29290799989687, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Republic of Singapore Yacht Club</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Queenstown Town Centre</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.80400100029,1.29883000005379, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Queenstown Town Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Former Golden City and Venus Cinemas</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.803824999798,1.29874299991751, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Former Golden City and Venus Cinemas</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Commonwealth Cooked Food Centre</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.804091999864,1.29879699994296, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Commonwealth Cooked Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Queenstown Community Library</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.805747999813,1.29850699976842, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Queenstown Community Library</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Queenstown Baptist Church</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.80862400024,1.29714500034389, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Queenstown Baptist Church</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Queenstown Remand Prison</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.807678000304,1.29833600032954, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Queenstown Remand Prison</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Rainbow Centre</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.809067000139,1.29726299983863, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Rainbow Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>True Way Presbyterian Church</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.80574000017,1.29376599964682, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>True Way Presbyterian Church</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Church of the Good Shepherd</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.807411000065,1.29520399983725, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Church of the Good Shepherd</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Masjid Mujahidin</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.801064000138,1.29809999976049, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Masjid Mujahidin</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Queenstown Sports Complex</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.802177000106,1.29631899959027, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Queenstown Sports Complex</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sri Muneeswaran Temple</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.798697999755,1.29576099999869, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sri Muneeswaran Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Church of The Blessed Sacrament</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.799041999937,1.2955569999343, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Church of The Blessed Sacrament</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Faith Methodist Church</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.797394000152,1.30258300023428, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Faith Methodist Church</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Forfar Heights At Strathmore Avenue</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.810905000369,1.29565400006598, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Forfar Heights At Strathmore Avenue</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Queenstown</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.803932000173,1.29882899992398, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Queenstown</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Lee Kong Chian Gardens School</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.813674999576,1.29447399990857, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Lee Kong Chian Gardens School</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Masjid Jamek</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.815407,1.29301500018381, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Masjid Jamek</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Queenstown Secondary School</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.813399999662,1.29365899957342, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Queenstown Secondary School</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Robertson Quay</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.837540000011,1.29165300007663, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Robertson Quay</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Havelock Road Camp (River Valley Road Camp)</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.838158000211,1.29310100014877, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Havelock Road Camp (River Valley Road Camp)</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chijmes (Former The Old Convent of the Holy Infant Jesus Chapel and Caldwell House)</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.852303000019,1.29515299955826, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Chijmes (Former The Old Convent of the Holy Infant Jesus Chapel and Caldwell House)</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Cathedral Of The Good Shepherd</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.851302999878,1.29596499986189, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Cathedral Of The Good Shepherd</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Singapore Art Museum (Former St Joseph&amp;apos;s Institution)</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.850967000443,1.29728400018835, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Singapore Art Museum (Former St Joseph&amp;apos;s Institution)</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>National Museum of Singapore (Former Singapore History Museum)</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.848639999886,1.29672199973952, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>National Museum of Singapore (Former Singapore History Museum)</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Fort Canning Park</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.846977000021,1.293509000092, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Fort Canning Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>National Archives of Singapore</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.84851099976,1.29328399982906, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>National Archives of Singapore</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>The Peranakan Museum</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.849060000339,1.29431000015474, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>The Peranakan Museum</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>National Archives Of Singapore</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.84851799964,1.29317199963023, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>National Archives Of Singapore</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Armenian Church</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.849419000153,1.29309699959306, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Armenian Church</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Central Fire Station</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.849143999954,1.29216799980423, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Central Fire Station</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>St Andrew&amp;apos;s Cathedral</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.852027999953,1.29208299964574, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>St Andrew&amp;apos;s Cathedral</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Cathay Building</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.847640999905,1.29930600010366, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Cathay Building</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>MacDonald House</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.846039000112,1.29919700020857, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>MacDonald House</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Istana Park</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.843780999731,1.29925699984968, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Istana Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Young Men&amp;apos;s Christian Association (YMCA) Building</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.848174999604,1.29760300034113, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Young Men&amp;apos;s Christian Association (YMCA) Building</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Keramat Iskandar Shah</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.847267,1.2959439998629, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Keramat Iskandar Shah</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Spice Garden</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.847289999697,1.29506400032407, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Spice Garden</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hong San See Temple</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.840857999622,1.29319400022912, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Hong San See Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Fort Canning Centre</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.846611000134,1.29591100042393, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Fort Canning Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Underground Far East Command Centre (The Battle Box)</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.846229999564,1.29606199967511, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Underground Far East Command Centre (The Battle Box)</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Look-out Point / Raffles&amp;apos; House</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.847107000214,1.29199599974038, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Look-out Point / Raffles&amp;apos; House</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Gothic Gates</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.846542000226,1.29437800023492, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Gothic Gates</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Christian Cemetary</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.846526999949,1.2943780003135, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Christian Cemetary</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Cupolas</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.846542000226,1.29437800023492, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Cupolas</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>James Brooke Napier Memorial</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.846526999949,1.2943780003135, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>James Brooke Napier Memorial</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sally Port</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.846526999893,1.29436699961984, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sally Port</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Fort Wall and Gate</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.846519000221,1.29437800035537, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Fort Wall and Gate</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>9 Pound Canon</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.846526999949,1.2943780003135, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>9 Pound Canon</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Archaeological Excavation Site</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.846526999893,1.29436699961984, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Archaeological Excavation Site</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>House of Tan Yeok Nee</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.843246000096,1.29884499964453, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>House of Tan Yeok Nee</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Church of St Peter and St Paul</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.850876000092,1.29736999958484, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Church of St Peter and St Paul</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Prinsep Street Presbyterian Church</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.851012999934,1.30172499969727, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Prinsep Street Presbyterian Church</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kempeitai East District Branch</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.848328000059,1.2975950003266, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kempeitai East District Branch</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sri Krishnan Temple</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.85262300028,1.30064200018928, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sri Krishnan Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Middle Road Church/Christian Institute</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.85189099991,1.29970800040393, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Middle Road Church/Christian Institute</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>The Boys&amp;apos; Brigade in Singapore</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.851035999783,1.30182199988889, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>The Boys&amp;apos; Brigade in Singapore</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>United Chinese Library</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.849288999563,1.29433499988046, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>United Chinese Library</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>UE Square</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.841903999837,1.29280099972324, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>UE Square</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Civilian War Memorial</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.854614000398,1.29290800042469, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Civilian War Memorial</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Raffles Hotel</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.85417900044,1.29507500045063, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Raffles Hotel</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hajjah Fatimah Mosque</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.862968000337,1.30281799963928, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Hajjah Fatimah Mosque</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sultan Mosque</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.859122999668,1.30232300019875, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sultan Mosque</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Church Of Our Lady Of Lourdes</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.856071000273,1.30314899962037, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Church Of Our Lady Of Lourdes</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Church of Our Lady of Lourdes</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.855666999562,1.30324800044499, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Church of Our Lady of Lourdes</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>St Joseph&amp;apos;s Church</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.853095999925,1.29845399993935, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>St Joseph&amp;apos;s Church</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kwan Im Thong Hood Cho Temple</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.852928000172,1.30069499992947, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kwan Im Thong Hood Cho Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>The Singapore Armed Forces Warrant Officers and Specialists Club</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.856110000219,1.29516099967063, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>The Singapore Armed Forces Warrant Officers and Specialists Club</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Singapore Polytechnic</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.776450999729,1.31013399981381, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Singapore Polytechnic</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Former Tanglin Halt Industrial Estate</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.79349499998,1.3053830004096, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Former Tanglin Halt Industrial Estate</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Queenstown Lutheran Church</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.79914900008,1.30618700007143, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Queenstown Lutheran Church</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Block 115 The First Flatted Factory in Singapore</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.797858999759,1.30454599987096, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Block 115 The First Flatted Factory in Singapore</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Commonwealth Heights</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.800385000392,1.30416000006266, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Commonwealth Heights</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>St. George&amp;apos;s Church</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.815056000098,1.30483300036462, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>St. George&amp;apos;s Church</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>The Old Tanglin Officers Mess</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.818268000128,1.30449200031192, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>The Old Tanglin Officers Mess</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Goodwood Park Hotel</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.834396000206,1.30837000043125, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Goodwood Park Hotel</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sri Veeramakaliamman Temple</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.852218999945,1.30738799978484, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sri Veeramakaliamman Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Shree Lakshminarayan Temple</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.850776999702,1.30760600016069, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Shree Lakshminarayan Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Little India Arcade</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.851616000316,1.30557600015215, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Little India Arcade</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tekka Market</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.850487000399,1.30638000015038, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tekka Market</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Former Kerdang Kerbau Hospital</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.846793999938,1.31058500038499, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Former Kerdang Kerbau Hospital</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sri Srinivasa Perumal Temple</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.85649900014,1.31352400011211, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sri Srinivasa Perumal Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sakya Muni Buddha Gaya Temple</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.856856999855,1.31472200042496, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sakya Muni Buddha Gaya Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Leong San See Buddhist Temple</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.856850000299,1.31512200005761, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Leong San See Buddhist Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kampong Kapor Methodist Church</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.853866999782,1.30702900010607, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kampong Kapor Methodist Church</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Abdul Gafoor Mosque</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.853737000034,1.30450300022274, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Abdul Gafoor Mosque</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jalan Besar Stadium</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.860336000007,1.31002399974814, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jalan Besar Stadium</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Holy Trinity Church</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.860382000198,1.31127099959437, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Holy Trinity Church</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Farrer Park</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.854125999907,1.31249400042367, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Farrer Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kallang Airport</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.873520000209,1.30867500018705, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kallang Airport</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Singapore Badminton Hall</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.881972999586,1.30992000019178, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Singapore Badminton Hall</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sri Senpaga Vinayagar Temple</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.902397000279,1.3055430003492, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sri Senpaga Vinayagar Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Placemark 202</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.800804000032,1.32717000040453, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Placemark 202</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Goh Chor Tua Pek Kong Temple</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.852554,1.32171799961073, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Goh Chor Tua Pek Kong Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Balestier Point</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.852493000309,1.32258499994888, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Balestier Point</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sim Kwong Ho Shophouse I</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.852546999629,1.3232699996316, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sim Kwong Ho Shophouse I</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sun Yat Sen Nanyang Memorial Hall</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.847167999715,1.32806800003462, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sun Yat Sen Nanyang Memorial Hall</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Maha Sasana Ramsi Burmese Buddhist Temple</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.846916000438,1.32831999991606, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Maha Sasana Ramsi Burmese Buddhist Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Water Kiosk</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.849091000409,1.32628800001468, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Water Kiosk</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sim Kwong Ho Shophouse II</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.84966299986,1.32580199980357, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sim Kwong Ho Shophouse II</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Novena Church</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.842864999862,1.32183699989461, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Novena Church</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tan Tock Seng Hospital</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.846153000256,1.32233999984092, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Tan Tock Seng Hospital</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Art Deco Shophouses</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.853096000276,1.32177799992075, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Art Deco Shophouses</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Masjid Hajjah Rahimabi Kebun Limau</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.854979999795,1.32618000033406, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Masjid Hajjah Rahimabi Kebun Limau</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Geylang Serai</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.89695699962,1.31659100029027, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Geylang Serai</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Timah Food Centre</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.776123000225,1.33942699978969, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Timah Food Centre</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Timah Village</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.774506000215,1.33967400006038, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Timah Village</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Syonan Jinja</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.818206999691,1.33555500035143, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Syonan Jinja</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>7 Adam Park</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.813721000123,1.32948400022378, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>7 Adam Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sime Road</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.818207000064,1.33564099999031, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sime Road</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Lian Shan Shuang Lin Monastery</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.857306999834,1.33014999971842, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Lian Shan Shuang Lin Monastery</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Siong Lim Temple</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.857306999834,1.33014999971842, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Siong Lim Temple</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>The Old Nanyang University Library and Administration Building, Memorial and Arch</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.683998000158,1.34379199989386, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>The Old Nanyang University Library and Administration Building, Memorial and Arch</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Batok Memorial</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.768012999842,1.35061400037601, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Batok Memorial</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Former Bukit Timah Fire Station</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.77106499968,1.3493700000262, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Former Bukit Timah Fire Station</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Beauty World Amusement Park and Market</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.776192000416,1.3417969995541, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Beauty World Amusement Park and Market</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Timah Battle Site</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.777435000315,1.34874800029834, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Timah Battle Site</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hindhede Nature Park</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.77574200004,1.34999200005268, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Hindhede Nature Park</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Macritchie Reservoir</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.830756999997,1.34437099998474, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Macritchie Reservoir</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Raffles Institution</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.84598499988,1.34613899996362, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Raffles Institution</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jurong-Kranji Defence Line</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.716690000237,1.35363900010007, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Jurong-Kranji Defence Line</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Memories at Old Ford Factory (MOFF)</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.768829000008,1.35363899998962, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Memories at Old Ford Factory (MOFF)</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Trinity Theological College</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.768936000372,1.36137199980253, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Trinity Theological College</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Timah Hill</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.773506000112,1.35299500010266, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Timah Hill</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Timah Nature Reserve</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.776466000271,1.35402500030423, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Bukit Timah Nature Reserve</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Changi Murals</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.973846000171,1.36220800007995, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Changi Murals</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Lower Peirce Reservoir</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.823073999782,1.37002800025843, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Lower Peirce Reservoir</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Church of the Nativity of the Blessed Virgin Mary</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.897681999677,1.37384600037654, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Church of the Nativity of the Blessed Virgin Mary</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Changi Beach</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.993164000148,1.39089500008516, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Changi Beach</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Upper Seletar Reservoir</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.801315000396,1.40241899989402, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Upper Seletar Reservoir</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Punggol Beach</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.909660000152,1.42102800008449, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Punggol Beach</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sarimbun Beach Landing</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.698967000098,1.43287999999514, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sarimbun Beach Landing</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kranji Beach Battle</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.735228999834,1.44040900007844, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Kranji Beach Battle</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Old Admiralty House (Now a part of Karimun Country Club)</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.824104000308,1.44793800032856, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Old Admiralty House (Now a part of Karimun Country Club)</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sentosa Beach</name>
+      <description>[Singapore],Create DateTime=20150630110630</description>
+      <styleUrl>heritageSitesIcon</styleUrl>
+      <Point>
+        <coordinates>103.833206000137,1.25296400030578, 0</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="fieldAddress">
+          <value>Singapore</value>
+        </Data>
+        <Data name="fieldName">
+          <value>Sentosa Beach</value>
+        </Data>
+        <Data name="fieldPostalCode">
+          <value />
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>
+

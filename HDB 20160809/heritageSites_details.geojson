@@ -1,0 +1,3824 @@
+{
+    "features": [
+        {
+            "id": 1,
+            "properties": {
+                "Name": "Batu Berlayar/Dragon&apos;s Teeth Gate/Lot&apos;s Wife",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Batu Berlayar/Dragon&apos;s Teeth Gate/Lot&apos;s Wife",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.804893000316,
+                    1.26267100031163
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "properties": {
+                "Name": "Former Archipelago Brewery Company",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Former Archipelago Brewery Company",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80194100037,
+                    1.27720499964019
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "properties": {
+                "Name": "Labrador Battery",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Labrador Battery",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80178099972,
+                    1.26810899991492
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "properties": {
+                "Name": "Telok Ayer Chinese Methodist Church",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Telok Ayer Chinese Methodist Church",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847000000179,
+                    1.27850400040331
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "properties": {
+                "Name": "Singapore Chin Kang Huay Kuan",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Singapore Chin Kang Huay Kuan",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.840454000207,
+                    1.27915200003276
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "properties": {
+                "Name": "Battle for Pasir Panjang",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Battle for Pasir Panjang",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.791060999649,
+                    1.28499199969877
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "properties": {
+                "Name": "Queensway Shopping Centre",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Queensway Shopping Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80316199978,
+                    1.28748099960409
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "properties": {
+                "Name": "Alexandra Fire Station and Queenstown Neighbourhood Police Centre",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Alexandra Fire Station and Queenstown Neighbourhood Police Centre",
+                "type": "#fire"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.801857000034,
+                    1.28872499984304
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "properties": {
+                "Name": "Tiong Ghee Temple",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Tiong Ghee Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.804236999569,
+                    1.29093500006301
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "properties": {
+                "Name": "Alexandra Hospital",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Alexandra Hospital",
+                "type": "#hospital"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80136099969,
+                    1.2868800000074
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "properties": {
+                "Name": "Thye Hong Centre",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Thye Hong Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.814681999743,
+                    1.29110600018696
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "properties": {
+                "Name": "Gan Eng Seng School",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Gan Eng Seng School",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.823715000324,
+                    1.28996900002306
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "properties": {
+                "Name": "College of Medicine Building",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "College of Medicine Building",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.833701999906,
+                    1.28018699955991
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "properties": {
+                "Name": "Tan Teck Guan Building",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Tan Teck Guan Building",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.833534000246,
+                    1.28020299960327
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "properties": {
+                "Name": "First Public Dental Clinic",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "First Public Dental Clinic",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.838210999837,
+                    1.27937200022228
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "properties": {
+                "Name": "Asian Civilizations Museum",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Asian Civilizations Museum",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851378999984,
+                    1.28735900041018
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "properties": {
+                "Name": "Raffles Landing Site",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Raffles Landing Site",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850700000365,
+                    1.28783100040499
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "properties": {
+                "Name": "Victoria Theatre and Concert Hall",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Victoria Theatre and Concert Hall",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851768000004,
+                    1.28764599960223
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "properties": {
+                "Name": "City Hall and the Padang",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "City Hall and the Padang",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851729999905,
+                    1.29066199962337
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "properties": {
+                "Name": "Supreme Court",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Supreme Court",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850861000415,
+                    1.29025900003147
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "properties": {
+                "Name": "Ministry of Information, Communications and The Arts (MICA) (The Old Hill Street Police Station)",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Ministry of Information, Communications and The Arts (MICA) (The Old Hill Street Police Station)",
+                "type": "#policestation"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847732999998,
+                    1.29084900027476
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "properties": {
+                "Name": "Masjid Al-Abrar",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Masjid Al-Abrar",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847274999784,
+                    1.28041300022094
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "properties": {
+                "Name": "Masjid Moulana Mohd Ali",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Masjid Moulana Mohd Ali",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.849997999831,
+                    1.28542400006284
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "properties": {
+                "Name": "Masjid Omar Kampong Melaka",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Masjid Omar Kampong Melaka",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.844299000419,
+                    1.28784499959864
+                ]
+            }
+        },
+        {
+            "id": 25,
+            "properties": {
+                "Name": "Nagore Durgha Shrine",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Nagore Durgha Shrine",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847815999674,
+                    1.28136900044495
+                ]
+            }
+        },
+        {
+            "id": 26,
+            "properties": {
+                "Name": "Sri Mariamman Temple",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Sri Mariamman Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84516100042,
+                    1.28262300022151
+                ]
+            }
+        },
+        {
+            "id": 27,
+            "properties": {
+                "Name": "Thian Hock Keng Temple",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Thian Hock Keng Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847588000321,
+                    1.28125799998306
+                ]
+            }
+        },
+        {
+            "id": 28,
+            "properties": {
+                "Name": "Yueh Hai Ching Temple",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Yueh Hai Ching Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.849242999757,
+                    1.28452600043167
+                ]
+            }
+        },
+        {
+            "id": 29,
+            "properties": {
+                "Name": "Jamae Mosque",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Jamae Mosque",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845382999681,
+                    1.28318899957246
+                ]
+            }
+        },
+        {
+            "id": 30,
+            "properties": {
+                "Name": "Empress Place Building  (Now known as Asian Civilisation Museum II)",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Empress Place Building  (Now known as Asian Civilisation Museum II)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851669000263,
+                    1.28722199971499
+                ]
+            }
+        },
+        {
+            "id": 31,
+            "properties": {
+                "Name": "Tan Si Chong Su Temple",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Tan Si Chong Su Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.842789000337,
+                    1.28914400011885
+                ]
+            }
+        },
+        {
+            "id": 32,
+            "properties": {
+                "Name": "Old Thong Chai Building",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Old Thong Chai Building",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845130999689,
+                    1.28725499997385
+                ]
+            }
+        },
+        {
+            "id": 33,
+            "properties": {
+                "Name": "Telok Ayer Market",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Telok Ayer Market",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850371999611,
+                    1.28061599955362
+                ]
+            }
+        },
+        {
+            "id": 34,
+            "properties": {
+                "Name": "Cavenagh Bridge",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Cavenagh Bridge",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.852279999966,
+                    1.28652800010668
+                ]
+            }
+        },
+        {
+            "id": 35,
+            "properties": {
+                "Name": "Elgin Bridge",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Elgin Bridge",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.849243000117,
+                    1.28908000023529
+                ]
+            }
+        },
+        {
+            "id": 36,
+            "properties": {
+                "Name": "The Parliament House",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "The Parliament House",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850189000214,
+                    1.28877899978627
+                ]
+            }
+        },
+        {
+            "id": 37,
+            "properties": {
+                "Name": "Coleman Bridge, Singapore",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Coleman Bridge, Singapore",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847969000067,
+                    1.28972600025807
+                ]
+            }
+        },
+        {
+            "id": 38,
+            "properties": {
+                "Name": "Clarke Quay",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Clarke Quay",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84543599969,
+                    1.29036600009734
+                ]
+            }
+        },
+        {
+            "id": 39,
+            "properties": {
+                "Name": "The Cannery",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "The Cannery",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845978000147,
+                    1.29094499985509
+                ]
+            }
+        },
+        {
+            "id": 40,
+            "properties": {
+                "Name": "Read Bridge",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Read Bridge",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845077999903,
+                    1.28915800004569
+                ]
+            }
+        },
+        {
+            "id": 41,
+            "properties": {
+                "Name": "Ord Bridge",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Ord Bridge",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.844100999779,
+                    1.29083799957979
+                ]
+            }
+        },
+        {
+            "id": 42,
+            "properties": {
+                "Name": "Po Chiak Keng Temple (Tan Si Chong Su)",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Po Chiak Keng Temple (Tan Si Chong Su)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.842789000337,
+                    1.28914400011885
+                ]
+            }
+        },
+        {
+            "id": 43,
+            "properties": {
+                "Name": "Clemenceau Bridge",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Clemenceau Bridge",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.842476000115,
+                    1.29074100018947
+                ]
+            }
+        },
+        {
+            "id": 44,
+            "properties": {
+                "Name": "Alkaff Bridge",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Alkaff Bridge",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839905000104,
+                    1.2901090000316
+                ]
+            }
+        },
+        {
+            "id": 45,
+            "properties": {
+                "Name": "The Arts House at the Old Parliament",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "The Arts House at the Old Parliament",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851372000398,
+                    1.28877099975942
+                ]
+            }
+        },
+        {
+            "id": 46,
+            "properties": {
+                "Name": "Former Attorney-General&apos;s Chambers",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Former Attorney-General&apos;s Chambers",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851379000077,
+                    1.28890500035187
+                ]
+            }
+        },
+        {
+            "id": 47,
+            "properties": {
+                "Name": "Sook Ching Centre",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Sook Ching Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84590099991,
+                    1.28440199999545
+                ]
+            }
+        },
+        {
+            "id": 48,
+            "properties": {
+                "Name": "Ying Fo Fui Kun",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Ying Fo Fui Kun",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.848427000387,
+                    1.28258999984291
+                ]
+            }
+        },
+        {
+            "id": 49,
+            "properties": {
+                "Name": "Chui Eng Free School Site",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Chui Eng Free School Site",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847953999854,
+                    1.28294399996617
+                ]
+            }
+        },
+        {
+            "id": 50,
+            "properties": {
+                "Name": "Outram Prison",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Outram Prison",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.838965999558,
+                    1.28132100006716
+                ]
+            }
+        },
+        {
+            "id": 51,
+            "properties": {
+                "Name": "Pondok Peranakan Gelam Club",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Pondok Peranakan Gelam Club",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845817999822,
+                    1.28158099958972
+                ]
+            }
+        },
+        {
+            "id": 52,
+            "properties": {
+                "Name": "Fuk Tak Chi",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Fuk Tak Chi",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.848770000337,
+                    1.28300799975933
+                ]
+            }
+        },
+        {
+            "id": 53,
+            "properties": {
+                "Name": "Ee Hoe Hean Club",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Ee Hoe Hean Club",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.840415999737,
+                    1.27932899973232
+                ]
+            }
+        },
+        {
+            "id": 54,
+            "properties": {
+                "Name": "Oversea-Chinese Banking Corporation",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Oversea-Chinese Banking Corporation",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.849128999826,
+                    1.28533499983874
+                ]
+            }
+        },
+        {
+            "id": 55,
+            "properties": {
+                "Name": "United Overseas Bank",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "United Overseas Bank",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850983000243,
+                    1.28534600007292
+                ]
+            }
+        },
+        {
+            "id": 56,
+            "properties": {
+                "Name": "Esplanade Park",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Esplanade Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853607000205,
+                    1.28961000007372
+                ]
+            }
+        },
+        {
+            "id": 57,
+            "properties": {
+                "Name": "Indian National Army Monument",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Indian National Army Monument",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853713999878,
+                    1.28933099995358
+                ]
+            }
+        },
+        {
+            "id": 58,
+            "properties": {
+                "Name": "Queen Elizabeth Walk",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Queen Elizabeth Walk",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854164000223,
+                    1.2893469999283
+                ]
+            }
+        },
+        {
+            "id": 59,
+            "properties": {
+                "Name": "Cenotaph",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Cenotaph",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853752000095,
+                    1.29034700016244
+                ]
+            }
+        },
+        {
+            "id": 60,
+            "properties": {
+                "Name": "Tan Kim Seng Fountain",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Tan Kim Seng Fountain",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85436199978,
+                    1.29106299977203
+                ]
+            }
+        },
+        {
+            "id": 61,
+            "properties": {
+                "Name": "Lim Bo Seng Memorial",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Lim Bo Seng Memorial",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85302700021,
+                    1.28848299967788
+                ]
+            }
+        },
+        {
+            "id": 62,
+            "properties": {
+                "Name": "The Fullerton Singapore",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "The Fullerton Singapore",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85313399993,
+                    1.28634399964901
+                ]
+            }
+        },
+        {
+            "id": 63,
+            "properties": {
+                "Name": "Merlion Park",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Merlion Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854186999736,
+                    1.28752400011562
+                ]
+            }
+        },
+        {
+            "id": 64,
+            "properties": {
+                "Name": "The Fullerton Waterboat House",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "The Fullerton Waterboat House",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853470000388,
+                    1.28719099979124
+                ]
+            }
+        },
+        {
+            "id": 65,
+            "properties": {
+                "Name": "Clifford Pier",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Clifford Pier",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853363000333,
+                    1.28406999955874
+                ]
+            }
+        },
+        {
+            "id": 66,
+            "properties": {
+                "Name": "Republic of Singapore Yacht Club",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Republic of Singapore Yacht Club",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.763038999972,
+                    1.29290799989687
+                ]
+            }
+        },
+        {
+            "id": 67,
+            "properties": {
+                "Name": "Queenstown Town Centre",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Queenstown Town Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80400100029,
+                    1.29883000005379
+                ]
+            }
+        },
+        {
+            "id": 68,
+            "properties": {
+                "Name": "Former Golden City and Venus Cinemas",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Former Golden City and Venus Cinemas",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.803824999798,
+                    1.29874299991751
+                ]
+            }
+        },
+        {
+            "id": 69,
+            "properties": {
+                "Name": "Commonwealth Cooked Food Centre",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Commonwealth Cooked Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.804091999864,
+                    1.29879699994296
+                ]
+            }
+        },
+        {
+            "id": 70,
+            "properties": {
+                "Name": "Queenstown Community Library",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Queenstown Community Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.805747999813,
+                    1.29850699976842
+                ]
+            }
+        },
+        {
+            "id": 71,
+            "properties": {
+                "Name": "Queenstown Baptist Church",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Queenstown Baptist Church",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80862400024,
+                    1.29714500034389
+                ]
+            }
+        },
+        {
+            "id": 72,
+            "properties": {
+                "Name": "Queenstown Remand Prison",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Queenstown Remand Prison",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.807678000304,
+                    1.29833600032954
+                ]
+            }
+        },
+        {
+            "id": 73,
+            "properties": {
+                "Name": "Rainbow Centre",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Rainbow Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.809067000139,
+                    1.29726299983863
+                ]
+            }
+        },
+        {
+            "id": 74,
+            "properties": {
+                "Name": "True Way Presbyterian Church",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "True Way Presbyterian Church",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80574000017,
+                    1.29376599964682
+                ]
+            }
+        },
+        {
+            "id": 75,
+            "properties": {
+                "Name": "Church of the Good Shepherd",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Church of the Good Shepherd",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.807411000065,
+                    1.29520399983725
+                ]
+            }
+        },
+        {
+            "id": 76,
+            "properties": {
+                "Name": "Masjid Mujahidin",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Masjid Mujahidin",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.801064000138,
+                    1.29809999976049
+                ]
+            }
+        },
+        {
+            "id": 77,
+            "properties": {
+                "Name": "Queenstown Sports Complex",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Queenstown Sports Complex",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.802177000106,
+                    1.29631899959027
+                ]
+            }
+        },
+        {
+            "id": 78,
+            "properties": {
+                "Name": "Sri Muneeswaran Temple",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Sri Muneeswaran Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.798697999755,
+                    1.29576099999869
+                ]
+            }
+        },
+        {
+            "id": 79,
+            "properties": {
+                "Name": "Church of The Blessed Sacrament",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Church of The Blessed Sacrament",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.799041999937,
+                    1.2955569999343
+                ]
+            }
+        },
+        {
+            "id": 80,
+            "properties": {
+                "Name": "Faith Methodist Church",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Faith Methodist Church",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.797394000152,
+                    1.30258300023428
+                ]
+            }
+        },
+        {
+            "id": 81,
+            "properties": {
+                "Name": "Forfar Heights At Strathmore Avenue",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Forfar Heights At Strathmore Avenue",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.810905000369,
+                    1.29565400006598
+                ]
+            }
+        },
+        {
+            "id": 82,
+            "properties": {
+                "Name": "Queenstown",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Queenstown",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.803932000173,
+                    1.29882899992398
+                ]
+            }
+        },
+        {
+            "id": 83,
+            "properties": {
+                "Name": "Lee Kong Chian Gardens School",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Lee Kong Chian Gardens School",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.813674999576,
+                    1.29447399990857
+                ]
+            }
+        },
+        {
+            "id": 84,
+            "properties": {
+                "Name": "Masjid Jamek",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Masjid Jamek",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.815407,
+                    1.29301500018381
+                ]
+            }
+        },
+        {
+            "id": 85,
+            "properties": {
+                "Name": "Queenstown Secondary School",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Queenstown Secondary School",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.813399999662,
+                    1.29365899957342
+                ]
+            }
+        },
+        {
+            "id": 86,
+            "properties": {
+                "Name": "Robertson Quay",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Robertson Quay",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.837540000011,
+                    1.29165300007663
+                ]
+            }
+        },
+        {
+            "id": 87,
+            "properties": {
+                "Name": "Havelock Road Camp (River Valley Road Camp)",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Havelock Road Camp (River Valley Road Camp)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.838158000211,
+                    1.29310100014877
+                ]
+            }
+        },
+        {
+            "id": 88,
+            "properties": {
+                "Name": "Chijmes (Former The Old Convent of the Holy Infant Jesus Chapel and Caldwell House)",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Chijmes (Former The Old Convent of the Holy Infant Jesus Chapel and Caldwell House)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.852303000019,
+                    1.29515299955826
+                ]
+            }
+        },
+        {
+            "id": 89,
+            "properties": {
+                "Name": "Cathedral Of The Good Shepherd",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Cathedral Of The Good Shepherd",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851302999878,
+                    1.29596499986189
+                ]
+            }
+        },
+        {
+            "id": 90,
+            "properties": {
+                "Name": "Singapore Art Museum (Former St Joseph&apos;s Institution)",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Singapore Art Museum (Former St Joseph&apos;s Institution)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850967000443,
+                    1.29728400018835
+                ]
+            }
+        },
+        {
+            "id": 91,
+            "properties": {
+                "Name": "National Museum of Singapore (Former Singapore History Museum)",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "National Museum of Singapore (Former Singapore History Museum)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.848639999886,
+                    1.29672199973952
+                ]
+            }
+        },
+        {
+            "id": 92,
+            "properties": {
+                "Name": "Fort Canning Park",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Fort Canning Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846977000021,
+                    1.293509000092
+                ]
+            }
+        },
+        {
+            "id": 93,
+            "properties": {
+                "Name": "National Archives of Singapore",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "National Archives of Singapore",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84851099976,
+                    1.29328399982906
+                ]
+            }
+        },
+        {
+            "id": 94,
+            "properties": {
+                "Name": "The Peranakan Museum",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "The Peranakan Museum",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.849060000339,
+                    1.29431000015474
+                ]
+            }
+        },
+        {
+            "id": 95,
+            "properties": {
+                "Name": "National Archives Of Singapore",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "National Archives Of Singapore",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84851799964,
+                    1.29317199963023
+                ]
+            }
+        },
+        {
+            "id": 96,
+            "properties": {
+                "Name": "Armenian Church",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Armenian Church",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.849419000153,
+                    1.29309699959306
+                ]
+            }
+        },
+        {
+            "id": 97,
+            "properties": {
+                "Name": "Central Fire Station",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Central Fire Station",
+                "type": "#fire"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.849143999954,
+                    1.29216799980423
+                ]
+            }
+        },
+        {
+            "id": 98,
+            "properties": {
+                "Name": "St Andrew&apos;s Cathedral",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "St Andrew&apos;s Cathedral",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.852027999953,
+                    1.29208299964574
+                ]
+            }
+        },
+        {
+            "id": 99,
+            "properties": {
+                "Name": "Cathay Building",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Cathay Building",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847640999905,
+                    1.29930600010366
+                ]
+            }
+        },
+        {
+            "id": 100,
+            "properties": {
+                "Name": "MacDonald House",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "MacDonald House",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846039000112,
+                    1.29919700020857
+                ]
+            }
+        },
+        {
+            "id": 101,
+            "properties": {
+                "Name": "Istana Park",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Istana Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.843780999731,
+                    1.29925699984968
+                ]
+            }
+        },
+        {
+            "id": 102,
+            "properties": {
+                "Name": "Young Men&apos;s Christian Association (YMCA) Building",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Young Men&apos;s Christian Association (YMCA) Building",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.848174999604,
+                    1.29760300034113
+                ]
+            }
+        },
+        {
+            "id": 103,
+            "properties": {
+                "Name": "Keramat Iskandar Shah",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Keramat Iskandar Shah",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847267,
+                    1.2959439998629
+                ]
+            }
+        },
+        {
+            "id": 104,
+            "properties": {
+                "Name": "Spice Garden",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Spice Garden",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847289999697,
+                    1.29506400032407
+                ]
+            }
+        },
+        {
+            "id": 105,
+            "properties": {
+                "Name": "Hong San See Temple",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Hong San See Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.840857999622,
+                    1.29319400022912
+                ]
+            }
+        },
+        {
+            "id": 106,
+            "properties": {
+                "Name": "Fort Canning Centre",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Fort Canning Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846611000134,
+                    1.29591100042393
+                ]
+            }
+        },
+        {
+            "id": 107,
+            "properties": {
+                "Name": "Underground Far East Command Centre (The Battle Box)",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Underground Far East Command Centre (The Battle Box)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846229999564,
+                    1.29606199967511
+                ]
+            }
+        },
+        {
+            "id": 108,
+            "properties": {
+                "Name": "Look-out Point / Raffles&apos; House",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Look-out Point / Raffles&apos; House",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847107000214,
+                    1.29199599974038
+                ]
+            }
+        },
+        {
+            "id": 109,
+            "properties": {
+                "Name": "Gothic Gates",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Gothic Gates",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846542000226,
+                    1.29437800023492
+                ]
+            }
+        },
+        {
+            "id": 110,
+            "properties": {
+                "Name": "Christian Cemetary",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Christian Cemetary",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846526999949,
+                    1.2943780003135
+                ]
+            }
+        },
+        {
+            "id": 111,
+            "properties": {
+                "Name": "Cupolas",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Cupolas",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846542000226,
+                    1.29437800023492
+                ]
+            }
+        },
+        {
+            "id": 112,
+            "properties": {
+                "Name": "James Brooke Napier Memorial",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "James Brooke Napier Memorial",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846526999949,
+                    1.2943780003135
+                ]
+            }
+        },
+        {
+            "id": 113,
+            "properties": {
+                "Name": "Sally Port",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Sally Port",
+                "type": "#seaport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846526999893,
+                    1.29436699961984
+                ]
+            }
+        },
+        {
+            "id": 114,
+            "properties": {
+                "Name": "Fort Wall and Gate",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Fort Wall and Gate",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846519000221,
+                    1.29437800035537
+                ]
+            }
+        },
+        {
+            "id": 115,
+            "properties": {
+                "Name": "9 Pound Canon",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "9 Pound Canon",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846526999949,
+                    1.2943780003135
+                ]
+            }
+        },
+        {
+            "id": 116,
+            "properties": {
+                "Name": "Archaeological Excavation Site",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Archaeological Excavation Site",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846526999893,
+                    1.29436699961984
+                ]
+            }
+        },
+        {
+            "id": 117,
+            "properties": {
+                "Name": "House of Tan Yeok Nee",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "House of Tan Yeok Nee",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.843246000096,
+                    1.29884499964453
+                ]
+            }
+        },
+        {
+            "id": 118,
+            "properties": {
+                "Name": "Church of St Peter and St Paul",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Church of St Peter and St Paul",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850876000092,
+                    1.29736999958484
+                ]
+            }
+        },
+        {
+            "id": 119,
+            "properties": {
+                "Name": "Prinsep Street Presbyterian Church",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Prinsep Street Presbyterian Church",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851012999934,
+                    1.30172499969727
+                ]
+            }
+        },
+        {
+            "id": 120,
+            "properties": {
+                "Name": "Kempeitai East District Branch",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Kempeitai East District Branch",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.848328000059,
+                    1.2975950003266
+                ]
+            }
+        },
+        {
+            "id": 121,
+            "properties": {
+                "Name": "Sri Krishnan Temple",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Sri Krishnan Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85262300028,
+                    1.30064200018928
+                ]
+            }
+        },
+        {
+            "id": 122,
+            "properties": {
+                "Name": "Middle Road Church/Christian Institute",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Middle Road Church/Christian Institute",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85189099991,
+                    1.29970800040393
+                ]
+            }
+        },
+        {
+            "id": 123,
+            "properties": {
+                "Name": "The Boys&apos; Brigade in Singapore",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "The Boys&apos; Brigade in Singapore",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851035999783,
+                    1.30182199988889
+                ]
+            }
+        },
+        {
+            "id": 124,
+            "properties": {
+                "Name": "United Chinese Library",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "United Chinese Library",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.849288999563,
+                    1.29433499988046
+                ]
+            }
+        },
+        {
+            "id": 125,
+            "properties": {
+                "Name": "UE Square",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "UE Square",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.841903999837,
+                    1.29280099972324
+                ]
+            }
+        },
+        {
+            "id": 126,
+            "properties": {
+                "Name": "Civilian War Memorial",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Civilian War Memorial",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854614000398,
+                    1.29290800042469
+                ]
+            }
+        },
+        {
+            "id": 127,
+            "properties": {
+                "Name": "Raffles Hotel",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Raffles Hotel",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85417900044,
+                    1.29507500045063
+                ]
+            }
+        },
+        {
+            "id": 128,
+            "properties": {
+                "Name": "Hajjah Fatimah Mosque",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Hajjah Fatimah Mosque",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.862968000337,
+                    1.30281799963928
+                ]
+            }
+        },
+        {
+            "id": 129,
+            "properties": {
+                "Name": "Sultan Mosque",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Sultan Mosque",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.859122999668,
+                    1.30232300019875
+                ]
+            }
+        },
+        {
+            "id": 130,
+            "properties": {
+                "Name": "Church Of Our Lady Of Lourdes",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Church Of Our Lady Of Lourdes",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.856071000273,
+                    1.30314899962037
+                ]
+            }
+        },
+        {
+            "id": 131,
+            "properties": {
+                "Name": "Church of Our Lady of Lourdes",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Church of Our Lady of Lourdes",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.855666999562,
+                    1.30324800044499
+                ]
+            }
+        },
+        {
+            "id": 132,
+            "properties": {
+                "Name": "St Joseph&apos;s Church",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "St Joseph&apos;s Church",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853095999925,
+                    1.29845399993935
+                ]
+            }
+        },
+        {
+            "id": 133,
+            "properties": {
+                "Name": "Kwan Im Thong Hood Cho Temple",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Kwan Im Thong Hood Cho Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.852928000172,
+                    1.30069499992947
+                ]
+            }
+        },
+        {
+            "id": 134,
+            "properties": {
+                "Name": "The Singapore Armed Forces Warrant Officers and Specialists Club",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "The Singapore Armed Forces Warrant Officers and Specialists Club",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.856110000219,
+                    1.29516099967063
+                ]
+            }
+        },
+        {
+            "id": 135,
+            "properties": {
+                "Name": "Singapore Polytechnic",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Singapore Polytechnic",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.776450999729,
+                    1.31013399981381
+                ]
+            }
+        },
+        {
+            "id": 136,
+            "properties": {
+                "Name": "Former Tanglin Halt Industrial Estate",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Former Tanglin Halt Industrial Estate",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.79349499998,
+                    1.3053830004096
+                ]
+            }
+        },
+        {
+            "id": 137,
+            "properties": {
+                "Name": "Queenstown Lutheran Church",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Queenstown Lutheran Church",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.79914900008,
+                    1.30618700007143
+                ]
+            }
+        },
+        {
+            "id": 138,
+            "properties": {
+                "Name": "Block 115 The First Flatted Factory in Singapore",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Block 115 The First Flatted Factory in Singapore",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.797858999759,
+                    1.30454599987096
+                ]
+            }
+        },
+        {
+            "id": 139,
+            "properties": {
+                "Name": "Commonwealth Heights",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Commonwealth Heights",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.800385000392,
+                    1.30416000006266
+                ]
+            }
+        },
+        {
+            "id": 140,
+            "properties": {
+                "Name": "St. George&apos;s Church",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "St. George&apos;s Church",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.815056000098,
+                    1.30483300036462
+                ]
+            }
+        },
+        {
+            "id": 141,
+            "properties": {
+                "Name": "The Old Tanglin Officers Mess",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "The Old Tanglin Officers Mess",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.818268000128,
+                    1.30449200031192
+                ]
+            }
+        },
+        {
+            "id": 142,
+            "properties": {
+                "Name": "Goodwood Park Hotel",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Goodwood Park Hotel",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.834396000206,
+                    1.30837000043125
+                ]
+            }
+        },
+        {
+            "id": 143,
+            "properties": {
+                "Name": "Sri Veeramakaliamman Temple",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Sri Veeramakaliamman Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.852218999945,
+                    1.30738799978484
+                ]
+            }
+        },
+        {
+            "id": 144,
+            "properties": {
+                "Name": "Shree Lakshminarayan Temple",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Shree Lakshminarayan Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850776999702,
+                    1.30760600016069
+                ]
+            }
+        },
+        {
+            "id": 145,
+            "properties": {
+                "Name": "Little India Arcade",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Little India Arcade",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851616000316,
+                    1.30557600015215
+                ]
+            }
+        },
+        {
+            "id": 146,
+            "properties": {
+                "Name": "Tekka Market",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Tekka Market",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850487000399,
+                    1.30638000015038
+                ]
+            }
+        },
+        {
+            "id": 147,
+            "properties": {
+                "Name": "Former Kerdang Kerbau Hospital",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Former Kerdang Kerbau Hospital",
+                "type": "#hospital"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846793999938,
+                    1.31058500038499
+                ]
+            }
+        },
+        {
+            "id": 148,
+            "properties": {
+                "Name": "Sri Srinivasa Perumal Temple",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Sri Srinivasa Perumal Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85649900014,
+                    1.31352400011211
+                ]
+            }
+        },
+        {
+            "id": 149,
+            "properties": {
+                "Name": "Sakya Muni Buddha Gaya Temple",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Sakya Muni Buddha Gaya Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.856856999855,
+                    1.31472200042496
+                ]
+            }
+        },
+        {
+            "id": 150,
+            "properties": {
+                "Name": "Leong San See Buddhist Temple",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Leong San See Buddhist Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.856850000299,
+                    1.31512200005761
+                ]
+            }
+        },
+        {
+            "id": 151,
+            "properties": {
+                "Name": "Kampong Kapor Methodist Church",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Kampong Kapor Methodist Church",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853866999782,
+                    1.30702900010607
+                ]
+            }
+        },
+        {
+            "id": 152,
+            "properties": {
+                "Name": "Abdul Gafoor Mosque",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Abdul Gafoor Mosque",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853737000034,
+                    1.30450300022274
+                ]
+            }
+        },
+        {
+            "id": 153,
+            "properties": {
+                "Name": "Jalan Besar Stadium",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Jalan Besar Stadium",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.860336000007,
+                    1.31002399974814
+                ]
+            }
+        },
+        {
+            "id": 154,
+            "properties": {
+                "Name": "Holy Trinity Church",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Holy Trinity Church",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.860382000198,
+                    1.31127099959437
+                ]
+            }
+        },
+        {
+            "id": 155,
+            "properties": {
+                "Name": "Farrer Park",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Farrer Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854125999907,
+                    1.31249400042367
+                ]
+            }
+        },
+        {
+            "id": 156,
+            "properties": {
+                "Name": "Kallang Airport",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Kallang Airport",
+                "type": "#airport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.873520000209,
+                    1.30867500018705
+                ]
+            }
+        },
+        {
+            "id": 157,
+            "properties": {
+                "Name": "Singapore Badminton Hall",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Singapore Badminton Hall",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.881972999586,
+                    1.30992000019178
+                ]
+            }
+        },
+        {
+            "id": 158,
+            "properties": {
+                "Name": "Sri Senpaga Vinayagar Temple",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Sri Senpaga Vinayagar Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.902397000279,
+                    1.3055430003492
+                ]
+            }
+        },
+        {
+            "id": 159,
+            "properties": {
+                "Name": "Placemark 202",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Placemark 202",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.800804000032,
+                    1.32717000040453
+                ]
+            }
+        },
+        {
+            "id": 160,
+            "properties": {
+                "Name": "Goh Chor Tua Pek Kong Temple",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Goh Chor Tua Pek Kong Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.852554,
+                    1.32171799961073
+                ]
+            }
+        },
+        {
+            "id": 161,
+            "properties": {
+                "Name": "Balestier Point",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Balestier Point",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.852493000309,
+                    1.32258499994888
+                ]
+            }
+        },
+        {
+            "id": 162,
+            "properties": {
+                "Name": "Sim Kwong Ho Shophouse I",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Sim Kwong Ho Shophouse I",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.852546999629,
+                    1.3232699996316
+                ]
+            }
+        },
+        {
+            "id": 163,
+            "properties": {
+                "Name": "Sun Yat Sen Nanyang Memorial Hall",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Sun Yat Sen Nanyang Memorial Hall",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847167999715,
+                    1.32806800003462
+                ]
+            }
+        },
+        {
+            "id": 164,
+            "properties": {
+                "Name": "Maha Sasana Ramsi Burmese Buddhist Temple",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Maha Sasana Ramsi Burmese Buddhist Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846916000438,
+                    1.32831999991606
+                ]
+            }
+        },
+        {
+            "id": 165,
+            "properties": {
+                "Name": "Water Kiosk",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Water Kiosk",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.849091000409,
+                    1.32628800001468
+                ]
+            }
+        },
+        {
+            "id": 166,
+            "properties": {
+                "Name": "Sim Kwong Ho Shophouse II",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Sim Kwong Ho Shophouse II",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84966299986,
+                    1.32580199980357
+                ]
+            }
+        },
+        {
+            "id": 167,
+            "properties": {
+                "Name": "Novena Church",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Novena Church",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.842864999862,
+                    1.32183699989461
+                ]
+            }
+        },
+        {
+            "id": 168,
+            "properties": {
+                "Name": "Tan Tock Seng Hospital",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Tan Tock Seng Hospital",
+                "type": "#hospital"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846153000256,
+                    1.32233999984092
+                ]
+            }
+        },
+        {
+            "id": 169,
+            "properties": {
+                "Name": "Art Deco Shophouses",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Art Deco Shophouses",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853096000276,
+                    1.32177799992075
+                ]
+            }
+        },
+        {
+            "id": 170,
+            "properties": {
+                "Name": "Masjid Hajjah Rahimabi Kebun Limau",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Masjid Hajjah Rahimabi Kebun Limau",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854979999795,
+                    1.32618000033406
+                ]
+            }
+        },
+        {
+            "id": 171,
+            "properties": {
+                "Name": "Geylang Serai",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Geylang Serai",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89695699962,
+                    1.31659100029027
+                ]
+            }
+        },
+        {
+            "id": 172,
+            "properties": {
+                "Name": "Bukit Timah Food Centre",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Bukit Timah Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.776123000225,
+                    1.33942699978969
+                ]
+            }
+        },
+        {
+            "id": 173,
+            "properties": {
+                "Name": "Bukit Timah Village",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Bukit Timah Village",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.774506000215,
+                    1.33967400006038
+                ]
+            }
+        },
+        {
+            "id": 174,
+            "properties": {
+                "Name": "Syonan Jinja",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Syonan Jinja",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.818206999691,
+                    1.33555500035143
+                ]
+            }
+        },
+        {
+            "id": 175,
+            "properties": {
+                "Name": "7 Adam Park",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "7 Adam Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.813721000123,
+                    1.32948400022378
+                ]
+            }
+        },
+        {
+            "id": 176,
+            "properties": {
+                "Name": "Sime Road",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Sime Road",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.818207000064,
+                    1.33564099999031
+                ]
+            }
+        },
+        {
+            "id": 177,
+            "properties": {
+                "Name": "Lian Shan Shuang Lin Monastery",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Lian Shan Shuang Lin Monastery",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.857306999834,
+                    1.33014999971842
+                ]
+            }
+        },
+        {
+            "id": 178,
+            "properties": {
+                "Name": "Siong Lim Temple",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Siong Lim Temple",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.857306999834,
+                    1.33014999971842
+                ]
+            }
+        },
+        {
+            "id": 179,
+            "properties": {
+                "Name": "The Old Nanyang University Library and Administration Building, Memorial and Arch",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "The Old Nanyang University Library and Administration Building, Memorial and Arch",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.683998000158,
+                    1.34379199989386
+                ]
+            }
+        },
+        {
+            "id": 180,
+            "properties": {
+                "Name": "Bukit Batok Memorial",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Bukit Batok Memorial",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.768012999842,
+                    1.35061400037601
+                ]
+            }
+        },
+        {
+            "id": 181,
+            "properties": {
+                "Name": "Former Bukit Timah Fire Station",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Former Bukit Timah Fire Station",
+                "type": "#fire"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.77106499968,
+                    1.3493700000262
+                ]
+            }
+        },
+        {
+            "id": 182,
+            "properties": {
+                "Name": "Beauty World Amusement Park and Market",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Beauty World Amusement Park and Market",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.776192000416,
+                    1.3417969995541
+                ]
+            }
+        },
+        {
+            "id": 183,
+            "properties": {
+                "Name": "Bukit Timah Battle Site",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Bukit Timah Battle Site",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.777435000315,
+                    1.34874800029834
+                ]
+            }
+        },
+        {
+            "id": 184,
+            "properties": {
+                "Name": "Hindhede Nature Park",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Hindhede Nature Park",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.77574200004,
+                    1.34999200005268
+                ]
+            }
+        },
+        {
+            "id": 185,
+            "properties": {
+                "Name": "Macritchie Reservoir",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Macritchie Reservoir",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.830756999997,
+                    1.34437099998474
+                ]
+            }
+        },
+        {
+            "id": 186,
+            "properties": {
+                "Name": "Raffles Institution",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Raffles Institution",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84598499988,
+                    1.34613899996362
+                ]
+            }
+        },
+        {
+            "id": 187,
+            "properties": {
+                "Name": "Jurong-Kranji Defence Line",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Jurong-Kranji Defence Line",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.716690000237,
+                    1.35363900010007
+                ]
+            }
+        },
+        {
+            "id": 188,
+            "properties": {
+                "Name": "Memories at Old Ford Factory (MOFF)",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Memories at Old Ford Factory (MOFF)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.768829000008,
+                    1.35363899998962
+                ]
+            }
+        },
+        {
+            "id": 189,
+            "properties": {
+                "Name": "Trinity Theological College",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Trinity Theological College",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.768936000372,
+                    1.36137199980253
+                ]
+            }
+        },
+        {
+            "id": 190,
+            "properties": {
+                "Name": "Bukit Timah Hill",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Bukit Timah Hill",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.773506000112,
+                    1.35299500010266
+                ]
+            }
+        },
+        {
+            "id": 191,
+            "properties": {
+                "Name": "Bukit Timah Nature Reserve",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Bukit Timah Nature Reserve",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.776466000271,
+                    1.35402500030423
+                ]
+            }
+        },
+        {
+            "id": 192,
+            "properties": {
+                "Name": "Changi Murals",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Changi Murals",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.973846000171,
+                    1.36220800007995
+                ]
+            }
+        },
+        {
+            "id": 193,
+            "properties": {
+                "Name": "Lower Peirce Reservoir",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Lower Peirce Reservoir",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.823073999782,
+                    1.37002800025843
+                ]
+            }
+        },
+        {
+            "id": 194,
+            "properties": {
+                "Name": "Church of the Nativity of the Blessed Virgin Mary",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Church of the Nativity of the Blessed Virgin Mary",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.897681999677,
+                    1.37384600037654
+                ]
+            }
+        },
+        {
+            "id": 195,
+            "properties": {
+                "Name": "Changi Beach",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Changi Beach",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.993164000148,
+                    1.39089500008516
+                ]
+            }
+        },
+        {
+            "id": 196,
+            "properties": {
+                "Name": "Upper Seletar Reservoir",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Upper Seletar Reservoir",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.801315000396,
+                    1.40241899989402
+                ]
+            }
+        },
+        {
+            "id": 197,
+            "properties": {
+                "Name": "Punggol Beach",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Punggol Beach",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.909660000152,
+                    1.42102800008449
+                ]
+            }
+        },
+        {
+            "id": 198,
+            "properties": {
+                "Name": "Sarimbun Beach Landing",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Sarimbun Beach Landing",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.698967000098,
+                    1.43287999999514
+                ]
+            }
+        },
+        {
+            "id": 199,
+            "properties": {
+                "Name": "Kranji Beach Battle",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Kranji Beach Battle",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.735228999834,
+                    1.44040900007844
+                ]
+            }
+        },
+        {
+            "id": 200,
+            "properties": {
+                "Name": "Old Admiralty House (Now a part of Karimun Country Club)",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Old Admiralty House (Now a part of Karimun Country Club)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.824104000308,
+                    1.44793800032856
+                ]
+            }
+        },
+        {
+            "id": 201,
+            "properties": {
+                "Name": "Sentosa Beach",
+                "PostalCode": "",
+                "desc": "Singapore",
+                "Address": "Singapore",
+                "name": "Sentosa Beach",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.833206000137,
+                    1.25296400030578
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

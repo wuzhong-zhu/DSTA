@@ -1,0 +1,83 @@
+{
+    "ReturnCode": "0",
+    "Cases": [
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170124-089622",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 32840.8633,
+            "IncidentStreetName": null,
+            "IncidentXCoordinate": 40073.6016,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-24T03:47:09"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170123-089383",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 47860.8876,
+            "IncidentStreetName": null,
+            "IncidentXCoordinate": 24442.0353,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-23T08:21:17"
+        },
+        {
+            "IncidentPostalCode": "471748",
+            "MobileCaseID": "M170121-089020",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 35400.1172,
+            "IncidentStreetName": "BEDOK RESERVOIR CRESCENT",
+            "IncidentXCoordinate": 37757.2695,
+            "IncidentBlockNo": "748A",
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-21T19:05:49"
+        },
+        {
+            "IncidentPostalCode": "787066",
+            "MobileCaseID": "M170120-088805",
+            "HasAttachment": true,
+            "IncidentYCoordinate": 40553.5053,
+            "IncidentStreetName": "YIO CHU KANG ROAD",
+            "IncidentXCoordinate": 28411.9602,
+            "IncidentBlockNo": "511",
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-20T23:37:56"
+        },
+        {
+            "IncidentPostalCode": null,
+            "MobileCaseID": "M170119-088583",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 40173.2814,
+            "IncidentStreetName": "BANGKIT ROAD",
+            "IncidentXCoordinate": 21293.2169,
+            "IncidentBlockNo": null,
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-19T23:03:19"
+        },
+        {
+            "IncidentPostalCode": "310013",
+            "MobileCaseID": "M170119-088533",
+            "HasAttachment": false,
+            "IncidentYCoordinate": 35384.9531,
+            "IncidentStreetName": "LORONG 7 TOA PAYOH",
+            "IncidentXCoordinate": 30861.0742,
+            "IncidentBlockNo": "13",
+            "MobileCategory": "Construction Sites",
+            "MobileSubCategory": "Construction Noise",
+            "Subject": "Construction Sites - Construction Noise",
+            "CreatedDateTime": "2017-01-19T18:54:22"
+        }
+    ]
+}
